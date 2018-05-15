@@ -17,5 +17,5 @@
 ##### Note: I used YAML configuration file for constructing dictionaries. Install into the current virtualenv by the following command<br>
 > pip3 install yaml
 
-As described before, dictionary is no more than a list of word that the polarity of tokens. For instance, positive.yml, negative.yml and so on. 
+As described before, dictionary is no more than a list of word that indicates the class of tokens. For instance, positive.yml, negative.yml and so on. 
 ### 3. Tagging the text with dictionaries
