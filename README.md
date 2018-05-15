@@ -8,4 +8,8 @@
    *   Second Feature: A word Lemma (e.g: am/is/are:be)
    *   Third Feature: A list of associated tags
 ## Steps:
-### Preprocessing the input text
+### 1.Preprocessing the input text
+*   Sentence Splitting
+*   Sentence Tokenization
+*   POS-Tagging
+### 
