@@ -8,6 +8,7 @@ class PreProcess(object):
         self.tokenizer = nltk.tokenize.TreebankWordTokenizer()
 
     def split(self, txt):
+        # Spliting and finding sentences
         sentences = self.sentence_splitter.tokenize(txt)
         # The following line says: tokenize each of the sentences
         # Deeply it means iterate each sentence and make its words into tokens
@@ -15,6 +16,18 @@ class PreProcess(object):
         tokenized_sentences = [self.tokenizer.tokenize(s) for s in sentences]
         return tokenized_sentences
 
+    def pos_tagger(self, sentences):
+        # POS tagger will attach the associated POS to the tokens
+        pos = [nltk.pos_tag(s) for s in sentences]
+        return pos
+
+    def adjust(self, pos):
+        # Adjust with the defined text structure
+        adjust = [[(word, word, [postag]) for (word, postag) in i] for i in pos]
+        return adjust
+
 
 pre = PreProcess()
-print(pre.split(InputTxt.text))
+tokenized = pre.split(InputTxt.text)
+pos = pre.pos_tagger(tokenized)
+print(pre.adjust(pos))
