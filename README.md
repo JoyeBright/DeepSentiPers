@@ -15,6 +15,7 @@
 ##### Note: In this stage, we have the list of tokens with their associated Part of Speech. Then we have to adjust it with the defined <i>text structure</i>. Mapping has been implemented by using <i>adjust</i> method as a sub method of <i>PreProcess</i> Class.
 ### 2. Defining A Dictionary 
 ##### Note: I used YAML configuration file for constructing dictionaries. Install into the current virtualenv by the following command<br>
-> pip3 install yaml<br>
+> pip3 install yaml
+
 As described before, dictionary is no more than a list of word that the polarity of tokens. For instance, positive.yml, negative.yml and so on. 
 ### 3. Tagging the text with dictionaries
