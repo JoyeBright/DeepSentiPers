@@ -8,4 +8,4 @@
    *   Second Feature: A word Lemma (e.g: am/is/are:be)
    *   Third Feature: A list of associated tags
 ## Steps:
-*  Preprocessing the input text
+### Preprocessing the input text
