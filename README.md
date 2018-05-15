@@ -16,6 +16,9 @@
 ### 2. Defining Dictionaries 
 ##### Note: I used YAML configuration file for constructing dictionaries. Install into the current virtualenv by the following command<br>
 > pip3 install yaml
-
+##### Note: You can also use some pre-defined corpus like <i>SentiWordNet</i>
 As described before, dictionary is no more than a list of word that indicates the class of tokens. For instance, positive.yml, negative.yml and so on. 
+
 ### 3. Tagging the text with dictionaries
+*   Loading dictionaries
+* 
