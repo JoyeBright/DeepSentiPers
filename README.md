@@ -12,4 +12,5 @@
 *   Sentence Splitting
 *   Sentence Tokenization
 *   POS-Tagging
+##### Note: In this stage, we have the list of tokens with their associated Part of Speech. Then we have to adjust it the defined <i>text structure</i>.
 ### 
