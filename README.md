@@ -8,9 +8,9 @@
    *   Second Feature: A word Lemma (e.g: am/is/are:be)
    *   Third Feature: A list of associated tags
 ## Steps:
-### 1.Preprocessing the input text
+### 1. Preprocessing the input text
 *   Sentence Splitting
 *   Sentence Tokenization
 *   POS-Tagging
-##### Note: In this stage, we have the list of tokens with their associated Part of Speech. Then we have to adjust it with the defined <i>text structure</i>.Mapping has been implemented by using <i>adjust</i> method as a sub method of <i>PreProcess</i> Class
-### 
+##### Note: In this stage, we have the list of tokens with their associated Part of Speech. Then we have to adjust it with the defined <i>text structure</i>. Mapping has been implemented by using <i>adjust</i> method as a sub method of <i>PreProcess</i> Class.
+### 2. Defining A Dictionary
