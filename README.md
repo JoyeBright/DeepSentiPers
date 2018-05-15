@@ -5,5 +5,5 @@
 ### Text Structure:
 *   Each input txt is a list of sentences, each sentence is a list of tokens and each token is a row/tuple consists of <i>three</i> features:
    *   First Feature: Exact word
-   *   Second Feature: A word Lemma (e.g: am/is/are: be)
+   *   Second Feature: A word Lemma (e.g: am/is/are:be)
    *   Third Feature: A list of associated tags
