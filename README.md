@@ -22,3 +22,4 @@ As described before, dictionary is no more than a list of word that indicates th
 ### 3. Tagging the text with dictionaries
 *   Loading dictionaries
 * 
+### 4. Design A SA Score Mechanism
