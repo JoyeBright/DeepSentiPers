@@ -29,5 +29,6 @@ As described before, dictionary is no more than a list of word that indicates th
 ##### Note: Then we will find the corresponded tags through the sentences with the following priorities:
     1. Longest matches have higher priority
     2. Search from left to right
+##### Note: Apply the finiding process in each one the sentence. Afterward if the sentence string does not match with the dictionary words then try to make the sentence into the smaller chunks up to matching with the dictionary tagged words. It was the reason of finding words with the highest matches.
     
 ### 4. Design SA Score Mechanism
