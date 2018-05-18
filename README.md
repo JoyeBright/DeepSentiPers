@@ -25,6 +25,6 @@ As described before, dictionary is no more than a list of word that indicates th
 *   Closing Dictionaries Files
 *   Creating A Tagged Dictionary Based on Seperate Loaded Dictionaries.yml
 ##### Note: This part of the code has been implemented in initialization scope of the <i>DictionaryTagger</i> Class.
-##### Note: Also It is compulsory to get the maximum length of the key. why?
+##### Note: Also It is compulsory to get the maximum length of the key (Loaded dictionaries entities). why?
 
 ### 4. Design SA Score Mechanism
