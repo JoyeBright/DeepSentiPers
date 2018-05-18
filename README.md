@@ -40,7 +40,7 @@ As described before, the dictionary is no more than a list of word that indicate
 ##### Note: Apply the finding process in each one the sentence. Afterward, if the sentence string does not match with the dictionary words then try to make the sentence into the smaller chunks up to matching with the dictionary tagged words. It was the reason for finding words with the highest matches.
     
 ### 4. Design SA Score Mechanism
-#### Note: Finally, we have a list of words which distinguished based on their polarities. These positive polarities have one score and negative one has minus one score. Then we accumulate all of the scores and detect what is the final consequence.
+#### Note: Finally, we have a list of words which distinguished based on their polarities. These positive polarities have one score and negative ones have minus one score. Then we accumulate all of the scores and detect what is the final consequence.
 
 
 :rocket: Tip: For more accurate SA system, it is needed to add more dictionaries which support wide lexicon.
