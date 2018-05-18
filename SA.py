@@ -1,6 +1,7 @@
 import nltk
 import InputTxt
 import yaml
+import pdb
 
 
 class PreProcess(object):
@@ -27,6 +28,7 @@ class PreProcess(object):
         adjust = [[(word, word, [postag]) for (word, postag) in i] for i in pos]
         return adjust
 
+
 class DictionaryTagger(object):
     def __init__(self, dictionaries_path):
         # Open the path of Dictionary folder
@@ -34,6 +36,7 @@ class DictionaryTagger(object):
         # load each of one dictionary into the solo dictionaries
         dictionaries = [yaml.load(dictionary_file) for dictionary_file in files]
         # Close all of the open files
+        # print("#debug of Dictionaries: ", dictionaries)
         map(lambda z: z.close(), files)
         self.dictionary = {}
         self.max_key_size = 0
@@ -44,12 +47,15 @@ class DictionaryTagger(object):
                 else:
                     self.dictionary[key] = current_dict[key]
                     self.max_key_size = max(self.max_key_size, len(key))
+        # print("#debug of discovered dictionary:", self.dictionary)
+        # print("#debug of max length of keys: ", len(key))
 
     def tag(self, pos):
         return [self.tag_sentence(sentence) for sentence in pos]
 
     def tag_sentence(self, sentence, tag_lemma=False):
         tag_sentence = []
+        # N returns num of items in the list
         N = len(sentence)
         if self.max_key_size == 0:
             self.max_key_size = N
@@ -104,6 +110,7 @@ POS = pre.pos_tagger(SplittedSentences)
 Adjust = pre.adjust(POS)
 DicTagger = DictionaryTagger(['Dictionary/positive.yml', 'Dictionary/negative.yml'])
 dict_tagged_sentences = DicTagger.tag(Adjust)
+pdb.set_trace()
 SentimentScore = SaScore()
 Score = SentimentScore.sa_score(dict_tagged_sentences)
 
@@ -111,7 +118,7 @@ Score = SentimentScore.sa_score(dict_tagged_sentences)
 # print(SplittedSentences)
 # print(POS)
 # print(Adjust)
-print(dict_tagged_sentences)
+# print(dict_tagged_sentences)
 
 print("..... Sentiment Analysing .....")
 print(Score)
