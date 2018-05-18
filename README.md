@@ -23,8 +23,11 @@ As described before, dictionary is no more than a list of word that indicates th
 *   Opening Dictionaries Files
 *   Loading Dictionaries Files
 *   Closing Dictionaries Files
-*   Creating A Tagged Dictionary Based on Seperate Loaded Dictionaries.yml
+*   Creating A Tagged Dictionary List Based on Seperate Loaded Dictionaries.yml
 ##### Note: This part of the code has been implemented in initialization scope of the <i>DictionaryTagger</i> Class.
 ##### Note: Also It is compulsory to get the maximum length of all the keys (dictionaries entities). why?
+##### Note: Then we will find the corresponded tags through the sentences with priorities:
+    *   1. Search from left to right
+    *   2. Longest matches have higher priority
 
 ### 4. Design SA Score Mechanism
