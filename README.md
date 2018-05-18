@@ -19,7 +19,7 @@
 ##### Note: You can also use some pre-defined corpora like <i>SentiWordNet</i>
 As described before, dictionary is no more than a list of word that indicates the class of tokens. For instance, positive.yml, negative.yml and so on. 
 
-### 3. Tagging the text with dictionaries
+### 3. Tagging the Input text with dictionaries
 *   Opening Dictionaries Files
 *   Loading Dictionaries Files
 *   Closing Dictionaries Files
@@ -27,7 +27,7 @@ As described before, dictionary is no more than a list of word that indicates th
 ##### Note: This part of the code has been implemented in initialization scope of the <i>DictionaryTagger</i> Class.
 ##### Note: Also It is compulsory to get the maximum length of all the keys (dictionaries entities). why?
 ##### Note: Then we will find the corresponded tags through the sentences with the following priorities:
-     1. Search from left to right
-     2. Longest matches have higher priority
+    1. Search from left to right
+    2. Longest matches have higher priority
 
 ### 4. Design SA Score Mechanism
