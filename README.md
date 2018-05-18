@@ -24,6 +24,6 @@ As described before, dictionary is no more than a list of word that indicates th
 *   Loading Dictionaries Files
 *   Closing Dictionaries Files
 *   Creating A Tagged Dictionary Based on Seperate Loaded Dictionaries.yml
-##### Note: This part of the code has been implemented in the initialization scope of <i>DictionaryTagger</i> Class
+##### Note: This part of the code has been implemented in initialization scope of the <i>DictionaryTagger</i> Class
 
 ### 4. Design SA Score Mechanism
