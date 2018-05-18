@@ -1,7 +1,6 @@
 import nltk
 import InputTxt
 import yaml
-import pdb
 
 
 class PreProcess(object):
@@ -110,7 +109,6 @@ POS = pre.pos_tagger(SplittedSentences)
 Adjust = pre.adjust(POS)
 DicTagger = DictionaryTagger(['Dictionary/positive.yml', 'Dictionary/negative.yml'])
 dict_tagged_sentences = DicTagger.tag(Adjust)
-pdb.set_trace()
 SentimentScore = SaScore()
 Score = SentimentScore.sa_score(dict_tagged_sentences)
 
