@@ -20,6 +20,9 @@
 As described before, dictionary is no more than a list of word that indicates the class of tokens. For instance, positive.yml, negative.yml and so on. 
 
 ### 3. Tagging the text with dictionaries
-*   Loading dictionaries
-* 
+*   Opening Dictionaries Files
+*   Loading Dictionaries Files
+*   Closing Dictionaries Files
+*   Creating A Tagged Dictionary Based on Seperate Loaded Dictionaries.yml
+
 ### 4. Design SA Score Mechanism
