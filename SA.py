@@ -113,10 +113,10 @@ SentimentScore = SaScore()
 Score = SentimentScore.sa_score(dict_tagged_sentences)
 
 
-# print(SplittedSentences)
-# print(POS)
-# print(Adjust)
-# print(dict_tagged_sentences)
+print(SplittedSentences)
+print(POS)
+print(Adjust)
+print(dict_tagged_sentences)
 
 print("..... Sentiment Analysing .....")
 print(Score)
