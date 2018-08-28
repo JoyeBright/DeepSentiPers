@@ -1,4 +1,6 @@
 import nltk
+nltk.download()
+
 import InputTxt
 import yaml
 
