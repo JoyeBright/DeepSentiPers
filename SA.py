@@ -1,6 +1,4 @@
 import nltk
-nltk.download()
-
 import InputTxt
 import yaml
 
@@ -114,11 +112,14 @@ dict_tagged_sentences = DicTagger.tag(Adjust)
 SentimentScore = SaScore()
 Score = SentimentScore.sa_score(dict_tagged_sentences)
 
-
+print("Splitting the Sentences ......")
 print(SplittedSentences)
+print("Part of Speech ......")
 print(POS)
+print("Adjust with the Text Structure ......")
 print(Adjust)
+print("Tagging the tokens with Dictionaries ......")
 print(dict_tagged_sentences)
 
 print("..... Sentiment Analysing .....")
-print(Score)
+print("AVG:", Score)
