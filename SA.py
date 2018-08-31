@@ -1,6 +1,7 @@
 import nltk
 import InputTxt
 import yaml
+from nltk.corpus import sentiwordnet as swn
 
 
 class PreProcess(object):
@@ -118,8 +119,14 @@ print("Part of Speech ......")
 print(POS)
 print("Adjust with the Text Structure ......")
 print(Adjust)
-print("Tagging the tokens with Dictionaries ......")
-print(dict_tagged_sentences)
+Option = input("Select the mode of tagging tokens:\n 1.Customized Dictionaries\n 2.SentiWordNet3.0\n 3.SentiPers\n")
+if Option == "1":
+    print("Tagging the tokens with Dictionaries ......")
+    print(dict_tagged_sentences)
+if Option == "2":
+    print("Tagging the tokens with SentiWordNet")
+if Option == "3":
+    print("Tagging the tokens with Sentipers")
 
 print("..... Sentiment Analysing .....")
 print("AVG:", Score)
