@@ -1,5 +1,6 @@
-text = """What can I say about this place. The staff of the restaurant is 
-    nice and the eggplant is not bad. Apart from that, very uninspired food, 
-    lack of atmosphere and too expensive. I am a staunch vegetarian and was 
-    sorely disappointed with the veggie options on the menu. Will be the last 
-    time I visit, I recommend others to avoid."""
+text = "This toy does not look like the picture at all." \
+       " The bread, tomato, and lettuce were all hard. " \
+       "The only parts that are a bit realistic are the cheese and meats." \
+       " This toy came with only one tomato and one lettuce." \
+       " That's not enough objects to make multiple full sandwiches." \
+       " I would recommend not buying this toy if you want your money's worth."
