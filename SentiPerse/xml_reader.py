@@ -1,15 +1,15 @@
 from xml.etree import ElementTree
 import os
 
-main_review_sentences = {}  # A dictionary that contains senteces of main review
-all_general_review = {}     # A dictionary that contains all general reviews and their senteces
-all_critical_review = {}   # A dictionary that contains all critical reviews and their senteces
+main_review_sentences = {}  # A dictionary that contains sentences of main review
+all_general_review = {}     # A dictionary that contains all general reviews and their sentences
+all_critical_review = {}   # A dictionary that contains all critical reviews and their sentences
 post_counter = 1
 last_target = None
 
 
 def parser(file_name):
-    print(file_name)
+    # print(file_name)
     full_path = os.path.abspath(os.path.join('Data', file_name))
     tree = ElementTree.parse(full_path)
 
