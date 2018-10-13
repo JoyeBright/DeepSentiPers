@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Sony HDR-XR260" Type="Camcorder">
+  <Accessories>
+    <Accessory Name="کيف دوربين Case Logic DCB-303" Price="37000" />
+    <Accessory Name="کابل HDMI دوربين عکاسي و فيلمبرداري" Price="14000" />
+    <Accessory Name="کيت تميز کننده Soyntec Clean See 300" Price="17000" />
+    <Accessory Name="کيف دوربين Case Logic SLMC-202" Price="63000" />
+    <Accessory Name="کيف دوربين Case Logic TBC-305" Price="55000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/05/02</Feature>
+    <Feature Name="نوع دوربین ">هارد دیسکی HDD</Feature>
+    <Feature Name="نوع ذخیره سازی ">هارد دیسک 160 گیگابایتی</Feature>
+    <Feature Name="ابعاد ">128 × 66 × 59.5 mm</Feature>
+    <Feature Name="وزن ">با باتری 405 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="نوع حسگر ">Exmor R CMOS</Feature>
+    <Feature Name="دقت حسگر ">5.3 مگاپیکسل</Feature>
+    <Feature Name="دقت مؤثر حسگر ">2.1 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/3.91 اینچ اینچ</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک - Outdoor - Indoor - قابل تنظیم از طریق صفحه نمایش لمسی ((One Push (Via Touch Panel)</Feature>
+    <Feature Name="رزولوشن فیلم ">Full HD</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD در ابعاد 1080 × 1920 پیکسل - قابلیت فیلم‌برداری با کیفیت HD در ابعاد 1080 × 1440 پیکسل و قابلیت فیلم‌برداری در ابعاد 480 × 720 پیکسل</Feature>
+    <Feature Name="نور فیلم برداری (پرژکتور) ">خیر</Feature>
+    <Feature Name="فرمت فیلم ">HD: MPEG4-AVC/H.264 AVCHD 2.0 format compatible (1080/60p:original format); STD: MPEG2-PS</Feature>
+    <Feature Name="صدا ">دالبی دیجیتال 5.1 کاناله (Dolby® Digital 5.1ch, Dolby® Digital 5.1Creator; Dolby® Digital 2ch Stereo, Dolby® Digital Stereo Creator)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="قابلیت عکسبرداری ">بلی</Feature>
+    <Feature Name="رزولوشن عکس ">قابلیت عکاسی در ابعاد 2240 × 3984 پیکسل و با کیفیت 8.9 مگاپیکسل - قابلیت عکاسی در ابعاد 2240 × 2992 پیکسل و با کیفیت 6.7 مگاپیکسل</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/10000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1/8 ثانیه</Feature>
+    <Feature Name="حالت های تصویر برداری ">اتوماتیکمنظره شبغروب آفتابطلوع آفتابآتش بازیمنظرهپرترهنورافکنساحلبرفی</Feature>
+    <Feature Name="شرکت سازنده لنز ">لنز سری G سونی</Feature>
+    <Feature Name="فاصله کانونی ">29.8-894 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F3.4-1.8</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">30 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">350 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر تصویر ">لرزشگیر اپتیکال SteadyShot با حالت فعال ((Optical SteadyShot™ Image Stabilization w/ Active mode (Wide to Tele)</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش لمسی، عریض و چرخان از نوع Clear Photo LCD با قابلیت باز شدن تا 90 درجه و چرخش تا 270 درجه</Feature>
+    <Feature Name="سایز صفحه نمایش ">3.0 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">230,000 پیکسل</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="ورودی میکروفون ">خیر</Feature>
+    <Feature Name="خروجی هدفون ">خیر</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="فلاش ">خیر</Feature>
+    <Feature Name="فیلمبرداری در شب ">بلی</Feature>
+    <Feature Name="حداقل نور ">3 لوکس</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="کارت حافظه ">Memory Stick Pro Duo</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="بلندگوی داخلی ">بلی</Feature>
+    <Feature Name="باتری ">NP-FV50 باتری لیتیومی قابل شارژ مدل</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="سایر مشخصات ">قابلیت پشتیبانی از کارت‌های حافظه‌ی Memory Stick PRO Duo, SD, SDHC, SDXCTracking Focus follows selected Back-illuminated Exmor® R CMOS sensor for superb low-light videoWide Angle G lens to capture more of what you wantTracking Focus follows selected subjects in/out of the frameEvent Browse groups photos/videos for you for easy referenceExpanded recording/monitoring with mic/headphone jackClear Phase stereo speakers for true and dynamic soundHighlight Playback creates movies with transitions for youGeotagging with built-in GPS receiver &amp; NAVTEQ® mapsDirect Copy to external HDD without PC</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری لیتیومی قابل شارژ مدل NP-FV50شارژر باتریکابل شارژرکابل تلویزیونکابل USBدفترچه راهنماسی دی نرم افزاری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="ميثم رعيتي " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">مطمئن باشين به پولي که بابت اين دوربين پرداخت مي کنيد مي ارزه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="19" />
+  <Performance Value="8.60" />
+  <Capability Value="8.60" />
+  <Production_Quality Value="8.70" />
+  <Ergonomics Value="8.80" />
+  <Purchase_Value Value="8.60" />
+  <Tags />
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[gr-1-1,54,61]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,0,5]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="2" />
+    <Tag_Index Value="0" />
+  </Index>
+</Product>

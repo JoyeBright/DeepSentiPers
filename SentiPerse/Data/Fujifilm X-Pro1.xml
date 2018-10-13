@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Fujifilm X-Pro1" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="سه پايه قدي Slik F143" Price="79000" />
+    <Accessory Name="فلاش دوربين Fujifilm EF-20" Price="265000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="سه پايه انعطاف‌پذير Unomat FT-2" Price="9000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="محافظ صفحه نمايش دوربين" Price="4500" />
+    <Accessory Name="فلاش دوربين فوجي فيلم Fujifilm EF-42" Price="430000" />
+    <Accessory Name="سه پايه قدي Slik F740" Price="129000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/01/08</Feature>
+    <Feature Name="نوع ">حرفه ای</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">139.5 × 81.8 × 42.5 mm</Feature>
+    <Feature Name="وزن ">بدون باتری و کارت حافظه 400 گرم و با باتری و کارت حافظه 450 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="نوع حسگر ">CMOS</Feature>
+    <Feature Name="دقت حسگر ">14 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">14 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">15.6 × 23.6 میلی‌متر APS-C</Feature>
+    <Feature Name="رزولوشن عکس ">3264 × 4896 و 2760 × 4896 و 3264 × 3264 و 1944 × 3456 و 2304 × 2304 و 1664 × 2496 و 1408 × 2496 و 1664 × 1664</Feature>
+    <Feature Name="نسبت ابعاد عکس ">1:1, 3:2, 16:9</Feature>
+    <Feature Name="فرمت عکس ">JPEG (Exif Ver 2.3), RAW (RAF Format), RAW+JPEG</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">بلی</Feature>
+    <Feature Name="پردازشگر تصویر ">EXR Pro</Feature>
+    <Feature Name="رزولوشن فیلم ">Full HD</Feature>
+    <Feature Name="فرمت فیلم ">(MOV (H.264</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت FullHD در ابعاد 1080 × 1920 پیکسل و با سرعت‌ 24 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌ 24 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">قابلیت ضبط صدا به صورت استریو (Stereo)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="لرزشگیر تصویر ">خیر</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر لنز</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="نورسنجی ">TLT با قابلیت اندازه‌گیری 256 منطقه، چندگانه، نقطه‌ای، میانگینی</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/4000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">30 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">100</Feature>
+    <Feature Name="حداکثر حساسیت ">25600</Feature>
+    <Feature Name="ایزو ">در حالت استاندارد 200 تا 6400 - در حالت اتوماتیک: اتوماتیک 400 و اتوماتیک 800 و اتوماتیک 1600 و اتوماتیک 3200 - در حالت توسعه یافته حساسیت از 100 تا 12,800 و 25,600</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 7 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکاسی پیاپی ">قابلیت عکاسی پی در پی با سرعت‌های 3 و 6 فریم بر ثانیه</Feature>
+    <Feature Name="فلاش ">فاقد فلاش داخلی می‌باشد - قابلیت نصب فلاش خارجی از طریق کفشک فلاش (via Hot-Shoe with EF-20, EF-42, EF-X20)</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">خیر</Feature>
+    <Feature Name="عکاسی سه بعدی ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">از نوع RGBW با قابلیت پوشش‌دهی 100% میدان دید</Feature>
+    <Feature Name="سایز صفحه نمایش ">3 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">1,230,000 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">بلی</Feature>
+    <Feature Name="توضیحات چشمی ">مجهز به چشمی هیبرید می‌باشد که قابلیت پشتیبانی و سویچ بین دو نوع چشمی اپتیکال و الکترونیک را مطابق با لنز نصب شده را دارد - چشمی 0.37 اینچی اپتیکال با قابلیت پوشش دهی 90% میدان دید - چشمی 0.47 اینچی الکترونیکی با دقت 1,440,000 نقطه با قابلیت پوشش دهی 100% میدان دید</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">ندارد</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی قابل شارژ مدل NP-W126</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری یون لیتیومی قابل شارژشارژر باتریکابل USBبند دور دستدفترچه راهنماسی‌دی نرم‌افزاری همراه دوربین</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+1">وقتی که فوجی فیلم در نمایشگاه فوتوکینا سال 2010 دوربین مدل X100 خود را معرفی کرد،  با ظاهر قدیمی و کیفیت عالی عکس های خود توانست نظر عکاسان حرفه ای را کاملا به خود جلب کند.</Sentence>
+    <Sentence ID="rev-2" Value="0">هرچند که آن دوربین هم بدون ایراد نبود.</Sentence>
+    <Sentence ID="rev-3" Value="0">در مدل پس از آن یعنی X10 نیز ویژگی های دیگری اضافه شده بودند که علاوه بر رفع نواقص مدل پیشین آن را بیشتر مناسب عکاسان مبتدی کرده بود.</Sentence>
+    <Sentence ID="rev-4" Value="+2">اما این بار فوجی فیلم شاهکاری دیگر را خلق کرده است که قطعا در CES 2011 یکی از بهترین‌ها بود.</Sentence>
+    <Sentence ID="rev-5" Value="+1">دوربین بدون آینه با لنز قابل تعویض X-Pro1،  که به جرئت نخستین دوربین در کلاس خود می‌باشد که کاملا برای حرفه ای‌ها ساخته شده است.</Sentence>
+    <Sentence ID="rev-6" Value="0">اکنون سعی می‌کنیم که بررسی اجمالی بر روی این دوربین داشته باشیم و پس از آمدن آن به بازار،  نقد کاملی با تست کیفیت عکس های آن ارایه خواهیم داد.</Sentence>
+    <Sentence ID="rev-7" Value="0">XPro-1 در حقیقت شروعی بر سری جدیدی از دوربین های بدون آینه فوجی فیلم است.</Sentence>
+    <Sentence ID="rev-8" Value="+1">به طوری که ماونت لنزی کاملا جدید و همچنین لنزهایی متفاوت برای آن ساخته شده اند.</Sentence>
+    <Sentence ID="rev-9" Value="0">بعلاوه این دوربین کاملا و به صورت تمام عیار برای کاربران حرفه ای ساخته شده است.</Sentence>
+    <Sentence ID="rev-10" Value="0">از ویژگی های این دوربین می‌توان به سنسور تصویر 16 مگاپیکسلی APS-C X-Trans CMOS که بر روی دوربین های DSLR غیر فول فریم استفاده می‌شود،  آرایه‌ی جدیدی از فیلتر رنگی،  پردازشگر تصویر EXR،  چشمی هیبریدی اپتیکال/ الکترونیکی همانند چشمی دوربین X100،  پیچ های تنظیم مختلف،  ماونت جدید الکترونیکی X،   سرعت شاتر تا 1/4000 ثانیه و نمایشگر 3 اینچی 1.23 میلیون پیکسلی اشاره کرد.</Sentence>
+    <Sentence ID="rev-11" Value="0">بعلاوه در هنگام معرفی،  سه لنز ثابت XF 18mm F2 R, XF 35mm F1.4 R, and XF 60mm F2.4 R Macro نیز با آن همراه شده اند.</Sentence>
+    <Sentence ID="rev-12" Value="0">X-Pro1 ویژگی طراحی کلاسیک X100 را حفظ کرده است.</Sentence>
+    <Sentence ID="rev-13" Value="+1">ولی چیزی که کاملا مشهود است،  اعمال تغییرات مثبتی بوده که بر اثر نظرات کاربران درباره‌ی نقاط ضعف X100 اعمال شده.</Sentence>
+    <Sentence ID="rev-14" Value="0">برای مثال اکنون دکمه‌ی شاتر دارای یک دکمه‌ی مرکزی قفل است و پیچ تنظیم جبران نوردهی هم کمی در بدنه فرو رفته تا احتمال تغییر تصادفی آن کاهش یابد.</Sentence>
+    <Sentence ID="rev-15" Value="0">همچنین یک دکمه‌ی Q-menu هم برای دسترسی به عملکردهای اصلی بدون نیاز به رفتن به منوی اصلی به وجود آمده است.</Sentence>
+    <Sentence ID="rev-16" Value="+1">در ضمن از نظر ابعاد،  X-Pro1 کاملا از X100 بزرگتر و سنگین تر است و ظاهری کاملا جدی و حرفه ای تر دارد.</Sentence>
+    <Sentence ID="rev-17" Value="0">بدنه نیز به طور کاملا از آلیاژ آلومینیوم ساخته شده که در جای جای آن روکش چرمی قرار دارد.</Sentence>
+    <Sentence ID="rev-18" Value="0">ولی تغییرات اصلی را می‌توانیم در درون دوربین شاهد باشیم.</Sentence>
+    <Sentence ID="rev-19" Value="+1">جایی که سنسور تصویر 16 مگاپیکسلی APS-C Xtrans ساخت خود فوجی فیلم قرار گرفته و این بار فیلترهای سنتی Bayer برای تولید عکس رنگی با فیلتری کاملا پیچیده تر تعویض شده اند که طبق ادعای فوجی فیلم کیفیت رنگ را به طور چشمگیری افزایش داده است و دیگر به Low Pass Filter احتیاجی نیست.</Sentence>
+    <Sentence ID="rev-20" Value="0">در حقیقت طبق ادعای فوجی فیلم،  توانایی نمایش جزئیات رنگی این سنسور و کیفیت آن چیزی در حد سنسور تصویر 21 مگاپیکسلی دوربین فول فریم Canon 5D Mark II است!</Sentence>
+    <Sentence ID="rev-21" Value="+1">همانطور که گفتیم،  این دوربین از ماونت جدید الکترونیکی بهره می‌برد و از همان اول با یک سری لنز ثابت با نسبت دیافراگم پایین همراه شده است که مکمل خوبی برای لنز 23 میلی متری f/2.0 دوربین X100 هستند.</Sentence>
+    <Sentence ID="rev-22" Value="0">این لنزها شامل یک لنز واید 18 میلی متر f/2.0،  لنز نرمال 35 میلی متری f/1.4 و لنز 60 میلی متر f/2.4 ماکرو تلفوتو می‌شوند.</Sentence>
+    <Sentence ID="rev-23" Value="0">این لنزها با فاکترو 1.6 برابر به ترتیب فواصل کانونی معادل 28،  50 و 90 میلی متر را ارایه می‌دهند.</Sentence>
+    <Sentence ID="rev-24" Value="0">آخری توانایی فوکوس در فاصله‌ی بسیار نزدیک را دارد.</Sentence>
+    <Sentence ID="rev-25" Value="0">در ضمن همه‌ی آن‌ها دارای حلقه‌ی فوکوس دستی نیز هستند.</Sentence>
+    <Sentence ID="rev-26" Value="0">چشمی هیبریدی اپتیکال/الکترونیکی دوربین X100 در این جا هم دیده می‌شود.</Sentence>
+    <Sentence ID="rev-27" Value="0">این چشمی توانایی ارایه دو بزرگنمایی متفاوت را دارد.</Sentence>
+    <Sentence ID="rev-28" Value="0">یکی از آن‌ها بزرگنمایی 0.37 برابر است که میدان دید یک لنز 18 میلی متری را پوشش می‌دهد.</Sentence>
+    <Sentence ID="rev-29" Value="0">دومی بزرگنمایی 0.6 برابر است که میدان دید لنز 35 میلی متری را در بر می‌گیرد.</Sentence>
+    <Sentence ID="rev-30" Value="-1">برخلاف دوربین X100،  این دوربین از شاتر سنتی Focal Plane بهره می‌برد که اصولا شاتر پر سر و صداتری است.</Sentence>
+    <Sentence ID="rev-31" Value="+1">ولی در عین حال با آن خیلی راحت تر می‌توان به سرعت های شاتر بالاتر دسترسی پیدا کرد.</Sentence>
+    <Sentence ID="rev-32" Value="+2">این دوربین در ضمن نمایشگر بسیار با کیفیت تری نیز دارد.</Sentence>
+    <Sentence ID="rev-33" Value="0">X-Pro1 طبق معمول یک دوربین حرفه ای،  توانایی عکاسی در فرمت RAW را دارد و از شوتینگ مودهای P,A,S,M هم بهره می‌برد.</Sentence>
+    <Sentence ID="rev-34" Value="0">همچنین مجهز به توانایی فیلم برداری 1080p Full HD هم می‌باشد.</Sentence>
+    <Sentence ID="rev-35" Value="0">گستره‌ی حساسیت سنسور آن نیز از 100 تا 25,600 است.</Sentence>
+    <Sentence ID="rev-36" Value="0">همچنین عکس‌ها و فیلم‌ها بر روی کارت حافظه‌ی SD/SDHC/SDXC ذخیره می‌شوند و باتری لیتیوم-یونی آن نیز در هر بار شارژ کامل توانایی پشتیبانی برای گرفتن تا 300 عکس را دارد.</Sentence>
+    <Sentence ID="rev-37" Value="+1">به هر صورت همانطور که گفتیم،  به نظر می‌رسد که این بار با دوربین بدون آینه با لنز قابل تعویضی مواجه هستیم که برای نخستین بار می‌تواند کیفیت عکسی در حد بهترین دوربین های DSLR را ارایه دهد.</Sentence>
+    <Sentence ID="rev-38" Value="+1">چنین دوربینی کاملا می‌تواند استفاده‌ی حرفه ای داشته باشد و مورد علاقه‌ی بسیاری از عکاسان قرار گیرد.</Sentence>
+    <Sentence ID="rev-39" Value="0">هرچند که باید منتظر آمدن آن به بازار و تست واقعی عکس های آن باشیم.</Sentence>
+    <Sentence ID="rev-40" Value="+2">به روز رسانی: کیفیت عکس های گرفته شده توسط X-Pro1 در حد فوق العاده و باور نکردنی است.</Sentence>
+    <Sentence ID="rev-41" Value="0">به طوری که در تست های استاندارد؛ عکس ها از ایزو 100 تا 6400 به طور کلی فاقد نویز می باشند و فقط مقداری نویز از ایزو 12,800 مشاهده می گردد.</Sentence>
+    <Sentence ID="rev-42" Value="0">این در حالیست که در ایزو 25,600 نویز و کاهش غلظت رنگ بیشتری مشاهده می گردد.</Sentence>
+    <Sentence ID="rev-43" Value="+2">همانطور که گفتیم این عملکرد برای دوربینی با سنسور تصویر APS-C فوق العاده است و کیفیتی در حد دوربین های DSLR دارد.</Sentence>
+    <Sentence ID="rev-44" Value="0">عکس هایی که مستقیم از دوربین خارج می شوند کمی سافت هستند و می بایست مقداری شارپنینگ در فوتوشاپ بر روی آن ها صورت دهید.</Sentence>
+    <Sentence ID="rev-45" Value="0">البته از تنظیمات داخل دوربین هم می توان این کار را انجام داد.</Sentence>
+    <Sentence ID="rev-46" Value="+2">کیفیت عکاسی در شب نیز همانند دوربین های DSLR عالیست به طوری که می توانید نوردهی به مدت 30 ثانیه و یا حتی حالت Bulb برای نوردهی نامحدود را نیز انتخاب کنید.</Sentence>
+    <Sentence ID="rev-47" Value="+2">بدین ترتیب حتی می توان گفت که X-Pro1 می تواند جایگزینی بسیار مناسب و کوچک برای دوربین های DSLR عکاسان نجومی هم باشد،  چرا که کوچک و سبک بودن دوربین برای این نوع عکاسی یک امتیاز مثبت است.</Sentence>
+    <Sentence ID="rev-48" Value="0">سرعت فوکوس خودکار این دوربین بهترینی نیست که تا به حال دیده ایم.</Sentence>
+    <Sentence ID="rev-49" Value="0">به خصوص اینکه اگر پیش از این از DSLR ها استفاده کرده باشید این موضوع را متوجه خواهید شد و این به دلیل بهره گیری این دوربین از سیستم فوکوس خودکار Contrast Detection به جای Phase Detection دوربین های DSLR است.</Sentence>
+    <Sentence ID="rev-50" Value="0">اما X-Pro1 از سیستم فوکوس خودکاری 49 نقطه ای بهره می برد که در گریدی 7X7 قرار گرفته اند و در ضمن سایز هر نقطه ی فوکوس قابل تغییر است.</Sentence>
+    <Sentence ID="rev-51" Value="+2">بدین ترتیب فوکوس خودکار می تواند خیلی دقیق صورت گیرد.</Sentence>
+    <Sentence ID="rev-52" Value="+1">همانطور که اشاره کردیم،  چشمی این دوربین یک چشمی اپتیکال معمولی نیست بلکه یک چشمی هیبریدی اپتیکال/الکترونیکی است.</Sentence>
+    <Sentence ID="rev-53" Value="0">فوجی فیلم یک منشور داخل چشمی اپتیکال گالیله ای گذاشته که به کمک چشمی الکترونیکی می آید.</Sentence>
+    <Sentence ID="rev-54" Value="0">این چشمی می تواند اطلاعات مختلفی را در عکاسی به شما نشان دهد.</Sentence>
+    <Sentence ID="rev-55" Value="+1">همچنین شما در حقیقت یک چشمی اپتیکال بزرگ و روشن خواهید داشت که مساحت بیشتری از آن چه واقعا در هنگام عکاسی در فریم ثبت می شود را با آن می توانید ببینید.</Sentence>
+    <Sentence ID="rev-56" Value="+1">این برای دیدن سوژه هایی که ممکن است به کادر شما وارد شوند خوب است.</Sentence>
+    <Sentence ID="rev-57" Value="+1">همچنین یک مستطیل نشان دهنده ی اختلاف منظر هم وجود دارد که می تواند حدود عکس واقعی که توسط سنسور تصویر ثبت می شود را با دقتی نسبتا خوب به شما نشان دهد.</Sentence>
+    <Sentence ID="rev-58" Value="+1">از همه جالب تر اینکه شما می توانید به راحتی و به طور کامل بین استفاده از چشمی اپتیکال و الکترونیکی سویچ کنید تا به طور کامل تصویر یک چشمی الکترونیکی با رزولوشن 1,440,000 پیکسل برای شما به نمایش در آید.</Sentence>
+    <Sentence ID="rev-59" Value="0">این تصویر دقیقا همان تصویری است که توسط سنسور تصویر دریافت می شود و بر روی نمایشگر پشت دوربین هم به نمایش در می آید و بنابراین هیچ گونه اختلاف منظری با عکس شما ندارد.</Sentence>
+    <Sentence ID="rev-60" Value="-1">در مورد عملکرد،  همانطور که گفتیم فوکوس خودکار واقعا بهترین نیست ولی در عین حال Shutter Lag هم وجود ندارد تا به محض فشردن دکمه ی شاتر عکس گرفته شود.</Sentence>
+    <Sentence ID="rev-61" Value="+2">سرعت عکاسی پیاپی هم با 6 فریم بر ثانیه تا 40 عکس JPEG و 10 عکس RAW خیلی عالیست و بیشتر از دوربین های DSLR سطح مبتدی است.</Sentence>
+    <Sentence ID="rev-62" Value="0">اما پس از اینکه عکاسی پیاپی را برای تعداد زیادی عکس انجام دادید مدت نسبتا زیادی دوربین قفل می شود تا عکس ها بر روی کارت حافظه ذخیره شوند.</Sentence>
+    <Sentence ID="rev-63" Value="-1">همچنین اگر یک عکس Raw+JPEG بگیرید ذخیره ی آن بر روی کارت حافظه حدود 8 ثانیه به طول می انجامد که زیاد است.</Sentence>
+    <Sentence ID="rev-64" Value="0">اما خوشبختانه دوربین در این هنگام قفل نمی شود و می توانید عکس بعدی را هم بگیرید.</Sentence>
+    <Sentence ID="rev-65" Value="+1">از نظر کیفیت ساخت،  همانند دیگر دوربین های سری X فوجی فیلم،  این دوربین هم به طرز خیلی عجیبی متسحکم و خوش ساخت است.</Sentence>
+    <Sentence ID="rev-66" Value="0">هیچ خمش یا تکانی در شاسی به چشم نمی خورد و صفحه های بالایی و پایینی هم از فلز آلیاژ منیزیوم ساخته شده اند.</Sentence>
+    <Sentence ID="rev-67" Value="+1">همچنین از چیزی که در نگاه نخست ممکن است به نظر برسد هم سبک تر است و با وزن تنها 450 گرم هم وزن X100 می باشد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>ارائه ی کیفیت عکاسی در حد بهترین دوربین های DSLR با سنسور تصویر APS-C</Advantage>
+    <Advantage>بهره گیری از پیشرفته ترین فن آوری های دوربین های دیجیتال</Advantage>
+    <Advantage>بدنه ی فوق العاده مستحکم و خوش ساخت</Advantage>
+    <Advantage>ایفای نقش به عنوان یکی از با کیفیت ترین، پیشرفته ترین و بهترین دوربین های دیجیتال بازار</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="محمد خليلي " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">عملکرد ايزوش فوق العادست اگه fujifilm به اين کارش ادامه بده و يه فول فريم 14 مگاپيکسلي بزنه شاهکار در عملکرد ايزو ميشه .</Sentence>
+      <Sentence ID="gr-1-2" Value="0">البته من خودم اميدوارم نسخه ي بعديش هم به اندازه X-pro1 خوش عکس باشه .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="جعفر محمدي " Value="+2">
+      <Sentence ID="gr-2-1" Value="+1">نميدونم چطوره که حرفه اي هاي عکاسي در سايت درباره اين شاهکار فوجي چيزي نگفتند اما کافيه عکس هاي اين دوربين رو در همه ايزوهاي بالا  با دوربيني مثل کنون 5 دي مقايسه کنيد تا فقط از قدرت اين دوربين متعجب بشيد.</Sentence>
+      <Sentence ID="gr-2-2" Value="0">اين مهم با وجود سنسور کوچکتر  اتفاق افتاده.</Sentence>
+      <Sentence ID="gr-2-3" Value="+2">بي دليل نيست که سايت ديجي کالا عنوان خوش عکس ترين دوربين سال را به اين اعجوبه داده است.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="4" />
+  <Performance Value="7.50" />
+  <Capability Value="7.70" />
+  <Production_Quality Value="7.70" />
+  <Ergonomics Value="7.70" />
+  <Purchase_Value Value="7.70" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="پیچ تنظیم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="تغییرات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="ظاهر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="فیلتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="کیفیت رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="ماونت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="شاتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="سرعت شاتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="کیفیت عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10064" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10069" Root="کیفیت عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="نوردهی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10075" Root="جایگزین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="فوکوس خودکار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="چشمی اپتیکال" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10090" Root="دقت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="سرعت عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="عملکرد ايزو" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="سنسور" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="دوربين" Relation="gr-2" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-5,20,23]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-5,24,34]" Relation="tagID1002" Value="" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-8,17,21]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-8,22,32]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-8,42,49]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-8,50,56]" Relation="tagID1009" Value="" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-21,91,94]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-21,95,99]" Relation="tagID10034" Value="" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-37,78,81]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-37,82,93]" Relation="tagID10053" Value="" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-5,62,68]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-5,55,61]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[rev-65,65,71]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[rev-65,93,99]" Relation="tagID10098" Value="+" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[rev-65,102,110]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-10,245,258]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-10,259,264]" Relation="tagID10012" Value="" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-12,13,18]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-12,19,25]" Relation="tagID10015" Value="" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-13,36,43]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-13,44,49]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-16,14,19]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-16,43,49]" Relation="tagID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-16,52,60]" Relation="tagID10021" Value="" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-16,67,72]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-16,73,82]" Relation="tagID10025" Value="+" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-16,85,95]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-19,129,135]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-19,136,151]" Relation="tagID10029" Value="" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-19,189,198]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-19,209,223]" Relation="tagID10032" Value="" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-21,33,38]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-21,39,43]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[rev-30,78,82]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-30,83,97]" Relation="tagID10040" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-31,18,20]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-31,21,33]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-31,45,58]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-31,59,65]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-32,18,25]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-32,26,44]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-37,134,144]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-37,145,157]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[rev-40,14,27]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-40,56,66]" Relation="tagID10055" Value="+" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-40,69,80]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-41,33,39]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-41,71,80]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-44,0,8]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-44,42,50]" Relation="tagID10067" Value="" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[rev-42,49,52]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-42,39,48]" Relation="tagID10062" Value="" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[rev-43,21,27]" Relation="elementID10064" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-43,62,72]" Relation="tagID10065" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-46,0,11]" Relation="elementID10069" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-46,45,51]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[rev-46,120,126]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-46,127,134]" Relation="tagID10073" Value="" />
+    <Tag Type="Target(I)" ID="tagID10076" Coordinate="[rev-47,46,54]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[rev-47,55,66]" Relation="tagID10076" Value="+" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-47,69,73]" Relation="tagID10076" Value="" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-51,11,23]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-51,33,42]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-60,34,46]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-60,53,64]" Relation="tagID10093" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[rev-52,44,56]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-52,57,68]" Relation="tagID10083" Value="" />
+    <Tag Type="Target(I)" ID="tagID10085" Coordinate="[rev-54,4,8]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[rev-54,18,32]" Relation="tagID10085" Value="" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[rev-55,23,35]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[rev-55,36,40]" Relation="tagID10087" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[rev-55,43,47]" Relation="tagID10087" Value="" />
+    <Tag Type="Target(I)" ID="tagID10091" Coordinate="[rev-57,119,123]" Relation="elementID10090" Value="" />
+    <Tag Type="Opinion" ID="tagID10092" Coordinate="[rev-57,124,133]" Relation="tagID10091" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[rev-61,0,10]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[rev-61,67,78]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-1-1,0,12]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-1-1,13,24]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-2-2,16,21]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-2-2,22,28]" Relation="tagID100105" Value="" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[gr-2-3,50,56]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[gr-2-3,37,49]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100110" Coordinate="[gr-2-3,67,70]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100111" Coordinate="[gr-2-3,71,77]" Relation="tagID100110" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,164,171]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-1,105,109]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-4,78,87]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-4,22,29]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,55,61]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-8,22,32]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-13,44,49]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-13,12,23]" Value="" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-16,73,82]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-16,85,95]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-19,217,223]" Value="" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-19,209,216]" Value="" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-21,145,149]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-21,39,43]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-30,83,97]" Value="-" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-31,21,33]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-31,59,65]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-32,26,44]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-37,151,157]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-38,59,71]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-40,56,66]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-40,69,80]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-41,71,80]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-43,62,72]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-46,45,51]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-47,55,66]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-51,33,42]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-56,58,61]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-57,124,133]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-58,7,14]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-58,35,43]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-58,46,57]" Value="" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-60,53,64]" Value="-" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-61,67,78]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-63,76,92]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-65,93,99]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-65,102,110]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-67,55,61]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-1-1,13,24]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-1-1,92,98]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-2-1,54,60]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-2-1,178,182]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-2-3,37,49]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[gr-2-3,71,77]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="45" />
+    <Tag_Index Value="112" />
+  </Index>
+</Product>

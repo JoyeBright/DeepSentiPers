@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Microsoft Xbox 360 Slim 250GB Console with Kinect" Type="GameConsole">
+  <Accessories>
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+  </Accessories>
+  <Features>
+    <Feature Name="ابعاد ">292.1x304.8x184.15 mm</Feature>
+    <Feature Name="وزن ">4.96 گرم</Feature>
+    <Feature Name="نوع ">کنسول خانگی</Feature>
+    <Feature Name="نوع درایو بازی ">DVD-ROM</Feature>
+    <Feature Name="پردازشگر اصلی CPU ">IBM PowerPC 3 cores 3.2 GHz</Feature>
+    <Feature Name="پردازشگر گرافیکی GPU ">500 MHz "Xenos"</Feature>
+    <Feature Name="حافظه Cache ">1</Feature>
+    <Feature Name="حافظه RAM ">512 MB ( 512 MB ) GDDR3 SDRAM - Integrated</Feature>
+    <Feature Name="کارت گرافیک ">ATI Xbox 360 - 256-bit - 2D/3D graphics acceleration</Feature>
+    <Feature Name="خروجی تصویر ">500 million triangles/sec</Feature>
+    <Feature Name="خروجی صدا ">ساراند - 5.1 کانال</Feature>
+    <Feature Name="شبکه بی سیم Wi-Fi ">بلی</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="پورت USB ">بلی</Feature>
+    <Feature Name="شبکه Ethernet ">بلی</Feature>
+    <Feature Name="هارد دیسک ">بلی</Feature>
+    <Feature Name="ظرفیت هارد دیسک ">250 گیگابایت</Feature>
+    <Feature Name="دسته بی سیم ">بلی</Feature>
+    <Feature Name="کارت خوان ">خیر</Feature>
+    <Feature Name="سایر امکانات ">دارای رزولوشن تصویر 1920x1080دارای 190 مگابایت حافظه برای استفاده از Kinectدارای یک پورت Kinectدارای 5 پورت USBدارای خروجی AVدارای خروجی HDMIدارای خروجی TOSLINKهمراه با کینکت</Feature>
+    <Feature Name="اقلام همراه کنسول ">کابل تصویردسته بی سیمکینکت</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="+1">شاید اگر 10 سال قبل می گفتید که شرکت مایکروسافت بزرگترین نقش را در دنیای بازیهای ویدیویی بازی می کند حرفتان بی معنا به نظر می رسید اما اکنون مشاهده می کنیم که این موضوع یک واقعیت است و دیگر سونی انحصار تولید کنسولهای بازی پر طرفدار را در اختیار ندارد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">اکنون شاید بتوان Xbox 360 Slim را برترین کنسول بازی موجود دانست مخصوصا با وجود Kinect Microsoft  اکنون لذت استفاده از بازیهای Xbox چند برابر شده است.</Sentence>
+    <Sentence ID="rev-3" Value="0">حال،  چرا Xbox 360 Slim می تواند برترین کنسول بازی موجود باشد؟</Sentence>
+    <Sentence ID="rev-4" Value="0">در ادامه به بررسی تمام جوانب این کنسول بازی می پردازیم تا قضاوت را به خودتان واگذار کنیم: همانطور که از نام این کنسول پیداست قرار بوده که Xbox 360 جدید باریک تر از مدل قبلی خود باشد.</Sentence>
+    <Sentence ID="rev-5" Value="-1">هر چند با مقایسه دو دستگاه Xbox 360 Slim و Xbox 360 خواهید دید که این کنسول خیلی هم باریک تر نشده است (یا حداقل این باریک شدن خیلی به چشم نمی آید).</Sentence>
+    <Sentence ID="rev-6" Value="+1">پلاستیک ماتی که ما Xbox 360 را با آن می شناختیم؛ اکنون دیگر وجود ندارد و به جای آن پلاستیکی با جلای بالا و براق را مشاهده می کنیم که یک پیشرفت خیلی مهم از لحاظ ظاهری و زیبایی برای Xbox 360 Slim را باعث شده.</Sentence>
+    <Sentence ID="rev-7" Value="+1">هر چند روی این پلاستیک براق و زیبا که جنس خیلی خوبی هم دارد؛ اثر انگشت می ماند اما خب چه کسی نیاز دارد که هر لحظه به کنسول بازی خانگی خود دست بزند؟</Sentence>
+    <Sentence ID="rev-8" Value="+1">از طرفی وقتی خوب به بدنه ی Xbox 360 Slim دقت می کنید متوجه می شوید براقی آن به حدی زیاد است که می تواند اشیا را تا حدی در خود منعکس کند.</Sentence>
+    <Sentence ID="rev-9" Value="+1">انحناهای ایجاد شده روی این کنسول نیز به جلوه ظاهری آن افزوده است.</Sentence>
+    <Sentence ID="rev-10" Value="+1">وزن Xbox 360 Slim نیز مقداری از Xbox 360 کمتر شده است.</Sentence>
+    <Sentence ID="rev-11" Value="0">Xbox 360 Slim با ظرفیت های مختلفی به بازار عرضه شده است.</Sentence>
+    <Sentence ID="rev-12" Value="+1">از ظرفیت هارد دیسکی 4GB گرفته تا ظرفیت بسیار مناسب 320GB.</Sentence>
+    <Sentence ID="rev-13" Value="0">همچنین این کنسول در پک های مختلفی به بازار عرضه می شود که برخی از آنها بازی اورجینال رایگان هم در خود دارند.</Sentence>
+    <Sentence ID="rev-14" Value="0">همچون بازی معروف Gears Of War 3.</Sentence>
+    <Sentence ID="rev-15" Value="+2">پردازشگر قدرتمند IBM PowerPC 3 cores 3.2 GHz به همراه پردازنده ی گرافیکی Xenos،  رم 512 GDDR3 و کارت گرافیک ATI که مخصوص Xbox طراحی شده،  تلفیقی از قدرت و سرعت پردازش مناسب و گرافیک عالی را به وجود می آورد که برای هم برای کاربران عادی و هم گیمرهای حرفه ای مناسب است.</Sentence>
+    <Sentence ID="rev-16" Value="+1">رزولوشن تصویر 1920*1080؛ تصویری را در برابر دید کاربر قرار می دهد که واقعا لذت بخش است.</Sentence>
+    <Sentence ID="rev-17" Value="+1">همچنین این دستگاه مجهز به 5 پورت USB (Universal Serial Bus)،  یک پورت مخصوص Kinect،  خروجی های HDMI وAV،  خروجی TOSLINK و همچنین شبکه بی سیم Wi-Fi بوده که نه تنها نیاز کاربر برای گیم و بازی کردن را برطرف می کند بلکه مانند دیگر رقبای خود (از جمله Sony PS3) امکان دسترسی به اینترنت،  ذخیره و پخش فایل های چند رسانه ای (مالتی مدیا) را نیز برای کاربر فراهم می کند.</Sentence>
+    <Sentence ID="rev-18" Value="0">اما از هرچه بگذریم؛ نمی توان Kinect Microsoft را نادیده گرفت.</Sentence>
+    <Sentence ID="rev-19" Value="0">Kinect که برای بازی حرکتی در Xbox 360 Slim طراحی شده شما را به دنیای خود می برد.</Sentence>
+    <Sentence ID="rev-20" Value="+2">دنیایی که جذابیتهای فوق العاده خودش را دارد و از آنجا که Kinect نسبت به رقبایش (PS3 Move و Nintendo Wii) مطلوبیت بیشتری دارد و راحت تر نیز می توان از آن استفاده نمود،  بنابر این به شما توصیه می کنیم لذت استفاده از Kinect Xbox 360 را حداقل یکبار تجربه کنید.</Sentence>
+    <Sentence ID="rev-21" Value="0">دنیای کنسولهای بازی تا حدی سلیقه ای و مشروط به نوع کاربر است.</Sentence>
+    <Sentence ID="rev-22" Value="0">ممکن است برخی گیمرها، PS3 Sony  را برترین کنسول بازی بدانند و برخی دیگر Nintendo Wii یا Xbox 360 را.</Sentence>
+    <Sentence ID="rev-23" Value="+1">اما تا آنجا که از تجربیات شخصی بر می آید؛ حداقل استفاده از Kinect در Xbox 360 Slim راحت تر و مناسب تر است نسبت به Move PS3 یا  دستگاه Wii.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>قدرت بالای سخت افزاری</Advantage>
+    <Advantage>کیفیت بالای بازیهای ویژه ی Xbox</Advantage>
+    <Advantage>طراحی و ظاهر براق و زیبا</Advantage>
+    <Advantage>کنترلر حرکتی (Kinect) با دقت بالا  و عملکرد عالی</Advantage>
+    <Advantage>خروجی تصویر با کیفیت بالا 1920*1080 پیکسل</Advantage>
+    <Advantage>عرضه در ظرفیت های 4 تا 320 گیگابایتی که امکان انتخاب مناسب هر کاربر را فراهم می کند</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="محمد عماد سلامي " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">براي کساني که چاق هستند خوب است!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="رضا اربابي " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">به نظر من که پديده ي فوق العاده اي هستش  و از Ps3 خيلي بهتره.</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">اگه در خريد ps3 و x box 360 ترديد داريد شک نکنيد x box بهترينه مخصوصا که kinect طوري طراحي شده که ميتونيد باهاش صحبت کنيد بدون اينکه از دسته استفاده کنيد من 1 ساله xbox با kinect دارم واقعا بي عيب و ايراده فوق العاده ست </Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="امير مزرعي " Value="0">
+      <Sentence ID="gr-3-1" Value="0">به نظر من درسته از لحاظ سخت افزاري XBOX 360 Slim از PS3 Slim کمي ضعيفتره،  اما بايد توجه داشته باشيم که براي کشش گرافيکي و اجراي بهتر بازي ها XBOX حدود 512 مگابايت در اختيار گرافيک و پخش تصويري بازي ها قرار ميده ولي PS3 حدود 256 مگابايت.</Sentence>
+      <Sentence ID="gr-3-2" Value="0">پس اينطور نيست که بگيم گرافيک اين از اون بالاتره و.</Sentence>
+      <Sentence ID="gr-3-3" Value="0">ضمن اينکه اگر از کابل HDMI استفاده کنيد کيفيت بازي ها به حداکثر خودش ميرسه و اونجاست که قدرت Xbox 360 Slim معلوم ميشه هرچند PS3 هم خيلي عالي هستش و به نظرم هردو در يک سطح هستند</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="سيد علي علوي " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">به نظر من ايکس باکس با کينکت يعني ورزش کامل</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="اميرحسين جعفري " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">به نظر من کنسول خيلي خوبيه ولي کاش درايو بلوري داشت.</Sentence>
+      <Sentence ID="gr-5-2" Value="0">من که خودم PS3 دارم ولي با XBOX هم بازي کردم.</Sentence>
+      <Sentence ID="gr-5-3" Value="+1">حرف نداره ولي به نظر من PS3 کيفيت تصويرش يه کم بهتره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="رضا ملک محمدي " Value="-1">
+      <Sentence ID="gr-6-1" Value="-1">من قبلا  360 داشتم از نظر فراواني بازي روي dvd رايتي خيلي خوب بود و گرفتاري ريختن بازي روي هارد رو نداره ولي بخاطر درايوش که dvd هست بازي سازها مجبورن حجم بازي را پايين بيارن که خود بازي سازها بارها به  اين موضوع اذعان کردند  مثل namco براي tekken 6  که کيفيت بازي در ps3 بالاتر است
+لذا از اين جهت و از جهت بازيهاي انحصاري که ps3 داره به گرد پاي ps3 هم نمي رسه 
+من 360 رو ردش کردم ps3  گرفتم  و خيلي نسبت به xbox کارايي اش بهتره مخصوصا الان که cfw 4.30 اومده همه بازي ها را با بهترين کيفيت ممکن سازندگان اجرا ميکند</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="ارژنگ " Value="+2">
+      <Sentence ID="gr-7-1" Value="+1">تنها دستگاه ديجيتالي که هيچوقت از خريدنش ناراضي نشدم.</Sentence>
+      <Sentence ID="gr-7-2" Value="+2">فوق العادست..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="ميلاد شيخ " Value="+2">
+      <Sentence ID="gr-8-1" Value="+1">با سلام من اين کنسول رو از ديجي کالا گرفتم فقط قبل از هر چيزي بگم فقط و فقط از ديجي کالا اين کنسول رو بگيريد اطمينان داشته باشيد بهترين انتخاب رو کرديد.</Sentence>
+      <Sentence ID="gr-8-2" Value="+2">من به شخصه از اين کنسول راضي هستم بسيار عالي هستش ظاهر بسيار زيبايي داره از ps3 که در اين مورد سره در مورد گرافيک هم بايد بگم قبول دارم ps3 بهتره ولي شما به هزينه هاي ايکس باکس نگاه کنيد چقدر به صرفه تره ولي اصلا تفاوت زيادي با هم ندارن اگر واقعا ميخوايد اين کنسول روبگيريد بهترين انتخاب رو داشتيد شک نکنيد عاليه من که راضي هستم
+باز هم ممنون ديجي کالا</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="محمد مهدي مرادي " Value="-1">
+      <Sentence ID="gr-9-1" Value="-1">ولي يکي از مشکلاتش اينه که بايد هر سال آپديت بشه در ضمن همه بازي ها براي کينکت پيدا نميشه براي مثال آپديت xbox360 من مال 2011 و بسياري از بازي هاي جديد رو ساپورت نمي کنه در حالي ps3 فقط وفقط يک بار آپديت مي خواد و از اين نظر ps3 خيلي برتره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="مهدي جعفري " Value="0">
+      <Sentence ID="gr-10-1" Value="0">توصيه من به دوستان اين هست که لطفا کنسولشون رو کپي خور نکنن چون نمي تونن از مزاياي آنلاين دستگاهشون استفاده کنن.</Sentence>
+      <Sentence ID="gr-10-2" Value="0">توي نگاه اول شايد قيمت بازي هاي اصل کمي گرون باشه اما اين گروني بي علت نيست و به کيفيت و دوام کالا بستگي داره
+و اينکه ارزوني کپي خوري دستگاه همراه با ضرري که در آينده به شما ميرسه خيلي گرونه
+لطفا به اين مساله فکر کنيد بعد اقدام کنيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="احمدرضاعالمي " Value="+1">
+      <Sentence ID="gr-11-1" Value="0">اگر ميتونستم خيلي دوست داشتم يک ايکس باکس با کينکت بگيرم.</Sentence>
+      <Sentence ID="gr-11-2" Value="+1">واقعا لذت بخشه بازي کردي وقتي عملي بازي کني..</Sentence>
+      <Sentence ID="gr-11-3" Value="0">هم تفريحه هم ورزش.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="عليرضا روستا " Value="-1">
+      <Sentence ID="gr-12-1" Value="+1">به نظرم فعلا xbox بهتره چون بازي هاش هم بيشتره هم ارزونتره .</Sentence>
+      <Sentence ID="gr-12-2" Value="-1">اما اگه چند سال آينده رو در نظر داشته باشيم به اين نتيجه ميرسيم که بازي ها روز به روز بر حجم و گرافيکشون افزوده ميشه و اونوقت PS3 با داشتن ديسک بلوري مشکلي پيدا نميکنه اما xbox ديگه نميتونه بازي هاي خوبي بسازه و(ميشه مثل PS2) که الان بازي هاي با گرافيک بالا نداره .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="علي " Value="+1">
+      <Sentence ID="gr-13-1" Value="+1">يکي از بهترين کنسول هاي موجود در ايران هست چون قيمت بازي هاي نسبت به ps3 کمتره و همون کيفيت رو داره و مي تونم بگم که بهتر هم هست!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="mohammad ghazvahanian " Value="0">
+      <Sentence ID="gr-14-1" Value="0">بهترين کنسول از نظر حسگر ها همين کنسول ميباشد يعني{xbox360 } من تقريبا 2 سال است که اين کنسول را دارم و شديدن از خريد اين کنسول راضي هستم علاوه بر اينکهxbox 360 kinect بهترين حسگر ميباشد ، شبکه xbox live هم از psn sony سرتر است فقط يک موضوع ميماند گرافيک و بايد قبول کنيم که ps3 که با گرافيک Nvidia RSX 256 MBکارميکند بهتر ميباشد و مدرک هم اين است که بهترين گرافيک بازي مر بوط به بازي انحصاري ps3يعني  uncharted  در سال 2011 شد ؛ راستي تا يادم نرفته بگم که صد در صد ديسک xbox dvd هم اينجا در مقابل 
+ blu ray  حرفي براي گفتن نخواهد داشت صد البته که در ايران بازي خريدن براي  ps3 شديدن سخت ميباشد چون ديسک بلو ري قيمت دوبله را دارند و اگر هم که وسع خريد بلوري را نداشته باشيم بايد دستگاه خود را کوپي خور کنيم که اين هم براي خوره هاي گيم سخت است چون بازي هاي جديد 2 يا 3ماه بعد براي دستگاه کوپي ميآيد
+  و در انتها بايد اضافه کنم که xbox360در ايران به صرفه تر ميباشد</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="ارسطو امري" Score="7" Voters="67" Value="+1">
+      <Sentence ID="cr-1-1" Value="+1">سلام  به همه دوستان به نظر من خوبي هاي اين محصول خيلي چشمگير تر از بدي هاي آن مي باشد.</Sentence>
+      <Sentence ID="cr-1-2" Value="0">مزاياي بي نظير اين محصول مثل زيبايي طراحي آن هوشمندي آن در بازي و به ويژه خدمات اينترنتي آن براي بازي با کاربران ديگر اين محصول را در اقصي نقاط جهان بسيار بهتر و تحسين آميزي با رقيب اصلي خود يعني ps3 خود دارد ولي از جهت ديگر داراي معايبي مثل نداشتن درايو بلوري بازي هايي با اجراي ضعيف تر نسبت به ps3 مي باشد که اين موجب شده تعدادي ازکاربران رغبت خود را از دست دهند.</Sentence>
+      <Sentence ID="cr-1-3" Value="+1">ولي با طراحي بي نظيرش و يا طراحي سفارشي که دارد ميتواند انتخاب خوبي براي کاربران نوجوان خود باشد.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">مشکل ديگري که به نظر من اين محصول دارد آن است که در اجراي بعضي بازي ها در مقابل ps3 کم مي آورد اما در اين ميان کاري که مايکروسافت براي محصولش انجام داده اين بوده که بازي ها را بسيار سريع بالا مي آورد درحاليکه در ps3 اين مدت زمان کمي طولاني تر مي شود.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">در رابطه با آن موضوع اجراي بازي براي مثال در بازي pes2012 اين تفاوت از نظر کيفيت و گرافيک بين اين دو محصول احساس مي شود.</Sentence>
+      <Sentence ID="cr-1-6" Value="+1">اما در کل کنسول Microsoft Xbox 360 Slim 250GB Console with Kinect بخاطر چند ويژگي ديگرش بازي با آن لذت بخش خواهد بود.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="مرصاد يغمائيان" Score="3" Voters="67" Value="+1">
+      <Sentence ID="cr-2-1" Value="+1">من خودم به شخصه از داشتنش راضي هستم خودم هم اين رو داشتم هم پلي استيشن3 ولي به جرات ميتونم بگم تفاوتي بين اين دو نديدم از جهاتي هم برتر بوده بازي ها از لحاظ گرافيکي هيچ فرقي با هم ندارن کافي که فقط کابل hdmiرو وصل کنيد به تلويزيون و از بازي باهاش لذت ببريد امکانات سخت افزاري بالاتري رو نسبت به پلي استيشن داره و از همه مهمتر بازي هاي موجود تو بازارش از پلي استیشن بيشتر هستش و هم ارزون تر به نظرم اگر خواستيد بين اين دو غول کنسول بازي يکي رو انتخاب کنيد ايکس باکس بهتره-فقط بايد از جاي مطمئن خريداري کنيد که ديجي کالا اين امکان رو براتون فراهم ميکنه و خيالتون راحت باشه و دست اخر اينکه هردو کنسول هر از گاهي احتياج به اپديت دارن تا بتونيد با بازي هاي جديدي که مياد بتونيد بازي کنيد  اونم به دليل اينکه بازي هاي جديد با گرافيک بالاتري مياد و اپديت نرم افزاري لازم دارن تا از امکانات اون استفاده کنيد درکل ايکس باکس خيلي بهتره</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="فرنود مهرزادگان" Score="0" Voters="0" Value="+2">
+      <Sentence ID="cr-3-1" Value="+1">بازي هاي زيادي داره که کرک شده اند و با قيمت مناسب قابل خريداري هستند.</Sentence>
+      <Sentence ID="cr-3-2" Value="+1">گرافيک خوبي داره و بازي ها اصلا هنگ نميکنن يا کند اجرا نميشن.</Sentence>
+      <Sentence ID="cr-3-3" Value="+1">با خريد کينکت اوج لذت رو از بازي هاي Dance Central و Kinect Sports ميشه به خانه اورد.</Sentence>
+      <Sentence ID="cr-3-4" Value="+1">ميتونين با استفاده از کلام،  منوهاي سيستم رو جابجا کنين يا خاموش کنين که احساس خيلي پيشرفته اي به آدم ميده  (داشتن کينکت الزاميست).</Sentence>
+      <Sentence ID="cr-3-5" Value="+2">دسته هاي با کيفيت داره و خيلي راحت باهاش جور ميشين.</Sentence>
+      <Sentence ID="cr-3-6" Value="0">اصلا فکر نکنين که واسه بازي هاي آنلاين نياز به سرعت افسانه هاي دارين.</Sentence>
+      <Sentence ID="cr-3-7" Value="+1">فقط کافيه که يه سرعت 256 داشته باشين تا بتونين به جمعيت جهاني وصل بشين و با اين کار تازه دنياي xbox واستون باز ميشه.</Sentence>
+      <Sentence ID="cr-3-8" Value="0">امکان خريد هر فيلم و موزيکي که در جهان موجود باشه توسط کنسولتون.</Sentence>
+      <Sentence ID="cr-3-9" Value="+2">طراحي خيلي شيک.</Sentence>
+      <Sentence ID="cr-3-10" Value="+2">عملکرد خيلي بيصدا و استفاده از فن قدرتمند که تا پنج ساعت بازي مداوم هيچ مشکلي بوجود نمياد.</Sentence>
+      <Sentence ID="cr-3-11" Value="+2">عملکرد عالي کينکت بدون نياز به وسيله اي که خيلي عالي حرکات شما رو شناسايي ميکنه.</Sentence>
+      <Sentence ID="cr-3-12" Value="+1">يه کم اين کنسول جديداش نسبت به قبلياش لنزشون ضعيفتره که مشکلي نيست البته.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="مجتبي ادب" Score="7" Voters="31" Value="-1">
+      <Sentence ID="cr-4-1" Value="-1">يکي از مشکلاتي که من رو پس از خريد اين دستگاه خيلي آزار داد مربوط بود به کپي خور کردن اين دستگاه.</Sentence>
+      <Sentence ID="cr-4-2" Value="-1">حدود دو هفته بعد از خريد بود که متوجه شدم دستگاه در خواندن بازي هاي کپي مشکل داره و بعضي را اصلا نميخونه و برخي هم در حين بازي هنگ ميکنه.</Sentence>
+      <Sentence ID="cr-4-3" Value="-1">اول به لنز دستگاه شک کردم ولي مشکل از لنز نبود کم کم متوجه شدم که دستگاه حتي بازي اصلي رو هم نميخونه.</Sentence>
+      <Sentence ID="cr-4-4" Value="0">بالاخره تونستم جايي را در تهران پيدا کنم و از آنها مشاوره گرفتم که مشکل از کجاست؟</Sentence>
+      <Sentence ID="cr-4-5" Value="-1">ظاهرا دستگاه به درستي کپي خور نشده بود.</Sentence>
+      <Sentence ID="cr-4-6" Value="-1">با تعويض چند آي سي و دوباره پروگرام کردن مشکلم حل شد ولي خرج برام گذاشت.</Sentence>
+      <Sentence ID="cr-4-7" Value="0">حالا اينکه همه دستگاه ها با يه متد کپي خور ميشن و ممکنه اين مشکل براي همشون تکرار بشه يا نه رو من نميدونم.</Sentence>
+      <Sentence ID="cr-4-8" Value="-1">ولي براي حل اين مشکل من مجبور شدم از شيراز دستگاه رو ببرم تهران و کلي هم از وقتم گرفته بشه.</Sentence>
+      <Sentence ID="cr-4-9" Value="0">تصور کنين که 12 تا بازي جلوتون باشه و فقط دو تاشون اونم نصفه نيمه باز بشه!</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="32" />
+  <Performance Value="7.50" />
+  <Capability Value="7.50" />
+  <Production_Quality Value="7.50" />
+  <Ergonomics Value="7.60" />
+  <Purchase_Value Value="7.50" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="کنسول" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10032" Root="کنسول" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="پلاستیک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="جنس پلاستیک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="براقی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="پردازشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="سرعت پردازش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="گرافیک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="اما" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="سخت افزار" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="کنسول" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10046" Root="کنسول" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="ظاهر" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="قيمت بازي" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="کنسول" Relation="gr-12" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="بازي" Relation="gr-12" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="کنسول" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="قيمت بازي" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10069" Root="کنسول" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="خريد" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID10075" Root="طراحي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10078" Root="اجرا" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10084" Root="انتخاب" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10087" Root="بازي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10090" Root="امکانات سخت افزاري" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10093" Root="بازي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="کنسول" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="قيمت بازی" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="بازي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100106" Root="گرافيک" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100109" Root="دسته" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100112" Root="طراحي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100115" Root="عملکرد" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100118" Root="فن" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100121" Root="عملکرد کینکت" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100124" Root="لنز" Relation="cr-3" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,41,46]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,34,40]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[gr-2-2,49,54]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[gr-2-2,55,62]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[gr-2-2,164,168]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[gr-2-2,184,196]" Relation="tagID10035" Value="+" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[gr-2-2,206,216]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-6,83,91]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-6,107,111]" Relation="tagID1005" Value="+" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-6,95,104]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-7,15,22]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-7,23,27]" Relation="tagID1008" Value="+" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-7,30,34]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-7,38,41]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-7,42,51]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-8,67,72]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-8,76,87]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-10,0,3]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-10,41,45]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-15,0,8]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-15,9,16]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-15,155,166]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-15,167,172]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-15,175,181]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-15,182,186]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-16,25,31]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-16,69,82]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[gr-3-1,75,78]" Relation="elementID10038" Value="" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[gr-3-1,24,34]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[gr-3-1,61,72]" Relation="tagID10041" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[gr-5-1,10,15]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[gr-5-1,16,26]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[gr-8-2,18,23]" Relation="elementID10046" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[gr-8-2,24,28]" Relation="tagID10047" Value="+" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[gr-8-2,34,44]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[gr-8-2,50,54]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[gr-8-2,55,67]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[gr-10-2,18,31]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[gr-10-2,36,44]" Relation="tagID10054" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[gr-12-1,13,17]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[gr-12-1,18,23]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[gr-12-1,28,36]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[gr-12-1,40,46]" Relation="tagID10060" Value="+" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[gr-12-1,50,58]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[gr-13-1,14,23]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[gr-13-1,7,13]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[gr-13-1,47,60]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[gr-13-1,73,78]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[gr-14-1,7,12]" Relation="elementID10069" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[gr-14-1,0,6]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[gr-14-1,113,117]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[gr-14-1,128,132]" Relation="tagID10073" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10076" Coordinate="[cr-1-2,36,41]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[cr-1-2,29,35]" Relation="tagID10076" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[cr-1-3,7,12]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[cr-1-3,13,21]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10082" Coordinate="[cr-1-3,27,32]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[cr-1-3,33,39]" Relation="tagID10082" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10079" Coordinate="[cr-1-2,274,279]" Relation="elementID10078" Value="" />
+    <Tag Type="Target(I)" ID="tagID10085" Coordinate="[cr-1-3,56,62]" Relation="elementID10084" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[cr-1-3,63,67]" Relation="tagID10085" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10088" Coordinate="[cr-1-6,88,92]" Relation="elementID10087" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[cr-1-6,99,106]" Relation="tagID10088" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10091" Coordinate="[cr-2-1,257,275]" Relation="elementID10090" Value="" />
+    <Tag Type="Opinion" ID="tagID10092" Coordinate="[cr-2-1,276,283]" Relation="tagID10091" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10094" Coordinate="[cr-2-1,326,334]" Relation="elementID10093" Value="" />
+    <Tag Type="Opinion" ID="tagID10095" Coordinate="[cr-2-1,365,370]" Relation="tagID10094" Value="+" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[cr-2-1,381,389]" Relation="tagID10094" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[cr-2-1,805,814]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[cr-2-1,815,825]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[cr-3-1,40,44]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[cr-3-1,45,50]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[cr-3-1,0,8]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[cr-3-1,9,14]" Relation="tagID100104" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100107" Coordinate="[cr-3-2,0,6]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[cr-3-2,7,11]" Relation="tagID100107" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100110" Coordinate="[cr-3-5,0,8]" Relation="elementID100109" Value="" />
+    <Tag Type="Opinion" ID="tagID100111" Coordinate="[cr-3-5,9,17]" Relation="tagID100110" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[cr-3-9,0,5]" Relation="elementID100112" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[cr-3-9,6,14]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[cr-3-10,0,6]" Relation="elementID100115" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[cr-3-10,7,17]" Relation="tagID100116" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100119" Coordinate="[cr-3-10,31,33]" Relation="elementID100118" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[cr-3-10,34,41]" Relation="tagID100119" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100122" Coordinate="[cr-3-11,0,6]" Relation="elementID100121" Value="" />
+    <Tag Type="Opinion" ID="tagID100123" Coordinate="[cr-3-11,7,11]" Relation="tagID100122" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100125" Coordinate="[cr-3-12,38,44]" Relation="elementID100124" Value="" />
+    <Tag Type="Opinion" ID="tagID100126" Coordinate="[cr-3-12,45,52]" Relation="tagID100125" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,172,178]" Value="" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,179,182]" Value="" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-1,0,4]" Value="" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-1,5,8]" Value="" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-1,108,115]" Value="-" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-1,131,134]" Value="" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-2,34,40]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-2,103,106]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-2,145,148]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-2,131,140]" Value="" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-5,93,97]" Value="-" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-5,98,101]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-5,138,145]" Value="-" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-6,136,142]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-6,143,151]" Value="" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-6,168,174]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-6,107,111]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-6,100,104]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-7,23,27]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-7,30,34]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-7,42,51]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-7,55,59]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-8,76,87]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-8,95,103]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-8,132,135]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-9,54,60]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-9,61,64]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-10,41,45]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-12,39,50]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-15,9,16]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-15,167,172]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-15,148,152]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-15,182,186]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-15,256,261]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-15,262,265]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-16,69,82]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-16,83,86]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-17,198,203]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-17,204,210]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-17,155,162]" Value="" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-17,211,215]" Value="" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-17,347,352]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-17,353,359]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-20,10,19]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-20,20,30]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-20,39,43]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-20,105,112]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-20,113,119]" Value="" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-20,120,124]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-20,127,134]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-20,139,146]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-20,199,202]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-23,83,90]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-23,93,101]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-1-1,24,27]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-1-1,28,31]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-2-1,21,34]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-2-1,50,60]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[gr-2-1,13,20]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-2-2,55,62]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-2-2,184,196]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-2-2,206,216]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-2-2,40,42]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-2-2,43,48]" Value="-" />
+    <Keyword ID="keywordID100122" Coordinate="[cr-1-1,54,63]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[cr-1-1,30,38]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[cr-1-1,78,85]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-3-3,57,63]" Value="" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-4-1,39,43]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-5-1,16,26]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-5-1,27,30]" Value="" />
+    <Keyword ID="keywordID10071" Coordinate="[gr-5-1,31,34]" Value="" />
+    <Keyword ID="keywordID10072" Coordinate="[gr-5-3,0,9]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[gr-7-1,41,47]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[gr-7-1,48,52]" Value="-" />
+    <Keyword ID="keywordID10075" Coordinate="[gr-7-2,0,11]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[gr-8-1,129,135]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-8-1,109,116]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-8-2,24,28]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-8-2,34,44]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-8-2,55,67]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-8-2,146,149]" Value="" />
+    <Keyword ID="keywordID10082" Coordinate="[gr-8-2,192,203]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-8-2,274,280]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-8-2,298,300]" Value="-" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-8-2,301,306]" Value="-" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-8-2,307,312]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-8-2,319,323]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-8-2,324,328]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-9-1,11,18]" Value="-" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-9-1,0,3]" Value="" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-9-1,27,31]" Value="" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-9-1,84,89]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-9-1,162,169]" Value="-" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-10-2,64,70]" Value="-" />
+    <Keyword ID="keywordID10095" Coordinate="[gr-10-2,71,75]" Value="-" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-10-2,50,53]" Value="" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-10-2,13,17]" Value="" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-10-2,36,44]" Value="-" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-10-2,180,190]" Value="-" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-10-2,150,154]" Value="-" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-11-2,0,14]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-12-1,18,23]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-12-1,40,46]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-12-1,50,58]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-12-2,182,189]" Value="-" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-12-2,168,171]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-13-1,7,13]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-13-1,73,78]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-13-1,117,121]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-14-1,0,6]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-14-1,128,132]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-14-1,168,174]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-14-1,219,223]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-14-1,524,530]" Value="-" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-14-1,584,587]" Value="-" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-14-1,845,855]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-14-1,856,862]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-6-1,53,61]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-6-1,68,75]" Value="-" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-6-1,99,104]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-6-1,105,108]" Value="" />
+    <Keyword ID="keywordID100125" Coordinate="[cr-1-1,49,53]" Value="" />
+    <Keyword ID="keywordID100126" Coordinate="[cr-1-2,0,6]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[cr-1-2,7,14]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[cr-1-2,29,35]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[cr-1-2,149,159]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[cr-1-2,162,173]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[cr-1-2,231,237]" Value="-" />
+    <Keyword ID="keywordID100132" Coordinate="[cr-1-2,242,248]" Value="-" />
+    <Keyword ID="keywordID100133" Coordinate="[cr-1-2,280,287]" Value="-" />
+    <Keyword ID="keywordID100134" Coordinate="[cr-1-2,288,295]" Value="" />
+    <Keyword ID="keywordID100135" Coordinate="[cr-1-2,209,212]" Value="" />
+    <Keyword ID="keywordID100136" Coordinate="[cr-1-3,0,3]" Value="" />
+    <Keyword ID="keywordID100137" Coordinate="[cr-1-3,13,21]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[cr-1-3,33,39]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[cr-1-3,63,67]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[cr-1-3,43,47]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[cr-1-3,48,55]" Value="+" />
+    <Keyword ID="keywordID100142" Coordinate="[cr-1-4,0,4]" Value="-" />
+    <Keyword ID="keywordID100143" Coordinate="[cr-1-4,84,86]" Value="-" />
+    <Keyword ID="keywordID100144" Coordinate="[cr-1-4,87,94]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[cr-1-4,176,186]" Value="+" />
+    <Keyword ID="keywordID100146" Coordinate="[cr-1-4,187,191]" Value="" />
+    <Keyword ID="keywordID100147" Coordinate="[cr-1-4,192,199]" Value="+" />
+    <Keyword ID="keywordID100148" Coordinate="[cr-1-4,95,98]" Value="" />
+    <Keyword ID="keywordID100149" Coordinate="[cr-1-6,99,106]" Value="+" />
+    <Keyword ID="keywordID100150" Coordinate="[cr-2-1,26,30]" Value="+" />
+    <Keyword ID="keywordID100151" Coordinate="[cr-2-1,31,35]" Value="+" />
+    <Keyword ID="keywordID100152" Coordinate="[cr-2-1,131,135]" Value="" />
+    <Keyword ID="keywordID100153" Coordinate="[cr-2-1,247,250]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[cr-2-1,276,283]" Value="+" />
+    <Keyword ID="keywordID100155" Coordinate="[cr-2-1,365,370]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[cr-2-1,320,325]" Value="" />
+    <Keyword ID="keywordID100157" Coordinate="[cr-2-1,381,389]" Value="+" />
+    <Keyword ID="keywordID100158" Coordinate="[cr-2-1,465,470]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[cr-2-1,561,565]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[cr-2-1,815,825]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[cr-3-1,45,50]" Value="+" />
+    <Keyword ID="keywordID100162" Coordinate="[cr-3-1,9,14]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[cr-3-1,15,19]" Value="+" />
+    <Keyword ID="keywordID100164" Coordinate="[cr-3-1,64,69]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[cr-3-2,7,11]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[cr-3-2,12,16]" Value="+" />
+    <Keyword ID="keywordID100167" Coordinate="[cr-3-2,32,35]" Value="-" />
+    <Keyword ID="keywordID100168" Coordinate="[cr-3-2,36,42]" Value="-" />
+    <Keyword ID="keywordID100169" Coordinate="[cr-3-2,46,49]" Value="-" />
+    <Keyword ID="keywordID100170" Coordinate="[cr-3-2,55,60]" Value="-" />
+    <Keyword ID="keywordID100171" Coordinate="[cr-3-2,27,31]" Value="" />
+    <Keyword ID="keywordID100172" Coordinate="[cr-3-3,18,21]" Value="+" />
+    <Keyword ID="keywordID100173" Coordinate="[cr-3-3,14,17]" Value="" />
+    <Keyword ID="keywordID100174" Coordinate="[cr-3-4,79,94]" Value="+" />
+    <Keyword ID="keywordID100175" Coordinate="[cr-3-5,9,17]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[cr-3-5,18,22]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[cr-3-5,25,34]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[cr-3-7,4,9]" Value="+" />
+    <Keyword ID="keywordID100179" Coordinate="[cr-3-7,0,3]" Value="" />
+    <Keyword ID="keywordID100180" Coordinate="[cr-3-7,111,115]" Value="+" />
+    <Keyword ID="keywordID100181" Coordinate="[cr-3-9,6,14]" Value="+" />
+    <Keyword ID="keywordID100182" Coordinate="[cr-3-10,7,17]" Value="+" />
+    <Keyword ID="keywordID100183" Coordinate="[cr-3-10,34,41]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[cr-3-10,68,71]" Value="-" />
+    <Keyword ID="keywordID100185" Coordinate="[cr-3-10,72,77]" Value="-" />
+    <Keyword ID="keywordID100186" Coordinate="[cr-3-10,84,89]" Value="-" />
+    <Keyword ID="keywordID100187" Coordinate="[cr-3-11,7,11]" Value="+" />
+    <Keyword ID="keywordID100188" Coordinate="[cr-3-11,43,52]" Value="+" />
+    <Keyword ID="keywordID100189" Coordinate="[cr-3-11,74,79]" Value="+" />
+    <Keyword ID="keywordID100190" Coordinate="[cr-3-12,45,52]" Value="-" />
+    <Keyword ID="keywordID100191" Coordinate="[cr-3-12,67,72]" Value="" />
+    <Keyword ID="keywordID100192" Coordinate="[cr-3-12,56,61]" Value="-" />
+    <Keyword ID="keywordID100193" Coordinate="[cr-3-12,62,66]" Value="-" />
+    <Keyword ID="keywordID100194" Coordinate="[cr-3-12,0,5]" Value="" />
+    <Keyword ID="keywordID100195" Coordinate="[cr-4-1,46,55]" Value="-" />
+    <Keyword ID="keywordID100196" Coordinate="[cr-4-1,7,14]" Value="-" />
+    <Keyword ID="keywordID100197" Coordinate="[cr-4-2,72,76]" Value="-" />
+    <Keyword ID="keywordID100198" Coordinate="[cr-4-2,77,81]" Value="+" />
+    <Keyword ID="keywordID100199" Coordinate="[cr-4-2,92,96]" Value="" />
+    <Keyword ID="keywordID100200" Coordinate="[cr-4-2,97,104]" Value="-" />
+    <Keyword ID="keywordID100201" Coordinate="[cr-4-2,127,130]" Value="-" />
+    <Keyword ID="keywordID100202" Coordinate="[cr-4-2,131,136]" Value="" />
+    <Keyword ID="keywordID100203" Coordinate="[cr-4-3,93,100]" Value="-" />
+    <Keyword ID="keywordID100204" Coordinate="[cr-4-3,18,20]" Value="-" />
+    <Keyword ID="keywordID100206" Coordinate="[cr-4-5,30,34]" Value="-" />
+    <Keyword ID="keywordID100207" Coordinate="[cr-4-5,0,5]" Value="" />
+    <Keyword ID="keywordID100208" Coordinate="[cr-4-6,47,49]" Value="+" />
+    <Keyword ID="keywordID100209" Coordinate="[cr-4-6,53,56]" Value="" />
+    <Keyword ID="keywordID100210" Coordinate="[cr-4-6,57,60]" Value="-" />
+    <Keyword ID="keywordID100211" Coordinate="[cr-4-8,24,29]" Value="-" />
+    <Keyword ID="keywordID100212" Coordinate="[cr-4-8,0,3]" Value="" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="213" />
+    <Tag_Index Value="127" />
+  </Index>
+</Product>

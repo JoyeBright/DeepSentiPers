@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Asus X43SD" Type="Notebook">
+  <Accessories>
+    <Accessory Name="Acron USB Hub UH93" Price="28000" />
+    <Accessory Name="مجموعه نرم‌افزاري سافت رويد Softroid Android Package" Price="23000" />
+    <Accessory Name="خدمات نرم افزاري: نصب ويندوز 7 و درايورهاي لپ تاپ" Price="29000" />
+    <Accessory Name="ماوس با سيم لپ تاپي سوني Sony VGP-UMS20" Price="28000" />
+    <Accessory Name="بسته رايانه امن ارگ" Price="75000" />
+    <Accessory Name="پايه خنک کننده DeepCool E-Golf" Price="12000" />
+    <Accessory Name="پايه خنک کننده فن دار DeepCool N1" Price="45000" />
+    <Accessory Name="کيت تميز کننده Soyntec Clean See 300" Price="17000" />
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+    <Accessory Name="شارژر همراه Energizer AP750" Price="70000" />
+    <Accessory Name="شارژر همراه HuntKey PBB4400" Price="95000" />
+    <Accessory Name="شارژر باتري نوت بوک HuntKey 90W Slim" Price="99000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="کارت تلويزيون ديجيتال ماي‌گيکا Mygica T119-3D" Price="49000" />
+  </Accessories>
+  <Features>
+    <Feature Name="نوع ">معمولی</Feature>
+    <Feature Name="ابعاد ">348 × 242 × 37 mm</Feature>
+    <Feature Name="وزن ">2.3 کیلوگرم</Feature>
+    <Feature Name="رنگ ">مشکی، قهوه‌ای</Feature>
+    <Feature Name="سازنده پردازنده ">Intel</Feature>
+    <Feature Name="مدل پردازنده ">2450M 2.5 GHz</Feature>
+    <Feature Name="نوع پردازنده ">Core i5</Feature>
+    <Feature Name="سرعت پردازنده ">3.1 GHz</Feature>
+    <Feature Name="حافظه Cache ">3 MB</Feature>
+    <Feature Name="سرعت BUS ">1333 MHz</Feature>
+    <Feature Name="حافظه رم ">4 GB</Feature>
+    <Feature Name="نوع حافظه رم ">DDR3</Feature>
+    <Feature Name="ظرفیت هارد دیسک ">750 GB</Feature>
+    <Feature Name="مشخصات هارد دیسک ">5400RPM</Feature>
+    <Feature Name="سازنده کارت گرافیک ">Nvidia</Feature>
+    <Feature Name="مدل کارت گرافیک ">GeForce GT 610M DDR3</Feature>
+    <Feature Name="حافظه اختصاصی کارت گرافیک ">2048 MB</Feature>
+    <Feature Name="کل حافظه گرافیکی ">4096 MB</Feature>
+    <Feature Name="اندازه صفحه نمایش ">14"</Feature>
+    <Feature Name="صفحه نمایش براق ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LED</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">HD LED Backlight</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">1366x768</Feature>
+    <Feature Name="درایو نوری ">DVD-RW</Feature>
+    <Feature Name="توضیحات درایو نوری ">DVD±RW Super-Multi</Feature>
+    <Feature Name="مودم ">فاقد مودم</Feature>
+    <Feature Name="بلوتوث ">بلوتوث داخلی</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">0.3 مگاپیکسل</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای داخلی استریو از نوع Altec Lansing</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="شبکه LAN ">بلی</Feature>
+    <Feature Name="توضیحات شبکه LAN ">10/100/1000</Feature>
+    <Feature Name="شبکه بی سیم Wireless ">بلی</Feature>
+    <Feature Name="تعداد پورت USB 2.0 ">2</Feature>
+    <Feature Name="تعداد پورت USB 3.0 ">1</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wireless ">802.11b/g/n</Feature>
+    <Feature Name="پورت فایروایر 1394 یا iLink ">خیر</Feature>
+    <Feature Name="پورت HDMI ">بلی</Feature>
+    <Feature Name="پورت خروجی VGA ">بلی</Feature>
+    <Feature Name="پورت S-Video ">خیر</Feature>
+    <Feature Name="پورت Serial ">خیر</Feature>
+    <Feature Name="پورت PCMCIA ">خیر</Feature>
+    <Feature Name="پورت Express Card ">خیر</Feature>
+    <Feature Name="Expansion Port ">خیر</Feature>
+    <Feature Name="نوع باتری ">6 سلولی</Feature>
+    <Feature Name="توضیحات باتری ">باتری استاندارد لیتیوم یون 5200 میلی‌آمپری ((Standard Lithium Ion Battery (5200mAh 56Whrs)</Feature>
+    <Feature Name="کارکرد باتری ">4.5 ساعت</Feature>
+    <Feature Name="سیستم عامل ">DOS</Feature>
+    <Feature Name="امکانات دیگر ">دارای صفحه کلید فارسیمجهز به تکنولوژی Instant On جهت روشن شدن سریعقاب دور کیبورد از جنس آلومینیوم ضد خش و مستحکممجهز به تکنولوژی IceCool برای خنک نگه داشتن قسمت جلویی لپ‌تاپ (جایی که دست قرار می‌گیرد)</Feature>
+    <Feature Name="اقلام همراه لپ تاپ ">باتری لیتیومیشارژرکابل برقدفترچه راهنماسی دی ها</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+2">• طراحی و ساخت همان‌طور که گفتیم،  ASUS X کیفیت ساختی بسیار بالا دارد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">تمام قسمت پشتی درب و قسمت درونی از پلاستیک ساخته شده ولی قسمت استراحت مچ از فلز آلومینیوم ساخته شده است تا با اینکه لپ‌تاپی در سطح کاربری عام و رده‌ی کاربری عام است،  کیفیتی بالاتر از رقبای هم سطح خود را ارائه دهد.</Sentence>
+    <Sentence ID="rev-3" Value="+1">به هر صورت نمی‌توانیم خوشحالی خود را از این موضوع پنهان کنیم.</Sentence>
+    <Sentence ID="rev-4" Value="0">به خصوص اینکه در قسمت استراحت مچ و پشت درب،  طراحی الگو داری نیز دارد تا با سطحی کاملا صیقلی مواجه نباشیم.</Sentence>
+    <Sentence ID="rev-5" Value="0">سری X از یک فن آوری به نام IceCool یا "سرد یخی" بهره می‌برد که کمپانی ایسوس تبلیغات زیادی را نیز بر روی آن انجام داده است.</Sentence>
+    <Sentence ID="rev-6" Value="+1">بدین ترتیب که هیچ گاه و حتی در زمان استفاده زیاد و استرس شدید بر روی لپ‌تاپ،  دمای قسمت استراحت مچ و صفحه کلید بالا نمی‌رود و همواره کاملا خنک است.</Sentence>
+    <Sentence ID="rev-7" Value="+1">در حقیقت ASUS یک طراحی نوین را در این جا به کار برده که از MotherBoard دو قسمتی استفاده می‌کند و به کمک لوله‌ها و پنجره‌های تهویه گرمای تولید شده را خیلی سریع دفع می‌نماید.</Sentence>
+    <Sentence ID="rev-8" Value="+1">دمای صفحه کلید و قسمت استراحت مچ همواره پایین‌تر از قسمت‌های دیگر بدنه است.</Sentence>
+    <Sentence ID="rev-9" Value="+2">• ورودی‌ها و خروجی‌ها خوشبختانه از نظر پورت‌ها و اتصالات،  شاهد یک پورت بسیار دوست داشتنی بر روی سری X هستیم و آن پورت USB 3.0 است.</Sentence>
+    <Sentence ID="rev-10" Value="-1">البته این پورت بر روی تمام مدل‌ها وجود ندارد و بعضی از مدل‌های ارزان‌تر مانند X44LY یا X53E،  فاقد این پورت می‌باشند.</Sentence>
+    <Sentence ID="rev-11" Value="0">اما تمام مدل‌ها دارای ورودی و خروجی صوتی،  خروجی تصویری VGA و یک پورت شبکه LAN می‌باشند.</Sentence>
+    <Sentence ID="rev-12" Value="+1">مدل‌های گران‌تر به خروجی تصویری HDMI نیز مجهز هستند که به کمک آن می‌توانید نوت‌بوک خود را به HDTV متصل کنید.</Sentence>
+    <Sentence ID="rev-13" Value="+1">• صفحه نمایش و بلندگوها نوت‌بوک‌های ASUS X،  در هر سایزی که باشند،  نوت‌بوک هایی مناسب برای انجام وظیفه به عنوان یک مرکز مالتی مدیا هستند.</Sentence>
+    <Sentence ID="rev-14" Value="+2">به خصوص اینکه؛ از نمایشگرهای LED با کیفیت بسیار بالا بهره می‌برند.</Sentence>
+    <Sentence ID="rev-15" Value="0">تمام مدل‌های 14.0 و 15.6 اینچی مجهز به نمایشگرهای با رزولوشن 1366x768 پیکسل می‌باشند.</Sentence>
+    <Sentence ID="rev-16" Value="+2">در کل کیفیت نمایشگرها نسبت به رده‌ای که نوت‌بوک‌ها در آن قرار دارند بسیار عالیست.</Sentence>
+    <Sentence ID="rev-17" Value="+2">رنگ‌های تولید شده بسیار زنده و طبیعی بوده و روشنایی صفحه نمایش بسیار خوب است.</Sentence>
+    <Sentence ID="rev-18" Value="-2">شاید تنها نقطه ضعف صفحه نمایش را بتوان زاویه‌ی دید عمودی محدود آن دانست به طوری که اگر کمی از بالا یا پایین به صفحه نگاه کنید،  افت چشمگیری در کیفیت تصویر مشاهده خواهید کرد.</Sentence>
+    <Sentence ID="rev-19" Value="+2">تمام نوت‌بوک‌های سری X مجهز به بلندگوهای قدرتمند ساخت کمپانی Altec Lansing می‌باشند تا صدایی قدرتمند را تولید کنند.</Sentence>
+    <Sentence ID="rev-20" Value="+2">• کیبورد و تاچ پد صفحه کلید هرچند که از نوع مدرن‌تر جزیره ای با کلیدهای جدا از هم جزیره‌ای نیست،  ولی عملکرد بسیار خوبی دارد.</Sentence>
+    <Sentence ID="rev-21" Value="+2">با این حال صفحه کلید ASUS X نیز کاملا دوست داشتنی است.</Sentence>
+    <Sentence ID="rev-22" Value="+1">شاسی آن در هیچ جا تحت فشار خم نمی‌شود و خود کلیدها نیز آستانه و عمق عملکرد خوبی دارند.</Sentence>
+    <Sentence ID="rev-23" Value="+1">تاچ پد نیز چندان بزرگ نیست،  ولی حساس ساخته شده است.</Sentence>
+    <Sentence ID="rev-24" Value="+2">این تاچ پد از نوع مالتی تاچ می‌باشد و عملکردی کاملا استاندارد و صحیح را از خود به نمایش می‌گذارد.</Sentence>
+    <Sentence ID="rev-25" Value="0">در این جا نیز شاهد یک فن آوری جدید به نام Palm Proof هستیم.</Sentence>
+    <Sentence ID="rev-26" Value="0">بدین ترتیب که اگر در حال تایپ کردن در یک وسیله‌ی نقلیه باشید،  ممکن است در اثر تکان‌ها،  قسمت پایین کف دست شما مرتبا به تاچ پد برخورد کند و عمل کلیک انجام شود.</Sentence>
+    <Sentence ID="rev-27" Value="0">در بیشتر نوت‌بوک‌ها این مسئله با خاموش کردن موقتی تاچ پد حل می‌شود.</Sentence>
+    <Sentence ID="rev-28" Value="+1">اما ASUS راه حل جدیدی را اندیشیده است.</Sentence>
+    <Sentence ID="rev-29" Value="+1">به طوری که با استفاده از فن آوری نوین Palm Proof،  این تاچ پد توانایی تشخیص بین ضربات انگشت برای کلیک و ضربات انتهای کف دست را دارد تا به ضربات انتهای کف دست ترتیب اثر ندهد.</Sentence>
+    <Sentence ID="rev-30" Value="+2">• سخت افزار داخلی همان‌طور که گفتیم این نوت‌بوک‌ها در کانفیگ های نسبتا متنوع و البته قدرتمندی ساخته شده است.</Sentence>
+    <Sentence ID="rev-31" Value="0">اکثر کانفیگ ها از پردازنده های Core کمپانی اینتل یا پردازنده های چهار هسته ای سری A کمپانی AMD بهره می‌برند.</Sentence>
+    <Sentence ID="rev-32" Value="+2">پردازنده‌ی Core i7 که قدرتمندترین آن‌هاست،  پردازنده ای ذاتا چهار هسته ای با توان تولید چهار هسته‌ی مجازی و کارکرد با مجموع هشت هسته است (تکنولوژی Hyper-Threading) که عملکردی کم نظیر را ارایه می‌دهد.</Sentence>
+    <Sentence ID="rev-33" Value="0">پردازنده های Core i5 و Core i3 نیز ذاتا دو هسته ای با توان ساختن دو هسته‌ی مجازی دیگر هستند.</Sentence>
+    <Sentence ID="rev-34" Value="0">همچنین در کانفیگ هایی از مدل‌های چهار هسته ای سری A پردازنده های AMD نیز استفاده شده.</Sentence>
+    <Sentence ID="rev-35" Value="+2">مزیت این نوع پردازنده‌ها بیشتر در ارایه ی قابلیت‌های فوق‌العاده در مالتی تسکینگ یا انجام چند وظیفه به صورت همزمان است که بر عملکرد عمومی و سرعت پردازش تاثیر بسزایی دارد.</Sentence>
+    <Sentence ID="rev-36" Value="0">اما مدل‌های ارزان‌تری نیز با پردازنده های دو هسته ای ضعیف‌تر و کم مصرف‌تر Intel Pentium و Intel Celeron وجود دارند.</Sentence>
+    <Sentence ID="rev-37" Value="+1">این پردازنده‌ها بسیار ضعیف‌تر از پردازنده های Intel Core هستند ولی در عوض مدل‌های مبتنی بر این پردازنده‌ها،  بسیار ارزان‌تر بوده و مصرف انرژی کمتری نیز دارند.</Sentence>
+    <Sentence ID="rev-38" Value="0">علاوه بر پردازنده،  ASUS X در کانفیگ هایی با گرافیک‌های کاملا On-Board تا با کارت گرافیکی مستقل نیز موجود می‌باشد.</Sentence>
+    <Sentence ID="rev-39" Value="0">بر روی این نوت‌بوک‌ها می‌توانید کارت‌های گرافیکی AMD Radeon سری 5000،  6000 و 7000 و یا NVIDIA GeForce سری GT 500M و GT 600M را بیابید.</Sentence>
+    <Sentence ID="rev-40" Value="+1">اگر به دنبال انجام کارهای گرافیکی سنگین و یا انجام بازی‌های رایانه‌ای هستید،  کانفیگ‌های با گرافیک مستقل انتخاب‌های خوبی هستند.</Sentence>
+    <Sentence ID="rev-41" Value="+2">از نظر حافظه‌ی RAM و هارد دیسک نیز،  ASUS X در تنوع خیلی خوبی موجود می‌باشد.</Sentence>
+    <Sentence ID="rev-42" Value="0">شما می‌توانید از مدل‌هایی بین حافظه‌ی رم 2 تا 8 گیگابایت انتخاب کنید.</Sentence>
+    <Sentence ID="rev-43" Value="0">حافظه‌ی رم بیشتر به خصوص در باز کردن چند برنامه به صورت همزمان،  و مثلا کار کردن با چند برنامه‌ی گرافیکی کاملا به کار می‌آید.</Sentence>
+    <Sentence ID="rev-44" Value="+1">وب کم این نوت‌بوک‌ها رزولوشن VGA را ارایه می‌دهد که رزولوشن چندان بالایی نیست ولی به هر صورت برای مکالمه‌های ویدیویی مناسب است.</Sentence>
+    <Sentence ID="rev-45" Value="0">ASUS همراه سری X یک باتری شش سلولی ارائه کرده است.</Sentence>
+    <Sentence ID="rev-46" Value="+1">عملکرد این باتری در مدل‌های مختلف بسته به سایز صفحه نمایش و نوع سخت افزار داخلی،  متفاوت است اما در کل از شارژدهی باتری راضی بودیم.</Sentence>
+    <Sentence ID="rev-47" Value="+1">برای مثال مدل X53SV که دارای صفحه نمایش 15.6 اینچی بوده و از پردازنده‌ی دو هسته ای Intel Core i5 و کارت گرافیک NVIDIA GeForce GT 540M بهره می‌برد،  در تست مرورگری اینترنت از طریق Wi-Fi با روشنایی متوسط صفحه نمایش،  توانست بیش از 4 ساعت و 15 دقیقه شارژدهی کند که میزان نسبتا خوبیست.</Sentence>
+    <Sentence ID="rev-48" Value="+2">همین مدل،  در تست تماشای ویدئو توانست نزدیک به سه ساعت و نیم شارژدهی کند که کاملا رضایت بخش است.</Sentence>
+    <Sentence ID="rev-49" Value="+1">• جمع بندی به هر صورت همان‌طور که گفتیم،  ASUS X سری نوت‌بوکی در رده‌ی کاربری عام،  با مشتری‌های متنوع با نیازهای متفاوت و قیمت مناسب است.</Sentence>
+    <Sentence ID="rev-50" Value="+2">اگر طراحی و کیفیت بسیار عالی ASUS را می‌پسندید و در ضمن قصد دارید تا نوت‌بوکی با سخت افزارهای مورد نیاز و سایز مناسب خود را داشته باشید،  ASUS X انتخاب خوبیست.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>طراحی شیک و مدرن</Advantage>
+    <Advantage>کیفیت ساخت بالا</Advantage>
+    <Advantage>بهره گیری از بدنه‌ی با کیفیت در رنگ‌های مختلف</Advantage>
+    <Advantage>سیستم خنک کنندگی پیشرفته‌ی IceCool</Advantage>
+    <Advantage>کیبورد بسیار خوب</Advantage>
+    <Advantage>تاچ پد مجهز به فناوری Palm Proof</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="اميررضا حسين زاده " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">من تازه گرفتم لب تاب خوبي نسبت به قيمتش </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="imanrabbi " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">خيلي لپ تاپ خوبيه بهتون پيشنهاد مي کنم که بخريد من ازش دارم و راضي هستم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="محمد حسين مشتهي " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">من همه چيزش و چک کردم خيلي خوبه گرافيکشم خوبه بازي ها رو راحت و روان مياره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="امير حسين ترابي " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">من که دارم همه چيزش عاليه فقط باتريش خيلي قوي نيست معموليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="محمد حسين مشتهي " Value="0">
+      <Sentence ID="gr-5-1" Value="0">من که از همين جا خريدم منتظرم به دستم برسه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="abasi " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">سلام خيلي خوبه بخرين.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="سيد محسن احمدي " Value="-1">
+      <Sentence ID="gr-7-1" Value="-1">کاش صفحه کليدش کامل بود اونوقت ديگه هيچي کم نداشت 
+</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="14" />
+  <Performance Value="8.30" />
+  <Capability Value="7.90" />
+  <Production_Quality Value="8.20" />
+  <Ergonomics Value="8.00" />
+  <Purchase_Value Value="7.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="کیفیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="دما" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="پورت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="نوت بوک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="روشنایی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="بلندگو" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="صفحه کلید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="تاچ پد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="راه حل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="کانفیگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="پردازنده‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10075" Root="شارژدهی باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="قیمت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="مشتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="سایز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="انتخاب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10098" Root="لب تاب" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="لپ تاپ" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100105" Root="گرافيک" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="باتری" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="کیفیت نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100119" Root="عملکرد صفحه کلید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100124" Root="عملکرد تاچ‌پد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100128" Root="عملکرد پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100131" Root="قابلیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100134" Root="مصرف انرژی_2" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100137" Root="تنوع حافظه" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-1,42,53]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,54,64]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-2,167,173]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-2,174,180]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[rev-50,12,17]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[rev-50,18,28]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-6,78,82]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-6,133,142]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-8,0,4]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-8,40,48]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-7,17,22]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-7,23,27]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10088" Coordinate="[rev-50,4,9]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[rev-50,18,28]" Relation="tagID10088" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-9,67,71]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-9,72,89]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-13,68,80]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-13,81,86]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-17,0,7]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-17,18,28]" Relation="tagID10027" Value="+" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-17,31,36]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-17,44,51]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-17,63,72]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-19,31,40]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-19,41,48]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-19,87,92]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-19,93,100]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[rev-21,11,20]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[rev-21,32,49]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-23,0,6]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-23,33,37]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-28,9,15]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-28,16,21]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-30,54,64]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-30,65,76]" Relation="tagID10059" Value="+" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-30,85,93]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-32,0,10]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-32,22,33]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-32,175,182]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-44,52,59]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-44,117,122]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10076" Coordinate="[rev-46,106,119]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[rev-46,120,124]" Relation="tagID10076" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-48,61,68]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-48,76,91]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100140" Coordinate="[rev-47,262,267]" Relation="elementID10075" Value="" />
+    <Tag Type="Opinion" ID="tagID100141" Coordinate="[rev-47,268,280]" Relation="tagID100140" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[rev-49,123,127]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-49,128,133]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-49,87,96]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-49,97,102]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-50,106,110]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-50,111,116]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[rev-50,145,151]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[rev-50,152,158]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[gr-1-1,14,20]" Relation="elementID10098" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[gr-1-1,21,25]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-2-1,5,11]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-2-1,12,17]" Relation="tagID100102" Value="+" />
+    <Tag Type="Opinion" ID="tagID100104" Coordinate="[gr-2-1,62,66]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100106" Coordinate="[gr-3-1,32,40]" Relation="elementID100105" Value="" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[gr-3-1,41,45]" Relation="tagID100106" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[gr-4-1,30,36]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[gr-4-1,51,58]" Relation="tagID100111" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[rev-14,36,41]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[rev-14,42,52]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100117" Coordinate="[rev-16,6,21]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[rev-16,68,80]" Relation="tagID100117" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100120" Coordinate="[rev-20,102,108]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100121" Coordinate="[rev-20,109,119]" Relation="tagID100120" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100122" Coordinate="[rev-22,68,74]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100123" Coordinate="[rev-22,75,79]" Relation="tagID100122" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100125" Coordinate="[rev-24,38,45]" Relation="elementID100124" Value="" />
+    <Tag Type="Opinion" ID="tagID100126" Coordinate="[rev-24,46,61]" Relation="tagID100125" Value="+" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[rev-24,64,68]" Relation="tagID100125" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[rev-32,167,174]" Relation="elementID100128" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[rev-32,175,182]" Relation="tagID100129" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100132" Coordinate="[rev-35,42,52]" Relation="elementID100131" Value="" />
+    <Tag Type="Opinion" ID="tagID100133" Coordinate="[rev-35,53,63]" Relation="tagID100132" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100135" Coordinate="[rev-37,131,141]" Relation="elementID100134" Value="" />
+    <Tag Type="Opinion" ID="tagID100136" Coordinate="[rev-37,142,147]" Relation="tagID100135" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100138" Coordinate="[rev-41,47,51]" Relation="elementID100137" Value="" />
+    <Tag Type="Opinion" ID="tagID100139" Coordinate="[rev-41,52,61]" Relation="tagID100138" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,54,64]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,174,180]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,22,29]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-6,133,142]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-7,23,27]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-8,40,48]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-9,72,89]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-9,22,31]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-10,94,98]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-13,81,86]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-16,68,80]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-17,18,28]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-17,31,36]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-17,63,72]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-18,15,18]" Value="-" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-18,57,62]" Value="-" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-18,128,131]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-19,41,48]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-21,32,49]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-23,33,37]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-28,16,21]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-24,46,61]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-24,64,68]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-29,62,69]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-30,65,76]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-30,85,93]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-32,22,33]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-32,175,182]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-35,0,4]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-35,53,63]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-44,117,122]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-46,120,124]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-47,268,280]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-48,76,91]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-49,128,133]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-49,97,102]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-50,18,28]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-50,111,116]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-50,152,158]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[gr-1-1,21,25]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[gr-2-1,12,17]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[gr-2-1,62,66]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[gr-3-1,41,45]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[gr-3-1,57,61]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-3-1,64,68]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-3-1,22,31]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-4-1,20,25]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-4-1,51,58]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-6-1,5,14]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-7,149,158]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-12,41,45]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-14,42,52]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-18,132,139]" Value="" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-20,109,119]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-20,98,101]" Value="" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-22,75,79]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-23,29,32]" Value="" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-37,16,29]" Value="-" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-37,63,66]" Value="" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-37,109,123]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-37,142,147]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-40,116,120]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-41,52,61]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-44,66,72]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-44,73,77]" Value="-" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-44,78,81]" Value="" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-2-1,0,4]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-4-1,37,45]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-4-1,46,50]" Value="-" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-7-1,0,3]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="81" />
+    <Tag_Index Value="142" />
+  </Index>
+</Product>

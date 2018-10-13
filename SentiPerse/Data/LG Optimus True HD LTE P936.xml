@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="LG Optimus True HD LTE P936" Type="Mobile">
+  <Accessories>
+    <Accessory Name="کار کيت بلوتوث Jabra Drive" Price="185000" />
+    <Accessory Name="مجموعه بهترين نرم افزارهاي آندرويد (8 عدد DVD)" Price="23000" />
+    <Accessory Name="مجموعه نرم افزار فارسي GPS اقليم (نسخه موبايل)" Price="24000" />
+    <Accessory Name="کارت حافظه MicroSD Card Transcend 8GB Class 4" Price="30000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="هندزفري بلوتوث Jabra EasyGo مشکي" Price="109000" />
+    <Accessory Name="کارت حافظه MicroSD Card ADATA 8GB Class 4" Price="25000" />
+    <Accessory Name="هندزفري بلوتوث Jabra BT2080" Price="89000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/08/01</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">133 × 68 × 10.4 mm</Feature>
+    <Feature Name="وزن ">135 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm APQ8060 Snapdragon, Dual-Core Scorpion, APQ8060+MDM9200</Feature>
+    <Feature Name="سرعت پردازنده ">1.5GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 220</Feature>
+    <Feature Name="حافظه RAM ">1024 مگابایت</Feature>
+    <Feature Name="حافظه ROM ">4096 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی microSD تا 32 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">16 GB</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 900 / 2100</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 21 Mbps; HSUPA, 5.76 Mbps; LTE, 50 Mbps UL, 100 Mbps DL</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 12 (4+1/3+2/2+3/1+4 slots), 32 - 48 kbps</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 b/g/n</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">With A-GPS support</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 12</Feature>
+    <Feature Name="NFC ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.0 همراه با A2DP, EDR</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع True HD IPS</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4.5 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">HD 1280 × 720</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم با کیفیت 1.3 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">Full HD 1080p 1920 × 1080</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD در ابعاد 1080 × 1920 پیکسل و با سرعت‌‌ 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">قابلیت تشخیص چهره و لبخند (Face and Smile Detection)قابلیت عکاسی پانوراما (Panorama)مودهای عکاسی : Normal, Panorama, Continuous Shotقابلیت ثبت موقعیت مکانی و زمانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">Polyphonic, MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">v2.3 Gingerbread</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML, Adobe Flash, Android Browser</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, AAC, AAC+, eAAC+, WAV, WMA</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4, H.263, H.264, DivX, Xvid, WMV</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد؛ با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر ژیروسکوپ (Gyroscope)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor for Auto Turn-Off)حسگر شتاب سنج برای چرخش خودکار تصویر  (Accelerometer Sensor For UI Auto-Rotate)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری لیتیوم-یون</Feature>
+    <Feature Name="ظرفیت باتری ">1830 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">250 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">4 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">TDMB TV Tunner(TV-Out (via MHL A/V linkقابلیت از بین بردن نویز و سر و صداهای اضافی با استفاده از میکروفن اختصاصی برای مکالمه‌ای بهتر (Active Noise Cancellation with Dedicated Mic)دارای برنامه ویرایش و نمایش تصاویر (Photo Viewer &amp; Editor)قابلیت نمایش مستندات (Document Viewer)دارای سازمان دهنده (Organizer)Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integrationVoice Memo/Dial/Commands(Predictive Text Input (Swype</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژرکابل USBدفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">طراحی این گوشی شبیه به بسیاری از گوشی‌های هوشمند موجود در بازار می‌باشد.</Sentence>
+    <Sentence ID="rev-2" Value="0">گوشه های منحنی دار،  کلید های خازنی مخصوص اندروید و دوربین دوم در قسمت جلویی به همراه دوربین اصلی و فلاش و لوگوی کارخانه در قسمت پشتی گوشی،  باعث گردیده که طراحی این گوشی برای کاربر بسیار آشنا به نظر برسد.</Sentence>
+    <Sentence ID="rev-3" Value="+1">ال‌جی با طراحی بافت دار قاب پشتی این گوشی،  علاوه بر زیبایی آن،  باعث افزایش اصطکاک سطح گوشی با دست و در نتیجه کاهش احتملا لیز خوردن گوشی از دست شده است.</Sentence>
+    <Sentence ID="rev-4" Value="0">همچنین قاب پشتی آن قابل باز شدن می‌باشد و به کاربر امکان تعویض باتری گوشی را می‌دهد.</Sentence>
+    <Sentence ID="rev-5" Value="+1">ابعاد مناسب True HD یعنی 68×133 میلی متر به همراه وزن 135 گرمی آن،  راحتی خاصی را به کاربر در حین کار کردن با آن می‌دهد.</Sentence>
+    <Sentence ID="rev-6" Value="0">البته عرض گوشی به گونه ایست که شاید بسیاری افراد نتوانند با یک دست با آن کار کنند.</Sentence>
+    <Sentence ID="rev-7" Value="0">صفحه نمایش به کار رفته بر روی این گوشی یک صفحه نمایش 4.5 اینچی لمسی خازنی از نوع True HD IPS می‌باشد که قابلیت نمایش 16 میلیون رنگ را نیز داراست.</Sentence>
+    <Sentence ID="rev-8" Value="+2">رزولوشن 1280×720 پیکسلی این صفحه نمایش باعث می‌گردد که متن‌ها در آن بسیار واضح و خوانا به نمایش درآیند.</Sentence>
+    <Sentence ID="rev-9" Value="0">با اینکه رنگ‌های این صفحه نمایش مانند SuperAMOLED ها چندان زنده و با طراوت به نظر نمی‌آیند،  اما وضوح و شفافیت آن‌ها بسیار مناسب ارزیابی می‌گردند.</Sentence>
+    <Sentence ID="rev-10" Value="+2">همچنین تراکم پیکسلی 326ppi این گوشی،  در بین رقبای اندرویدی دو هسته ای خود بسیار عالی  است.</Sentence>
+    <Sentence ID="rev-11" Value="+2">سخت افزار گوشی True HD یکی از برترین سخت افزار های در بین گوشی‌های 2 هسته ای به شمار می‌رود.</Sentence>
+    <Sentence ID="rev-12" Value="+1">این گوشی با پردازنده 1.5 گیگاهرتزی دو هسته ای از نوع Scorpion به همراه یک چیپ Qualcomm و پردازشگر گرافیکی Adreno 220 ،  به راحتی از پس تمامی دستورات شما بر خواهد آمد.</Sentence>
+    <Sentence ID="rev-13" Value="+1">همچنین وجود یک گیگابایت حافظه رم در کنار ین پردازنده،  باعث عملکرد روان‌تر گوشی خواهد شد.</Sentence>
+    <Sentence ID="rev-14" Value="0">اما حافظه داخلی این گوشی 16 گیگابایت است که با پشتیبانی گوشی از کارت حافظه microSD تا 32 گیگابایت دیگر نیز می‌توان به آن افزود.</Sentence>
+    <Sentence ID="rev-15" Value="+2">در تست‌های انجام شده،  این گوشی بدون هیچ مشکلی بازی‌های HD را نیز اجرا کرد و تقریبا می‌توان گفت که در اجرای تمامی برنامه‌ها،  بسیار روان عمل نمود.</Sentence>
+    <Sentence ID="rev-16" Value="0">از رقبای این گوشی می‌توان به Sony Xperia S و یا HTC One S اشاره نمود.</Sentence>
+    <Sentence ID="rev-17" Value="0">سیستم عامل این مدل،  نسخه 2.3 از سیستم عامل اندروید می‌باشد که همراه با رابط کاربری ال‌جی با نام S-Class بر روی گوشی قرار گرفته است.</Sentence>
+    <Sentence ID="rev-18" Value="0">طبق اعلام کمپانی ال‌جی،  به زودی نسخه 4 اندروید نیز برای این گوشی ارائه خواهد شد.</Sentence>
+    <Sentence ID="rev-19" Value="+2">رابط کاربری بسیار ساده و کاربردی و کیبورد مخصوص آن نیز بسیار خوب طراحی گردیده‌اند.</Sentence>
+    <Sentence ID="rev-20" Value="0">با وجود سیستم عامل اندروید،  قادر خواهید بود از هزاران برنامه موجود برای این سیستم عامل استفاده نمایید.</Sentence>
+    <Sentence ID="rev-21" Value="+1">به لطف سخت افزار مناسب و قابلیت‌های ارتباطی مختلف این گوشی مانند Wi-Fi،  GPRS،  HSDPA و..</Sentence>
+    <Sentence ID="rev-22" Value="+1">مرورگری اینترنت نیز در این گوشی با سرعت بالا انجام خواهد پذیرفت.</Sentence>
+    <Sentence ID="rev-23" Value="0">اما LG برای این گوشی چیپ NFC در نظر نگرفته است و بجای آن قابلیت جابجایی مالتی مدیا با DLNA را قرار داده است.</Sentence>
+    <Sentence ID="rev-24" Value="+1">اما از نظر قابلیت عکاسی،  ال‌جی برای این مدل چیزی کم نگذاشته است.</Sentence>
+    <Sentence ID="rev-25" Value="0">دوربین اصلی این گوشی دارای یک سنسور 8 مگاپیکسلی می‌باشد که قابلیت فیلم برداری با کیفیت FullHD  با سرعت 30 فریم بر ثانیه را نیز داراست.</Sentence>
+    <Sentence ID="rev-26" Value="0">از دیگر قابلیت‌های دوربین این گوشی می‌توان به قابلیت تشخیص چهره و لبخند،  عکاسی پانوراما،  عکاسی پیاپی و ثبت موقعیت مکانی و زمانی اشاره نمود.</Sentence>
+    <Sentence ID="rev-27" Value="+2">همچنین برای مکالمه تصویری،  یک دوربین 1.3 مگاپیکسلی در جلوی این گوشی قرار داده شده که جهت انجام مکالمات تصویری بسیار کاربردی و با کیفیت می‌باشد.</Sentence>
+    <Sentence ID="rev-28" Value="-1">باتری True HD یک باتری لیتیومی 1830 میلی آمپریست که به نظر می‌رسد برای این گوشی مقداری کم باشد.</Sentence>
+    <Sentence ID="rev-29" Value="-1">با استفاده ممتد از این گوشی،  حدودا یک روز می‌توانید از آن استفاده نمایید،  اما برای استفاده از اینترنت پر سرعت LTE،  باتری این گوشی بیشتر از چند ساعت دوام نمی‌آورد و احتیاج به شارژ مجدد پیدا می‌کند.</Sentence>
+    <Sentence ID="rev-30" Value="+1">در کل، گوشی Optimus True HD LTE که با نام P936 نیز شناخته می‌شود،  یک گوشی هوشمند قدرتمند از کمپانی ال‌جی است که در بین گوشی‌های برتر دو هسته ای قرار می‌گیرد.</Sentence>
+    <Sentence ID="rev-31" Value="+1">قدرت سخت افزاری مناسب آن،  برای اجرای اکثر پردازش‌ها کافیست.</Sentence>
+    <Sentence ID="rev-32" Value="0">شاید بهتر بود که ال‌جی بر روی این گوشی از نسخه 4 سیستم عامل اندروید استفاده می‌نمود.</Sentence>
+    <Sentence ID="rev-33" Value="+1">طراحی ساده و زیبای این گوشی می‌تواند یکی دیگر از خصوصیات مثبت آن به شمار آید.</Sentence>
+    <Sentence ID="rev-34" Value="0">از نظر قدرت عکاسی نیز این گوشی عملکرد بسیار خوبی را به کاربر ارائه می‌نماید.</Sentence>
+    <Sentence ID="rev-35" Value="+2">در کل،  با قیمت پایین‌تر نسبت به مدل‌های مشابه،  این گوشی یک گوشی مقرون به صرفه با ارزش خرید بالا به شمار می‌آید.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>صفحه نمایش 4.5 اینچی True HD IPS</Advantage>
+    <Advantage>پردازنده دو هسته ای قدرتمند به همراه یک گیگا بایت رم</Advantage>
+    <Advantage>تراکم پیکسلی بسیار خوب 326ppi</Advantage>
+    <Advantage>دوربین با عملکرد خیلی خوب</Advantage>
+    <Advantage>پشتیبانی از 4G</Advantage>
+    <Advantage>دارای خروجی HDMI</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="احسان عبداللهي " Value="">
+      <Sentence ID="gr-1-1" Value="">من اين گوشي ديدم سرعتش خوبه تاچ روان اما مهم ترين خاصيتش صفحه نمايش فوق العاده با کيفيتشه که از گالکسي و آيفون 4 هم بالاتره .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="محمد صالح و کيلي " Value="">
+      <Sentence ID="gr-2-1" Value="">خوب البته حتي اگر از چهار هسته اي ها هم عقب باشه بازم يه مزيت داره،  چهار هسته کلا هم مصرف باتري بالايي داره هم کاربرد کم،  هنوز بازي يا نرم افزاري نيومده که احتياج پيدا کنه تا از چهارمين پردازنده گوشي کمک بگيره،  در ثاني کلا چه از نسل قديمي استفاده بشه چه از آخرين کوالکام ساخته شده،  باز هم نسبت به بسياري از پردازش گرها قوي تر هست بخصوص که 1500 هم هست،  البته اين دو هسته اي بودن خودش باعث شده اين گوشي قيمت کم تري نسبت به چهار هسته اي ها پيدا کنه،  در عين حال من با نظر شما موافق هستم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="M " Value="">
+      <Sentence ID="gr-3-1" Value="">در جواب محمد صالح و کيلي :
+
+مدل چيپ ست به کار رفته در اين گوشي نسل قديمي اسنپدراگون کوالکام است (نه اون چيپ ستي که در htc one s به کار رفته) و در همه ي تست ها از چهار هسته اي عقب است </Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="محمد صالح و کيلي " Value="">
+      <Sentence ID="gr-4-1" Value="">خدايي تو دو هسته اي ها بي نظيره و سلطانه!</Sentence>
+      <Sentence ID="gr-4-2" Value="">پردازشگر با چيپ ست اسنپدراگون کوالکام که حتي بعضي چهارهسته اي هاي قوي هم در مقابلش زانو ميزنند!</Sentence>
+      <Sentence ID="gr-4-3" Value="">و دوربين 8 مگاپيکسل که راستش خودم هم هنوز تستش نکردم و نميتونم نظر بدم!</Sentence>
+      <Sentence ID="gr-4-4" Value="">اما خب در LTE که متاسفانه هنوز در کشور ما راه اندازي نشده اين گوشي و کلا کمپاني ال جي پيشتاز هست که در منابع مختلف علمي اين قدرت ال جي بخوبي نشان داده شده است اما در موارد ديگر بايد پس از تست کامل نظر داد .</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="9" />
+  <Performance Value="5.80" />
+  <Capability Value="5.80" />
+  <Production_Quality Value="6.10" />
+  <Ergonomics Value="6.30" />
+  <Purchase_Value Value="5.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="گوشه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="متن‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="کیبورد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="قابلیت‌های ارتباطی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="مرورگری اینترنت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="قدرت سخت افزاری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="قدرت عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="قیمت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="ارزش خرید" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-2,0,8]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-2,9,18]" Relation="tagID1002" Value="" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-3,9,14]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-3,15,23]" Relation="tagID1005" Value="" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-33,0,5]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-33,6,10]" Relation="tagID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-33,13,18]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-3,60,62]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-3,53,59]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-30,70,74]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-30,75,81]" Relation="tagID10044" Value="+" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-30,82,89]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-35,61,65]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-35,66,79]" Relation="tagID10059" Value="+" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-35,83,97]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-5,0,5]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-5,0,11]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-8,55,61]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-8,68,78]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-8,81,86]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-10,7,19]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-10,75,85]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-11,37,50]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-11,30,36]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-21,7,16]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-21,17,22]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-13,60,66]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-13,67,74]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-19,0,11]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-19,12,22]" Relation="tagID10027" Value="+" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-19,25,32]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-19,35,41]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-19,55,64]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-21,25,43]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-21,44,49]" Relation="tagID10036" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-22,0,15]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-22,35,44]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-28,0,5]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-28,80,89]" Relation="tagID10042" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-31,0,15]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-31,16,21]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-34,7,17]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-34,31,48]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[rev-35,11,15]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-35,16,24]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-35,83,92]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-35,93,97]" Relation="tagID10063" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-3,53,59]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-5,0,11]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-5,68,73]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-8,68,78]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-8,81,86]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-9,117,128]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-10,75,85]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-11,30,36]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-12,120,128]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-13,67,74]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-15,126,136]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-15,32,46]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-19,12,22]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-19,25,32]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-19,55,64]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-21,17,22]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-21,44,49]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-22,40,44]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-24,50,60]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-27,127,135]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-27,111,124]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-28,80,89]" Value="-" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-29,151,164]" Value="-" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-30,75,81]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-30,82,89]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-31,16,21]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-33,13,18]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-33,57,61]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-35,16,24]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-34,38,48]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-35,66,79]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-35,83,97]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-35,93,97]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="35" />
+    <Tag_Index Value="65" />
+  </Index>
+</Product>

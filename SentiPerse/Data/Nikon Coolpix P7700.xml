@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Nikon Coolpix P7700" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="ريموت کنترل Canon RC-6" Price="39000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="محافظ صفحه نمايش دوربين" Price="4500" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="ريموت کنترل باسيم يونگنو Yongnuo RS-802/C1" Price="45000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+    <Accessory Name="ريموت کنترل تايمردار هاما همراه با کابل MC-30 نيکون Hama Timer Remote Shutter Release DCCS Base With Nikon MC-30 Cable" Price="185000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/08/21</Feature>
+    <Feature Name="نوع ">ساده پیشرفته</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">118.5 × 72.5 × 50.4 mm</Feature>
+    <Feature Name="وزن ">با باتری و کارت حافظه 392 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="نوع حسگر ">CMOS</Feature>
+    <Feature Name="دقت حسگر ">12.8 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">12.2 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/1.7 اینچ - 5.58 × 7.44 میلی‌متر</Feature>
+    <Feature Name="رزولوشن عکس ">3000 × 4000 و 2656 × 3984 و 2232 × 3968 و 3000 × 3000 و 2448 × 3264 و 1704 × 2272 و 1200 × 1600 و 480 × 640</Feature>
+    <Feature Name="نسبت ابعاد عکس ">1:1, 4:3, 3:2, 16:9</Feature>
+    <Feature Name="فرمت عکس ">Normal Pictures: JPEG, 3D Pictures: MPO</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">بلی</Feature>
+    <Feature Name="رزولوشن فیلم ">Full HD</Feature>
+    <Feature Name="فرمت فیلم ">MPEG-4 AVC, H.264</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت‌‌های 30 و 120 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌‌های 30 و 60 فریم بر ثانیه - قابلیت فیلمبرداری با کیفیت FullHD در ابعاد 1080 × 1920 پیکسل و با سرعت‌‌های 15 و 30 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">قابلیت ضبط صدا به صورت استریو (Stereo) و با فرمت AAC</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">28-200 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F4.0 تا F2.0</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">7.1 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">4 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر اپتیکال (Optical Image Stabilizer)</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">در حالت واید 50 سانتیمتر و در حالت تله 80 سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">2 سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">تعداد نقاط فوکوس: 99 نقطه‌ - فوکوس خودکار: Contrast-detect TTL AF - مودهای فوکوس: Auto (9-Area Automatic Selection), Center, Face Priority, Manual with 99 Focus Areas, Subject Tracking</Feature>
+    <Feature Name="نورسنجی ">224 بخشی ماتریکس، چندگانه، مرکزی، نقطه‌ای</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/4000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">60 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">80</Feature>
+    <Feature Name="حداکثر حساسیت ">6400</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 80 و 100 و 200 و 400 و 800 و 1600 و (3200 و 6400 در مودهای حساسیت بالا)</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 5 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکاسی پیاپی ">قابلیت عکاسی پی در پی با سرعت 8 فریم بر ثانیه</Feature>
+    <Feature Name="فلاش ">فلاش داخلی Pgr-Up (بالا جهنده) با برد 10 متر با قابلیت نصب فلاش خارجی از طریق کفشک فلاش (Hot-Shot)</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">بلی</Feature>
+    <Feature Name="توضیحات عکاسی سه بعدی ">دارای مود عکاسی سه بعدی (3D Photography)</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش کاملا چرخان با پوشش ضد انعکاس (Vari-Angle TFT-LCD with Anti-Reflection Coating)</Feature>
+    <Feature Name="سایز صفحه نمایش ">3 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">921,000 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">86 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی قابل شارژ مدل EN-EL14</Feature>
+    <Feature Name="اقلام همراه دوربین ">کابل USBکابل تلویزیونباتری یون لیتیومی قابل شارژبند دوشیدفترچه راهنماسی دی نرم افزاری همراه دوربین</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">پیش از توضیح درباره ی P7700،  بهتر است مطلبی را بیان کنیم.</Sentence>
+    <Sentence ID="rev-2" Value="0">دوربین هایی مثل P7700 و مدل های پیشینش و همچنین در برند کانن،  دوربین هایی مثل G1x،  G12 و دیگر مدل های سری G اساسا دوربین های کامپکت خوانده می شوند.</Sentence>
+    <Sentence ID="rev-3" Value="0">با این حال اصلا از نظر جثه و امکانات نمی توان آن ها را مثلا با دوربین های کامپکتی چون سری Ixus کانن یا دوربین هایی چون نیکون S9300 و حتی پاورشات SX260 HS مقایسه کرد.</Sentence>
+    <Sentence ID="rev-4" Value="+1">اصطلاحا به دوربین هایی چون P7700 دوربین های کامپکت High End گفته می شود و مشخصه ی آن ها نیز بدنه ی بزرگ فلزی،  بهره گیری از بهترین امکانات و ویژگی ها و البته تا حد ممکن تولید عکس هایی برتر است.</Sentence>
+    <Sentence ID="rev-5" Value="0">دوربینی مثل P7700 اصلا چیزی نیست که بتوان آن را در جیب های کوچکتر جای داد.</Sentence>
+    <Sentence ID="rev-6" Value="0">P7700 تقریبا همان ابعاد و وزن P7100 را حفظ کرده است و کاملا از G1x سبک تر می باشد.</Sentence>
+    <Sentence ID="rev-7" Value="-1">به محض قرار دادن این دو در کنار یکدیگر نخستین چیزی که متوجه آن می شوید،  فقدان پنجره ی چشمی اپتیکال در مدل جدیدتر است.</Sentence>
+    <Sentence ID="rev-8" Value="0">در حالی که چشمی اپتیکال بر روی دو مدل پیشین وجود داشت،  این بار نیکون تصمیم گرفته که آن را از روی P7700 حذف کند.</Sentence>
+    <Sentence ID="rev-9" Value="-1">حتما دلایلی برای این کار داشته،  با این حال به نظر ما که این یک فقدان خیلی بد است چرا که همواره استفاده از چشمی های اپتیکال در زیر نور شدید آفتاب را دوست داریم.</Sentence>
+    <Sentence ID="rev-10" Value="0">فقدان چشمی اپتیکال باعث شده که این دوربین پیشانی کوتاه تری داشته باشد.</Sentence>
+    <Sentence ID="rev-11" Value="0">از کنترل چرخنده ی جلوی دوربین هم دیگر خبری نیست.</Sentence>
+    <Sentence ID="rev-12" Value="0">آن را هم خیلی دوست داشتیم.</Sentence>
+    <Sentence ID="rev-13" Value="0">تغییرات دیگر در سراسر بدنه هم ایجاد شده اند که شامل مقداری تغییر در ساخت خود بدنه،  طراحی و چینش دکمه ها و البته مقداری دستگیره ی بزرگتر می شوند.</Sentence>
+    <Sentence ID="rev-14" Value="0">همچنان دکمه ها و کنترل های مختلفی بر روی بدنه دیده می شوند که شامل دایل مودهای عکاسی،  دایل جبران نوردهی،  دایل Qucik Menu دو دایل کنترل دیگر و چند دکمه و کنترل دیگر می شوند.</Sentence>
+    <Sentence ID="rev-15" Value="+2">به هر صورت از این نظر P7700 کاملا عالی و طبق انتظاری است که داشتیم.</Sentence>
+    <Sentence ID="rev-16" Value="+2">اما یکی از بهترین بهبودها در این دوربین نسبت به مدل پیشین در نمایشگر بوده است.</Sentence>
+    <Sentence ID="rev-17" Value="+1">نمایشگر 3 اینچی 920000 پیکسلی آن دارای یک تک لولا در قسمت سمت چپ است و کاملا به هر سویی توانایی چرخش را دارد.</Sentence>
+    <Sentence ID="rev-18" Value="0">این در حالیست که نمایشگر P7100 فقط می توانست به سمت بالا و پایین چرخش کند.</Sentence>
+    <Sentence ID="rev-19" Value="0">اما اگر با دقت بیشتری به این دوربین نگاه کنیم،  باید گفت که سنسور تصویر 10 مگاپیکسلی CCD سایز 1/1.7 اینچی P7100 با یک سنسور 12.1 مگاپیکسلی CMOS با همان سایز تعویض شده است.</Sentence>
+    <Sentence ID="rev-20" Value="0">این سایز سنسور بزرگتر از سایز 1/2.3 اینچی است که بر روی دوربین های کامپکت معمولی استفاده می شود و سازی در حد 7.4X5.5 میلی متر دارد.</Sentence>
+    <Sentence ID="rev-21" Value="0">این در حالیست که سنسور تصویر بزرگ دوربین Canon G1x دارای سایزی در حد 18.7X14 میلی متر است.</Sentence>
+    <Sentence ID="rev-22" Value="-1">بنابراین از P7700 انتظار تولید عکس هایی در حد G1x نمی رود.</Sentence>
+    <Sentence ID="rev-23" Value="+2">اما برگ برنده ی بزرگ P7700 لنز آن است.</Sentence>
+    <Sentence ID="rev-24" Value="+1">هرچند که این لنز همان فاصله ی کانونی 28-200 میلی متر را پوشش می دهد و بزرگنمایی در حد 7 برابر را می تواند ایجاد کند،  با این حال این لنز از لنزی که بر روی دو مدل قبلی وجود داشت کاملا سریع تر است.</Sentence>
+    <Sentence ID="rev-25" Value="0">کمینه ی نسبت کانونی آن f/2.0 در حالت واید کامل و f/4.0 در حالت زوم کامل می باشد.</Sentence>
+    <Sentence ID="rev-26" Value="0">این در حالیست که دو مدل پیشین دارای کمینه ی نسبت کانونی f/2.8-5.6 بودند.</Sentence>
+    <Sentence ID="rev-27" Value="+2">این پیشرفت خیلی خوبیست و باعث می شود که عملکرد این دوربین در شرایط ضعیف نوری کاملا برتر باشد و بتوان با سرعت های شاتر بالاتری عکاسی کرد.</Sentence>
+    <Sentence ID="rev-28" Value="0">در نظر بگیرید که سرعت شاتر این دوربین تا 1/4000 ثانیه بالا می رود.</Sentence>
+    <Sentence ID="rev-29" Value="0">وجود فیلتر داخلی ND نیز باعث می شود که حتی در شرایط شدید نوری هم بتوانید از دیافراگم بازتر یا سرعت های شاتر پایین تر استفاده نمایید.</Sentence>
+    <Sentence ID="rev-30" Value="+2">در ضمن کمینه ی فاصله ی کانونی این لنز در مود ماکرو 2 سانتی متر است که فوق العاده می باشد.</Sentence>
+    <Sentence ID="rev-31" Value="+1">این دوربین طبق معمول و انتظار توانایی عکاسی در فرمت RAW را نیز دارد تا برای حرفه ای ترها و ویرایش عکس ها مناسب تر باشد.</Sentence>
+    <Sentence ID="rev-32" Value="0">همچنین امکان عکاسی 3D یا سه بعدی هم با آن وجود دارد.</Sentence>
+    <Sentence ID="rev-33" Value="0">عکس های سه بعدی در فرمت MPO ذخیره می شوند.</Sentence>
+    <Sentence ID="rev-34" Value="+1">باز هم طبق روال،  این دوربین دارای همه ی مودهای عکاسی از مود کاملا اتوماتیک خودکار هوشمند گرفته تا مودهای دستی P,A,S,M را دارا می باشد.</Sentence>
+    <Sentence ID="rev-35" Value="+2">در قسمت بالای این دوربین نیز فلش بالا جهنده ای قرار گرفته است که خیلی قدرتمند است و بردی در حد 10 متر دارد.</Sentence>
+    <Sentence ID="rev-36" Value="+1">یکی دیگر از تحولات این دوربین نسبت به مدل پیشین هم عکاسی پیاپی آن بوده است به طوری که این دوربین اکنون توانایی عکاسی پیاپی با سرعت 8 فریم بر ثانیه را دارد و این در حالیست که P7100 تنها می توانست با سرعتی در حد 1.2 فریم بر ثانیه عکاسی کند.</Sentence>
+    <Sentence ID="rev-37" Value="+1">از دیگر تفاوت های این دوربین با مدل پیشین می توان به توانایی پشتیبانی P7700 از فیلترهای پیچی 40.5 میلی متری،  توانایی عکاسی 1080p Full HD نسبت به 720p HD،  توانایی کنترل فلاش های وایرلس اکسترنال و سازگاری با یونیت های جی پی اس GP-1 اشاره کرد.</Sentence>
+    <Sentence ID="rev-38" Value="0">طبق استانداردهای CIPA نیز باتری لیتیوم-یونی این دوربین توانایی پشتیبانی برای گرفتن تا 330 شات را دارد.</Sentence>
+    <Sentence ID="rev-39" Value="+1">در کل باید گفت که P7700 جهش خیلی خوبی نسبت به P7100 بوده است.</Sentence>
+    <Sentence ID="rev-40" Value="+2">هرچند که فقدان چشمی اپتیکال احساس می شود،  با این حال دیگر ویژگی ها چون سنسور تصویر با عملکرد بهتر،  نمایشگر چرخنده،  توانایی فیلم برداری بهتر،  سرعت عکاسی پیاپی بالاتر و از همه مهم تر لنز سریع تر باعث می شوند که در کل دوربین بهتری نسبت به مدل پیشین باشد.</Sentence>
+    <Sentence ID="rev-41" Value="0">در آینده سعی می کنیم که اطلاعات بیشتری را از این دوربین ارائه کنیم.</Sentence>
+    <Sentence ID="rev-42" Value="+2">به روز رسانی: در تست هایی که انجام دادیم،  کیفیت عکس های گرفته شده توسط این دوربین با توجه به سنسور تصویر نسبتا کوچکی که دارد واقعا عالیست.</Sentence>
+    <Sentence ID="rev-43" Value="+1">این دوربین به خوبی از پس نویز بر می آید و تا ایزو 800 نمی توان نویز زیادی را در عکس ها مشاهده کرد.</Sentence>
+    <Sentence ID="rev-44" Value="-1">نویز،  کاسته شدن از غلظت رنگ ها و جزئیات وقتی که از ایزو 800 بالاتر می روید بدتر می شود تا در ایزوی 6400 به اوج خود برسد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>کیفیت ساخت و ارگونومی برتر</Advantage>
+    <Advantage>بهره گیری از لنز سریع با کمینه ی نسبت کانونی f/2.0-4.0</Advantage>
+    <Advantage>عکاسی پیاپی با سرعت 8 فریم بر ثانیه</Advantage>
+    <Advantage>توانایی ضبط ویدیویی Full HD با صدای استریو</Advantage>
+  </Advantages>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="دليل" Score="5" Voters="17" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">يکي از موارد لازم به ذکر در رابطه با برتري P7700 به G1X ميتواند لنزِ اين دوربين باشد،  که در بازترين حد کانوني به f/2.0 ميرسد،  نيکون با لنز هاي پيشرفته ي نيکور هميشه در صنعت لنز پيشتاز بوده است.</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">از موارد برتري P7700 به G1X ميتواند زوم اپتيکال بالاتر (7.1) نسبت به (4) در کنون باشد،  که اين امر نيکون را جلو ميبرد.</Sentence>
+      <Sentence ID="cr-1-3" Value="0">و حد فاصله در ماکرو که در نيکون 2cm ميباشد،  نيکون قابليت عکاسي پانوروما و 3D ميباشد،  که کنون فاقد ِ اين امر است .</Sentence>
+      <Sentence ID="cr-1-4" Value="0">مسئله که در دوربين ها بسيار مهم هست،  سرعت عکس برداري است ،  يعني دوربين قادر به عکس برداري چند فريم در ثانيه هست؟</Sentence>
+      <Sentence ID="cr-1-5" Value="+1">که P7700 توانايي 8 فريم در ثانيه را دارد يعني 4 برابر سرعت G1X که 2 فريم در ثانيه است،  که اين مربوط به پروسسور قوي تر نيکون ميباشد.</Sentence>
+      <Sentence ID="cr-1-6" Value="+2">نيکون يکي از بهترين و بزرگترين شرکت هاي لنزسازي دنياست،  که در زمينه لنز هميشه کمر هر دوربين قوي اي را به زمين زده است،  يکي از دلايلِ برتري P7700 نسبت به رقيبش،  ميتواند قيمت ارزان تر آن باشد.</Sentence>
+      <Sentence ID="cr-1-7" Value="+1">ناگفته نماند که P7700 حتي ميتواند يک رقيب واقعي براي D-SLR هاي کلاس آماتور باشد.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="2" />
+  <Performance Value="5.50" />
+  <Capability Value="4.50" />
+  <Production_Quality Value="5.50" />
+  <Ergonomics Value="5.50" />
+  <Purchase_Value Value="5.50" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="پیشانی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="دستگیره" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="دکمه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="کنترل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="سنسور تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="پیشرفت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="سرعت شاتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="دیافراگم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="کمینه ی فاصله ی کانونی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="فلش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="چشمی اپتیکال" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="فیلم برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10064" Root="سرعت عکاسی پیاپی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="غلظت رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="لنز" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="زوم اپتيکال" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="پردازنده" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10093" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10096" Root="دوربین" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10099" Root="شرکت نیکون" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="رقيب" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-4,92,98]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-4,99,103]" Relation="tagID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[rev-4,104,108]" Relation="tagID1002" Value="" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-4,131,138]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-4,124,130]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-4,175,183]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-4,184,188]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[rev-42,43,56]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-42,126,138]" Relation="tagID10073" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-10,42,48]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-10,49,58]" Relation="tagID10012" Value="" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-13,120,129]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-13,130,136]" Relation="tagID10015" Value="" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-14,7,14]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-14,27,33]" Relation="tagID10018" Value="" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-14,17,26]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-14,27,33]" Relation="tagID10021" Value="" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-15,22,27]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-15,28,38]" Relation="tagID10024" Value="+" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-15,41,52]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-36,63,65]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-36,51,62]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-40,219,225]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-40,226,231]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-20,9,14]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-20,15,21]" Relation="tagID10028" Value="" />
+    <Tag Type="Target(I)" ID="tagID10071" Coordinate="[rev-40,72,77]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[rev-40,87,98]" Relation="tagID10071" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-42,94,99]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-42,106,117]" Relation="tagID10075" Value="" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-23,27,30]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-23,4,20]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-24,133,136]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-24,177,190]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-40,185,188]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-40,189,196]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-27,4,10]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-27,11,22]" Relation="tagID10036" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-27,104,117]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-27,118,125]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-29,76,84]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-29,85,90]" Relation="tagID10042" Value="" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-30,7,29]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-30,70,80]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-35,29,32]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-35,65,77]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-36,51,56]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-36,57,62]" Relation="tagID10051" Value="" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-40,15,27]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-40,9,14]" Relation="tagID10056" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-40,101,108]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-40,109,115]" Relation="tagID10059" Value="" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[rev-40,126,137]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-40,138,142]" Relation="tagID10062" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[rev-40,145,161]" Relation="elementID10064" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-40,162,168]" Relation="tagID10065" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[rev-44,20,31]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[rev-44,7,16]" Relation="tagID10078" Value="" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[cr-1-1,137,144]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[cr-1-1,145,154]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[cr-1-2,36,47]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[cr-1-2,48,54]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[cr-1-5,104,111]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[cr-1-5,112,118]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10094" Coordinate="[cr-1-6,171,175]" Relation="elementID10093" Value="" />
+    <Tag Type="Opinion" ID="tagID10095" Coordinate="[cr-1-6,176,184]" Relation="tagID10094" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10097" Coordinate="[cr-1-6,185,187]" Relation="elementID10096" Value="" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[cr-1-6,171,184]" Relation="tagID10097" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100100" Coordinate="[cr-1-6,31,39]" Relation="elementID10099" Value="" />
+    <Tag Type="Opinion" ID="tagID100101" Coordinate="[cr-1-6,22,30]" Relation="tagID100100" Value="+" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[cr-1-6,13,19]" Relation="tagID100100" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[cr-1-7,37,41]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[cr-1-7,42,47]" Relation="tagID100104" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-4,124,130]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-4,184,188]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-6,67,73]" Value="" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-7,73,78]" Value="-" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-9,70,77]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-9,64,69]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-15,28,38]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-15,41,52]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-16,11,17]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-16,18,25]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-17,88,95]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-23,4,20]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-24,177,190]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-27,11,22]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-27,77,87]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-27,118,125]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-30,70,80]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-31,105,113]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-34,61,75]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-34,76,82]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-34,83,89]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-35,65,77]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-36,51,62]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-36,103,110]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-37,197,204]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-37,53,60]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-39,24,37]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-40,9,14]" Value="-" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-40,138,142]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-40,162,168]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-40,189,196]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-40,226,231]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-40,94,98]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-42,126,138]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-43,11,18]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-44,76,80]" Value="-" />
+    <Keyword ID="keywordID10037" Coordinate="[cr-1-1,37,42]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[cr-1-1,145,154]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[cr-1-1,179,185]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[cr-1-2,48,54]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[cr-1-2,108,117]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[cr-1-2,9,14]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[cr-1-5,112,118]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[cr-1-6,13,19]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[cr-1-6,22,30]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[cr-1-6,176,184]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[cr-1-7,42,47]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="48" />
+    <Tag_Index Value="106" />
+  </Index>
+</Product>

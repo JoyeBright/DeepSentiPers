@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="HP Scanjet G2410" Type="Scanner">
+  <Features>
+    <Feature Name="ابعاد ">458x275x61.5 میلیمتر</Feature>
+    <Feature Name="وزن ">2.2 کیلوگرم</Feature>
+    <Feature Name="نوع ">ساده</Feature>
+    <Feature Name="سایز اسکن ">A4</Feature>
+    <Feature Name="تکنولوژی اسکن ">CCD (Charge-Coupled Device)</Feature>
+    <Feature Name="رزولوشن اپتیکال ">1200x1200 پیکسل</Feature>
+    <Feature Name="رزولوشن دیجیتال ">1200x1200 پیکسل</Feature>
+    <Feature Name="عمق اسکن ">48 بیت</Feature>
+    <Feature Name="تعداد رنگ اسکن سیاه و سفید ">256 رنگ</Feature>
+    <Feature Name="سرعت پیش نمایش ">10 ثانیه</Feature>
+    <Feature Name="سرعت اسکن رنگی ">21 ثانیه</Feature>
+    <Feature Name="سرعت اسکن سیاه و سفید ">47 ثانیه</Feature>
+    <Feature Name="ورودی اسکن ">Paper (plain, inkjet, photo, newsprint, magazine articles), transparencies, 3-D objects</Feature>
+    <Feature Name="قابلیت اسکن دو رو ">خیر</Feature>
+    <Feature Name="اسکن نگاتیو ">خیر</Feature>
+    <Feature Name="قابلیت تشخیص متن OCR ">بلی</Feature>
+    <Feature Name="توصیحات OCR ">نرم افزاری</Feature>
+    <Feature Name="کلیدهای روی دستگاه ">دارای 2 کلید  (Scan, Copy)</Feature>
+    <Feature Name="پورت اتصال به کامپیوتر ">پورت USB 2.0</Feature>
+    <Feature Name="اقلام همراه اسکنر ">HP Scanjet G2410 FlatbedScanner, USB 2.0 cable,power cord, power adaptor,printed setup and supportguide, CDs with userinstructions and software</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="-1">
+    <Sentence ID="rev-1" Value="-1">رزولوشن اپتیکال این اسکنر،  1200X1200dpi و نسبتا کم می‌باشد.</Sentence>
+    <Sentence ID="rev-2" Value="-2">همچنین اینکه برای اسکن یک عکس 6X4 به بیش از یک دقیقه زمان احتیاج دارد که یکی از کند ترین اسکنرهایی می‌باشد که تا به حال دیده ایم.</Sentence>
+    <Sentence ID="rev-3" Value="+1">با این حال از نرم افزار OCR کاملا شگفت زده شدیم به صورتی که با موفقیت توانست یک سند A4 را به فایل متنی تبدیل کند.</Sentence>
+    <Sentence ID="rev-4" Value="-1">برای اسکن عکس نیز چندان دقت رنگی بالایی ندارد و رزولوشن پایین نیز باعث می‌شود که جزئیات را خیلی عالی ثبت نکند ولی به هر صورت اسکنری ارزان قیمت است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>قیمت ارزان</Advantage>
+    <Advantage>ارائه‌ی قابلیت‌های قابل قبول برای استفاده در خانه</Advantage>
+    <Advantage>بهره گیری از فن آوری OCR برای تشخیص متن</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="سيد امير حسين حسيني " Value="+1">
+      <Sentence ID="gr-1-1" Value="0">من خريدمش ازهمه نظر عاليه ولي تنها مشکلي که داره سرعت بسيار پايين اونه که اگر مثلا يک جزوه يا کتاب را بخواهيد اسکن کنيد چند دقيقه اي وقت شما را مي گيرد.</Sentence>
+      <Sentence ID="gr-1-2" Value="+1">از مزاياي آن هم مي توان به فتوکپي مستقيم با دکمه ي تعبيه شده در جلوي بدنه ان اشاره کرد که من انتظار آن را نداشتم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-2-1" Value="0">من خريدمش ازهمه نظر عاليه ولي تنها مشکلي که داره سرعت بسيار پايين اونه که اگر مثلا يک جزوه يا کتاب را بخواهيد اسکن کنيد چند دقيقه اي وقت شما مي گيرد از مزاياي ان هم مي توان به فتوکپي مستقيم با دکمه ي تعبيه شده در جلوي بدنه ان اشاره کرد که من انتظار ان را نداشتم .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-3-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-3-2" Value="+2">تقريبا 2 سال هست که از اين اسکنر استفاده ميکنم و کاملا  از آن راضيم</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="14" />
+  <Performance Value="8.60" />
+  <Capability Value="8.50" />
+  <Production_Quality Value="8.70" />
+  <Ergonomics Value="8.60" />
+  <Purchase_Value Value="8.80" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="اسکنر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="قیمت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="سرعت" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="اسکنر" Relation="gr-3" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-1,0,7]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-1,43,51]" Relation="tagID1001" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-4,48,55]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-4,56,61]" Relation="tagID1006" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-2,89,98]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-2,80,88]" Relation="tagID1004" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-4,125,131]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-4,132,142]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-4,138,142]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-4,132,137]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[gr-1-1,49,53]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[gr-1-1,54,65]" Relation="tagID10014" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[gr-3-2,59,61]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[gr-3-2,62,67]" Relation="tagID10017" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,43,51]" Value="-" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,80,88]" Value="-" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-3,28,42]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,63,69]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-4,56,61]" Value="-" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-4,132,137]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-4,40,45]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-4,105,109]" Value="-" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-1-1,20,25]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-1-1,54,65]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[gr-1-2,3,9]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[gr-3-2,62,67]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="12" />
+    <Tag_Index Value="19" />
+  </Index>
+</Product>

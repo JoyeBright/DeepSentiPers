@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Nokia Asha 302" Type="Mobile">
+  <Accessories>
+    <Accessory Name="کارت حافظه MicroSD Card Transcend 8GB Class 4" Price="30000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="کيف موبايل اوريجينال Golla" Price="10000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کار کيت بلوتوث Jabra Drive" Price="185000" />
+    <Accessory Name="هندزفري Nokia 5310" Price="15000" />
+    <Accessory Name="هندزفري Nokia N96" Price="15000" />
+    <Accessory Name="مجموعه نرم افزار فارسي GPS اقليم (نسخه موبايل)" Price="24000" />
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+    <Accessory Name="شارژر فندکي گوشي موبايل" Price="9500" />
+    <Accessory Name="هندزفري بلوتوث Jabra EasyGo مشکي" Price="109000" />
+    <Accessory Name="کارت حافظه MicroSD Card ADATA 8GB Class 4" Price="25000" />
+    <Accessory Name="هندزفري بلوتوث Jabra BT2080" Price="89000" />
+    <Accessory Name="هندزفري Nokia 5530" Price="15000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/02/27</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">116.5 × 55.7 × 13.9 mm</Feature>
+    <Feature Name="وزن ">99 گرم</Feature>
+    <Feature Name="رنگ ">خاکستری، آبی، قرمز، سفید، طلایی</Feature>
+    <Feature Name="سرعت پردازنده ">1GHz</Feature>
+    <Feature Name="حافظه داخلی ">100 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">128 مگابایت</Feature>
+    <Feature Name="حافظه ROM ">256 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 32 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1700 / 1900 / 2100</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA 14.4 Mbps, HSUPA 5.76 Mbps</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 33</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">802.11b/g/n</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 33</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 2.1 به همراه A2DP و EDR</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2 با قابلیت پشتیبانی از  USB On-The-Go</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">از نوع TFT با سیستم LCD Transmissive</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">2.4 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">QVGA 320 × 240</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">256,000 رنگ</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">3.2 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">1536 × 2048</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">خیر</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">VGA 640 × 480</Feature>
+    <Feature Name="سرعت فیلمبرداری ">15 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت 15 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">خیر</Feature>
+    <Feature Name="فلاش ">خیر</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">قابلیت زوم دیجیتال تا 4 برابر (Camera Digital Zoom)حداقل دامنه فوکوس: 50سانتی‌متردریچه دیافراگم: f2.8فرمت عکس‌های گرفته شده: JPEG</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">20 مورد تماس گرفته شده، 20 مورد تماس دریافت شده، 20 مورد تماس از دست رفته</Feature>
+    <Feature Name="سیستم عامل ">خیر</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">خیر</Feature>
+    <Feature Name="PDF ">خیر</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">Nokia Browser, XHTML Basic, HTML 4.0, CSS, XHTML 1.1, XHTML Mobile Profile, Open Source Gecko Layout Engine, Javascript 1.8, WAP 2.0, DOM Level 1 and 2, Proxy Browser with Compression Technology, CSS 2.1, CSS Mobile Profile</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, WAV, AAC, AAC+, WMA, AMR-NB, AMR-WB, MIDI poly 64</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4, H.264/AVC, 3GPP (H.263), WMV</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM استریو همراه با RDS</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد مدل BL-5J</Feature>
+    <Feature Name="ظرفیت باتری ">1320 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">707 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">9 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">قابلیت پخش فایل‌های گرافیکی با فرمت‌های JPEG, BMP, GIF89a, M3G, PNG, WBMP, GIF87a, SVG-Tدارای صفحه کلید کیوورتی (Compact QWERTY Keyboard)دارای سازمان دهنده (Organizer)SNS integrationVoice memoPredictive Text input</Feature>
+    <Feature Name="اقلام همراه گوشی ">هندزفری نوکیاباتری یون لیتیوم استانداردشارژر</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+1">• طراحی و ساخت نوکیا Asha 302 با ابعاد 58×115 میلی متر و وزن 106 گرم،  جزو گوشی‌های خوش دست با کاربری آسان برای کاربران قرار دارد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">Asha 302 با طراحی زیبای خود،  بسیاری از کاستی‌های خود را پوشش داده است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">البته این بدان معنا نیست که با دیدن این گوشی شگفت زده می‌شوید،  ولی به هر حال نمی‌توان زیبایی این مدل در عین سادگی آن را کتمان نمود.</Sentence>
+    <Sentence ID="rev-4" Value="+1">به هر حال درست است که نوکیا در چند سال اخیر عرصه را در بسیاری از موارد به کمپانی‌های دیگر باخته است،  ولی هنوز در زمینه طراحی جزو پیشتازان و سردمداران صنعت گوشی محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-5" Value="0">در سمت چپ گوشی شکاف کارت حافظه،  در قسمت بالا خروجی 3.5 میلی متری هدفون به همراه درگاه USB و بالاخره در قسمت پشتی آن دوربین 3.2 مگا پیکسلی به همراه بلندگو قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-6" Value="+1">درب فلزی پشت بدنه گوشی به زیبایی آن افزوده است.</Sentence>
+    <Sentence ID="rev-7" Value="0">• صفحه نمایش صفحه نمایش به کار رفته در این گوشی یک صفحه نمایش 2.4 اینچی رنگی ولی با رزولوشن 240×320 می‌باشد.</Sentence>
+    <Sentence ID="rev-8" Value="-1">این به این معناست که از صفحه نمایش آن نمی‌توان انتظار تصویر چندان خوبی در مقابل صفحه نمایش‌های Super AMOLED و یا Super Clear LCD را داشت.</Sentence>
+    <Sentence ID="rev-9" Value="-1">همچنین عملکرد آن در زوایای دید مختلف نیز قابل تعریف و تمجید نیست.</Sentence>
+    <Sentence ID="rev-10" Value="0">اما به هر حال خارج از انصاف است که این صفحه نمایش را برای این مدل یک نقطه ضعف تلقی کنیم.</Sentence>
+    <Sentence ID="rev-11" Value="+1">در کل می‌توان این‌گونه استنباط نمود که این صفحه نمایش برای این مدل با این قیمت چیزی بیشتر از حد انتظار محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-12" Value="+1">• سخت افزار پردازنده یک گیگا هرتزی که در این گوشی به کار رفته،  سبب جلب رضایت کامل کاربر در هنگام کار با گوشی،  استفاده از برنامه های مختلف و یا گشت زنی در اینترنت گشته است.</Sentence>
+    <Sentence ID="rev-13" Value="0">در کنار این پردازنده،  128 مگابایت رم و 256 مگابایت رام مورد استفاده قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-14" Value="+1">باید اذعان داشت که با توجه به قیمت این مدل،  سخت افزار بسیار خوبی در Asha 302 قرار داده شده است.</Sentence>
+    <Sentence ID="rev-15" Value="-1">• نرم افزار شاید اصلی‌ترین دلیل کم شدن فروش محصولات نوکیا در چند سال اخیر به عدم پیشرفت نرم افزاری گوشی‌های آن برگردد.</Sentence>
+    <Sentence ID="rev-16" Value="0">در حالی که اکثر کمپانی‌های معتبر و پر طرفدار دنیا روی گوشی‌های خود از سیستم عامل‌های جدید مانند Windows Phone و یا Android استفاده می‌نمایند،  نوکیا کماکان بر استفاده از سیستم عامل‌های مبتنی بر Symbian اصرار ورزیده است.</Sentence>
+    <Sentence ID="rev-17" Value="0">نوکیا در این مدل مانند دیگر محصولات خانواده Asha از سیستم عامل S40 که ارتقا یافته سیستم عامل S30 می‌باشد بهره برده است.</Sentence>
+    <Sentence ID="rev-18" Value="-1">همان‌طور که اشاره کردیم،  این سیستم عامل بر مبنای سیستم عامل Symbian و با امکانات محدود طراحی و ساخته شده است.</Sentence>
+    <Sentence ID="rev-19" Value="+1">با این حال این سیستم عامل کلیه نیاز های اولیه کاربران را پاسخگو می‌باشد.</Sentence>
+    <Sentence ID="rev-20" Value="0">• دوربین دوربین 3.2 مگاپیکسلی به کار رفته در این گوشی،  عکس‌هایی با حداکثر رزولوشن 1536×2048 پیکسل را ثبت می‌نماید.</Sentence>
+    <Sentence ID="rev-21" Value="-1">محیط کار با دوربین در این گوشی کاملا مبتدیانه و با حداقل امکانات می‌باشد.</Sentence>
+    <Sentence ID="rev-22" Value="-1">فیلم برداری دوربین Asha 302  با کیفیت QVGA و سرعت 15 فریم بر ثانیه صورت می‌پذیرد که چندان قابل تعریف نیست.</Sentence>
+    <Sentence ID="rev-23" Value="-1">در کل دوربین این گوشی بیشتر جهت استفاده برای ارسال پیامک چند رسانه ای(MMS) مناسب می‌باشد و عکس‌های ثبت شده توسط آن قابلت آرشیو شدن را برای شما نخواهند داشت.</Sentence>
+    <Sentence ID="rev-24" Value="0">• باتری باتری لیتیوم یونی 1320 میلی آمپری که در این گوشی استفاده شده است،  تا حدود 9 ساعت مکالمه ممتد و بیش از 700 ساعت در حالت آماده باش را پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-25" Value="+2">ولی اگر می‌خواهید با آن موزیک گوش دهید می‌توانید برای حدود 50 ساعت با خیال راحت روی باتری آن حساب کنید که عملکردی فوق‌العاده محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-26" Value="+1">• جمع بندی نوکیا Asha 302 یک گوشی خوش استیل و با پرستیژ محسوب می‌شود که اگر به دنبال یک سیستم عامل به روز نباشید می‌تواند انتخاب بسیار مناسبی برای شما محسوب گردد.</Sentence>
+    <Sentence ID="rev-27" Value="+1">با اینکه صفحه نمایش این گوشی لمسی نیست،  ولی کیبورد Qwerty این گوشی می‌تواند تا حدودی باعث شود که لمسی نبودن صفحه کلید چندان شما را نا امید نکند.</Sentence>
+    <Sentence ID="rev-28" Value="+1">از نظر سخت افزار هم که می‌توان ادعا کرد این مدل در بین رقبای خود در این بازه قیمت بسیار خوب عمل کرده است.</Sentence>
+    <Sentence ID="rev-29" Value="+1">ضمن اینکه موزیک پلیر این گوشی با امکان پخش بیش از 50 ساعت موسیقی با هر بار شارژ،  یکی دیگر از مزیت‌های بسیار مثبت گوشی محسوب می‌گردد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>پردازنده یک گیگا هرتزی</Advantage>
+    <Advantage>ابعاد و وزن مناسب</Advantage>
+    <Advantage>طراحی جذاب</Advantage>
+    <Advantage>قیمت بسیار مناسب</Advantage>
+    <Advantage>امکان پشتیبانی از کارت حافظه MicroSD تا 32 گیگابایت</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>صفحه نمایش غیر لمسی  با رزولوشن پایین</Disadvantage>
+    <Disadvantage>عدم وجود فلاش دوربین</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="اميررضا دهقان " Value="0">
+      <Sentence ID="gr-1-1" Value="0">براي خريد دقت کنين که جاي دکمه هاي کيبردش درست باشه.</Sentence>
+      <Sentence ID="gr-1-2" Value="0">من يکي دارم ولي جاي حروف q w با a z جابه جاست بعد جالب اينجاست که وقتي  q رو بزني a عمل ميکنه و z هم بزني w عمل ميکنه
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="آرش منصوري " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">اين گوشي واقعا عاليه .</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">نسبت به پولي که دارين ميدين يه چيز رويايي ميده .</Sentence>
+      <Sentence ID="gr-2-3" Value="0">مثلا پردازنده 1 گيگاهرتزي
+خودم 3 ماهه دارم دنبال يه گوشي خوب و ارزون قيمت ميگردم و هرجا ميرم آخرش به همين گوشي ميرسم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="N.A " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">من اين گوشي را قبلا داشتم ، براي کساني که گوشيهاي کيبردي دوست دارند خوبه،  مخصوصا مرورگري که در گوشي نصب هست بسيار عاليه و محدوديتهاي اينترنتي رو رد ميکنه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="عليرضا دورقي " Value="+2">
+      <Sentence ID="gr-4-1" Value="+2">گوشي عالي و خوش دستيه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="پيام نادري" Score="39" Voters="45" Value="+1">
+      <Sentence ID="cr-1-1" Value="+2">حدود يک ماهي ميشه که اين گوشي رو خريدم و از امکانات و عملکردش در مقايسه با قيمتش بسيار راضي هستم.</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">نوار براق و استيل مانندي که دور گوشي کشيده شده ،  زيبايي و جذابيت خاصي به اين گوشي داده که البته نمونه اون رو در گوشي E72 و E6 شاهد هستيم.</Sentence>
+      <Sentence ID="cr-1-3" Value="+1">اگرچه وزن گوشي نسبتا کم هست (99گرم) ولي وقتي اونو تو دست ميگيريد حس خوبي به شما ميده.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">البته درب پشت گوشي که محل قرارگيري باتري و سيم کارت است از جنس آلومينيوم مقاوم است که خود اون هم احساس خوبي هنگام در دست گرفتن گوشي دارد.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">در اطراف گوشي خبري از دکمه هاي صدا و شاتر دوربين و .</Sentence>
+      <Sentence ID="cr-1-6" Value="0">نيست و تنها محل درج مموري micro SD ،  خروجي هدفون ،  محل شارژ باتري و پورت micro USB وجود داره.</Sentence>
+      <Sentence ID="cr-1-7" Value="+1">دوربين 3.2 مگا پيکسلي که روي اين دوربين هست در مقايسه با قيمت گوشي مناسب و خوب است.</Sentence>
+      <Sentence ID="cr-1-8" Value="+1">صفحه کليد Full QWERTY گوشي امکان تايپ سريع SMS رو فراهم مي کنه.</Sentence>
+      <Sentence ID="cr-1-9" Value="0">CPU اين گوشي 1Ghz است.</Sentence>
+      <Sentence ID="cr-1-10" Value="-1">سيستم عامل اين گوشي از سري 40 نوکيا هست که قابل مقايسه با سري 60 نوکيا نيست و برخي کمبودهايي در مقايسه با سري 60 داره.</Sentence>
+      <Sentence ID="cr-1-11" Value="+1">نکته جالب در مورد اين گوشي اينه که سوراخي براي ورودي صداي شما در حين مکالمه (ميکروفن) قابل مشاهده نيست بلکه ميکروفن گوشي در بين صفحه کليد آن پنهان و مخفي است.</Sentence>
+      <Sentence ID="cr-1-12" Value="+1">به طور کلي و درنهايت ميشه گفت که اين گوشي در مقايسه با قيمتش ،  امکانات خوبي براي کاربر فراهم کرده و مي تونه گزينه مناسبي براي خريد باشه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="عليرضاابوطالبي" Score="4" Voters="26" Value="-1">
+      <Sentence ID="cr-2-1" Value="+1">شايد گوشي asha302 براي آن دسته از کساني که تا به حال با گوشيهاي پيشرفته کار نکرده اند پيشنهاد مناسبي باشد.</Sentence>
+      <Sentence ID="cr-2-2" Value="-1">.اما اشکال کار در اين است که معايب اين گوشي بيشتر از محاسنش است.</Sentence>
+      <Sentence ID="cr-2-3" Value="-1">نکات قدرت اين گوشي تنها 3 چيز است.1قيمت مناسب 2صفحه کليد خوب 3پردازنده قوي اما در مقابل عدم داشتن سيستم عامل نه تنها نکته ي منفي محسوب ميشود بلکه پردازنده1ghzان نيز بدون استفاده ميماند.</Sentence>
+      <Sentence ID="cr-2-4" Value="-1">همچنين کيفيت نامناسب صفحه نمايش.</Sentence>
+      <Sentence ID="cr-2-5" Value="-1">و نبود فلش در کنار دوربين باعث ميشود تصمیم گيري براي خريد اين گوشي کمي سخت به نظر بيايد.</Sentence>
+      <Sentence ID="cr-2-6" Value="0">شايد گوشيهاي چت سامسونگ پيشنهاد بهتري باشد.</Sentence>
+      <Sentence ID="cr-2-7" Value="0">هرچند براي خريد محصولي بهتر ميتوان e5.6رانيز معرفي کرد.</Sentence>
+      <Sentence ID="cr-2-8" Value="-1">اما عدم پشتيباني از اندرويد در گوشيهاي نوکيا باعث شده قدرت جذب مشتري سامسونگ و رقيبانش در مقابل نوکيا افزايش پيدا کند.</Sentence>
+      <Sentence ID="cr-2-9" Value="0">دست اخر بايد گفت اين يک گوشي براي پيامک و چت است.</Sentence>
+      <Sentence ID="cr-2-10" Value="-1">و نبايد هيچ انتظاري از ان داشت.</Sentence>
+      <Sentence ID="cr-2-11" Value="0">گوشي نوکيا asha200 هم با دو سيم کارت ميتواند هم رديف ارزان قيمت اين گوشي باشد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="محمد ميرعالي" Score="69" Voters="95" Value="+1">
+      <Sentence ID="cr-3-1" Value="+1">نوکيا Asha آمده است تا بازار را به خود خيره کند.</Sentence>
+      <Sentence ID="cr-3-2" Value="+1">اين بدان معنا است که قيمت آن شما را متعجب خواهد ساخت.</Sentence>
+      <Sentence ID="cr-3-3" Value="+1">البته با اين مقدار بودجه اي که براي خريد اين گوشي اختصاص مي دهيد امکانات ايده آلي دريافت خواهيد کرد.</Sentence>
+      <Sentence ID="cr-3-4" Value="0">با اينکه گوشي هاي ارزان قيمت بازار حرفي براي گفتن ندارند و چندان کارايي ندارند،  اما Asha به اين گونه نيست.</Sentence>
+      <Sentence ID="cr-3-5" Value="+1">اين گوشي داراي مسنجر QWERTY بوده و همچنين از 2 سيم کارت پشتيباني مي کند.</Sentence>
+      <Sentence ID="cr-3-6" Value="+1">اين براي نوکيا خيلي اهميت دارد چرا که با عرضه ي اين گوشي فروش زيادي خواهد کرد.</Sentence>
+      <Sentence ID="cr-3-7" Value="+1">اين گوشي در رنگ ها و استايل هاي مختلفي نيز عرضه مي شود که در زير نمونه اي از اين رنگ ها را مشاهده مي کنيد.</Sentence>
+      <Sentence ID="cr-3-8" Value="0">در حقيقت Nokia Asha  2 گوشي در داخل يک گوشي است و تنها منظورمان به اين دليل نيست که از 2 سيم کارت پشتيباني مي کند.</Sentence>
+      <Sentence ID="cr-3-9" Value="+1">اين بدان جهت است که نوکيا Asha 200 از 2 مدل بسيار خوب نوکيا يعني گوشي X2-01 با رابط کاربري سري 40 و صفحه کليد QWERTY بهره مي برد و همچنين قابليت 2 سيم کارته بودن نيز به آن اضافه شده است و از اين جهت گفته مي شود که اين گوشي 2 گوشي در داخل يک گوشي است.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="44" />
+  <Performance Value="6.70" />
+  <Capability Value="7.00" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="7.00" />
+  <Purchase_Value Value="7.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="امکانات سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="عملکرد باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="گوشي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="مرورگر" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="گوشي" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="امکانات" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="عملکرد" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="وزن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="دوربين" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="تايپ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="قيمت" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="رنگ" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="صفحه کليد" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="پردازنده" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="کيفيت صفحه نمایش" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10065" Root="امکانات" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="استايل" Relation="cr-3" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-1,75,83]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-1,84,91]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-3,115,117]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-3,109,114]" Relation="tagID1009" Value="" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-6,33,35]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-6,26,32]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-26,29,33]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-26,34,43]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-1,95,101]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-1,102,106]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-2,12,17]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-2,18,23]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-14,45,54]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-14,55,65]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-18,74,81]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-18,82,87]" Relation="tagID10017" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-25,106,113]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-25,114,124]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[gr-2-1,4,8]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[gr-2-1,9,20]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[gr-3-1,82,89]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[gr-3-1,109,120]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[gr-4-1,0,4]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[gr-4-1,5,9]" Relation="tagID10031" Value="+" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[gr-4-1,12,21]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[cr-1-1,44,51]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[cr-1-1,81,91]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[cr-1-12,64,71]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[cr-1-12,72,76]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[cr-1-1,54,61]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[cr-1-1,81,91]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[cr-1-3,6,9]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[cr-1-3,15,23]" Relation="tagID10041" Value="" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[cr-1-7,0,6]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[cr-1-7,67,72]" Relation="tagID10044" Value="+" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[cr-1-7,75,78]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[cr-1-8,33,37]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[cr-1-8,38,42]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[cr-2-3,35,39]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[cr-2-3,40,45]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[cr-3-7,12,18]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[cr-3-7,32,38]" Relation="tagID10069" Value="" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[cr-2-3,47,56]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[cr-2-3,57,60]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[cr-2-3,62,70]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[cr-2-3,71,74]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[cr-2-4,7,12]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[cr-2-4,13,20]" Relation="tagID10063" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[cr-3-3,65,72]" Relation="elementID10065" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[cr-3-3,73,81]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[cr-3-7,21,31]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[cr-3-7,32,38]" Relation="tagID10072" Value="" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,84,91]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,102,106]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,18,23]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-2,40,49]" Value="-" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-2,57,61]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-2,67,70]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-3,20,24]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-3,64,67]" Value="" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-3,45,53]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-3,54,61]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-3,78,86]" Value="-" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-3,109,114]" Value="" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-3,121,126]" Value="" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-4,90,95]" Value="-" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-4,96,99]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-4,102,105]" Value="" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-4,130,138]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-4,141,150]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-4,167,174]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-6,26,32]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-6,43,46]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-8,38,46]" Value="-" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-8,60,65]" Value="" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-9,54,59]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-9,60,64]" Value="-" />
+    <Keyword ID="keywordID10071" Coordinate="[cr-1-1,81,91]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-10,0,3]" Value="" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-11,84,89]" Value="" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-11,109,115]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-11,0,5]" Value="" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-12,72,77]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-12,78,82]" Value="" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-14,55,65]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-14,92,95]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-15,81,87]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-15,77,80]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-15,32,34]" Value="" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-15,17,26]" Value="" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-18,82,87]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-19,57,63]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-19,64,71]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-21,31,45]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-21,51,56]" Value="" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-22,101,105]" Value="-" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-22,90,100]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-23,75,80]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-23,0,5]" Value="" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-23,143,150]" Value="-" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-25,75,79]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-25,114,124]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-25,131,138]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-26,34,43]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-26,129,141]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-26,72,75]" Value="" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-27,34,38]" Value="-" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-27,41,44]" Value="" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-27,68,76]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-27,132,139]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-27,140,144]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-28,82,91]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-28,101,104]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-29,103,113]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-29,94,102]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-29,125,132]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-2-1,9,20]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-2-2,35,41]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-3-1,68,72]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-3-1,109,120]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-3-1,75,81]" Value="" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-4-1,5,9]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-4-1,12,21]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[cr-1-1,92,96]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[cr-1-2,50,56]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[cr-1-2,59,65]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[cr-1-2,66,70]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[cr-1-3,15,23]" Value="" />
+    <Keyword ID="keywordID10077" Coordinate="[cr-1-3,36,39]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[cr-1-3,68,72]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[cr-1-4,73,78]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[cr-1-4,79,82]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[cr-1-4,103,107]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[cr-1-4,132,136]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[cr-1-7,67,72]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[cr-1-7,75,78]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[cr-1-7,79,82]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[cr-1-8,38,42]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[cr-1-8,50,55]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[cr-1-10,83,92]" Value="-" />
+    <Keyword ID="keywordID10089" Coordinate="[cr-1-10,113,117]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[cr-1-11,5,9]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[cr-1-12,72,76]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[cr-1-12,88,93]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[cr-1-12,115,121]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[cr-2-1,0,4]" Value="" />
+    <Keyword ID="keywordID10095" Coordinate="[cr-2-1,94,100]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[cr-2-2,29,34]" Value="-" />
+    <Keyword ID="keywordID10097" Coordinate="[cr-2-2,44,49]" Value="" />
+    <Keyword ID="keywordID10098" Coordinate="[cr-2-2,5,10]" Value="-" />
+    <Keyword ID="keywordID10099" Coordinate="[cr-2-2,1,4]" Value="" />
+    <Keyword ID="keywordID100100" Coordinate="[cr-2-2,53,59]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[cr-2-3,5,9]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[cr-3-7,32,38]" Value="" />
+    <Keyword ID="keywordID100103" Coordinate="[cr-2-3,40,45]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[cr-2-3,57,60]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[cr-2-3,71,74]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[cr-2-3,75,78]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[cr-2-3,109,116]" Value="" />
+    <Keyword ID="keywordID100108" Coordinate="[cr-2-3,141,145]" Value="" />
+    <Keyword ID="keywordID100109" Coordinate="[cr-2-3,124,128]" Value="-" />
+    <Keyword ID="keywordID100110" Coordinate="[cr-2-3,165,169]" Value="-" />
+    <Keyword ID="keywordID100111" Coordinate="[cr-2-4,13,20]" Value="-" />
+    <Keyword ID="keywordID100112" Coordinate="[cr-2-5,67,74]" Value="-" />
+    <Keyword ID="keywordID100113" Coordinate="[cr-2-5,2,6]" Value="-" />
+    <Keyword ID="keywordID100114" Coordinate="[cr-2-6,32,37]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[cr-2-6,0,4]" Value="" />
+    <Keyword ID="keywordID100116" Coordinate="[cr-2-8,4,7]" Value="-" />
+    <Keyword ID="keywordID100117" Coordinate="[cr-2-8,8,16]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[cr-2-8,0,3]" Value="" />
+    <Keyword ID="keywordID100119" Coordinate="[cr-2-10,2,7]" Value="-" />
+    <Keyword ID="keywordID100120" Coordinate="[cr-2-3,88,91]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[cr-3-1,39,43]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[cr-3-2,36,41]" Value="" />
+    <Keyword ID="keywordID100123" Coordinate="[cr-3-3,73,81]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[cr-3-5,56,64]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[cr-3-5,65,71]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[cr-3-6,62,67]" Value="" />
+    <Keyword ID="keywordID100127" Coordinate="[cr-3-6,20,25]" Value="" />
+    <Keyword ID="keywordID100128" Coordinate="[cr-3-6,15,19]" Value="" />
+    <Keyword ID="keywordID100129" Coordinate="[cr-3-9,117,121]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[cr-3-9,122,128]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[cr-3-9,138,144]" Value="" />
+    <Keyword ID="keywordID100133" Coordinate="[cr-3-9,44,53]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="134" />
+    <Tag_Index Value="74" />
+  </Index>
+</Product>

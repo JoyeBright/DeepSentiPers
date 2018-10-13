@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Panda Antivirus Pro 2013" Type="Computer">
+  <Features>
+    <Feature Name="نوع قطعه ">نرم افزار</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+1">آنتی‌ویروس پاندا 2013 تنها یک برنامه ضدویروس و ضدبدافزار نیست بلکه حفاظت کامل و همه‌جانبه‌ای را برای اطلاعات و تجهیزات رایانه‌ای شما فراهم می‌آورد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">اولین قابلیت مهم این نرم‌افزار، شناسایی و پیشگیری از نفوذ ویروس‌های بسیار جدید و ثبت نشده،  از طریق هوش مصنوعی یا سیستم حفاظت پیشگیرانه می‌باشد.</Sentence>
+    <Sentence ID="rev-3" Value="+1">هم چنین این برنامه،  دارای ابزاری اختصاصی برای حفاظت از اطلاعات شخصی و جلوگیری از جعل اینترنتی هویت شماست،  نرم‌افزارهای جدید پاندا،  یکی از بهترین روش‌های موجود برای پیشگیری از کلاهبرداری‌های آنلاین حملات هک، ‌نفوذهای غیرمجاز و آلودگی‌های ویروسی محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-4" Value="+2">آنتی‌ویروس پاندا 2013، ساده‌ترین، سبک‌ترین و هوشمندترین نرم‌افزار امنیتی برای رایانه‌های خانگی و شخصی به حساب می‌آید.</Sentence>
+    <Sentence ID="rev-5" Value="+2">تکنولوژی هوش امنیتی یکپارچه (Collective Intelligence) پاندا،  قدرت دو چندانی به این نرم‌افزار بخشیده که می‌تواند جدیدترین بدافزارهای رایانه‌ای را در مدت زمان بسیار کوتاهی شناسایی،  طبقه‌بندی و پاکسازی کند.</Sentence>
+    <Sentence ID="rev-6" Value="0">دیگر نیازی نیست که شما یک کاربر حرفه‌ای اینترنت باشید تا بتوانید سطح بالایی از امنیت را در رایانه خود ایجاد نمایید،  می‌توانید این کار را به پاندا بسپارید.</Sentence>
+  </Review>
+  <Voters Value="3" />
+  <Performance Value="7.00" />
+  <Capability Value="10.00" />
+  <Production_Quality Value="10.00" />
+  <Ergonomics Value="10.00" />
+  <Purchase_Value Value="10.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="حفاظت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="آنتی‌ویروس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="زمان شناسایی" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-1,67,72]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-1,73,77]" Relation="tagID1001" Value="+" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,80,92]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-4,0,10]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-4,23,32]" Relation="tagID1005" Value="+" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-4,34,42]" Relation="tagID1005" Value="+" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-4,45,55]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-5,153,157]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-5,158,170]" Relation="tagID10010" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,73,77]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,80,92]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,6,12]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-2,13,16]" Value="" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-3,141,147]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-3,121,125]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-4,23,32]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-4,34,42]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-4,45,55]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-5,62,66]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-5,158,170]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="11" />
+    <Tag_Index Value="12" />
+  </Index>
+</Product>

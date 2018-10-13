@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Asus Transformer Pad Infinity TF700T 64GB + Dock" Type="Tablet">
+  <Features>
+    <Feature Name="ابعاد ">8.5 × 180.8 × 263 mm</Feature>
+    <Feature Name="وزن ">598 گرم</Feature>
+    <Feature Name="رنگ ">طلایی، بنفش</Feature>
+    <Feature Name="سازنده پردازنده ">Nvidia</Feature>
+    <Feature Name="مدل پردازنده ">Tegra 3 Quad-Core</Feature>
+    <Feature Name="سرعت پردازنده ">1.6GHz</Feature>
+    <Feature Name="حافظه رم ">1.0 GB</Feature>
+    <Feature Name="نوع حافظه رم ">-</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">64 GB</Feature>
+    <Feature Name="مشخصات دیسک درایو ">EMMC + 8G Life Time ASUS Webstorage space</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">10.1 اینچ</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">LED Backlight Screen, Super IPS+, 10 Finger Multi-Touch Support</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">WUXGA 1920 × 1200 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">صفحه نمایش مالتی تاچ با قابلیت دریافت 10 لمس همزمان (10 Finger Multi-Touch Support) - ضد خشصفحه نمایش خازنی و ضد خش</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">خیر</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">WLAN 802.11 b/g/n@2.4GHz</Feature>
+    <Feature Name="GPRS ">خیر</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="Edge ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.0 همراه با EDR</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">MicroSD</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="توضیحات دوربین ">دوربین پشتی مجهز به حسگر 8 مگاپیکسلی با سنسور BSI CMOS، فلاش LED، فوکوس خودکار و دریچه دیافراگم F/2.2</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم (دوربین جلویی) با کیفیت 2 مگاپیکسل</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای استریوی با کیفیت</Feature>
+    <Feature Name="پورت USB ">خیر</Feature>
+    <Feature Name="پورت HDMI ">بلی</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">(Ver 4 (Ice Cream Sandwich</Feature>
+    <Feature Name="باتری ">Lithium-Polymer Battery</Feature>
+    <Feature Name="کارکرد باتری ">14 ساعت</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">ASUS launcherMyLibraryMyNetMyCloud@Vibe Musicasus webstorageFile managerASUS syncSuperNoteApp LockerApp BackupTegraZone</Feature>
+    <Feature Name="امکانات دیگر ">کارکرد باتری با کیبورد داک 14 ساعت و به تنهایی (عدم اتصال به داک) 9.5 ساعتدارای حسگر نوری برای تنظیم نور صفحه نمایش با نور محیط (Light Sensor)Improved Graphics Performance With a 12-Core GPUThe slimmest and lightest 1920x1200 resolution Full HD Android™ tabletThe Fastest NVIDIA® Tegra® 3 Quad-core CPU ever, @ 1.6GHzElevate your audio experience with SonicMaster technology for a superior sound rangeStunning stylish colors with a metallic spun finished designRear auto-focus 8MP camera with LED flash, 5-element lens, large F/2.2 aperture and back illuminated CMOS sensor for crystal clear shotsSuper IPS+ panel for ultra bright outdoor readability with 178° wide viewing anglesCorning® Gorilla® Glass 2 provides improved impact resistance</Feature>
+    <Feature Name="اقلام همراه تبلت ">شارژر USBکابل داک USB دفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">طراحی و ساخت همانند Transformer Prime،  تبلت Infinity نیز بدنه ای آلومینیومی دارد.</Sentence>
+    <Sentence ID="rev-2" Value="0">با داشتن ضخامتی معادل 8.5 میلی‌متر،  Infinity نزدیک به یک میلی‌متر باریک‌تر از آی پد نسل سوم است.</Sentence>
+    <Sentence ID="rev-3" Value="0">ایسوس اعلام کرده است که در ساخت این تبلت از شیوه خاصی از قالب گیری آلومینیوم استفاده کرده است که تنها در صنایع هوایی و ساخت اتومبیل‌های مسابقه ای استفاده می‌شود و در آن یک تکه آلومینیوم جامد انتخاب شده و سپس به شکل مورد نظر کمپرس می‌شود.</Sentence>
+    <Sentence ID="rev-4" Value="+1">TF700 تنها 599 گرم وزن دارد که آن را به یکی از سبک‌ترین تبلت های 10.1 اینچی تا به امروز تبدیل کرده است.</Sentence>
+    <Sentence ID="rev-5" Value="0">ایسوس برای کاهش وزن کلی Infinity،  از تکنولوژی قالب ریزی نانو (Nano Molding) در ساخت این تبلت استفاده کرده است.</Sentence>
+    <Sentence ID="rev-6" Value="0">قالب گیری آلومینیوم و پلاستیک در سطح نانو با استفاده از تزریق پلاستیک،  طوری عمل می‌کند که گویی پلاستیک ریشه یک درخت است و در آلومینیوم عمیقا رشد می‌کند.</Sentence>
+    <Sentence ID="rev-7" Value="0">این فرآیند به ایسوس کمک کرد که قطعات فلزی اضافی،  مانند پیچ‌ها را به دور ریخته و از قطعات پلاستیکی سبک‌تر ولی با همان کیفیت و استحکام روش‌های قبلی،  استفاده کند.</Sentence>
+    <Sentence ID="rev-8" Value="0">قسمت جلویی تبلت به طور کامل توسط صفحه نمایش 10.1 اینچی و قاب ضخیم آن اشغال شده است.</Sentence>
+    <Sentence ID="rev-9" Value="0">به جز دوربین دوم 2 مگاپیکسلی که در بالای صفحه نمایش قرار دارد،  هیچ‌گونه کلید و یا پورت دیگری در قسمت جلویی تبلت وجود ندارد.</Sentence>
+    <Sentence ID="rev-10" Value="0">تبلت را که برگردانید،  قاب پشتی تماما آلومینیومی دستگاه را مشاهده خواهید کرد که در وسط آن لوگوی براق کمپانی ASUS به چشم می‌خورد.</Sentence>
+    <Sentence ID="rev-11" Value="0">یک نوار پلاستیکی در قسمت بالایی این قاب قرار دارد که بر روی آن دوربین اصلی 8 مگاپیکسلی Infinity به همراه فلاش LED آن تعبیه شده است.</Sentence>
+    <Sentence ID="rev-12" Value="0">لازم به ذکر است که ایسوس دلیل  اصلی قرار دادن این نوار پلاستیکی را،  بهبود کیفیت Wi-Fi و GPS دستگاه اعلام کرده است.</Sentence>
+    <Sentence ID="rev-13" Value="0">در سمت چپ Infinity،  پورت 3.5 میلی‌متری هدفون،  شیار microSD و خروجی microHDMI و در انتهای این لبه،  کلید پاور قرار دارد.</Sentence>
+    <Sentence ID="rev-14" Value="0">در سمت راست تنها کلیدهای کم و زیاد کردن صدا وجود دارند.</Sentence>
+    <Sentence ID="rev-15" Value="0">در قسمت پایینی تبلت نیز پورت اتصال و شارژ تبلت و شیارهای اتصال به داک کیبورد تعبیه شده‌اند.</Sentence>
+    <Sentence ID="rev-16" Value="0">داک کیبورد همانند تبلت های Transformer قبلی،  Infinity نیز در دو مدل با داک و بدون داک کیبورد ارائه می‌شود.</Sentence>
+    <Sentence ID="rev-17" Value="0">این کیبورد کاملا از آلومینیوم ساخته شده و هم رنگ بدنه تبلت است.</Sentence>
+    <Sentence ID="rev-18" Value="+2">طراحی این کیبورد به صورت شیب دار و گوه ای بوده و کیفیت ساخت آن همانند خود تبلت،  فوق‌العاده بالاست.</Sentence>
+    <Sentence ID="rev-19" Value="+1">وزن داک 540 گرم وزن است و هنگامی که آن را به دستگاه متصل می‌کنید،  دستگاه به یک نت بوک تبدیل شده و وزن کلی آن به 1.1 کیلوگرم می‌رسد که باز هم بسیار سبک محسوب می‌شود و به راحتی می‌توان آن را جابجا کرد.</Sentence>
+    <Sentence ID="rev-20" Value="+2">لازم به ذکر است که داخل این کیبورد،  یک باتری بسیار قدرتمند نیز وجود دارد و هنگامی که Infinity را به کیبورد متصل می‌کنید،  طول عمر باتری دستگاه به دو برابر افزایش می‌یابد که در ادامه بیشتر در این رابطه توضیح خواهیم داد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">این کیبورد علاوه بر تایپ کردن سریع،  به کاربران این امکان را می‌دهد که به یک سری از قابلیت‌های دستگاه مانند بلوتوث و Wi-Fi نیز به سرعت دسترسی پیدا کنند.</Sentence>
+    <Sentence ID="rev-22" Value="+2">صفحه نمایش پیش از عرضه Infinity،  تبلت Transformer Prime بهترین کیفیت صفحه نمایش را در بین تبلت های اندرویدی داشت ولی Infinity با بهره گیری از یک صفحه نمایش Full HD با دقت 1920x1200،  روشنایی بیشتر و رنگ‌های طبیعی‌تر،  توانست تخت پادشاهی را از Prime بگیرد.</Sentence>
+    <Sentence ID="rev-23" Value="+1">هنگامی که یک ویدئوی Full HD را بر روی این دو تبلت اجرا کنید،  برتری‌های Infinity به راحتی قابل رویت است.</Sentence>
+    <Sentence ID="rev-24" Value="0">حتی هنگامی که صفحه نمایش Infinity را در کنار صفحه Retinaی آی پد نسل سوم قرار دهید،  هر دو صفحه نمایش کیفیت تقریبا یکسانی را ارائه می‌دهند و تشخیص تفاوت این دو،  بسیار مشکل است.</Sentence>
+    <Sentence ID="rev-25" Value="0">دقت بالای این صفحه نمایش،  زمانی کاملا مشخص می‌شود که به مرورگری اینترنت پرداخته یا فایل‌های متنی را مشاهده کنید.</Sentence>
+    <Sentence ID="rev-26" Value="+1">هنگامی که حالت Super IPS+ صفحه نمایش فعال شود،  روشنایی آن به طرز چشمگیری افزایش می‌یابد بطوریکه به مراتب صفحه نمایش روشن‌تری از تبلت های Transformer Prime و یا Samsung Galaxy Tab 2 و حتی iPad 3 مشاهده خواهید کرد.</Sentence>
+    <Sentence ID="rev-27" Value="+2">این روشنایی فوق‌العاده به کاربران کمک خواهد کرد که حتی با وجود سطح براق صفحه نمایش،  به راحتی با تبلت خود در فضاهای بیرونی و یا در زیر تابش مستقیم نور آفتاب کار کنند.</Sentence>
+    <Sentence ID="rev-28" Value="+2">زاویه دید صفحه نمایش Infinity نیز همانند مدل پیشین یعنی Prime،  بسیار بالا بوده و تقریبا هیچ‌گونه کاهش کیفیتی در هیچ زاویه دیدی مشاهده نکردیم.</Sentence>
+    <Sentence ID="rev-29" Value="0">بلندگودر پشت لبه چپی تبلت،  بلندگوی دستگاه تعبیه شده است.</Sentence>
+    <Sentence ID="rev-30" Value="-1">متاسفانه هنگامی که تبلت را در حالت افقی قرار دهید ممکن است ناخودآگاه،  دست شما جلوی بلندگو را بپوشاند.</Sentence>
+    <Sentence ID="rev-31" Value="+2">به جز این مورد،  کیفیت صدا بسیار خوب،  واضح و شفاف است.</Sentence>
+    <Sentence ID="rev-32" Value="+1">به علاوه صدای بیس تولید شده نیز کاملا رضایت بخش می‌باشد و مسلما دوست داران گوش کردن به موسیقی و تماشای فیلم از کیفیت صوتی این تبلت راضی خواهند بود.</Sentence>
+    <Sentence ID="rev-33" Value="0">سخت افزار داخلی همانند بسیاری از تبلت های مدرن امروزی،  Infinity F700 نیز از چیپ NVIDIA SoC (System on Chip) Tegra 3 استفاده می‌کند ولی پردازنده استفاده شده در Infinity با فرکانس بالاتری (1.6GHz) نسبت به پردازنده محصولات دیگر نظیر Transformer Prime کار می‌کند.</Sentence>
+    <Sentence ID="rev-34" Value="+1">طراحی منحصر به فرد Tegra 3 شامل یک پردازنده چهار هسته ای به علاوه یک هسته مجزای کم مصرف است.</Sentence>
+    <Sentence ID="rev-35" Value="0">این هسته کم مصرف زمانی فعال می‌شود که Infinity در حال انجام کارهای سبک مثل تماشای ویدئوهای Full HD یا مرورگری اینترنت باشد.</Sentence>
+    <Sentence ID="rev-36" Value="0">در این حالت،  چهار هسته دیگر غیر فعال می‌شوند و این کار باعث افزایش شارژ دهی باتری Infinity می‌شود.</Sentence>
+    <Sentence ID="rev-37" Value="0">به محض اینکه محاسبات سنگین‌تر (مثال اجرای بازی‌های سنگین) انجام شوند،  Infinity به پردازنده چهار هسته ای سوئیچ خواهد کرد.</Sentence>
+    <Sentence ID="rev-38" Value="+1">این پردازشگر به قدری قدرتمند است که هیچ‌گونه کاهش سرعتی حتی هنگام اجرای بازی‌های سه بعدی و یا انجام محاسبات سنگین،  مشاهده نخواهید کرد.</Sentence>
+    <Sentence ID="rev-39" Value="0">به علاوه طراحی این پردازنده به نحویست که گرمای زیادی تولید نکند.</Sentence>
+    <Sentence ID="rev-40" Value="+1">حافظه RAM این دستگاه نیز یک گیگابایت است که برای اجرای روان چند برنامه به طور همزمان،  بسیار مناسب است.</Sentence>
+    <Sentence ID="rev-41" Value="0">Infinity در دو مدل 32 و 64 گیگابایتی عرضه شده است و امکان ارتقا حافظه آن از طریق درگاه کارت حافظه microSD تا 32 گیگابایت دیگر نیز وجود دارد.</Sentence>
+    <Sentence ID="rev-42" Value="0">نرم افزار TF700 به طور پیش فرض از اندروید 4.0 یا ساندویچ بستنی استفاده می‌کند.</Sentence>
+    <Sentence ID="rev-43" Value="0">البته ASUS وعده داده است که این تبلت به زودی به اندروید 4.1 یا Jelly Bean آپدیت خواهد شد.</Sentence>
+    <Sentence ID="rev-44" Value="0">ASUS یکی از معدود کمپانی‌هایی است که هیچ‌گونه تغییر خاصی در رابط کاربری اندروید ایجاد نکرده است.</Sentence>
+    <Sentence ID="rev-45" Value="+1">البته در نظر داشته باشید که این موضوع به ایسوس کمک می‌کند که خیلی سریع‌تر از کمپانی‌های دیگر محصولات خود را آپدیت نرم افزاری کند.</Sentence>
+    <Sentence ID="rev-46" Value="+2">محیط رابط کاربری به لطف پردازنده بسیار قدرتمند چهار هسته ای حتی زمانی که از تصویر پس زمینه متحرک استفاده کردیم،  کاملا روان است.</Sentence>
+    <Sentence ID="rev-47" Value="+1">قسمت اصلی نرم افزاری که لازم است به آن اشاره کنیم،  مرورگر اینترنتی Transformer Pad Infinity است که واقعا یک مرورگر اینترنتی بی نقص است.</Sentence>
+    <Sentence ID="rev-48" Value="+1">همه چیز بسیار سریع و بدون هیچ‌گونه کاهش سرعتی بوده و از Flash نیز به طور کامل پشتیبانی می‌شود.</Sentence>
+    <Sentence ID="rev-49" Value="0">لازم به ذکر است که از منوی Notifications این تبلت،  می‌توان بین سه حالت روشنایی صفحه نمایش یعنی Standard IPS،  Super IPS+ و حالت Power Saving سوییچ کنید.</Sentence>
+    <Sentence ID="rev-50" Value="0">دوربین ایسوس در Infinity یک دوربین 8 مگاپیکسلی با فراخی دیافراگم f/2.2 قرار داده است.</Sentence>
+    <Sentence ID="rev-51" Value="+2">تصاویر گرفته شده با دوربین این تبلت کیفیت فوق‌العاده بالایی دارند.</Sentence>
+    <Sentence ID="rev-52" Value="+2">حتی عکس‌های پانوراما نیز بسیار شارپ بوده و جزئیات خیلی دقیقی دارند.</Sentence>
+    <Sentence ID="rev-53" Value="+2">رنگ‌های تولید شده بسیار زنده و طبیعی بوده و نویز تصاویر نیز کم است.</Sentence>
+    <Sentence ID="rev-54" Value="0">به علاوه این تبلت می‌تواند با کیفیت Full HD 1080p فیلم‌برداری کند.</Sentence>
+    <Sentence ID="rev-55" Value="+1">همانند عکس‌های گرفته شده،  کیفیت فیلم‌برداری این تبلت نیز بسیار خوب و رضایت بخش است.</Sentence>
+    <Sentence ID="rev-56" Value="0">در حقیقت می‌توان به جرات گفت که کمتر تبلتی در بازار وجود که دوربینی به خوبی دوربین Transformer Pad Infinity داشته باشد.</Sentence>
+    <Sentence ID="rev-57" Value="0">باتری پس از باتری قدرتمند Transformer Prime،  انتظار بسیار زیادی از باتری TF700 داشتیم.</Sentence>
+    <Sentence ID="rev-58" Value="0">در تست مرورگری اینترنت از طریق Wi-Fi با روشنایی متوسط،  این تبلت توانست بیش از 7 ساعت شارژ دهی کند.</Sentence>
+    <Sentence ID="rev-59" Value="+1">با اینکه این میزان از آی پد نسل سوم کمتر است،  ولی شارژ دهی خیلی خوبیست و از متوسط تبلت های بازار،  بالاتر است.</Sentence>
+    <Sentence ID="rev-60" Value="+1">هنگامی که داک کیبورد را به دستگاه متصل کردیم،  این میزان به بیش از 13 ساعت افزایش داد که نه تنها میزان بی نظیریست،  بلکه Infinity را در صدر جدول بهترین شارژ دهی قرار داد.</Sentence>
+    <Sentence ID="rev-61" Value="0">بنابراین پیشنهاد می‌کنیم که کسانی که به دنبال حداکثر شارژ دهی هستند،  حتما از داک کیبورد دستگاه استفاده کنند.</Sentence>
+    <Sentence ID="rev-62" Value="+2">جمع بندی صفحه نمایش با کیفیت،  شفاف و روشن Infinity آن را به یک جانشین عالی برای Transformer Prime تبدیل کرده است.</Sentence>
+    <Sentence ID="rev-63" Value="+1">افزایش فرکانس سرعت پردازنده نیز عملکرد بی عیب و نقص تبلت را در این دقت بالاتر،  تضمین می‌کند.</Sentence>
+    <Sentence ID="rev-64" Value="+1">داک کیبورد نیز،  این تبلت را به یک نت بوک ایده آل تبدیل می‌کند.</Sentence>
+    <Sentence ID="rev-65" Value="+1">صفحه نمایش این دستگاه واقعا جای تقدیر و تمجید دارد.</Sentence>
+    <Sentence ID="rev-66" Value="+2">پنل Super IPS+ استفاده شده نه تنها روشنایی فوق‌العاده ای دارد و به راحتی می‌توان در تمام شرایط نوری با آن کار کرد،  بلکه زاویه دید آن نیز بی نظیر است و چنین صفحه ای نمایشی را تا به امروز بر روی هیچ تبلتی مشاهده نکرده بودیم.</Sentence>
+    <Sentence ID="rev-67" Value="+2">دوربین TF700 نیز نسبت به مدل‌های پیشین بهبود فراوانی یافته و در کل می‌توان گفت که یکی از بهترین دوربین هاییست که تا به امروز بر روی تبلت ها دیده بودیم.</Sentence>
+    <Sentence ID="rev-68" Value="+2">در نهایت اگر به دنبال بهترین تبلت اندرویدی موجود در بازار هستید،  بدون هیچ شک و تردیدی ASUS Transformer Pad Infinity بهترین و به عبارتی تنها انتخاب شما خواهد بود.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>صفحه نمایش بی نظیر با پنل Super IPS+</Advantage>
+    <Advantage>طراحی عالی و کیفیت ساخت بالا</Advantage>
+    <Advantage>داک کیبورد بسیار کاربردی</Advantage>
+    <Advantage>سخت افزار بسیار قدرتمند</Advantage>
+    <Advantage>دوربین با کیفیت</Advantage>
+    <Advantage>رابط کاربری بسیار روان</Advantage>
+    <Advantage>باتری با شارژ دهی بالا - به خصوص هنگام استفاده از داک کیبورد</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="پويان کمالي وند " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">بزرگترين مشکلش نداشتن سيم کارت هستش </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="سيد محمدرضا طباطبايي " Value="-1">
+      <Sentence ID="gr-2-1" Value="0">من اين تبلتو 2 ماه داشتم.</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">اين تبلت مزيتهاي خوبي داره ولي!</Sentence>
+      <Sentence ID="gr-2-3" Value="0">کسي که تبلت ميخره دوست داره در هر جايي به اينترنت دسترسي داشته باشه.</Sentence>
+      <Sentence ID="gr-2-4" Value="-1">دليلي که اين تبلت رو عوض کردم نداشتن قابليت پشتيباني از سيم کارت بود.</Sentence>
+      <Sentence ID="gr-2-5" Value="-1">از اول هم اشتباه کردم ايسوس رو به سامسونگ ترجيح دادم.</Sentence>
+      <Sentence ID="gr-2-6" Value="0">در ضمن کيفيت صفحه گلکسي نوت 10.1 خيلي با اسوس اينفينيتي فرقي نداره در حالي که امکاناتش بسيار از اين تبلت بهتره !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="مازيار جهانباني فر " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">بهترين تبلت دنيا در همه زمينه ها.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder=" امير شايان " Value="-1">
+      <Sentence ID="gr-4-1" Value="0">حدودا ماه پيش اين تبلت رو از ديجي کالا خريدم.</Sentence>
+      <Sentence ID="gr-4-2" Value="-1">با بيمه و گارانتي هماهنگ
+متاسفانه!</Sentence>
+      <Sentence ID="gr-4-3" Value="-1">به مشکل آقاي يزداني فرجام برخوردم يعني يک خط نازک مشکي وسط نمايشگر افتاده ، زنگ زدم هماهنگ گفتند بفرستيد،  کالاتون بيمه است عوض ميکنيم ولي اين پروسه يکماه طول ميکشه .</Sentence>
+      <Sentence ID="gr-4-4" Value="-1">خدا کنه حداقل با گارانتي اين ضعف ايسوس پوشش داده بشه وگرنه با اينکه تبلتي بسيار بسيار فوق العاده است توصيه ميکنم براي خريدنش عجله نکنيد از همين سايت نحوه پوشش گارانتي رو اطلاع ميدم
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="Mohammad reza Kholghi " Value="+2">
+      <Sentence ID="gr-5-1" Value="+2">بسيار تبلت شيک و کارآمدي هستش
+من اين رو امروز از ديجي کالا خريدم و بسيار عالي هستش
+با تشکر فراوان از ديجي کالا</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="احمد يزداني فرجام " Value="0">
+      <Sentence ID="gr-6-1" Value="0">بالاخره بعد از يک ماه تبلت ما آماده شد دوازدهم شهريور تحويل گارانتي هماهنگ دادم سيزدهم مهر تحويل گرفتم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="مسعود ابوشهر " Value="0">
+      <Sentence ID="gr-7-1" Value="0">منم گرفتم اين تبلتو ولي يه مشکلي داشت فرستادم شرکت هماهنگ واسه گارانتيش ولي الان بيست روزه هي امروز و فردا ميکنن.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="رضا حيدري کيا " Value="-1">
+      <Sentence ID="gr-8-1" Value="-1">حيف که سيم کارت نميخوره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="احمد يزداني فرجام " Value="-1">
+      <Sentence ID="gr-9-1" Value="-1">من خريدم و يک هفته بعد يه خط افتاد روي صفحه که بردم گارانتي شرکت هماهنگ ،  گفتند بردش اشکال داره الان تقريبا بيشتر از سه هفته است که تبلت من رو گرفتند و هنوز جواب درست هم نمي دهند.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="علي فرهي " Value="+1">
+      <Sentence ID="gr-10-1" Value="+1">به نظر من  تبلتAsus Transformer Pad Infinity TF700T بهترين تبلت اندرويدي موجود دربازار است و رقيب سر سختي براي شرکت اپل است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="محمد يعقوبي " Value="-1">
+      <Sentence ID="gr-11-1" Value="-1">با اينکه بدنه آلمينيومي سبب استحکام و کيفيت بالاي ساخت اون تو اين تبلت و حتي ساير تبلت ها ميشه ولي اگر بدنه پلاستيکي داشت بسيار زيباتر و همچنين دلنشين تر ميشد
+وقتي آمدم يه تبلت آلمينيومي دستش ميگيره به معناي واقعي از چيزي که دستشه تنفر پيدا ميکنه هر چند که از باب سخت افزار يا نرم افزار بسيار بالا باشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="داود رستم نژاد مقدم " Value="+1">
+      <Sentence ID="gr-12-1" Value="0">Samsung Galaxy Note 10.1 N8000 فقط RAM دو برابر ايسوس داره در عوض
+صفحه نمايش با تراکم کمتر HD در مقابل FHD ايسوس
+ دوربين 5 مگاپيکسل در مقابل 8 
+CPU هم چون Exynos هست فرض مي کنيم که مساويه
+GPU Mail-400 به نظر شما از دوازده هسته اي TF700 بهتره ؟</Sentence>
+      <Sentence ID="gr-12-2" Value="0">جنس بدنه سامسونگ هم که از  پلاستيک ساخته شده 
+عمر باطري؟</Sentence>
+      <Sentence ID="gr-12-3" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-4" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-5" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-6" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-7" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-8" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-9" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-10" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-11" Value="0">قيمت؟</Sentence>
+      <Sentence ID="gr-12-12" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-13" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-14" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-15" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-16" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-17" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-18" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-19" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-20" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-21" Value="0">؟</Sentence>
+      <Sentence ID="gr-12-22" Value="+1">بهترين به نظر من ASUS TF700 هست
+
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="رضا صادقي " Value="+2">
+      <Sentence ID="gr-13-1" Value="+2">واقعا عاليه من که خيلي باهاش حال ميکنم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="حامد معزز " Value="0">
+      <Sentence ID="gr-14-1" Value="0">درود بر همه دوستان
+اگر به دنبال يک تبلت با ظاهر و کارايي بي نظير هستيد و عجله نداريد صبر کنيد تا مدل 
+Samsung Galaxy Note 10.1 N8000
+به بازار ايران عرضه بشه تا مشخص کننده قدرت و کارايي و ظاهر در کنارهم براي کاربراي مثل من و شما باشه
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="عرفان دواچي " Value="+2">
+      <Sentence ID="gr-15-1" Value="+2">عاليه بهترين تبلت تا الانه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="رضائي " Value="+1">
+      <Sentence ID="gr-16-1" Value="0">سلام
+همانطور که پست قبلي بهتون قول دادم تونستم تا حدي اين تبلت رو تست کنم.</Sentence>
+      <Sentence ID="gr-16-2" Value="+1">بايد بگم جواب تست هام رو فقط مي تونم با Apple 4G مقايسه کنم چون اين تبلت يه سر و گردن از بقيه تبلت هاي اندرويدي قويتره.</Sentence>
+      <Sentence ID="gr-16-3" Value="+1">از نظر ظاهر و شيک بودن و مخصوصا بدنه آلمينيومي خوب از اپل زيباتر به نظر مي رسه.</Sentence>
+      <Sentence ID="gr-16-4" Value="0">تو رزولوشن هم از اپل بالاتر نباشه،  کمتر هم نيست.</Sentence>
+      <Sentence ID="gr-16-5" Value="+1">من که خيلي از صفحه نمايشش راضيم.</Sentence>
+      <Sentence ID="gr-16-6" Value="+1">مثل اپل اصلا تو اجراي برنامه هاي سنگين هنگ نمي کنه.</Sentence>
+      <Sentence ID="gr-16-7" Value="-1">البته يه بدي هم داره.</Sentence>
+      <Sentence ID="gr-16-8" Value="+1">همونطور که مي دونين اپل پردازنده 2 هسته اي داره که با وجود ios باعث قدرت بسيار زياد اون در اجراي هر برنامه و با هر شرايطي مي شه ولي ايسوس TF700T داراي يه پردازنده تک هسته اي معمولي به علاوه يه پردازنده بسيار قدرتمند 4 هسته ايه.</Sentence>
+      <Sentence ID="gr-16-9" Value="+1">پردازنده تک هسته اي تقريبا خوب عمل مي کنه ولي نه در حدي که همون کار رو پردازنده اي دو هسته اي اپل انجام مي ده ولي برنامه هايي که باعث مي شن پردازنده اي 4 هسته ايش راه بيفته ديگه جايي رو براي شک باقي نمي زاره که شما بهترين تبلت اندرويدي رو تو دستاتون دارين.</Sentence>
+      <Sentence ID="gr-16-10" Value="0">بخوام نتيجه بگيرم  اين دو تبلت واقعا در يه حدن،  از نظر قيمت هم در يه حدن.</Sentence>
+      <Sentence ID="gr-16-11" Value="+1">فقط ايسوس با خودش يه داک قدرتمند داره که آزادي عمل بيشتري به شما براي انجام کاراتون مي ده و اپل هم gprs،  edge،  3G و 4G داره که همون طور که تو پست قبلي بهش اشاره کردم اين مشکل با hotspot به راحتي قابل حله.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="شهاب داوودي " Value="-1">
+      <Sentence ID="gr-17-1" Value="-1">تنها نقطه ضعفي که در اين تبلت ديدم اينه که از سيم کارت پشتيباني نميکنه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="رضائي " Value="+1">
+      <Sentence ID="gr-18-1" Value="0">امروز تبلت دستم رسيد.</Sentence>
+      <Sentence ID="gr-18-2" Value="0">مي خوام بگم اولين کاري که باهاش انجام دادم،  همون کاري بود که از نشدنش نگران بودم.</Sentence>
+      <Sentence ID="gr-18-3" Value="0">يعني gprs و edge.</Sentence>
+      <Sentence ID="gr-18-4" Value="+1">خوش بختانه با hotspot موبايلم به راحتي تونستم به gprs و edge کانکت شم و از اينترنت استفاده کنم.</Sentence>
+      <Sentence ID="gr-18-5" Value="+1">پس مطمئننا مي شه 3G رو هم به همين روش و به راحتي روش داشت.</Sentence>
+      <Sentence ID="gr-18-6" Value="0">تا يکي دو روز آينده هم يه خورده ديگه روش تست انجام مي دم و مرحله به مرحله تو همين جا براتون کامنت مي زارم.</Sentence>
+      <Sentence ID="gr-18-7" Value="+2">ولي واقعا تبلت فوق العاده ايه.</Sentence>
+      <Sentence ID="gr-18-8" Value="0">باور کنيد هم از لحاظ شکل و شمايلش هم از لحاظ سرعتش.</Sentence>
+      <Sentence ID="gr-18-9" Value="0">فقط بايد چند تا نرم افزار و بازي سنگين روش نصب کنم که متاسفانه هنوز فرصتش رو پيدا نکردم.</Sentence>
+      <Sentence ID="gr-18-10" Value="+1">ولي فعلا تا اين لحظه که خيلي ازش راضيم مخصوصا از صفحه نمايشش.</Sentence>
+      <Sentence ID="gr-18-11" Value="0">پس فعلا دوستان عزيز</Sentence>
+    </General_Review>
+    <General_Review ID="gr-19" Holder="شهاب داوودي " Value="+1">
+      <Sentence ID="gr-19-1" Value="+1">کسي که تبلت اندرويدي ميخواد بهتر از اين گيرش نمياد اين جور که سخت افزارش نشون ميده از نت10.1 هم بهتره
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-20" Holder="داود رستم نژاد مقدم " Value="0">
+      <Sentence ID="gr-20-1" Value="0">مدل 3G و LTE اين تبلت سخت افزار ضعيف تري داره مشکل ديگه اينکه سرعت GPRS خيلي کم هست LTE  هم امکان استفاده نداريم داخل ايران پس با نظر جناب رضائي موافقم و يه راه ديگه هم هست اونم استفاده از  WIMAX هست من از اين روش استفاده کردم  براي بازکردن صفحه و فايلهاي تصويري ديگه هيچ مشکلي نخواهيد داشت</Sentence>
+    </General_Review>
+    <General_Review ID="gr-21" Holder="محمد باقري " Value="0">
+      <Sentence ID="gr-21-1" Value="0">مدل 3G و LTE اين تبلت گفته شده به زودي عرضه خواهد شد شايد هم شده باشه به نظرم ارزش صبر کردن داره تا مدل سيمکارت خورش بياد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-22" Holder="رضائي " Value="+1">
+      <Sentence ID="gr-22-1" Value="0">من امروز اين تبلت رو سفارش دادم و احتمالا تا 2 روز ديگه به دستم مي رسه.</Sentence>
+      <Sentence ID="gr-22-2" Value="-1">تنها مشکلي که در مورد نخريدن اين تبلت باهاش مواجه بودم،  نداشتن gprs و edge روي اين تبلت بود.</Sentence>
+      <Sentence ID="gr-22-3" Value="+1">اما خيلي راحت اگه گوشي موبايلتون hotspote داشته باشه،  مثل آب خوردن مي تونين gprs و edge رو روي تبلت تون داشته باشين.</Sentence>
+      <Sentence ID="gr-22-4" Value="+1">به نظر من نداشتن gprs و edge در برابر سخت افزار فوق العاده و پشتيباني از صفحه نمايش Full HD اصلا عيبي براي اين تبلت نيست.</Sentence>
+      <Sentence ID="gr-22-5" Value="+1">تقريبا همه موبايل هاي هوشمند از HotSpot پشتيباني مي کنن پس جاي هيچ نگراني نيست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-23" Holder="سيدعلي محمد مومني راد " Value="+1">
+      <Sentence ID="gr-23-1" Value="+1">بي شک روند سريع پيشرفت تکنولوژي باعث شده تا شاهد توليد چنين دستگاه هاي بي نظيري باشيم.</Sentence>
+      <Sentence ID="gr-23-2" Value="+1">صرف نظر از عدم پشتيباني سيم کارت در اين مدل که احتمالا با معرفي مدل LTE برطرف خواهد شد اين دستگاه واقعا کم نظير است.</Sentence>
+      <Sentence ID="gr-23-3" Value="0">سيد علي مومني</Sentence>
+    </General_Review>
+    <General_Review ID="gr-24" Holder="امين جعفري " Value="+1">
+      <Sentence ID="gr-24-1" Value="+1">فکر مي کنم بهترين تبلت تو دنيا باشه.</Sentence>
+      <Sentence ID="gr-24-2" Value="0">البته بايد منتظر قيمتش باشيم!</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="محمد سعيد شافعي نيا" Score="205" Voters="285" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">من امروز اين تبلتو از ديجي کالا خريدم من قبلا هم با new ipad کار کردم از نظر دوربين اين تبلت فوق العاده است و اصلا دوربين ايپد با اين قابل مقايسه نيست از نظر پردازنده اين تبلت هيچ کندي نداره و همه چي روونه ايپد هم مثل همين و اما صفحه نمايش من که لذت بردم ،  هيچ صفحه نمايشي حتي به گرد پاش هم نمي رسه حتي ايپد هم نمي تونه به روشنايي و کيفيت فوق العاده اين برسه من قبلا با ايپد کار کردم ولي الان که با اين کار مي کنم اصلا ايپد با اين قابل مقايسه نيست.</Sentence>
+      <Sentence ID="cr-1-2" Value="+2">اگه مي خواين بهترين تبلت رو داشته باشين قطعا اين تبلت بهترينه حتي از ايپد جديد هم خيلي سره اين با توجه به تجربه شخصي هست.</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">من  با ايپد جديد و اين کار کردم و اين تبلت خيلي بهتره تازه کيبورد داره پورت usb و يه صفحه نمايش فوق العاده .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="امير محمد روحاني" Score="154" Voters="282" Value="+1">
+      <Sentence ID="cr-2-1" Value="+1">همون طور که ميدونيد اين تبلت از پردازنده بسيار قدرتمند NVIDIA Tegra 3 با فرکانس 1.6 گيگاهرتز چهار + يک هسته اي استفاده مي‌کنه که نسبت به سخت افزار ايپد بسيار قوي تره اما ايپد جديد بدليل وجود سيستم عاملش به سخت افزار کمتر نياز داره  و بخاطر همين است که اپل ios 6 رو براي 3gs آفون قرار داده وگرنه گالکسي ايس از پردازنده قدرتمند از اون داره ولي به آندرويد 4 آپديت نميشه دليلش بخاطر همين موضوع است و  قريبا نمي شه گفت که ايپد بهتر از  تبلت تي اف 700 باشه.</Sentence>
+      <Sentence ID="cr-2-2" Value="0">اين موضوع در اينده  مشخص خواهد شد اما احتما برد ايسوس بيشتره.</Sentence>
+      <Sentence ID="cr-2-3" Value="+1">در موضوع اجرا بازي هاي سنگين بايد بگم که در هردو به رواني اجرا مي شوند در ايپد هيچ وقت هنگ نکرده در ايسوس هم بخاطر سخت افزار قدرتمند هنگ نخواهد کرد اما اگر به دنبال تنوع در بازي ها هستيد من به شما  ايسوس را پيشنهاد ميکنم اما اگه به دنبال بهترين تبلت دنيا هستي بي شک Asus Transformer Pad Infinity شما را ناراحت نخواهد کرد</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="سيد محمدرضا طباطبايي" Score="37" Voters="63" Value="0">
+      <Sentence ID="cr-3-1" Value="-1">سلام به کاربران و طرفداران آندرويد اول از همه بايد يک نکته کلي رو اشاره کنم که قياس تبلتهاي آندرويدي با آيپد اپل ، قياسي بيهوده است.</Sentence>
+      <Sentence ID="cr-3-2" Value="0">اين فقط به نظر شخصي افراد بر ميگرده که با چه سيستم عاملي حال ميکنن !</Sentence>
+      <Sentence ID="cr-3-3" Value="0">پس به جاي اين حرفها براي ما کاربران و دوستدارن آندرويد بهتره که تبلتهاي آندرويدي رو با هم مقايسه کنيم تا گزينه ي بهتر را انتخاب کنيم.</Sentence>
+      <Sentence ID="cr-3-4" Value="0">من هم اينفينتي ايسوس داشتم هم گلکسي نوت 10.1 (دارم).</Sentence>
+      <Sentence ID="cr-3-5" Value="0">يک تفاوتي که بين اين تبلتها خيلي به چشم مياد کيفيت بالاتر صفحه ي نمايش و بدنه ي اينفينيتي هست که براي کساني که به ظاهر تبلتشون بها ميدن اين نکته مهمه.</Sentence>
+      <Sentence ID="cr-3-6" Value="0">وزنشون خيلي فرقي نداره (2 گرم اينفينتي سبک تره  )در مورد دوربين حرفي ندارم چون هر دو براي من يکي هستند، به نظره من کسي براي دوربين نميره تبلت بخره !</Sentence>
+      <Sentence ID="cr-3-7" Value="0">کار اصلي تبلت چيزهاي ديگه هست !</Sentence>
+      <Sentence ID="cr-3-8" Value="+1">ولي خوب دوربين اينفينيتي يه مقدار بهتر بود.</Sentence>
+      <Sentence ID="cr-3-9" Value="0">در بررسي تخصصي اين دو تبلت و انجام تستهاي بنچمارک روي هردوشون،  گالاکسي نوت 10.1 بهتر عمل کرد.</Sentence>
+      <Sentence ID="cr-3-10" Value="0">دليلش به سخت افزار بهينه تر برميگرده.</Sentence>
+      <Sentence ID="cr-3-11" Value="-1">شايد در ظاهر فرکانس سي پي يو تگرا 3 اينفينيتي بالاتر باشه ولي همانند اچ تي سي وان ايکس در عمل از اکسينوس  4 ضعيف تر عمل ميکنه.</Sentence>
+      <Sentence ID="cr-3-12" Value="0">Mali-400 نيز در عمل از Tegra 3 نتايج بهتري ارائه داده.</Sentence>
+      <Sentence ID="cr-3-13" Value="0">ميتونيد يا خودتون تست بنچمارک بگيريد يا سايتها رو چک  کنيد.</Sentence>
+      <Sentence ID="cr-3-14" Value="0">رم 2 گيگ گالاکسي نوت 10.1 نيز دست شما رو براي اجراي همزمان چندين برنامه و بازي و .</Sentence>
+      <Sentence ID="cr-3-15" Value="0">(Multitasking) باز ميزاره علاوه بر اينکه در بهبود عملکرد کلي سيستم هم نقش بسزايي داره.</Sentence>
+      <Sentence ID="cr-3-16" Value="0">چيزي که خيلي نوت 10.1 رو دوست داشتني ميکنه قلم حرارتي اون هست که جون ميده براي کساني که با نوشتن سروکار دارن مثله دانشجوها، خبرنگاران ،  پزشکان و ..</Sentence>
+      <Sentence ID="cr-3-17" Value="0">من به شخصه به عنوان يک دانشجو از گلکسي نوت 10.1 بسيار راضي هستم.</Sentence>
+      <Sentence ID="cr-3-18" Value="0">با اينکه کيبورد اينفنيتي هم بسيار برام کاربردي بود ولي قلم نوت 10.1 اون رو به مانند يک جزوه و نوشته ي هميشه همراه تبديل کرده و يه چيزه ديگست !</Sentence>
+      <Sentence ID="cr-3-19" Value="0">در مورد کارکرد باطري من خيلي تفاوتي نديدم.</Sentence>
+      <Sentence ID="cr-3-20" Value="+1">ولي خوب اينفينتي هنگامي که به داک کيبوردش وصله مدت زمان بيشتري باطري نگه ميداره.</Sentence>
+      <Sentence ID="cr-3-21" Value="0">اسپيکرهاي استريوي گلکسي نوت 10.1 به مراتب صداي با کيفيت تري از اسپيکرهاي اينفينيتي دارن.</Sentence>
+      <Sentence ID="cr-3-22" Value="-1">و مهمترين دليلي که من اينفينيتي رو عوض کردم نداشتن قابليت استفاده از سيم کارت بود.</Sentence>
+      <Sentence ID="cr-3-23" Value="0">(قابل توجه دوستان مدل 3G اينفينيتي دو هسته اي هست که اون رو از رده چهار هسته اي ها خارج ميکنه)اين در حاليست که گلکسي نوت 10.1 نه تنها سيم کارت ساپورت ميکنه بلکه ميتونيد باهاش تماس تلفني (و تصويري با سيم کارت رايتل) داشته باشيد که براي يک تبلت قابليت خيلي خوبيه.</Sentence>
+      <Sentence ID="cr-3-24" Value="0">در نهايت اميدوارم اين نقد منصفانه و براي شما عزيزان کاربردي بوده باشه تا بهترين انتخاب رو داشته باشيد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="علي حقاني" Score="8" Voters="22" Value="0">
+      <Sentence ID="cr-4-1" Value="0">در اين نقد مي خواهيم به بررسي تبلت هاي چهار هسته اي بپردازيم.</Sentence>
+      <Sentence ID="cr-4-2" Value="0">بيشتر کاربران بر اين عقيده هستند که چهار هسته هنوز کاربرد زيادي ندارد.</Sentence>
+      <Sentence ID="cr-4-3" Value="0">به هر حال اول سخت افزار به وجود مي آيد و بعد نرم افزار و با زياد شدن تبلت هاي چهار هسته اي مي توان گفت که دوره چهار هسته اي ها شروع شده.</Sentence>
+      <Sentence ID="cr-4-4" Value="+1">کمپاني asus با توليد سري هاي prime, nexus و infinity نقش زيادي در توليد تبلت هاي چهار هسته اي داشته است.</Sentence>
+      <Sentence ID="cr-4-5" Value="0">تبلت هاي Acer Iconia Tab A700Huawei MediaPad 10 FHDSamsung Galaxy Note 10.1Sony Xperia Tabletو .</Sentence>
+      <Sentence ID="cr-4-6" Value="0">نيز ديگر تبلت هاي چهار هسته اي هستند که همه آنان به غير از galaxy note 10.1 از پردازنده tegra3 بهره مند هستند.</Sentence>
+      <Sentence ID="cr-4-7" Value="+1">اگر به دنبال تبلت 7 اينچي ارزان قيمت هستيد asus google nexus 7 و ZTE T98 بسيار مناسب هستند.</Sentence>
+      <Sentence ID="cr-4-8" Value="0">nexus 7 با پردازنده 4 هسته اي با فرکانس 1.3 گيگاهرتز و ZTE T98 باز هم با پردازنده 4 هسته اي ولي اين بار با فرکانس 1.5 گيگاهرتز  يک رقيب  ديگر به شمار مي آيند.</Sentence>
+      <Sentence ID="cr-4-9" Value="0">البته به عقيده خيلي ها (از جمله خودم) تبلت هاي 7 اينچي کوچک هستند و 9 يا 10 اينچ کاربرد بيشتري دارد.</Sentence>
+      <Sentence ID="cr-4-10" Value="0">بنابراين به نقد تبلت هاي بزرگ تر مي پردازيم.</Sentence>
+      <Sentence ID="cr-4-11" Value="0">Iconia Tab A700،   سري infinity و تبلت Huawei MediaPad 10 FHD همگي با صفحه نمايش 10 اينچي و رزولوشن فول اچ دي کاربرد زيادي داشته که در بين آن ها تبلت acer از همه ارزان تر است.</Sentence>
+      <Sentence ID="cr-4-12" Value="0">galaxy note 10.1 با اين که صفحه نمايش 10 اينچي داشته اين بار هم مانند سري galaxy tab به همان رزولوشن اچ دي بسنده کرده است و تنها مزيتي که نسبت به ديگر تبلت ها داشته رم 2 گيگابايتي آن است.</Sentence>
+      <Sentence ID="cr-4-13" Value="0">البته تبلت Huawei MediaPad 10 FHD نيز از رم 2 گيگابايتي بهره مي برد.</Sentence>
+      <Sentence ID="cr-4-14" Value="0">با تشکر.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="حيدر ياراد" Score="3" Voters="5" Value="+1">
+      <Sentence ID="cr-5-1" Value="0">با سلام خدمت همه ي دوستان عزيز.</Sentence>
+      <Sentence ID="cr-5-2" Value="+1">من اين تبلت رو يک ماهي ميشه خريدم از همه لحاظ نسبت به تبليغي که شده مي ارزه .</Sentence>
+      <Sentence ID="cr-5-3" Value="+1">تمام مشخصاتي که داره واقعا همان گونه هستش.</Sentence>
+      <Sentence ID="cr-5-4" Value="-1">ولي اينطور که ادعا شده بدنه ي الومينيومي ضد خش داره نيست چون راحت با استفاده ي روزمره اگه مواظب نباشي روش خش ميفته.</Sentence>
+      <Sentence ID="cr-5-5" Value="0">و اينکه ايراد ديگري به جز اون نتونستم بگيرم.</Sentence>
+      <Sentence ID="cr-5-6" Value="0">از لحاظ کيفيت اسکرين و تراکم پيکسلي ان واقعا چيزي کمتر از ايپد جديد ندارد.</Sentence>
+      <Sentence ID="cr-5-7" Value="+2">کيفيت دوربين عالي.</Sentence>
+      <Sentence ID="cr-5-8" Value="+1">سرعت عالي پردازنده فوق العاده قدرتمند, ولي کيفيت دوربين جلو نسبت به کيفيت خود تبلت يه کم پايينه و تو ذوق ميزنه.</Sentence>
+      <Sentence ID="cr-5-9" Value="-1">و يه مشکل ديگه که من بهش برخوردم اينه که وقتي ميخواي با جي پي اس تبلت اب و هوا رو لود کني و محلي که هستم رو به صورت خودکار همراه با اب و هوا مثل ساير گوشيها يا تبلت ها نشون بده متاسفانه لود نميکنه و انجام نميشه.</Sentence>
+      <Sentence ID="cr-5-10" Value="0">هر وقت هم محل جغرافيايي رو دستي وارد کني که اب و هوا رو لود کنه يه بار نشون ميده چند بار کلا نشون نميده من که نفهميدم مشکل کجاست.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-6" Holder="ashkan zare" Score="0" Voters="2" Value="+1">
+      <Sentence ID="cr-6-1" Value="0">تنها تبلتي  که در تمام زمينه ها حرفي براي گفتن دارد اين تبلت است(تا زمان ارائه).</Sentence>
+      <Sentence ID="cr-6-2" Value="+1">سخت افزار به کار برده شده نشان از ماندگاري در بين رده بالا هاي بازار تا مدت ها دارد ،  با آمدن غول هاي ويندوز 8 نيز اين تبلت همچنان توان مقاومت خواهد داشت و حتي به گفته ي بسياري از توسعه دهندگان امکان بوت شدن دو os براي اين سخت افزار موجود مي باشد ،  و آينده اي روشن براي اين تبلت متصور است!</Sentence>
+      <Sentence ID="cr-6-3" Value="+1">استحکام و ديزاين آن حتي زماني که به داک مجهز مي شود حيرت آور است و کاربر حس خوبي را درک مي کند!</Sentence>
+      <Sentence ID="cr-6-4" Value="+1">به درستي که دوربين بسيار قدرتمندي شرکت asus بر روي آن تعبيه کرده است ،  فيلم برداري full HD با ترکيب  رنگ هاي بسيار عميق و اغوا کننده (تنها در شرايط نور کم کمي از قدرت اين دوربين حين فيلم برداري کاسته مي شود و فلاش قدرت زيادي ندارد) ،  در مقوله عکس برداري هم شما با اين تبلت کمبودي حس نخواهيد کرد.</Sentence>
+      <Sentence ID="cr-6-5" Value="+1">يکي از پرچم داران بازار در زمينه صفحه نمايش بي شک infinity tf700 است و اين شاخص ترين آيتمي است که کاربريه تبلت را معني مي بخشد.</Sentence>
+      <Sentence ID="cr-6-6" Value="0">کافيست در آن ويدئو با کيفيت full HD تماشا کنيد خود درک خواهيد کرد که چه فاصله اي بين اين تبلت با بزرگان بازار وجود دارد مگر اينکه تبلت هايي با توان اجراي 4K بيايند تا پرچم يکه تازي را از اين تبلت بگيرند!</Sentence>
+      <Sentence ID="cr-6-7" Value="+1">با يک بار شارژ کامل اين تبلت و داک آن مي توانيد با خيالي آسوده به ماجراجوئي در دل طبيعت برويد و از تعطيلات آخر هفته به همراه اين تبلت لذت ببريد.</Sentence>
+      <Sentence ID="cr-6-8" Value="+1">تنها ايرادي که به اين تبلت وارد است نبود قابليت نصب سيم کارت است ولي به نظر مي رسد که اين ايراد با تعريف کاربريه تبلت و گوشي همراه از بين خواهد رفت!</Sentence>
+      <Sentence ID="cr-6-9" Value="+1">در نهايت ظرفيت ذخيره سازي آن است که شما را تا مدت ها براي ثبت و ذخيره سازي لحظات شيرين زندگي و لذت بردن از مولتي مديا هاي گوناگون و البته تواناييه share آنها با کمک روش هاي متنوع ارتباطي مثل کارت حافظه ،  درگاه استاندارد usb و بلوتوث به صورت آني و در هر مکان و زمان بي نياز خواهد کرد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-7" Holder="کيانوش رضايي" Score="1" Voters="7" Value="+1">
+      <Sentence ID="cr-7-1" Value="0">کافيه بدونيد که ارزون ترين تبلت وکوم سينتيک در بازار ،  بيش از دو ميليون تومن قيمت داره ،  ضمن اينکه حجم زيادي داره و حتماً هم بايد يک سيستم درست و حسابي رو با خودتون همراه داشته باشد.</Sentence>
+      <Sentence ID="cr-7-2" Value="0">اين در حاليه که خيلي از توانايي هاي وکوم سينتيک رو ميشه با قلم با حساسيت 1024 سطح فشار اين دستگاه که اونم بصورت اختصاصي توسط وکوم ساخته شده رو ،  بصورت قابل حمل با خودتون داشته باشيد.</Sentence>
+      <Sentence ID="cr-7-3" Value="0">کافيه که يک طراح چيره دست باشيد و بجاي حمل مقدار زيادي کاغذ ،  ماژيک و لوازم طراحي که معمولاً من به شخصه اگه بخوام حملش کنم ،  چيزي حدود 5 کيلو گرم ميشه،  رو جايگزين کنيد با اين تبلت.</Sentence>
+      <Sentence ID="cr-7-4" Value="+1">همچنين براي دانشجوياني که مقاله و جزوه مينويسند بهترين گزينه هستش.</Sentence>
+      <Sentence ID="cr-7-5" Value="0">چونکه کلي کتاب رو ميشه توش جا داد.</Sentence>
+      <Sentence ID="cr-7-6" Value="0">از عکسهاي کتاب هاي ديگر توي نرم افزار آفيس اون استفاده کرد ،  همزمان جزوه نويسي کرد و مطالب رو بصورت مولتي مديا به اشتراک گذاشت.</Sentence>
+      <Sentence ID="cr-7-7" Value="0">در مورد تماس هاي تلفني هم ساعت هاي مچي اي ارائه شده که سيستم اندرويد دارند و يک نمونه از اون رو شرکت سوني ارائه داده که ميتونيد بدون درآوردن تبلت از کيفتون ،  پيام هاي ارسالي رو مطالعه کنيد ،  شماره بگيريد ،  موسيقي مورد نظرتون رو روي تبلت کنترل کنيد و..</Sentence>
+      <Sentence ID="cr-7-8" Value="+1">اگه کمي هم جستجو بکنيد ،  ميتونيد هدست بلوتوث استريوي سامسونگ رو هم پيدا کنيد که ديگه جواب دادن تلفن و گوش کردن موسيقي با کيفيت عالي هم کار راحتي ميشه.</Sentence>
+      <Sentence ID="cr-7-9" Value="+1">شما با نصب برنامه اسکچ بوک موبايل و يا اسکچ بوک پرو روي اين تبلت ميتونيد يک سخت افزار 583 گرمي سبک و کارآمد رو در امر طراحي با خودتون هميشه همراه داشته باشيد.</Sentence>
+      <Sentence ID="cr-7-10" Value="0">( اگه هميشه يک لبتاپ 2.5 کيلويي با مخلفاتش روي کولتون باشه ميفهميد که حذف حداقل 2 کيلو در اثباب و لوازم شما چقدر در سلامت شما و خسته نشدنتون ميتونه تاثير گذار باشه)</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-8" Holder="روح الله جباري" Score="3" Voters="3" Value="+1">
+      <Sentence ID="cr-8-1" Value="-1">بزرگترين عيبي که من پس از خريد اين تبلت با آن مواجه شدم عدم مقاومت صفحه نمايش در برابر خش است.</Sentence>
+      <Sentence ID="cr-8-2" Value="0">در هفته اول به دليل قرار گرفتن گوشي موبايلم روي اين تبلت متوجه خش هاي ريز روي آن شدم.</Sentence>
+      <Sentence ID="cr-8-3" Value="-1">در تبليغات اين تبلت از مقاومت بالاي صفحه در برابر خش صحبت شده بود که از نظر من واقعيت ندارد.</Sentence>
+      <Sentence ID="cr-8-4" Value="+2">در خصوص کيفيت نمايش و روشنايي صفحه نمايش بايد بگويم خيلي عالي و بسيار بالاتر از ipad 4 است.</Sentence>
+      <Sentence ID="cr-8-5" Value="+2">سرعت اجرا بسيار بالا است و مصرف باتري نيز مناسب است.</Sentence>
+      <Sentence ID="cr-8-6" Value="0">فقط دقت نماييد برخي از بازيهاي داراي ديتا براي اين تبلت قابل اجرا نيستند و حتماً بايد از بازيهايي استفاده کنيد که داراي ديتاي tegra 3 باشند.</Sentence>
+      <Sentence ID="cr-8-7" Value="+2">کيفيت بدنه فلزي تبلت خيلي خوب است.</Sentence>
+      <Sentence ID="cr-8-8" Value="0">هيچ لک و اثر انگشتي در پشت تبلت برجاي نمي ماند.</Sentence>
+      <Sentence ID="cr-8-9" Value="0">در پايان اگر بخواهم به شما توصيه کنم که بين تبلت هاي اندرويدي و ipad يکي را انتخاب کنيد صرف نظر از سخت افزار قدرتمند تبلت هاي ايسوس حتماً به شما پيشنهاد ميکنم ipad بخريد.</Sentence>
+      <Sentence ID="cr-8-10" Value="0">علت اصلي اين مساله به خاطر سيستم عامل iOS است.</Sentence>
+      <Sentence ID="cr-8-11" Value="0">شما مشکلات عدم اجراي بازيها و مسائلي همچون ديتا را در تبلت هاي IPAD نداريد.</Sentence>
+      <Sentence ID="cr-8-12" Value="0">کافيست دستگاه را جيلبريک نموده و به ITUNES متصل کنيد.</Sentence>
+      <Sentence ID="cr-8-13" Value="0">هر برنامه و بازي که خواستيد با خيال راحت بريزيد و از اجراي آن مطمئن هستيد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-9" Holder="شهاب داوودي" Score="64" Voters="130" Value="0">
+      <Sentence ID="cr-9-1" Value="0">دوستان خواهش ميکنم تا اخر نقد با من باشيد.</Sentence>
+      <Sentence ID="cr-9-2" Value="0">من ميخواهم با يک سري مقايسه انتخاب را به عهده ي خودتان بزارم ولي به پيشنهاد من هم گوش کنيد.</Sentence>
+      <Sentence ID="cr-9-3" Value="+1">تبلت جديد اسوس واقعا سخت افزاره خوبي داره ولي آيا واقعا اين سخت افزار به درد همچين تبلتي ميخوره.</Sentence>
+      <Sentence ID="cr-9-4" Value="0">بله با تبلت هايي که داره مياد حتما به دردش ميخوره و برا اينکه از تبلت هاي جديد اندرويدي عقب نمونه بايد استانداردهاشو بالا مي برد.</Sentence>
+      <Sentence ID="cr-9-5" Value="+1">به نظر من چيزي که در اين تبلت خود نمايي ميکنه صفحه نمايشfull HD  است و سرعت بالاتر پردازنده.</Sentence>
+      <Sentence ID="cr-9-6" Value="0">سيستم عامل محصولات اپل بازي ها و برنامه هاي فوق العاده اي داره و اندرويد هم همينطور اما شايد اندرويد با اومدن سيستم عامل ويندوز از ياد بره اما سيستم عامل اپل هميشه يک سيستم عامل محبوب خواهد ماند.</Sentence>
+      <Sentence ID="cr-9-7" Value="0">ايپد صفحه نمايش بهتري دارد که اولين استاندارد براي يک تبلت محسوب مي شود فکر نکنيد پردازنده ايپد ضعيف تره بخاطر اين که شما با همين پردازنده ميتونيد بازي ها وبرنامه هاي فوق العاده اي اجرا کنيد.</Sentence>
+      <Sentence ID="cr-9-8" Value="0">البته ايپد4G دارد که بدرد ما نمي خورد با اپديتي که داره واسه سيستم عامل اپل ارائه ميشه شما دوباره لذت واقعي را خواهيد برد.</Sentence>
+      <Sentence ID="cr-9-9" Value="0">اگر قيمت ايپد جديد را زياد ميدانيد منتظر ايپد ميني باشيد شايد همين روزها نقد وبررسي اين تبلت را از ديجي کالا ببينيد.</Sentence>
+      <Sentence ID="cr-9-10" Value="0">هردو تبلت شما را نا اميد نخواهد گذاشت اما پيشنهاد من به شما ايپد جديد است.</Sentence>
+      <Sentence ID="cr-9-11" Value="0">شما شرکتي را انتخاب کنيد که 70 درصد سهم تبلت ها را به خود اختصاص داده است</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-10" Holder="peyman rahimzadeh" Score="146" Voters="332" Value="0">
+      <Sentence ID="cr-10-1" Value="0">مي دونم اين نقد مقداري طولاني هست ولي لطفا بخونيدش تا بهترين را انتخاب کنيد پردازنده و نرم افزار ها:همونطور که مي دونيد اين تبلت داراي پردازنده ي 4 هسته اي استمن خودم ايپد دارم و خواهرم هم اين تبلت را خريده و واقعا پشيمونه که ايپد نخريده ممکنه اين تبلت از لحاظ سخت افزاري قوي تر باشه ولي به خاطر وجود سيستم عامل اندرويد 4 هسته ي اين به اندازه ي 1 هسته ي ايپد هم کاربرد نداره با ايپد کوچکترين تيکي وجود نداره حتي در حين بازي کردن بازي هاي Full HD ولي TF700T با وجود پردازنده 4 هسته اي مقداري تيک مي زند يک چيزي هم هست که از اون 4 هسته ي پردازنده ات بايد استفاده کني بازي هاي سيستم عامل ios چندين برابر اندرويد هم از نظر کيفيت و هم از نظر تعداد هستند بازي هاي سيستم عامل اندرويد اصلا با ios قابل مقيسه نيست اگه باورتون نمي شه يک ايپد و يک تبلت اندرويدي گير بياريد و به app store اپل و aundroid market اندرويد يک نگاهي بندازيد همه ي بازي هاي app store تو ايران کرک شده اش پيدا مي شه و خيلي راحت و بدون هيچ هزينه اي مي تونيد تو ايپدتون بريزيدش بلوتوث:ايپد فقط يک بدي داشت که از بلوتوث ان فقط براي فرستادن فايل به يک محصول ديگر اپل مي شد استفاده کرد ولي اين مشکل در ios 6 که قرار است اخر شهريور بيايد حل مي شود و خيلي راحت مي تواني فايل هاتون را share کنيد.</Sentence>
+      <Sentence ID="cr-10-2" Value="0">سرعت فرستادن اطلاعات در ايپد بيشتر است چون نسخه بلوتوث 4 است دوربين:دوربين اين تبلت 8mgp است ولي کيفيت دوربين به اين نيست بلکه به لنز ان است.</Sentence>
+      <Sentence ID="cr-10-3" Value="0">من با هر دو امتحاد کردم و ايپد بهتر است مخصوصا وقتي در جايي با نور کم عکس مي گيريد اختلاف کاملا مشخص استو در فيلم برداري واقعا ايپد کيفيت بهتري داره کيفيت صفحه:کيفيت صفحه ي ايپد فوق العاده است.</Sentence>
+      <Sentence ID="cr-10-4" Value="-1">کيفيت TF700T خيلي خوبه ولي مال new ipad يک چيز ديگه است و براي تماشاي فيلم عاليه.</Sentence>
+      <Sentence ID="cr-10-5" Value="0">با ريختن نرم افزار هايي مثل av player مي توانيد تمام فرمت ها را با اون اجرا کنيد در صورتي که داخل اندرويد بعضي فرمت ها اجرا نمي شود.</Sentence>
+      <Sentence ID="cr-10-6" Value="0">نرم افزار game center:اگه يک بار از اين نرم افزار استفاده کنيد عاشقش مي شويد.</Sentence>
+      <Sentence ID="cr-10-7" Value="0">با اين نرم افزار مي تونيد با دوستاتون انلاين بازي کنيد و يا رکورد هاتون را share کنيد و با بقيه رقابت کنيد ولي همچين امکاني را در اندرويد نداريم.</Sentence>
+      <Sentence ID="cr-10-8" Value="-1">کيفيت صدا:کيفيت صدا ي هر دو عاليه ولي TF700T به نظر من مقداري صدايش بلند تر است ولي اصلا محسوس نيست و اختلاف خيلي کمه ولي کيفيت صدا در ايپد کمي بهتره.</Sentence>
+      <Sentence ID="cr-10-9" Value="0">من هم new ipad و هم TF700T را تجربه کرده ام و قاطعانه به شما مي گويم که ايپد يک چيز ديگه است از لحاظ قيمت با هم تقريبا برابر هستند و به نظر من اگر مي خواهيد پول خرج کنيد به نظر من ايپد بهترين تبلت جهان است و از TF700T يا هر تبلت ديگري خيلي بهتره و اين را يادتون باشه که اندرويد براي گوشي موبايل خوبه و به نظر من در موبايل از ios بهتره ولي در مورد تبلت خيلي بهتره زيرا در تبلت استاده بيشتري از سخت افزار مي کنيد و در تبلت تنوع و کيفيت نرم افزار ها خيلي مهمه.</Sentence>
+      <Sentence ID="cr-10-10" Value="0">اميدوارم که به شما در انتخاب بهترين کمک کرده باشم با تشکر از توجه شما پيمان</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="9" />
+  <Performance Value="10.00" />
+  <Capability Value="9.70" />
+  <Production_Quality Value="9.70" />
+  <Ergonomics Value="9.50" />
+  <Purchase_Value Value="9.70" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="تایپ کردن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="روشنایی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="زاویه دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="کیفیت صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="صدای بیس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="کیفیت صوتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="پردازشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="محیط رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="کیفیت تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="عکس‌های پانوراما" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="جزئیات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="نویز تصاویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="کیفیت فیلم‌برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="شارژ دهی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10076" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="تبلت" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="تبلت" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="تبلت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10099" Root="تبلت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100102" Root="رقيب" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100105" Root="کيفيت" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100108" Root="تبلت" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100111" Root="تبلت" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="بدنه" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="صفحه نمايش" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100120" Root="پردازنده" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100125" Root="داک" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100128" Root="آزادي عمل" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100131" Root="تبلت" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100136" Root="سخت افزار" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100139" Root="دستگاه" Relation="gr-23" />
+    <Tag Type="Target(M)" ID="elementID100142" Root="تبلت" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100145" Root="دوربين" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100148" Root="تبلت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100153" Root="صفحه نمايش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100156" Root="پردازنده" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100159" Root="سخت افزار" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100162" Root="کيبورد" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100165" Root="کيفيت دوربين" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100168" Root="سرعت" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100171" Root="پردازنده" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100174" Root="کيفيت دوربين جلو" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100177" Root="طراحی" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100180" Root="دوربين" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100183" Root="سخت افزار" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100187" Root="کيفيت نمايش" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100190" Root="روشنايي صفحه نمايش" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100195" Root="سرعت اجرا" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100198" Root="مصرف باتري" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100201" Root="کيفيت بدنه" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100204" Root="سخت افزار" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100207" Root="سرعت پردازنده" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100210" Root="سخت افزار" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100213" Root="کيفيت" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100216" Root="صدا" Relation="cr-10" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-4,56,64]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-4,47,55]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-18,49,59]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-18,81,98]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-20,40,45]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-20,46,59]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-21,20,29]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-21,30,34]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-22,200,207]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-22,208,216]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-53,0,7]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-53,18,28]" Relation="tagID10056" Value="+" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-53,31,36]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-22,184,191]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-22,192,197]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-26,48,55]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-26,74,80]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-27,4,11]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-27,12,22]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10079" Coordinate="[rev-66,35,42]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[rev-66,43,56]" Relation="tagID10079" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-26,106,116]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-26,117,125]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-62,9,19]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-62,20,28]" Relation="tagID10072" Value="+" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-62,31,35]" Relation="tagID10072" Value="+" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-62,38,42]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-28,0,9]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-28,64,74]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[rev-66,121,130]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[rev-66,138,145]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-31,17,26]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-31,27,36]" Relation="tagID10029" Value="+" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-31,39,43]" Relation="tagID10029" Value="+" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-31,46,50]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-32,9,17]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-32,32,47]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-32,111,121]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-32,131,135]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[rev-38,4,12]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-38,21,28]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-46,24,32]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-46,33,46]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-46,0,16]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-46,113,123]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-51,36,41]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-51,42,59]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-52,4,20]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-52,25,35]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-52,43,49]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-52,50,60]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-53,44,55]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-53,60,62]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-55,27,44]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-55,58,67]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-55,70,79]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-59,51,59]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-59,60,71]" Relation="tagID10067" Value="+" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[rev-59,100,106]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-60,152,160]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-60,145,151]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-64,35,41]" Relation="elementID10076" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-64,42,49]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-68,29,33]" Relation="elementID10076" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-68,22,28]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[rev-67,96,102]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-67,89,95]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[gr-3-1,7,11]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[gr-3-1,0,6]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[gr-4-4,68,73]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[gr-4-4,74,96]" Relation="tagID10092" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-5-1,6,10]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-5-1,11,14]" Relation="tagID10095" Value="+" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[gr-5-1,17,24]" Relation="tagID10095" Value="+" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[gr-5-1,67,77]" Relation="tagID10095" Value="" />
+    <Tag Type="Target(I)" ID="tagID100100" Coordinate="[gr-10-1,59,63]" Relation="elementID10099" Value="" />
+    <Tag Type="Opinion" ID="tagID100101" Coordinate="[gr-10-1,52,58]" Relation="tagID100100" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100103" Coordinate="[gr-10-1,93,97]" Relation="elementID100102" Value="" />
+    <Tag Type="Opinion" ID="tagID100104" Coordinate="[gr-10-1,98,105]" Relation="tagID100103" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100106" Coordinate="[gr-11-1,38,43]" Relation="elementID100105" Value="" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[gr-11-1,44,49]" Relation="tagID100106" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[gr-15-1,13,17]" Relation="elementID100108" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[gr-15-1,6,12]" Relation="tagID100109" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100112" Coordinate="[gr-16-2,68,72]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[gr-16-2,112,118]" Relation="tagID100112" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100123" Coordinate="[gr-16-9,222,226]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100124" Coordinate="[gr-16-9,215,221]" Relation="tagID100123" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[gr-16-3,32,36]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[gr-16-3,47,50]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[gr-16-5,14,25]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-16-5,26,31]" Relation="tagID100118" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[gr-16-8,193,201]" Relation="elementID100120" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[gr-16-8,202,215]" Relation="tagID100121" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100126" Coordinate="[gr-16-11,21,24]" Relation="elementID100125" Value="" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[gr-16-11,25,32]" Relation="tagID100126" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[gr-16-11,41,50]" Relation="elementID100128" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[gr-16-11,51,57]" Relation="tagID100129" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100132" Coordinate="[gr-18-7,10,14]" Relation="elementID100131" Value="" />
+    <Tag Type="Opinion" ID="tagID100133" Coordinate="[gr-18-7,15,29]" Relation="tagID100132" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100134" Coordinate="[gr-18-10,29,32]" Relation="elementID100131" Value="" />
+    <Tag Type="Opinion" ID="tagID100135" Coordinate="[gr-18-10,33,38]" Relation="tagID100134" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100137" Coordinate="[gr-22-4,38,47]" Relation="elementID100136" Value="" />
+    <Tag Type="Opinion" ID="tagID100138" Coordinate="[gr-22-4,48,58]" Relation="tagID100137" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100140" Coordinate="[gr-23-2,91,97]" Relation="elementID100139" Value="" />
+    <Tag Type="Opinion" ID="tagID100141" Coordinate="[gr-23-2,98,111]" Relation="tagID100140" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100143" Coordinate="[gr-24-1,18,22]" Relation="elementID100142" Value="" />
+    <Tag Type="Opinion" ID="tagID100144" Coordinate="[gr-24-1,11,17]" Relation="tagID100143" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100146" Coordinate="[cr-1-1,77,83]" Relation="elementID100145" Value="" />
+    <Tag Type="Opinion" ID="tagID100147" Coordinate="[cr-1-1,93,103]" Relation="tagID100146" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100149" Coordinate="[cr-1-2,49,53]" Relation="elementID100148" Value="" />
+    <Tag Type="Opinion" ID="tagID100150" Coordinate="[cr-1-2,54,61]" Relation="tagID100149" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100151" Coordinate="[cr-1-3,38,42]" Relation="elementID100148" Value="" />
+    <Tag Type="Opinion" ID="tagID100152" Coordinate="[cr-1-3,43,53]" Relation="tagID100151" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100154" Coordinate="[cr-1-3,85,95]" Relation="elementID100153" Value="" />
+    <Tag Type="Opinion" ID="tagID100155" Coordinate="[cr-1-3,96,106]" Relation="tagID100154" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100157" Coordinate="[cr-2-1,32,40]" Relation="elementID100156" Value="" />
+    <Tag Type="Opinion" ID="tagID100158" Coordinate="[cr-2-1,41,54]" Relation="tagID100157" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100160" Coordinate="[cr-2-3,115,124]" Relation="elementID100159" Value="" />
+    <Tag Type="Opinion" ID="tagID100161" Coordinate="[cr-2-3,125,132]" Relation="tagID100160" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100163" Coordinate="[cr-3-18,9,15]" Relation="elementID100162" Value="" />
+    <Tag Type="Opinion" ID="tagID100164" Coordinate="[cr-3-18,39,46]" Relation="tagID100163" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100166" Coordinate="[cr-5-7,0,12]" Relation="elementID100165" Value="" />
+    <Tag Type="Opinion" ID="tagID100167" Coordinate="[cr-5-7,13,17]" Relation="tagID100166" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100169" Coordinate="[cr-5-8,0,4]" Relation="elementID100168" Value="" />
+    <Tag Type="Opinion" ID="tagID100170" Coordinate="[cr-5-8,5,9]" Relation="tagID100169" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100172" Coordinate="[cr-5-8,10,18]" Relation="elementID100171" Value="" />
+    <Tag Type="Opinion" ID="tagID100173" Coordinate="[cr-5-8,19,37]" Relation="tagID100172" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100175" Coordinate="[cr-5-8,43,59]" Relation="elementID100174" Value="" />
+    <Tag Type="Opinion" ID="tagID100176" Coordinate="[cr-5-8,83,95]" Relation="tagID100175" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100178" Coordinate="[cr-6-3,10,16]" Relation="elementID100177" Value="" />
+    <Tag Type="Opinion" ID="tagID100179" Coordinate="[cr-6-3,52,60]" Relation="tagID100178" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100181" Coordinate="[cr-6-4,12,18]" Relation="elementID100180" Value="" />
+    <Tag Type="Opinion" ID="tagID100182" Coordinate="[cr-6-4,19,33]" Relation="tagID100181" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100184" Coordinate="[cr-7-9,76,85]" Relation="elementID100183" Value="" />
+    <Tag Type="Opinion" ID="tagID100185" Coordinate="[cr-7-9,95,98]" Relation="tagID100184" Value="+" />
+    <Tag Type="Opinion" ID="tagID100186" Coordinate="[cr-7-9,101,107]" Relation="tagID100184" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100188" Coordinate="[cr-8-4,8,19]" Relation="elementID100187" Value="" />
+    <Tag Type="Opinion" ID="tagID100189" Coordinate="[cr-8-4,52,61]" Relation="tagID100188" Value="+" />
+    <Tag Type="Opinion" ID="tagID100194" Coordinate="[cr-8-4,64,76]" Relation="tagID100188" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100191" Coordinate="[cr-8-4,22,40]" Relation="elementID100190" Value="" />
+    <Tag Type="Opinion" ID="tagID100192" Coordinate="[cr-8-4,52,61]" Relation="tagID100191" Value="+" />
+    <Tag Type="Opinion" ID="tagID100193" Coordinate="[cr-8-4,64,76]" Relation="tagID100191" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100196" Coordinate="[cr-8-5,0,9]" Relation="elementID100195" Value="" />
+    <Tag Type="Opinion" ID="tagID100197" Coordinate="[cr-8-5,10,20]" Relation="tagID100196" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100199" Coordinate="[cr-8-5,27,37]" Relation="elementID100198" Value="" />
+    <Tag Type="Opinion" ID="tagID100200" Coordinate="[cr-8-5,42,47]" Relation="tagID100199" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100202" Coordinate="[cr-8-7,0,10]" Relation="elementID100201" Value="" />
+    <Tag Type="Opinion" ID="tagID100203" Coordinate="[cr-8-7,21,29]" Relation="tagID100202" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100205" Coordinate="[cr-9-3,21,31]" Relation="elementID100204" Value="" />
+    <Tag Type="Opinion" ID="tagID100206" Coordinate="[cr-9-3,32,36]" Relation="tagID100205" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100208" Coordinate="[cr-9-5,71,75]" Relation="elementID100207" Value="" />
+    <Tag Type="Opinion" ID="tagID100209" Coordinate="[cr-9-5,76,82]" Relation="tagID100208" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100211" Coordinate="[cr-10-1,261,271]" Relation="elementID100210" Value="" />
+    <Tag Type="Opinion" ID="tagID100212" Coordinate="[cr-10-1,272,278]" Relation="tagID100211" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100214" Coordinate="[cr-10-4,0,5]" Relation="elementID100213" Value="" />
+    <Tag Type="Opinion" ID="tagID100215" Coordinate="[cr-10-4,13,22]" Relation="tagID100214" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100217" Coordinate="[cr-10-8,62,67]" Relation="elementID100216" Value="" />
+    <Tag Type="Opinion" ID="tagID100218" Coordinate="[cr-10-8,68,75]" Relation="tagID100217" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,67,75]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-4,6,10]" Value="" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-4,47,55]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-18,81,98]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-19,142,151]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-19,170,175]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-19,176,183]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-20,46,59]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-20,156,162]" Value="" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-21,30,34]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-21,130,134]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-22,57,63]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-22,208,216]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-22,192,197]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-23,84,89]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-23,62,71]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-24,161,171]" Value="-" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-26,74,80]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-26,66,73]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-26,117,125]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-27,12,22]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-27,88,93]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-28,64,74]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-28,89,97]" Value="" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-30,0,8]" Value="-" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-30,50,54]" Value="" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-31,27,36]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-31,39,43]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-31,46,50]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-32,32,47]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-32,58,63]" Value="" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-32,131,135]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-34,6,18]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-34,80,87]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-38,21,28]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-40,87,98]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-45,47,50]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-45,61,73]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-46,33,46]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-46,113,123]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-47,125,131]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-47,100,105]" Value="" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-48,8,18]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-48,73,77]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-48,78,86]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-48,87,93]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-51,42,59]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-52,25,35]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-52,50,60]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-53,18,28]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-53,31,36]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-53,60,62]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-55,58,67]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-55,70,79]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-59,60,71]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-59,100,106]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-60,103,113]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-60,145,151]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-60,136,139]" Value="" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-60,75,81]" Value="" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-62,20,28]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-62,31,35]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-62,38,42]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-62,71,75]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-63,39,45]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-63,0,6]" Value="" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-64,42,49]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-65,40,45]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-65,32,37]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-65,22,27]" Value="" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-66,43,56]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-66,67,72]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-66,73,80]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-66,138,145]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-67,39,44]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-67,45,52]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-67,89,95]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-68,22,28]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-68,117,123]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-1-1,9,14]" Value="-" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-1-1,0,8]" Value="" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-2-2,27,30]" Value="" />
+    <Keyword ID="keywordID10082" Coordinate="[gr-2-2,9,16]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-2-2,17,21]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-2-4,30,36]" Value="-" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-2-5,10,16]" Value="-" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-3-1,0,6]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-4-2,25,33]" Value="-" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-4-3,3,7]" Value="-" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-4-3,155,158]" Value="-" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-4-3,135,138]" Value="" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-4-4,29,32]" Value="-" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-4-4,74,96]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-4-4,59,67]" Value="" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-5-1,11,14]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[gr-5-1,17,24]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-5-1,0,5]" Value="" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-8-1,0,3]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-9-1,86,91]" Value="-" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-9-1,171,179]" Value="-" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-9-1,153,157]" Value="" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-10-1,52,58]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-10-1,98,105]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-11-1,44,49]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-11-1,28,35]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-11-1,99,102]" Value="" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-11-1,95,98]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-11-1,231,235]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-12-22,0,6]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-13-1,0,11]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-13-1,29,32]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-15-1,0,5]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-15-1,6,12]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-16-2,76,85]" Value="" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-16-2,112,118]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-16-3,14,17]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-16-3,58,64]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-16-3,47,50]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-16-5,26,31]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-16-5,6,10]" Value="" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-16-6,39,42]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-16-6,43,50]" Value="-" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-16-7,0,5]" Value="" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-16-7,9,12]" Value="-" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-16-8,202,215]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-16-8,128,131]" Value="" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-16-9,20,30]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-16-9,42,45]" Value="" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-16-9,215,221]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-16-11,25,32]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-16-11,51,57]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-16-11,191,196]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-16-11,197,205]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-17-1,10,14]" Value="-" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-17-1,0,4]" Value="" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-17-1,55,63]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-17-1,64,70]" Value="-" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-18-4,0,10]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-18-4,33,38]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-18-5,3,10]" Value="" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-18-5,43,48]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-18-7,15,29]" Value="+" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-18-7,4,9]" Value="" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-18-9,54,62]" Value="-" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-18-10,33,38]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-18-10,39,45]" Value="" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-18-10,24,28]" Value="" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-19-1,96,101]" Value="+" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-22-2,5,10]" Value="-" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-22-2,0,4]" Value="" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-22-2,57,63]" Value="-" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-22-3,4,13]" Value="+" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-22-3,0,3]" Value="" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-22-3,59,67]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-22-4,48,58]" Value="+" />
+    <Keyword ID="keywordID100155" Coordinate="[gr-22-4,92,96]" Value="" />
+    <Keyword ID="keywordID100156" Coordinate="[gr-22-5,67,73]" Value="-" />
+    <Keyword ID="keywordID100157" Coordinate="[gr-22-5,74,78]" Value="-" />
+    <Keyword ID="keywordID100158" Coordinate="[gr-22-5,63,66]" Value="" />
+    <Keyword ID="keywordID100159" Coordinate="[gr-23-1,71,79]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[gr-23-1,11,15]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[gr-23-1,0,5]" Value="" />
+    <Keyword ID="keywordID100162" Coordinate="[gr-23-2,15,23]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[gr-23-2,11,14]" Value="-" />
+    <Keyword ID="keywordID100164" Coordinate="[gr-23-2,98,111]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[gr-24-1,11,17]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[cr-1-1,93,103]" Value="+" />
+    <Keyword ID="keywordID100167" Coordinate="[cr-1-1,180,184]" Value="-" />
+    <Keyword ID="keywordID100168" Coordinate="[cr-1-1,185,190]" Value="-" />
+    <Keyword ID="keywordID100169" Coordinate="[cr-1-1,200,205]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[cr-1-1,246,249]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[cr-1-1,340,350]" Value="+" />
+    <Keyword ID="keywordID100172" Coordinate="[cr-1-2,54,61]" Value="+" />
+    <Keyword ID="keywordID100173" Coordinate="[cr-1-2,40,44]" Value="" />
+    <Keyword ID="keywordID100174" Coordinate="[cr-1-2,82,90]" Value="+" />
+    <Keyword ID="keywordID100175" Coordinate="[cr-1-3,43,53]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[cr-1-3,96,106]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[cr-2-1,41,54]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[cr-2-1,152,165]" Value="+" />
+    <Keyword ID="keywordID100179" Coordinate="[cr-2-3,52,57]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[cr-2-3,87,90]" Value="-" />
+    <Keyword ID="keywordID100181" Coordinate="[cr-2-3,91,96]" Value="-" />
+    <Keyword ID="keywordID100182" Coordinate="[cr-2-3,125,132]" Value="+" />
+    <Keyword ID="keywordID100183" Coordinate="[cr-3-1,121,127]" Value="-" />
+    <Keyword ID="keywordID100184" Coordinate="[cr-3-5,51,57]" Value="" />
+    <Keyword ID="keywordID100185" Coordinate="[cr-3-5,145,149]" Value="" />
+    <Keyword ID="keywordID100186" Coordinate="[cr-3-8,34,38]" Value="+" />
+    <Keyword ID="keywordID100187" Coordinate="[cr-3-11,0,4]" Value="" />
+    <Keyword ID="keywordID100188" Coordinate="[cr-3-11,108,116]" Value="-" />
+    <Keyword ID="keywordID100189" Coordinate="[cr-3-18,39,46]" Value="+" />
+    <Keyword ID="keywordID100190" Coordinate="[cr-3-18,28,33]" Value="" />
+    <Keyword ID="keywordID100191" Coordinate="[cr-3-18,0,8]" Value="" />
+    <Keyword ID="keywordID100192" Coordinate="[cr-3-18,51,54]" Value="" />
+    <Keyword ID="keywordID100193" Coordinate="[cr-3-20,0,3]" Value="" />
+    <Keyword ID="keywordID100194" Coordinate="[cr-3-20,56,62]" Value="" />
+    <Keyword ID="keywordID100195" Coordinate="[cr-3-22,44,50]" Value="-" />
+    <Keyword ID="keywordID100196" Coordinate="[cr-3-22,2,9]" Value="" />
+    <Keyword ID="keywordID100197" Coordinate="[cr-4-4,57,62]" Value="" />
+    <Keyword ID="keywordID100198" Coordinate="[cr-4-7,73,84]" Value="+" />
+    <Keyword ID="keywordID100199" Coordinate="[cr-5-2,68,75]" Value="+" />
+    <Keyword ID="keywordID100200" Coordinate="[cr-5-3,21,26]" Value="" />
+    <Keyword ID="keywordID100201" Coordinate="[cr-5-4,106,108]" Value="-" />
+    <Keyword ID="keywordID100202" Coordinate="[cr-5-4,14,18]" Value="" />
+    <Keyword ID="keywordID100203" Coordinate="[cr-5-4,0,3]" Value="" />
+    <Keyword ID="keywordID100204" Coordinate="[cr-5-4,52,56]" Value="-" />
+    <Keyword ID="keywordID100205" Coordinate="[cr-5-4,41,46]" Value="+" />
+    <Keyword ID="keywordID100206" Coordinate="[cr-5-7,13,17]" Value="+" />
+    <Keyword ID="keywordID100207" Coordinate="[cr-5-8,5,9]" Value="+" />
+    <Keyword ID="keywordID100208" Coordinate="[cr-5-8,19,37]" Value="+" />
+    <Keyword ID="keywordID100209" Coordinate="[cr-5-8,83,95]" Value="-" />
+    <Keyword ID="keywordID100210" Coordinate="[cr-5-8,98,110]" Value="-" />
+    <Keyword ID="keywordID100211" Coordinate="[cr-5-8,39,42]" Value="" />
+    <Keyword ID="keywordID100212" Coordinate="[cr-5-9,177,185]" Value="-" />
+    <Keyword ID="keywordID100213" Coordinate="[cr-5-9,190,196]" Value="-" />
+    <Keyword ID="keywordID100214" Coordinate="[cr-5-9,205,210]" Value="-" />
+    <Keyword ID="keywordID100215" Coordinate="[cr-6-2,262,266]" Value="+" />
+    <Keyword ID="keywordID100216" Coordinate="[cr-6-2,34,42]" Value="+" />
+    <Keyword ID="keywordID100217" Coordinate="[cr-6-3,52,60]" Value="+" />
+    <Keyword ID="keywordID100218" Coordinate="[cr-6-3,76,80]" Value="+" />
+    <Keyword ID="keywordID100219" Coordinate="[cr-6-3,0,7]" Value="+" />
+    <Keyword ID="keywordID100220" Coordinate="[cr-6-4,19,33]" Value="+" />
+    <Keyword ID="keywordID100221" Coordinate="[cr-6-5,75,84]" Value="+" />
+    <Keyword ID="keywordID100222" Coordinate="[cr-6-7,57,62]" Value="+" />
+    <Keyword ID="keywordID100223" Coordinate="[cr-6-7,134,137]" Value="+" />
+    <Keyword ID="keywordID100224" Coordinate="[cr-6-8,5,11]" Value="-" />
+    <Keyword ID="keywordID100225" Coordinate="[cr-6-8,0,4]" Value="" />
+    <Keyword ID="keywordID100226" Coordinate="[cr-6-8,65,68]" Value="" />
+    <Keyword ID="keywordID100227" Coordinate="[cr-6-9,95,98]" Value="+" />
+    <Keyword ID="keywordID100228" Coordinate="[cr-6-9,81,86]" Value="+" />
+    <Keyword ID="keywordID100229" Coordinate="[cr-6-9,266,273]" Value="+" />
+    <Keyword ID="keywordID100230" Coordinate="[cr-7-4,48,54]" Value="+" />
+    <Keyword ID="keywordID100231" Coordinate="[cr-7-8,128,132]" Value="+" />
+    <Keyword ID="keywordID100232" Coordinate="[cr-7-8,140,145]" Value="+" />
+    <Keyword ID="keywordID100233" Coordinate="[cr-7-8,146,150]" Value="+" />
+    <Keyword ID="keywordID100234" Coordinate="[cr-7-9,95,98]" Value="+" />
+    <Keyword ID="keywordID100235" Coordinate="[cr-7-9,101,107]" Value="+" />
+    <Keyword ID="keywordID100236" Coordinate="[cr-8-1,9,13]" Value="-" />
+    <Keyword ID="keywordID100237" Coordinate="[cr-8-1,0,8]" Value="" />
+    <Keyword ID="keywordID100238" Coordinate="[cr-8-1,56,59]" Value="-" />
+    <Keyword ID="keywordID100239" Coordinate="[cr-8-1,60,66]" Value="+" />
+    <Keyword ID="keywordID100240" Coordinate="[cr-8-2,63,69]" Value="-" />
+    <Keyword ID="keywordID100241" Coordinate="[cr-8-3,86,91]" Value="-" />
+    <Keyword ID="keywordID100242" Coordinate="[cr-8-4,52,61]" Value="+" />
+    <Keyword ID="keywordID100244" Coordinate="[cr-8-4,64,76]" Value="+" />
+    <Keyword ID="keywordID100245" Coordinate="[cr-8-5,10,20]" Value="+" />
+    <Keyword ID="keywordID100246" Coordinate="[cr-8-5,42,47]" Value="+" />
+    <Keyword ID="keywordID100247" Coordinate="[cr-8-7,21,29]" Value="+" />
+    <Keyword ID="keywordID100248" Coordinate="[cr-9-3,32,36]" Value="+" />
+    <Keyword ID="keywordID100249" Coordinate="[cr-9-3,15,20]" Value="" />
+    <Keyword ID="keywordID100250" Coordinate="[cr-9-3,42,45]" Value="" />
+    <Keyword ID="keywordID100251" Coordinate="[cr-9-3,46,49]" Value="" />
+    <Keyword ID="keywordID100252" Coordinate="[cr-9-5,76,82]" Value="+" />
+    <Keyword ID="keywordID100253" Coordinate="[cr-10-1,209,214]" Value="" />
+    <Keyword ID="keywordID100254" Coordinate="[cr-10-1,215,222]" Value="-" />
+    <Keyword ID="keywordID100255" Coordinate="[cr-10-1,272,278]" Value="+" />
+    <Keyword ID="keywordID100256" Coordinate="[cr-10-1,284,287]" Value="" />
+    <Keyword ID="keywordID100257" Coordinate="[cr-10-4,13,22]" Value="+" />
+    <Keyword ID="keywordID100258" Coordinate="[cr-10-4,23,26]" Value="" />
+    <Keyword ID="keywordID100259" Coordinate="[cr-10-8,68,75]" Value="+" />
+    <Keyword ID="keywordID100260" Coordinate="[cr-10-8,34,37]" Value="" />
+    <Keyword ID="keywordID100261" Coordinate="[cr-10-8,55,61]" Value="" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="262" />
+    <Tag_Index Value="219" />
+  </Index>
+</Product>

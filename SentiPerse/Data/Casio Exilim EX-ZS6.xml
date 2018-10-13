@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Casio Exilim EX-ZS6" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/02/29</Feature>
+    <Feature Name="نوع ">فشرده و کوچک</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">95.8X56.9X20.7 mm</Feature>
+    <Feature Name="وزن ">137 گرم</Feature>
+    <Feature Name="نوع حسگر ">CCD</Feature>
+    <Feature Name="دقت حسگر ">16.56 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">16.1 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2.3 اینچ - 4.55 × 6.17 میلی‌متر</Feature>
+    <Feature Name="رزولوشن عکس ">4608X3456و 4608x 2592, 3456 x 3456, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480</Feature>
+    <Feature Name="فرمت عکس ">JPEG </Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">خیر</Feature>
+    <Feature Name="رزولوشن فیلم ">HD</Feature>
+    <Feature Name="فرمت فیلم ">Motion JPEG</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم برداری با کیفیت 1280X720p HD با سرعت 30 فریم بر ثانیه و 640X480 با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">ضبط صدا به صورت مونو (Mono)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">26-130 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">f/2.8-5.6</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">5 برابر برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">4 برابر برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر تصویر دیجیتال ( Digital Image Stabilization</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">15 سانتی متر سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">5 سانتی متر سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">تعداد نقاط فوکوس: 11 نقطه‌ - فوکوس: (Normal / AF Macro, Zoom Macro, Quick AF, AF Tracking, Touch AF/AE / Continuous AF (only for motion picture</Feature>
+    <Feature Name="نورسنجی ">چندگانه هوشمند، مرکزی، نقطه‌ای</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">خیر</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/2000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1/2 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">100</Feature>
+    <Feature Name="حداکثر حساسیت ">1600</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 100،200،400،800،1600</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 6 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش LCD رنگی TFT با زاویه دید وسیع و با قابلیت پوشش‌دهی 100% میدان دید</Feature>
+    <Feature Name="سایز صفحه نمایش ">2.7 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">230,400 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">خیر</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">خیر</Feature>
+    <Feature Name="نوع کارت حافظه ">SD / SDHC</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری لیتیوم-یونی NP-80 قابل شارژ با توانایی شارژدهی برای 190 عکس</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری لیتیوم-یونیآداپتور AC USBسیم پاور ACکابل USBبند مچی</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="-1">ZS6 از هر نظر یک کامپکت کاملا معمولی است.</Sentence>
+    <Sentence ID="rev-2" Value="0">بعلاوه از سنت راحی خود کاسیو هم پیروی کرده و شکل و شمایل آن کاملا کاسیویی می باشد.</Sentence>
+    <Sentence ID="rev-3" Value="+1">کاملا کوچک است و به راحتی در کف دست جای می گیرد.</Sentence>
+    <Sentence ID="rev-4" Value="+2">در قلب این دوربین یک سنسور تصویر 16 مگاپیکسلی CCD قرار گرفته که رزولوشن خیلی بالایی را ارائه می دهد و در شرایط نوری مناسب می توانید عکس های با کیفیتی را با آن تهیه کنید.</Sentence>
+    <Sentence ID="rev-5" Value="+2">بعلاوه فیلم برداری 720p HD نیز با آن مقدور می باشد که خیلی خوب است.</Sentence>
+    <Sentence ID="rev-6" Value="+2">لنز ZS6 خیلی لنز خوبی است به طوری که کمینه ی فاصله ی کانونی آن 26 میلی متر می باشد که در این حال میدان دید خیلی گسترده ای را می تواند در یک میدان دید پوشش دهد.</Sentence>
+    <Sentence ID="rev-7" Value="+2">توانایی زوم 5 برابر هم برای آن خیلی مناسب است ولی از همه بهتر کمینه ی نسبت کانونی f/2.8 آن است که باعث می شود عملکرد این دوربین در شرایط نوری ضعیف خیلی بهبود یابد.</Sentence>
+    <Sentence ID="rev-8" Value="+2">در قسمت پشت این دوربین نیز نمایشگر 2.7 اینچی 230000 پیکسلی قرار گرفته که نسبت به این دوربین امکانات و کیفیت خیلی خوبی را ارائه می دهد.</Sentence>
+    <Sentence ID="rev-9" Value="+2">عکاسی با این دوربین کار بسیار ساده ایست،  کافیست که آن را بر روی مود اتوماتیک قرار دهید،  سپس به سوی سوژه نشانه بروید و دکمه ی شاتر را بفشارید تا بهترین و با کیفیت ترین عکس ها بدست آید.</Sentence>
+    <Sentence ID="rev-10" Value="+2">به هر صورت همانطور که گفتیم،  ZS6 دوربین نسبتا ارزان قیمت خیلی خوبیست که امکانات خوب را در برابر قیمت مناسب ارائه می کند.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>بهره گیری از لنز واید 26 میلی متری با توانایی زوم 5 برابر و کمینه ی نسبت کانونی f/2.8</Advantage>
+    <Advantage>ابعاد بسیار کوچک و وزن سبک</Advantage>
+    <Advantage>توانایی ضبط ویدیویی 720p HD</Advantage>
+    <Advantage>بهره گیری از سنسور تصویر 16 مگاپیکسلی</Advantage>
+  </Advantages>
+  <Voters Value="1" />
+  <Performance Value="7.00" />
+  <Capability Value="7.00" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="7.00" />
+  <Purchase_Value Value="7.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1002" Root="شکل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="فیلم برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="زوم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="قیمت" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-1,0,3]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-1,24,36]" Relation="tagID10012" Value="-" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-3,0,10]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-4,11,17]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-4,21,49]" Relation="tagID10013" Value="" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-10,34,40]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-10,41,57]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-10,58,69]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-10,73,84]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-10,97,107]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-2,45,48]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-2,60,73]" Relation="tagID10015" Value="" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-4,64,71]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-4,72,83]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-4,132,139]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-4,140,149]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-5,7,18]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-5,19,26]" Relation="tagID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-5,54,62]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-6,13,16]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-6,17,21]" Relation="tagID10019" Value="+" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-6,97,121]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-7,8,11]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-7,12,19]" Relation="tagID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-7,31,41]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-8,27,34]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-8,102,117]" Relation="tagID10021" Value="+" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-8,45,58]" Relation="tagID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[rev-8,35,44]" Relation="tagID10021" Value="" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-9,0,5]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-9,24,39]" Relation="tagID10022" Value="+" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-9,65,77]" Relation="tagID10022" Value="" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-9,169,175]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-9,146,152]" Relation="tagID10023" Value="+" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-9,155,168]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-10,97,101]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-10,102,107]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-10,53,57]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-10,47,52]" Relation="tagID10025" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,24,36]" Value="-" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-3,0,10]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-4,72,83]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-4,140,149]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,54,62]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-6,17,21]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-6,97,121]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-7,31,41]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-8,102,117]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-9,24,39]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-9,146,152]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-9,155,168]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-10,41,57]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-10,58,69]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-10,73,84]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-10,97,107]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-10,102,107]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-10,47,52]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="19" />
+    <Tag_Index Value="51" />
+  </Index>
+</Product>
