@@ -1,0 +1,1187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy Tab 2 7.0 P3100 - 16GB" Type="Tablet">
+  <Accessories>
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="شارژر همراه Energizer AP750" Price="70000" />
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+  </Accessories>
+  <Features>
+    <Feature Name="ابعاد ">193.7 × 122.4 × 10.5 mm</Feature>
+    <Feature Name="وزن ">344 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، سفید</Feature>
+    <Feature Name="سازنده پردازنده ">TI OMAP</Feature>
+    <Feature Name="مدل پردازنده ">Dual-core Cortex-A9</Feature>
+    <Feature Name="سرعت پردازنده ">1.0 GHz</Feature>
+    <Feature Name="حافظه رم ">1.0 GB</Feature>
+    <Feature Name="نوع حافظه رم ">-</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">16 GB</Feature>
+    <Feature Name="مدل پردازنده گرافیک ">PowerVR SGX540</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">7 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">600 × 1024 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">صفحه نمایش مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Multi-Touch Input Method)قابلیت کنترل لمسی (Touch-Sensitive Controls)ضد خش از نوع Corning Gorilla Glassمجهز به حسگر شتاب‌سنج برای چرخش خودکار رابط کاربری ( Accelerometer Sensor For UI Auto-Rotate)</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">بلی</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">بلی</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 900 / 1900 / 2100</Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">Wi-Fi 802.11 a/b/g/n, DLNA, Wi-Fi Direct, dual-band, Wi-Fi hotspot</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS Support and GLONASS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3 همراه با A2DP, HS</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="DLNA ">بلی</Feature>
+    <Feature Name="پیام رسانی ">SMS(threaded view), MMS, Email, Push Email, IM, RSS</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">کارت حافظه‌ی MicroSD با قابلیت افزایش تا 32 گیگابایت</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="توضیحات دوربین ">دوربین اصلی یا پشتی با کیفیت 3.2 مگاپیکسل - قابلیت ردیابی خودکار لبخند (Smile Detection) - فوکوس ثابت (Fixed Focus Camera) و قابلیت ثبت موقعیتن مکانی و زمانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)</Feature>
+    <Feature Name="کیفیت عکاسی ">1536 × 2048 پیکسل</Feature>
+    <Feature Name="کیفیت فیلمبرداری ">قابلیت فیلم‌برداری با کیفیت HD 720p در ابعاد 720 × 1280 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم (دوربین جلویی) با کیفیت VGA برای مکالمه تصویری</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای داخلی استریو</Feature>
+    <Feature Name="پخش موسیقی ">MP3, AAC, AC-3, AMR, FLAC, MID, WMA, WAV, Vorbis</Feature>
+    <Feature Name="پخش فیلم ">Codec: MPEG4, H.263, H.264, VC-1, DivX, WMV7, WMV8, VP8Format: 3GP, ASF, AVI, MP4, WMV, FLV, MKV, WebM</Feature>
+    <Feature Name="پورت USB ">خیر</Feature>
+    <Feature Name="پورت microUSB ">خیر</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">(v4.0.3 (Ice Cream Sandwich</Feature>
+    <Feature Name="باتری ">یون لیتیوم استاندارد 4000 میلی‌آمپری (Standard Battery, Li-ion 4,000mAh)</Feature>
+    <Feature Name="کارکرد باتری ">بین 24 تا 48 ساعت</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">مجهز به ویرایشگر عکس و فیلم (Image/video editor)قابلیت نمایش و ویرایش فایل‌های آفیس (Quickoffice HD Editor &amp; Viewer)دارای سازمان دهنده (Organizer)Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integration</Feature>
+    <Feature Name="امکانات دیگر ">مجهز به خروجی تلویزیون (TV Out)TouchWiz UISamsung TouchWiz/ Samsung L!ve Panel UXSamsung AppsSamsung Kies / Samsung Kies airSNS integrationVoice memo(Predictive text input (Swype</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">از لحاظ طراحی،  تفاوت محسوسی بین این مدل و مدل سال گذشته یعنی GALAXY Tab 7.0 Plus مشاهده نمی شود.</Sentence>
+    <Sentence ID="rev-2" Value="0">ضخامت GALAXY Tab 2 نسبت به مدل سال گذشته نزدیک به 0.6 میلیمتر افزایش یافته ولی تغییری در وزن آن ایجاد نشده است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">این مدل نیز همانند مدل سال گذشته تنها 344 گرم وزن دارد که آن را به یکی از سبکترین تبلت های موجود در بازار تبدیل کرده است.</Sentence>
+    <Sentence ID="rev-4" Value="+2">به همین دلیل نگه داشتن آن حتی با یک دست بسیار راحت و لذت بخش است.</Sentence>
+    <Sentence ID="rev-5" Value="+2">کاور پشتی این تبلت از جنس پلاستیک تیتانیومی ساخته شده است که کیفیت بسیار خوبی داشته و به دلیل اینکه اثر انگشت را جذب نمی کند،  همیشه ظاهر تمیز خود را حفظ می کند.</Sentence>
+    <Sentence ID="rev-6" Value="0">GALAXY Tab 2 همانند مدل های گذشته از صفحه نمایشی هفت اینچی استفاده می کند.</Sentence>
+    <Sentence ID="rev-7" Value="0">این صفحه نمایش از دقت 600x1024 بهره می برد که تراکم پیکسلی 170 را ارائه می دهد.</Sentence>
+    <Sentence ID="rev-8" Value="+2">این تراکم پیکسلی برای نشان دادن جزئیات دقیق و متون صفحات اینترنتی بسیار مناسب است.</Sentence>
+    <Sentence ID="rev-9" Value="+2">سامسونگ در صفحه نمایش این تبلت از پنل Super PLS LCD استفاده کرده است که رنگ های بسیار زنده و طبیعی را تولید کرده و زاویه دید فوق العاده بالایی دارد.</Sentence>
+    <Sentence ID="rev-10" Value="0">در بالای این صفحه نمایش، وب کم 0.3 مگاپیکسلی تبلت قرار دارد که برای انجام مکالمات تصویری استفاده می شود.</Sentence>
+    <Sentence ID="rev-11" Value="0">اگر تبلت را بصورت عمودی نگه دارید،  در سمت راست آن از بالا به ترتیب،  کلید پاور،  کلیدهای کم و زیاد کردن صدا و سنسور مادون قرمز تبلت قرار دارند.</Sentence>
+    <Sentence ID="rev-12" Value="0">در سمت چپ تبلت نیز شیار مموری کارت قرار دارد که از کارت های حافظه microSD با ظرفیت حداکثر 32 گیگابایت پشتیبانی می کند.</Sentence>
+    <Sentence ID="rev-13" Value="0">اگر نسخه 3G این تبلت را تهیه کرده باشید،  در کنار شیار مموری کارت،  شیار میکرو سیم کارت نیز قرار دارد.</Sentence>
+    <Sentence ID="rev-14" Value="0">در بالای تبلت تنها جک هدفون 3.5 میلیمتری قرار دارد.</Sentence>
+    <Sentence ID="rev-15" Value="-1">در پایین آن نیز درگاه اتصال و شارژ تبلت به علاوه دو بلندگوی استریوی آن قرار دارند و در نهایت در پشت تبلت دوربین 3.2 مگاپیکسلی آن قرار دارد که متأسفانه به فلاش مجهز نیست.</Sentence>
+    <Sentence ID="rev-16" Value="0">در قلب این تبلت پردازنده دو هسته ای TI OMAP 4430 با فرکانس یک گیگاهرتز به همراه یک گیگابایت حافظه RAM می تپد.</Sentence>
+    <Sentence ID="rev-17" Value="+2">این پردازنده همان مدلیست که در گوشی Galaxy Nexus نیز استفاده شده است و پردازنده فوق العاده قدرتمندیست.</Sentence>
+    <Sentence ID="rev-18" Value="0">همان‌طور که پیش‌تر گفتیم در دو طرف شیار اتصال تبلت به کامپیوتر،  دو بلندگوی استریو قرار دارند.</Sentence>
+    <Sentence ID="rev-19" Value="+2">این دو بلندگو،  کیفیتی فراتر از سطح انتظار ما از یک تبلت را ارائه می‌دهند.</Sentence>
+    <Sentence ID="rev-20" Value="+2">به همین دلیل می‌توان گفت که این تبلت بسیار مناسب علاقه‌مندان به موسیقی است.</Sentence>
+    <Sentence ID="rev-21" Value="+2">یکی از مهمترین و بهترین امکانات اضافه شده در GALAXY Tab 2 7.0 سیستم عامل آن است.</Sentence>
+    <Sentence ID="rev-22" Value="0">این تبلت بطور پیش فرض از آخرین نسخه سیستم عامل گوگل یعنی اندروید 4.0 استفاده می کند.</Sentence>
+    <Sentence ID="rev-23" Value="+2">این سیستم عامل نسبت به نسخه های قبلی،  پیشرفت های چشمگیری داشته است و سامسونگ با قرار دادن رابط کاربری سریع و کاربردی TouchWiz بر روی آن، امکانات قابل توجهی به آن اضافه کرده است.</Sentence>
+    <Sentence ID="rev-24" Value="+2">محیط نرم افزاری به لطف پردازنده بسیار قدرتمند دو هسته ای و حافظه RAM بالا، بسیار روان است و می‌توانیم بگوییم که به جز حالتی که از تصویر پس زمینه متحرک استفاده کردیم،  تقریبا هیچ‌گونه کاهش سرعتی هنگام کار کردن با این تبلت مشاهده نکردیم.</Sentence>
+    <Sentence ID="rev-25" Value="0">سامسونگ تعداد زیادی برنامه کاربردی به طور پیش فرض بر روی این تبلت قرار داده است که برای مثال می‌توان به فایل منیجر،  برنامه حرفه ای تدوین عکس و ویدئو،  دفترچه یادداشت و آفیس اشاره کرد.</Sentence>
+    <Sentence ID="rev-26" Value="+2">همان‌طور که انتظار داشتیم،  مرورگری اینترنت با GALAXY Tab 2 7.0 بسیار لذت بخش است.</Sentence>
+    <Sentence ID="rev-27" Value="+2">از فلش به طور کامل پشتیبانی می‌شود و حتی صفحات اینترنتی سنگین نیز به راحتی و به سرعت باز می شوند.</Sentence>
+    <Sentence ID="rev-28" Value="+1">به لطف پردازنده قدرتمند دو هسته ای و یک گیگابایت حافظه RAM،  پخش فایل های ویدئویی Full HD 1080p برای GALAXY Tab 2 هیچ مشکلی نیست.</Sentence>
+    <Sentence ID="rev-29" Value="+1">به علاوه این تبلت به طور پیش فرض از اکثر فرمت های ویدئویی نظیر DivX و Xvid پشتیبانی می کند.</Sentence>
+    <Sentence ID="rev-30" Value="0">همانند اکثر گوشی‌ها و تبلت های کمپانی سامسونگ،  GALAXY Tab 2 نیز از برنامه عکاسی مربوط به رابط کاربری تاچ ویز استفاده می‌کند.</Sentence>
+    <Sentence ID="rev-31" Value="+2">این برنامه بسیار کامل و مجهز است و امکانات بسیار زیادی دارد.</Sentence>
+    <Sentence ID="rev-32" Value="-1">متأسفانه عکس‌های گرفته شده با دوربین این تبلت از کیفیت رضایت بخشی برخوردار نیستند.</Sentence>
+    <Sentence ID="rev-33" Value="-2">نه تنها دوربین این تبلت از فوکوس ثابت استفاده می‌کند،  بلکه به فلاش نیز مجهز نیست به همین دلیل کیفیت عکس‌های گرفته شده به خصوص در فضاهای کم نور، پایین ‌تر از حد متوسط بوده و نویز زیادی دارند.</Sentence>
+    <Sentence ID="rev-34" Value="+2">خوشبختانه کیفیت فیلمبرداری HD این تبلت خیلی بهتر از عکاسی آن است.</Sentence>
+    <Sentence ID="rev-35" Value="+2">فیلم های گرفته شده با این تبلت جزئیات قابل قبولی را نشان داده و از کیفیت صوتی بسیار مناسبی برخوردارند.</Sentence>
+    <Sentence ID="rev-36" Value="+2">باتری 4000 میلی آمپری این تبلت می‌تواند با مصارف روزمره سبک تا سه روز کامل شارژ دهی کند که برای یک تبلت هفت اینچی با پردازنده ای دو هسته ای،  میزان بسیار خوبیست.</Sentence>
+    <Sentence ID="rev-37" Value="+1">حتی در مصارف سنگین‌تر،  GALAXY Tab 2 می‌تواند حداقل یک روز کامل را شارژ دهی کند.</Sentence>
+    <Sentence ID="rev-38" Value="+1">در مجموع نمی توان گفت که GALAXY Tab 2 یک تبلت شگفتی آفرین است ولی با این وجود،  یکی از بهترین تبلت های هفت اینچی موجود در بازار است.</Sentence>
+    <Sentence ID="rev-39" Value="+1">این تبلت امکانات فراوانی دارد که مطمئنا خریداران خود را نا امید نخواهد کرد.</Sentence>
+    <Sentence ID="rev-40" Value="+2">از مزایای اصلی این تبلت می توان به بهره گیری از جدیدترین نسخه سیستم عامل اندروید،  باتری بسیار قدرتمند و سنسور مادون قرمز اشاره کرد.</Sentence>
+    <Sentence ID="rev-41" Value="-1">شاید تنها نقطه ضعف این تبلت،  کیفیت عکاسی ضعیف آن باشد ولی باید این موضوع را هم در نظر بگیرید که در کل دوربین های عکاسی بر روی تبلت ها،  کاربرد فراوانی ندارند.</Sentence>
+    <Sentence ID="rev-42" Value="+2">در نهایت GALAXY Tab 2،  یکی از بهترین تبلت های موجود در بازار و برای کسانی به دنبال یک تبلت کوچک با امکانات فوق العاده می گردند، بسیار مناسب است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>صفحه نمایش با کیفیت با روشنایی بالا و زاویه دید عالی</Advantage>
+    <Advantage>بلندگوهای شفاف و با کیفیت</Advantage>
+    <Advantage>کیفیت ساخت بالا</Advantage>
+    <Advantage>پردازنده دو هسته ای قدرتمند</Advantage>
+    <Advantage>مجهز به برنامه های بسیار خوب تدوین عکس و ویدئو</Advantage>
+    <Advantage>بهره گیری از سیستم عامل اندروید 4.0 به طور پیش‌فرض</Advantage>
+    <Advantage>باتری قدرتمند</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="مهدي عليزاده " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">از همه لحاظ تبلت خوبيه نسبت به قيمتش.</Sentence>
+      <Sentence ID="gr-1-2" Value="0">به نظرم تبلت نيازي به دوربين عکاسي نداره.</Sentence>
+      <Sentence ID="gr-1-3" Value="-1">فقط کسايي که قبلا با رتيناي اپل کار کرده باشن يکم براشون بي کيفيت بنظر مياد که خب طبيعيه.</Sentence>
+      <Sentence ID="gr-1-4" Value="+2">ولي با اين حال من ازش راضيم خصوصا باتريش که حرف نداره و باکار مداوم يه روز و با کاربري استاندارد راحت دو روز جواب ميده.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="رضا محبي " Value="+1">
+      <Sentence ID="gr-2-1" Value="+1">به نظرم ظاهر قشنگي داره ارزش خريدن داره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="احسان اقبالي " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">تبلت خيلي خوبيه واقعاً ارزش خريد داره مخصوصا اين که سيم کارت هم ميخوره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="محمد مهدي بزرگي " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">اگر يک سامسونگ p3100 داشته باشين، يک لپ تاپ و يک اسمارت فون
+از همه بيشتر از سامسونک p3100 استفاده خواهيد کرد از دانشجو تا مهندس و پزشک همه لازمتون ميشه
+بهترين سايز 7 اينج هست و بهترينش تا امروز p3100
+نکسوس هم خوبه ولي بعضي کارارو که تو ايران ميشه انجام داد بايد sim card داشته باشين</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="مصطفي اقدامي پور " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">تبلت خوبيه .</Sentence>
+      <Sentence ID="gr-5-2" Value="0">قصد دارم بخرمش .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="مسعود جلالي " Value="+1">
+      <Sentence ID="gr-6-1" Value="+1">تازه از ديجيکالا خريدم و امروز به دستم رسيد ،  واقعا حرف نداره 
+تنها دوربينش کيفيتش چنگي به دل نميزنه و اين که فلاش نداره
+اما از نظر سرعت و رزولوشن و ظاهر عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="محمدرضا سلحشور " Value="+2">
+      <Sentence ID="gr-7-1" Value="+2">به نظر من خيلي عاليه.</Sentence>
+      <Sentence ID="gr-7-2" Value="0">من نسخه اندرويد 4.1.2 jelly bean  رام آمريکاييش رو دانلود کردم و روش نصب کردم.</Sentence>
+      <Sentence ID="gr-7-3" Value="+1">ميتونم بگم با اين آپديت جديد از نکسوس 7 هم بهتر شده.</Sentence>
+      <Sentence ID="gr-7-4" Value="+2">سخت افزارش هم خيلي خوب شده و سنسوراش خيلي خيلي بهتر عمل ميکنن.</Sentence>
+      <Sentence ID="gr-7-5" Value="+2">اگه کسي ميخواد گلکسي تب 2 بخره به نظر من توي عالي بودن اين تبلت شک نکنه.</Sentence>
+      <Sentence ID="gr-7-6" Value="+2">عالي.</Sentence>
+      <Sentence ID="gr-7-7" Value="+2">عالي.</Sentence>
+      <Sentence ID="gr-7-8" Value="+2">عالي..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="مهران غفاري " Value="+2">
+      <Sentence ID="gr-8-1" Value="0">سلام .</Sentence>
+      <Sentence ID="gr-8-2" Value="+1">من حدود يک سال پيش اين تب دوست داشتني رو خريدم .</Sentence>
+      <Sentence ID="gr-8-3" Value="+2">کاملاً ازش راضي هستم .</Sentence>
+      <Sentence ID="gr-8-4" Value="+2">بنظر من اين تبلت کاملاً مهندسي شده و معقول هست .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="arminbabaali " Value="+2">
+      <Sentence ID="gr-9-1" Value="+2">يکي از بهترين هاي سامسونگه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="اسماعيل لو " Value="+2">
+      <Sentence ID="gr-10-1" Value="+2">تبلت بسيار عالي و خوش دستيه
+من خودم 5 ماهي دارمش از همين سايتم خريدم
+کيفيت بسيار بالا تو ساختش استفاده شده
+تو اجراي برنامه ها کم نمياره
+عکساي خوبي با اينکه دوربينه پایيني داره ميشه باهاش گرفت
+هرکي ميخواد بخره شک نکنه دستگاه خوبيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="احسان نظريان " Value="+1">
+      <Sentence ID="gr-11-1" Value="+1">از سايت خوب شما کمال تشکر را دارم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="شهرام جلالي کيا " Value="+2">
+      <Sentence ID="gr-12-1" Value="+2">با اين امکانات نسبت به قيمتش عاليه درسته که nexus7 سخت افزار بالاتري داره ولي همين GPRS که P3100 داره توي ايران که همه جا WiFi نداريم خيلي بدرد بخوره تازه اگه بخوايم از امکان مکالمه و SMS اون چشم پوشي کنيم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="حسين جاهدي " Value="+2">
+      <Sentence ID="gr-13-1" Value="+2">من با بررسي هاي که کردم اين تبلت گزينه خيلي خوبي هستش با توجه به قيمتش</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="سيد محمدرضا خوب بين خوشنظر " Value="0">
+      <Sentence ID="gr-14-1" Value="0">تبلت خوبيه ولي اصلا دوربين خوبي نداره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="مسعود وطن خواه " Value="+1">
+      <Sentence ID="gr-15-1" Value="+1">به نظر چيز خوبي مياد ..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-16-1" Value="0">با سلام .</Sentence>
+      <Sentence ID="gr-16-2" Value="+2">من 2 ماه که اين تبلت رو از ديجي کالا خريدم و در اين رنج قيمت بهترين تبلت.</Sentence>
+      <Sentence ID="gr-16-3" Value="+2">در اين مدت شکر خدا هنگ نکرده با اينکه هر روز 6 ساعت پشت سر هم باهاش کار مي کنم ـ باتري هم که حرف نداره.</Sentence>
+      <Sentence ID="gr-16-4" Value="+2">کيفت صداش عاليه.</Sentence>
+      <Sentence ID="gr-16-5" Value="+1">صفحه نمايش خوبي هم داره.</Sentence>
+      <Sentence ID="gr-16-6" Value="+1">از ديجي کالا هم نهايت تشکر رو دارم که بهترين قيمت ها رو داره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="امين خليلي " Value="+2">
+      <Sentence ID="gr-17-1" Value="+2">با سلام من 2 روزه خريدم خيلي عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="آرمان امامي " Value="+1">
+      <Sentence ID="gr-18-1" Value="+2">تبلت 3100 در نوع خودش واقعاً محشر هست.</Sentence>
+      <Sentence ID="gr-18-2" Value="+1">با اين حال بنده 6200 رو به خاطر دوربين جلوي 2 مگا پيکسلي - ساپورت رم تا 64 - سي پي يو 1.2  و قابل آپديت بودن به آندرويد 4.1 ، ترجيح داده و خريداري کردم
+بايد به عرض برسانم قيمت 6200 خيلي به صرفه تر از 3100 است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-19" Holder="فرخ بخشي " Value="+1">
+      <Sentence ID="gr-19-1" Value="+1">مزاياي اين تبلت به همراه داشتن قابليت هاي مکالمه تلفني - قرار گرفتن سيم کارت (براي استفاده از اينترنت) - GPS - و نهايتا نسخه خوبي از اندرويد است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-20" Holder="محسن رحمتي " Value="+2">
+      <Sentence ID="gr-20-1" Value="+1">تبلت Nexus 7 خيلي از اين تبلت بهتره هم پردازنده 4 هسته ايش و هم صفحه ي نمايش با کيفيت تري داره.</Sentence>
+      <Sentence ID="gr-20-2" Value="+2">همچنين از نظر باطري هم خيلي قوي تره  و در اخر هم خيلي از اين تبلت خوشگل تره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-21" Holder="محمد بداقي اصل " Value="+2">
+      <Sentence ID="gr-21-1" Value="+2">من به دوستاني که دنبال يه تبلت خوب با مشخصات فوق العاده ميگردن Nexus 7 رو پيشنهاد ميکنم چون هم ارزون تر و با صرفه تره هم خوش دست و زيبا تر </Sentence>
+    </General_Review>
+    <General_Review ID="gr-22" Holder="پوريا مهرکي " Value="+1">
+      <Sentence ID="gr-22-1" Value="+1">عاليه اما اگر دوربينش بالاتر بود بهتر مي شد
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-23" Holder="عليرضا " Value="+1">
+      <Sentence ID="gr-23-1" Value="+1">زيبا و خوش دسته !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-24" Holder="حسام الدين غفاري " Value="+1">
+      <Sentence ID="gr-24-1" Value="+1">همه چيش خوبه.</Sentence>
+      <Sentence ID="gr-24-2" Value="0">دوربينش هم اگه 5 بود عالي ميشد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-25" Holder="رضا شهابي " Value="+2">
+      <Sentence ID="gr-25-1" Value="0">سلام .</Sentence>
+      <Sentence ID="gr-25-2" Value="0">و خسته نباشيد .</Sentence>
+      <Sentence ID="gr-25-3" Value="0">من يه گالاکسي تب 2 _3100 خريدم .</Sentence>
+      <Sentence ID="gr-25-4" Value="+2">خيلي عاليه .</Sentence>
+      <Sentence ID="gr-25-5" Value="+2">از اندازه مناسب و خوش دستي و روزلوشن و کيفت بالا ال سي دي گرفته تا سيستم عامل کامل .</Sentence>
+      <Sentence ID="gr-25-6" Value="-1">تنها عيبي که داره ..</Sentence>
+      <Sentence ID="gr-25-7" Value="-1">نداشتن رابط يو اس بي هست .</Sentence>
+      <Sentence ID="gr-25-8" Value="+1">که اون هم با خريد کابل اين گو حل ميشه .</Sentence>
+      <Sentence ID="gr-25-9" Value="+1">ولي در کل بنظرم با توجه به قيمتش ,  انتخاب مناسبي هست .</Sentence>
+      <Sentence ID="gr-25-10" Value="0">.با تشکر .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-26" Holder="محمد ابراهيم زاده " Value="+2">
+      <Sentence ID="gr-26-1" Value="+2">با سلام نسبت به دو مدله قبلي عاليه به دوستان پيشنهاد ميدم از سايت ديجي کالا خريد کنن چون قيمتا خوب ميفروشن و مطمئنه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="مجتبي گودرزي" Score="115" Voters="143" Value="+1">
+      <Sentence ID="cr-1-1" Value="+1">من يک هفتست که اين تبلت رو از ديجي کالا خريدم از نظر کيفيت ساخت بدنه و اجزا خيلي خوبه و عالي نيست چون دکمه هاي ولوم و قفل صفحه گاهي سهوا فشرده ميشن هنگام کارکردن البته با کمي عادت کردن ديگه مشکلي پيش نمياد صفحه نمايش هم کيفيت بالايي داره و رنگ ها بسيار طبيعي ظاهر ميشن و از کار کردن با اون لذت مي بريد براي فيلم ديدن و کتاب خوندن واقعا کارايي داره و جزئيات به خوبي نمايش داده ميشن اما انتظار معجزه هم نداشته باشيد و صفحه نمايشش در ميان رقبا کيفيت متوسطي داره از نظر وزن جزء سبک وزن ها محسوب ميشه ولي بازم با يک دست نگه داشتن طولاني باعث اذيت شدنتون ميشه پس اگر قصد مطالعه و فيلم ديدن به مدت طولاني داريد حتما به وزن تبلت توجه داشته باشيد (از نظر من بهترين سايز 7 اينچ براي کتاب خوندن )کيفيت صدا بدون تعصب يکي از بالاترين کيفيت صداها بوده که در بين دستگاه ها ديدم از نظر بلندي هم مطمئن باشيد که نااميدتون نميکنه .</Sentence>
+      <Sentence ID="cr-1-2" Value="+2">با دو بلندگوي با کيفيت و استريو لذت موسيقي رو حس کنيد اندرويد استفاده شده هم به خوبي از زبان فارسي پشتيباني مي کنه و من تا به حال نديدم هنگ کنه و سرعت قابل ملاحضه اي داره البته نسخه 4.1 هم براي اين تبلت آماده شده و هم اکنون نسخه ي هند اون منتشر شده که با نصب اون سرعت دستگاه بالاتر هم ميرود از نظر کارهاي پردازشي و رم و سي پي يو مطمئن باشيد از پس همه چيز به خوبي برمياد و کمبودي احساس نميشه جالب ترين چيزي که توجه منو به خودش جلب کرد جي پي اس اونه که فوق العاده قوي عمل مي کنه در کمتر از 10 ثانيه وصل ميشه و حتي از داخل خونه و سقف پوشيده هم با دقت بالايي عمل مي کنه و نياز نيست که حتما در محيط باز باشيد.</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">رابط کاربري اون يکي از نقاط قوت اون در مقايسه با رقبا محسوب ميشه که واقعا از کارکردن با اون احساس راحتي مي کنيد و سامسونگ در اين زمينه فوق العاده قوي عمل کرد هدر آخر من واقعا از خريدم راضي هستم و از اين که بين نکسوز 7 و گلکسي تب 7 2 گلکسي رو انتخاب کردم پشيمون نيستم ،  الان يه آرشيو از فيلم ها و سريال هامو روش دارم که در زمان بيکاري مشاهده مي کنم و جايي که واي فاي نيست از اينترنت سيمکارت استفاده مي کنم در صورتي که نکسوز فاقد اين قابليت هاست</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="عليرضا مقدس" Score="29" Voters="49" Value="0">
+      <Sentence ID="cr-2-1" Value="0">سلام دوستان ، من مدتي هست که اين تبلت را خريداري کردم چند نکته براتون بگم: طراحي بسيار عالي دارد فقط کمي نزديک بودن مکان کليد پاور به کليد هاي ولوم در ابتدا شما را ممکنه به اشتباه بندازه،  صداي خوبي داره در حد نياز بلند و با کيفيت هست ،  کيفيت تصوير و زاويه ديد عالي داره ، وزنش يکم زياده و براي مدت طولاني نميشه ثابت نگهش داشت مثلا براي ديدن فيلم يا کتاب الکترونيکي ، باتري خوبي داره ولي ميشد بهترم باشه در استفاده معمولي يک روز را کامل جواب ميده ،  دوربينش واقعاً ضعيف هست و هيچ حرفي براي گفتن نداره !</Sentence>
+      <Sentence ID="cr-2-2" Value="0">، پردازنده قوي داره و به راحتي فيلم هاي فول اچ دي و بازي هاي اچ دي را پشتيباني ميکنه ، جي پي اس قوي داره ولي افسوس که واي فاي يا سخت افزار وايرلسش واقعاً ضعيفه !</Sentence>
+      <Sentence ID="cr-2-3" Value="-1">که من اصلا انتظارشو نداشتم خيلي بد و ضعيف آنتن ميده و براي يک محيط خونگي شايد اينترنتش خوب باشه نه بيشتر.</Sentence>
+      <Sentence ID="cr-2-4" Value="0">در کل نه گزينه خيلي تاپي هست نه بد چون من ايپد داشتم ميشه گفت امکانات سامسونگ به بعضي از ضعف هاش مثل باطري ،  دوربين ،  وايرلس شايد بيارزه چون هم قيمت کمتري داره هم امکانات بيشتري.</Sentence>
+      <Sentence ID="cr-2-5" Value="0">ممنون</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="علي وفائي " Score="29" Voters="71" Value="0">
+      <Sentence ID="cr-3-1" Value="0">با سلام خدمت دوستان گرامي،  بنده اين تبلت را حدود يک ماه است که خريداري کرده ام.</Sentence>
+      <Sentence ID="cr-3-2" Value="0">آنچه که در نقد اين تبلت مي نويسم صرفا تجربه شخصي است.</Sentence>
+      <Sentence ID="cr-3-3" Value="0">از مزاياي p3100 مي توان به سرعت پردازش بالا، کيفيت تصوير واضح با رنگ هاي گيرا ، عملکرد سريع حسگرها،  صداي واضح و با کيفيت، ذخيره ي باتري به مدت نسبتاً طولاني، قابليت نمايش فايل هاي آفيس و پشتيباني کامل از زبان فارسي و فرمت هاي مختلف صوتي و تصويري اشاره نمود در کنار اين مزيت هاي مي توان به دوربين ضعيف، هنگ کردن در صورت استفاده ي بلند مدت، نداشتن رابط يو اس بي،  عدم وجود راديو  و  ابعاد کوچک تبلت که سبب مي شود بعد از مدتي احساس خستگي بکنيد اشاره کرد در يک جمع بندي مي توان گفت که اين تبلت براي افرادي که قصد مرور اينترنت به صورت روزانه،  و کارهاي روزمره را  دارند توصيه مي شود ،  ولي اگر قصد شما از خريد تبلت بازي کردن يا ديدن فيلم هست بهتر است به تبلت هايي با صفحه نمايش بزرگتر فکر کنيد در هر صورت اين تبلت براي کساني توصيه مي شود که قابل حمل بودن تبلت برايشان از اهميت ويژه اي برخوردار است .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="امير حسين فلاحتي" Score="28" Voters="36" Value="+1">
+      <Sentence ID="cr-4-1" Value="0">سلام دوستان.</Sentence>
+      <Sentence ID="cr-4-2" Value="+1">اگه دنبال تبلت جمع و جور و با کيفيت قطعات بالا ميگردين بهتون اين تبلتو پيشنهاد ميکنم من يه 5 ماهي ميشه که خريدمش.</Sentence>
+      <Sentence ID="cr-4-3" Value="+1">از لحاظ باتري که نسبت به هم رده هاش سره.</Sentence>
+      <Sentence ID="cr-4-4" Value="+2">برنامه خوريش هم عاليه.</Sentence>
+      <Sentence ID="cr-4-5" Value="-1">تنها ضعفش که خودتونم ميدونيد دوربينشه که اونم روز که باهاش عکس بگيري کم نمياره و بخاطر نداشتن LED عکس تو شبش کم کيفيت ميوفته.</Sentence>
+      <Sentence ID="cr-4-6" Value="+2">يک ويژگي خوبي که اين تبلت داره اينه که داراي صداي فوق العاده بالا با کيفيت استريو هست،  که اين ويژگيش واقعا براي من جالب و خوشآيند بود،  چون من ساعات زيادي رو آهنگ گوش ميدم.</Sentence>
+      <Sentence ID="cr-4-7" Value="+1">از مرور صفحات وب براتون بگم که يه دنياييه واسه خودش،  يک مکان خوبي رو براي کاربر تو فضاي مجازي ايجاد ميکنه و يه جوراييه که انگاري داري با کامپيوتر تو اينترنت چرخ ميزني.</Sentence>
+      <Sentence ID="cr-4-8" Value="+2">ولي در کل نسبت به قيمتش يک تبلت فوق العاده اي هست،  که تو 2012 از سامسونگ معرفي شده.</Sentence>
+      <Sentence ID="cr-4-9" Value="0">اميدوارم تونسته باشم تجربه ام رو به شما انتقال بدم.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="رحيم افسري ممقاني" Score="26" Voters="44" Value="0">
+      <Sentence ID="cr-5-1" Value="0">سلام دوستان من اين تبلت رو يک هفت هست که خريدم از اونجايي که خودم تخصص دارم در اين موارد بايد بدونيد که حرارته پشت اين تبلت خيلي عاديه بايد بدونيد دسته شما بيشتر باعث ميشه به نظرتون پشت تب گرم باشه چون عريضه و دسته شما گرما رو منتقل ميکنه به بدنه تو تاچ گوشي به نظرم يکم مشکل هست چون به نظرم کمي کند عمل ميکنه نکته جالب سيستمه بلوتوث اين تب بود برام که هوشمنده و اتوماتيک وار به هدست استريو متصل ميشه صفحه اين تب به نظرم بايد AMOLED بود چون واقعا ديگه خسته کنندس پنل هايه تکراري پشت سر هم توليد ميشه که کم کاري محسوب ميشه از سامسونگ تو سيستم اندرويدش اشکاله کمي ديدم که با اندرويد جديد بهتر شده و ميشه گفت تبلت رو بايد با سيستم عامل جديدش ارزش گذاري کرد همون طور که يکي از دوستان اشاره کرد نداشتن فلش دوربين و دوربين پيشرفته ضعف محسوب نميشه مثل نکسوس7 که حتي دوربين هم نداره مطلب بعد طراحيه بدنه اين تبه ميتونم به جرات بگم عاليه دور تب از رنگ براق پلي استره که خيلي زيباس و پشت گوشي طوريه که لکه به جا نميمونه موسيقي باش خوبه صدايه نويز وجود نداره که نکته جالبيه حالات موسيقيش چشمگيره يه اشکال تو پخش فايل داره که هر برنامه اي رو اجرا نميکنه ولي مطمعن باشيد اين نکات نکاتي نيست که مايوس کننده باشه سخت افزارش خيلي قويه و خيلي شبيه به گوگل نکسوسه شما ميتونيد رو اين تب حساب کنيد چون واقعا با اين مبلغ با اين امکانات بسيار خوبه در واقع شما يه تبي داريد که هم تلفنه هم کامپيوتر.</Sentence>
+      <Sentence ID="cr-5-2" Value="0">متشکرم ديجي کالا</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-6" Holder="محمد ابراهيم زاده" Score="12" Voters="50" Value="+1">
+      <Sentence ID="cr-6-1" Value="0">با عرض ادب.</Sentence>
+      <Sentence ID="cr-6-2" Value="+1">دوستان من تقريبا بيستو پنج روزه اين تب رو دارم قبلش دو مدل رو داشتم هم پي 1000 هم پي6200 پلاس ميخواستم يکباره برم سراغ تب پي6800 که به نظرم بهترين و خوش دست ترين تبلته دنياس ولي يه ضعف کوچيک که به نظرم مهمه دلمو زد اندرويد 4 ولي در کل ميگم محشره.</Sentence>
+      <Sentence ID="cr-6-3" Value="+1">دوستان کار کردن با تب2 خيلي راحته نسبت به تب 6200 کمي راحت تره تو دست کار باش دلنشينه و نکته مهم تو تکنولوژي جديدشه سخت افزارش خيلي بهتر شده و نسبت به پي1000 ميشه گفت محشره نکته آزار دهندش هنگ کردنشه که به طور مداومه مثل تبه پلاس کمي گرما تو قسمت راستش زياده تو اينترنت و سرعتش واقعاً تکه بسيار سريع و بي نقص نسبت به دو مدل قبلي بدنه محکمي داره جالب اينه که نه تو پکش خبري از نرم افزار هست نه هند فري کيفيت صفحش خوبه و زاويه ديده بالايي داره کيفيتش با تب پلاس تقريبا يکيه شايد يکم رنگهاش زنده تر باشن از نظره برنامه کلا سامسونگ ضعيف کار کرده تو مدل اول پي 1000 بهتر بود در کل بايد بگم نسبت به قيمتش خدماته خوبي داده کلا کيفيت اين دستگاه بالاتره تا هر دو تب 7 اينچ قبل نداشتن فلش و دوربين ضعيف دلتونو نزنه چون يکم با تبلت کار کنيد ميبينيد دوربينه خيلي با کيفيت و داشتن فلاش واجب نيست و در کل نيازي بش احساس نميشه اين تب با انرويد 4 واقعاً با ارزشه همه برنامه ها باش به راحتي انجام ميشه نداشتن قدرت بيشتر مثل تب پي6200 پلاس نگرانتون نکنه چون اصلا هيچ تاثيره منفي تو کاراش نداره دوربين جلوييش هم تا دو مدل قبلي ضعيف تر شده ولي مطمعن باشيد هيچ کاري بي حکمت نيست و واقعا نيازي نداره که سامسونگ براش تعبيه نديده.</Sentence>
+      <Sentence ID="cr-6-4" Value="+1">در کل کار باش لذت بخشه شايد يکي دو تا ايراد مثل نداشتن صفحه super amoled full hd کاربر رو مأيوس کنه ولي نسبت به قيمتش انتخابه خوبيه / باتشکر</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-7" Holder="حميد اکبري" Score="2" Voters="24" Value="-1">
+      <Sentence ID="cr-7-1" Value="-1">سلام همه مشخصات سخت افزاري و نرم افزاري اين تبلت رو خوندين اما من اين تبلت رو 3 روزه خريدم چند نکته که باهاش مواجه شدم رو ميگم در صورت استفاده از لايو والپيپر روان نيست تمام بازي ها به گرافيکش نمي خوره  گرافيک mali و adreno به هيچ وجه کيفيت دوربين خيلي کم نهايت شارژ که نگه ميداري 8 تا 12 ساعت در صورت وب گردي و بازي و فيلم ديدن حتي کم تر چون مصرف صفحه نمايش خيلي بالاست ميتونين توي تنظيمات باتريش ببينين حدود 70 درصد مصرف صفحه نمايشه هندزفري با صداي متوسط واي فاي فعال نيست بايد جداگانه رام 4.0.4 رو دانلود کنيد يا به مراکز معتبر بديد تا درستش کنن گرافيک کمي در بازي هاي با گرافيک بالا مثلnfs.</Sentence>
+      <Sentence ID="cr-7-2" Value="0">most wanted و gta.</Sentence>
+      <Sentence ID="cr-7-3" Value="0">vice city کم مياره اما خيلي نه تبلت 16 گيگ حدود 12 گيگ در دسترس داره مال من که اينطور هدر صورت استفاده مداوم سمت راست پشت تبلت داغ ميشه ظاهرا جاي سي پي يو و رمش هست فول اچ دي رو خيلي خيلي روون پخش ميکنه من با برنامه جداگانه تونستم فرمت هاي dat و vob رو پخش کنم با تشکر حميد اکبري</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-8" Holder="مصطفي فراهاني" Score="2" Voters="4" Value="+1">
+      <Sentence ID="cr-8-1" Value="+1">سلام من قبلا p1000 داشتم از اون خيلي راضي بودم نسبت به زمان توليدش کارايي خوبي داشتاين p3100 چند وقتي هست خريدم اگه از سيم کارت رايتل استفاده بکنيد اينترنتش حرف نداره و همچنين پخش تصويرش خيلي کيفيت بالايي داره مخصوصا کليپ هاي HD سرعت بالايي داره فقط موقعي که ازش استفاده نميکنيد بخاطر مصرف باطري برنامه هاي باز رو ببنديد دوربينش فقط تو شب کارايي نداره ولي تو روز عکسهاي خوبي ميتونيد بگيريد يه مشکله ديگه اي که ميتونيد باهاش پيدا کنيد کيف ضربه گيرشه که امکان داره خوب جفت و جورش نباشه ولي يه مدل که من اين آخري گرفتم فيت تبلت مارکش OZAKI هست.</Sentence>
+      <Sentence ID="cr-8-2" Value="0">از برچسب شفاف روي صفحه استفاده نکنيد حتما از برچسب مات بگيريد که دائم جاي دستتون روش نمونه.</Sentence>
+      <Sentence ID="cr-8-3" Value="0">بعد از خريد ميتونيد نسخه اندرويدشو ارتقاء بديد قبل از اين کار باطري تبلتتون کامل باشه چون کمي طول ميکشه تا دانلود کنه و بعد نصب کنه هر دفعه خاموش روشن کردن تبلت سه درصد از شارژ باطري کم ميشه.</Sentence>
+      <Sentence ID="cr-8-4" Value="0">مدت زمان استفاده از تبلت اگه نور صفحه کامل روشن باشه بين 6 تا 8 ساعته و در حالت ذخيره انرژي بين 12 تا 14 ساعت شارژ نگه ميداره</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-9" Holder="حميدرضا محسنات " Score="2" Voters="14" Value="+1">
+      <Sentence ID="cr-9-1" Value="0">چرا براي به دو هسته اي هزينه کني که معلوم نيست تاکي آپديت ميشه خوب بريد يه نکسوس 7 بگيريد و مطمئن باشيد تا 2 سال ديگه هم توسط گوگل ساپورت ميشه در ضمن قيمتش هم از اين کمتره و بهترين تبلت 2012 هم که شد  اگه هم مشکل سيمکارت داريد يه گوشي ساده هم بگيريد دستتون ولي حداقل با خريد نکسوس 7 يه تبلت واقعي گرفتيد اين فقط يه گوشيه در سايز بزرگ  ..</Sentence>
+      <Sentence ID="cr-9-2" Value="0">ويژگي هاي برجسته نکسوس 7 :1.</Sentence>
+      <Sentence ID="cr-9-3" Value="+1">کيفيت ساخت خوب Asus با همکاري Google2.</Sentence>
+      <Sentence ID="cr-9-4" Value="+1">طراحي زيبا 3.</Sentence>
+      <Sentence ID="cr-9-5" Value="+1">اندازه نسبتاً مناسب و وزن خوب 4.</Sentence>
+      <Sentence ID="cr-9-6" Value="+1">ساپورت مستقيم گوگل بر روي تبلت 5.</Sentence>
+      <Sentence ID="cr-9-7" Value="+1">اولين گوشي با اندرويد 4.1 (لوبيا ژله اي) 6.</Sentence>
+      <Sentence ID="cr-9-8" Value="+1">صفحه نمايش با کيفيت با پنل IPS و رزولوشن HD7.</Sentence>
+      <Sentence ID="cr-9-9" Value="+1">Chipset قدرتمند Tegra 38.</Sentence>
+      <Sentence ID="cr-9-10" Value="0">CPU 4 هسته اي Cortex A99.</Sentence>
+      <Sentence ID="cr-9-11" Value="+1">GPU ( گرافيک ) قدرتمند 12 هسته ULP GeForce10.</Sentence>
+      <Sentence ID="cr-9-12" Value="+1">مجهز به يک گيگابايت رم 11.</Sentence>
+      <Sentence ID="cr-9-13" Value="+1">باتري مناسب و خوب براي تبلت 12.</Sentence>
+      <Sentence ID="cr-9-14" Value="+2">قيمت ارزان اين تبلت با توجه به امکانات فوق العاده من هيچکدوم از اين ها رو ندارم فقط طبق تحقيقاتم ميگم و قصد دارم نکسوس 7 بگيرم ..</Sentence>
+      <Sentence ID="cr-9-15" Value="0">موفق باشيد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-10" Holder="حسام الدين غفاري" Score="5" Voters="55" Value="+2">
+      <Sentence ID="cr-10-1" Value="+2">يکي از جديدترين تبلت هاي سامسونگ مدل P3100 هست که با توجه به مشخصات و برند و شکل ظاهري،  يکي از بهترينها حساب ميشه.</Sentence>
+      <Sentence ID="cr-10-2" Value="+1">کافيه از جدول مقايسه همين سايت استفاده کنين تا متوجه برتري هاي اين تبلت بشيد.</Sentence>
+      <Sentence ID="cr-10-3" Value="+2">پردازنده دو هسته اي، چيپ گرافيک عالي، خوش دست بودن،  قابليت مکالمه تلفني و ..</Sentence>
+      <Sentence ID="cr-10-4" Value="+1">از برتري هاي اصلي اين تبلت حساب ميشه.</Sentence>
+      <Sentence ID="cr-10-5" Value="+1">اين تبلت آخرين نسخه سيستم عامل اندرويد رو داره و بسياري از کاستي هاي نسخه هاي قبلي اين نسخه مرتفع شده.</Sentence>
+      <Sentence ID="cr-10-6" Value="+1">صفحه نمايش 7 اينچي اون ممکنه براي بعضي ها کوچک باشه ولي اکثرا اين اندازه صفحه نمايش رو مناسب ترين اندازه ارزيابي کرده اند.</Sentence>
+      <Sentence ID="cr-10-7" Value="0">وجود پورت usb ميتونست خوب باشه.</Sentence>
+      <Sentence ID="cr-10-8" Value="0">ولي عدم وجودش هم باعث کاستي نميشه چون تبدلش وجود داره.</Sentence>
+      <Sentence ID="cr-10-9" Value="+2">در مورد قيمتش هم ميشه گفت بهترين انتخاب ميتونه باشه در بين هم نوعانش.</Sentence>
+      <Sentence ID="cr-10-10" Value="0">البته موقع نوشته شدن اين نقد، سايت ديجيکالا فقط اين مدل از تبلت هاي سامسونگ 7 اينچي رو داره.</Sentence>
+      <Sentence ID="cr-10-11" Value="+1">ولي اگر از سايت هاي ديگه قيمت گرفته باشيد، به اين واقعيت ميرسيد که اگر بخوايد يه تبلت که همه جوره بتونه نيازهاتون رو برطرف کنه و قيمت خوبي هم داشته باشه فقط و فقط همين ميتونه باشه.</Sentence>
+      <Sentence ID="cr-10-12" Value="0">اصلا قصد تبليغات ندارم.</Sentence>
+      <Sentence ID="cr-10-13" Value="+1">ولي خيلي راحت ميتونين از بازار و جاهاي ديگه هم اين تبلت رو قيمت بگيرين و متوجه بشين توي اين سايت از همه جا ارزونتر ميتونيد بخريدش.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="77" />
+  <Performance Value="5.80" />
+  <Capability Value="6.00" />
+  <Production_Quality Value="5.80" />
+  <Ergonomics Value="6.00" />
+  <Purchase_Value Value="5.80" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="ضخامت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="نگه داشتن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="کاور" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="جزئیات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="رنگ صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="زاویه دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="بلندگو" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="محیط نرم افزاری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="مرورگری اینترنت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="برنامه عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="کیفیت عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="کیفیت فیلمبرداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="کیفیت صوتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="میزان شارژدهی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10081" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10084" Root="کیفیت عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="تبلت" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10099" Root="باتری" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100102" Root="ظاهر" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100105" Root="ارزش خريد" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100108" Root="تبلت" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID100111" Root="ارزش خريد" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="تبلت" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="تبلت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100120" Root="کيفيت دوربین" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100123" Root="فلاش" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100126" Root="سرعت" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100129" Root="رزولوشن" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100132" Root="ظاهر" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100135" Root="سخت افزار" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100138" Root="سنسور" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100141" Root="تبلت" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100144" Root="تبلت" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID100152" Root="تبلت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100156" Root="کيفيت ساخت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100159" Root="دوربين" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100162" Root="عکس" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="سايت دیجی کالا" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100170" Root="تبلت" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100173" Root="تبلت" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100176" Root="تبلت" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100179" Root="تبلت" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100182" Root="باتري" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100185" Root="کيفت صدا" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100188" Root="صفحه نمايش" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100191" Root="تبلت" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100194" Root="نسخه اندروید" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100197" Root="تبلت Nexus 7" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100200" Root="تبلت Nexus 7" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100208" Root="اندازه" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100211" Root="روزلوشن" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100214" Root="کيفت LCD" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100217" Root="سيستم عامل" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100220" Root="انتخاب" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100223" Root="سايت ديجي کالا" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100226" Root="کيفيت ساخت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100229" Root="اجزا" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100232" Root="صفحه نمايش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100235" Root="رنگ صفحه نمایش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100238" Root="جزئيات" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100243" Root="وزن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100246" Root="کيفيت صدا" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100249" Root="بلندگو" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100252" Root="اندرويد" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100255" Root="سرعت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100331" Root="دوربين" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100260" Root="سرعت اندروید" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100263" Root="GPS" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100267" Root="خرید" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100270" Root="طراحي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100273" Root="صدا" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100278" Root="کيفيت تصوير" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100281" Root="زاويه ديد" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100284" Root="وزن" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100287" Root="باتري" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100290" Root="دوربين" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100293" Root="پردازنده" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100296" Root="GPS" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100299" Root="WiFi" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100302" Root="آنتن" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100306" Root="قيمت" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100309" Root="امکانات" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100312" Root="سرعت پردازش" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100315" Root="کيفيت تصوير" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100318" Root="رنگ تصویر" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100321" Root="حسگر" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100324" Root="صدا" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100328" Root="ذخيره باتري" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100334" Root="ابعاد" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100337" Root="تبلت" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100340" Root="کيفيت قطعات" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100343" Root="باتري" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100346" Root="برنامه خوري" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100349" Root="دوربين" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100352" Root="صدا" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100357" Root="حرارت" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100360" Root="تبلت" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100363" Root="تاچ" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100367" Root="سيستم اندرويد" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100370" Root="فلش" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100373" Root="طراحي بدنه" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100376" Root="نويز" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100379" Root="حالات موسيقی" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100382" Root="سخت افزار" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100385" Root="امکانات" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100388" Root="تبلت" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100392" Root="کار کردن" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100397" Root="تکنولوژي" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100400" Root="سخت افزار" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100404" Root="سرعت" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100407" Root="بدنه" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100410" Root="کيفيت صفحه" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100413" Root="زاويه ديد" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100416" Root="رنگ صفحه نمایش" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100419" Root="برنامه" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100422" Root="خدمات" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100425" Root="کيفيت" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100430" Root="دوربين جلو" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100435" Root="انتخاب" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100438" Root="کيفيت دوربين" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100441" Root="شارژ" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100444" Root="صدا" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100447" Root="گرافيک" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100450" Root="هدر" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100453" Root="اينترنت" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100456" Root="تصوير" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100459" Root="سرعت" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100462" Root="عکس" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100465" Root="قيمت Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100468" Root="تبلت Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100473" Root="سايز" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100476" Root="کيفيت ساخت Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100479" Root="طراحي Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100482" Root="اندازه Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100485" Root="وزن Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100488" Root="صفحه نمايش Nesux" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100491" Root="Nexus Chipset" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100494" Root="Nexus GPU" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100497" Root="باتري Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100501" Root="قيمت Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100504" Root="امکانات Nexus" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100507" Root="تبلت" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100510" Root="گرافيک" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100513" Root="صفحه نمايش" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100516" Root="اندازه صفحه نمایش" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100519" Root="انتخاب" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100522" Root="قيمت" Relation="cr-10" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-2,0,5]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-2,62,68]" Relation="tagID1002" Value="" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-3,82,90]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-3,74,81]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-20,32,36]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-20,37,48]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-38,94,102]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-38,87,93]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[rev-42,38,46]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[rev-42,31,37]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[rev-42,87,91]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[rev-42,92,96]" Relation="tagID10089" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[rev-42,129,140]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-4,13,22]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-4,40,50]" Relation="tagID1008" Value="+" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-4,53,60]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-5,0,4]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-5,61,77]" Relation="tagID10012" Value="+" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-5,133,142]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-8,4,16]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-8,66,77]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-8,32,38]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-8,39,43]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-35,31,37]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-35,38,48]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-9,72,79]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-9,80,90]" Relation="tagID10022" Value="+" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-9,93,98]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-9,115,124]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-9,125,142]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-17,71,79]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-17,80,101]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[rev-24,23,31]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-24,32,45]" Relation="tagID10049" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[rev-28,7,15]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-28,16,23]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-19,7,13]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-19,16,42]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-21,62,72]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-21,17,23]" Relation="tagID10037" Value="+" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-21,7,14]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[rev-23,4,14]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-23,39,57]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-23,91,102]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-23,103,107]" Relation="tagID10041" Value="+" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-23,110,117]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-23,138,145]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-23,146,156]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10079" Coordinate="[rev-39,9,16]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[rev-39,17,24]" Relation="tagID10079" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10091" Coordinate="[rev-42,100,107]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10092" Coordinate="[rev-42,108,118]" Relation="tagID10091" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[rev-24,0,15]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[rev-24,75,85]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[rev-26,28,43]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-26,64,77]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-31,4,10]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-31,11,21]" Relation="tagID10060" Value="+" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-31,24,28]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-33,95,108]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-33,145,166]" Relation="tagID10064" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-34,10,26]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-34,39,48]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-35,67,77]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-35,78,90]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-36,142,147]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-36,148,160]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10082" Coordinate="[rev-40,83,88]" Relation="elementID10081" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[rev-40,89,102]" Relation="tagID10082" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10085" Coordinate="[rev-41,30,41]" Relation="elementID10084" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[rev-41,42,46]" Relation="tagID10085" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-1-1,12,16]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-1-1,17,22]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10097" Coordinate="[gr-1-4,18,21]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[gr-1-4,22,27]" Relation="tagID10097" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100100" Coordinate="[gr-1-4,34,40]" Relation="elementID10099" Value="" />
+    <Tag Type="Opinion" ID="tagID100101" Coordinate="[gr-1-4,44,53]" Relation="tagID100100" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100103" Coordinate="[gr-2-1,8,12]" Relation="elementID100102" Value="" />
+    <Tag Type="Opinion" ID="tagID100104" Coordinate="[gr-2-1,13,18]" Relation="tagID100103" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100106" Coordinate="[gr-2-1,24,34]" Relation="elementID100105" Value="" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[gr-2-1,35,39]" Relation="tagID100106" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[gr-3-1,0,4]" Relation="elementID100108" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[gr-3-1,5,15]" Relation="tagID100109" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100112" Coordinate="[gr-3-1,22,31]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[gr-3-1,32,36]" Relation="tagID100112" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[gr-4-1,194,199]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[gr-4-1,177,184]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[gr-5-1,0,4]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-5-1,5,10]" Relation="tagID100118" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[gr-6-1,77,83]" Relation="elementID100120" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[gr-6-1,84,101]" Relation="tagID100121" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[gr-6-1,111,115]" Relation="elementID100123" Value="" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[gr-6-1,116,121]" Relation="tagID100124" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100127" Coordinate="[gr-6-1,133,137]" Relation="elementID100126" Value="" />
+    <Tag Type="Opinion" ID="tagID100128" Coordinate="[gr-6-1,155,160]" Relation="tagID100127" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100130" Coordinate="[gr-6-1,140,147]" Relation="elementID100129" Value="" />
+    <Tag Type="Opinion" ID="tagID100131" Coordinate="[gr-6-1,155,160]" Relation="tagID100130" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100133" Coordinate="[gr-6-1,150,154]" Relation="elementID100132" Value="" />
+    <Tag Type="Opinion" ID="tagID100134" Coordinate="[gr-6-1,155,160]" Relation="tagID100133" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100136" Coordinate="[gr-7-4,0,10]" Relation="elementID100135" Value="" />
+    <Tag Type="Opinion" ID="tagID100137" Coordinate="[gr-7-4,14,22]" Relation="tagID100136" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100139" Coordinate="[gr-7-4,29,36]" Relation="elementID100138" Value="" />
+    <Tag Type="Opinion" ID="tagID100140" Coordinate="[gr-7-4,37,51]" Relation="tagID100139" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100142" Coordinate="[gr-7-5,59,63]" Relation="elementID100141" Value="" />
+    <Tag Type="Opinion" ID="tagID100143" Coordinate="[gr-7-5,45,54]" Relation="tagID100142" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100145" Coordinate="[gr-8-2,23,25]" Relation="elementID100144" Value="" />
+    <Tag Type="Opinion" ID="tagID100146" Coordinate="[gr-8-2,26,37]" Relation="tagID100145" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100147" Coordinate="[gr-8-3,7,10]" Relation="elementID100144" Value="" />
+    <Tag Type="Opinion" ID="tagID100148" Coordinate="[gr-8-3,11,15]" Relation="tagID100147" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100149" Coordinate="[gr-8-4,12,16]" Relation="elementID100144" Value="" />
+    <Tag Type="Opinion" ID="tagID100150" Coordinate="[gr-8-4,17,30]" Relation="tagID100149" Value="+" />
+    <Tag Type="Opinion" ID="tagID100151" Coordinate="[gr-8-4,37,42]" Relation="tagID100149" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100153" Coordinate="[gr-10-1,0,4]" Relation="elementID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100154" Coordinate="[gr-10-1,5,15]" Relation="tagID100153" Value="+" />
+    <Tag Type="Opinion" ID="tagID100155" Coordinate="[gr-10-1,18,27]" Relation="tagID100153" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[gr-10-1,217,223]" Relation="elementID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[gr-10-1,224,229]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100157" Coordinate="[gr-10-1,69,74]" Relation="elementID100156" Value="" />
+    <Tag Type="Opinion" ID="tagID100158" Coordinate="[gr-10-1,75,85]" Relation="tagID100157" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100160" Coordinate="[gr-10-1,156,163]" Relation="elementID100159" Value="" />
+    <Tag Type="Opinion" ID="tagID100161" Coordinate="[gr-10-1,164,170]" Relation="tagID100160" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100163" Coordinate="[gr-10-1,136,141]" Relation="elementID100162" Value="" />
+    <Tag Type="Opinion" ID="tagID100164" Coordinate="[gr-10-1,142,146]" Relation="tagID100163" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[gr-11-1,3,7]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[gr-11-1,8,11]" Relation="tagID100168" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100171" Coordinate="[gr-13-1,28,32]" Relation="elementID100170" Value="" />
+    <Tag Type="Opinion" ID="tagID100172" Coordinate="[gr-13-1,39,48]" Relation="tagID100171" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100174" Coordinate="[gr-14-1,0,4]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100175" Coordinate="[gr-14-1,5,10]" Relation="tagID100174" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100177" Coordinate="[gr-15-1,7,10]" Relation="elementID100176" Value="" />
+    <Tag Type="Opinion" ID="tagID100178" Coordinate="[gr-15-1,11,15]" Relation="tagID100177" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100180" Coordinate="[gr-16-2,68,72]" Relation="elementID100179" Value="" />
+    <Tag Type="Opinion" ID="tagID100181" Coordinate="[gr-16-2,61,67]" Relation="tagID100180" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100183" Coordinate="[gr-16-3,81,86]" Relation="elementID100182" Value="" />
+    <Tag Type="Opinion" ID="tagID100184" Coordinate="[gr-16-3,93,102]" Relation="tagID100183" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100186" Coordinate="[gr-16-4,0,9]" Relation="elementID100185" Value="" />
+    <Tag Type="Opinion" ID="tagID100187" Coordinate="[gr-16-4,10,15]" Relation="tagID100186" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100189" Coordinate="[gr-16-5,0,10]" Relation="elementID100188" Value="" />
+    <Tag Type="Opinion" ID="tagID100190" Coordinate="[gr-16-5,11,15]" Relation="tagID100189" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100192" Coordinate="[gr-18-1,0,4]" Relation="elementID100191" Value="" />
+    <Tag Type="Opinion" ID="tagID100193" Coordinate="[gr-18-1,22,33]" Relation="tagID100192" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100195" Coordinate="[gr-19-1,120,124]" Relation="elementID100194" Value="" />
+    <Tag Type="Opinion" ID="tagID100196" Coordinate="[gr-19-1,125,129]" Relation="tagID100195" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100198" Coordinate="[gr-20-1,0,12]" Relation="elementID100197" Value="" />
+    <Tag Type="Opinion" ID="tagID100199" Coordinate="[gr-20-1,30,35]" Relation="tagID100198" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100201" Coordinate="[gr-21-1,63,70]" Relation="elementID100200" Value="" />
+    <Tag Type="Opinion" ID="tagID100202" Coordinate="[gr-21-1,95,103]" Relation="tagID100201" Value="+" />
+    <Tag Type="Opinion" ID="tagID100203" Coordinate="[gr-21-1,106,117]" Relation="tagID100201" Value="+" />
+    <Tag Type="Opinion" ID="tagID100204" Coordinate="[gr-21-1,121,128]" Relation="tagID100201" Value="+" />
+    <Tag Type="Opinion" ID="tagID100205" Coordinate="[gr-21-1,131,138]" Relation="tagID100201" Value="+" />
+    <Tag Type="Opinion" ID="tagID100206" Coordinate="[gr-21-1,31,34]" Relation="tagID100201" Value="+" />
+    <Tag Type="Opinion" ID="tagID100207" Coordinate="[gr-21-1,45,55]" Relation="tagID100201" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100209" Coordinate="[gr-25-5,3,9]" Relation="elementID100208" Value="" />
+    <Tag Type="Opinion" ID="tagID100210" Coordinate="[gr-25-5,10,15]" Relation="tagID100209" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100212" Coordinate="[gr-25-5,29,36]" Relation="elementID100211" Value="" />
+    <Tag Type="Opinion" ID="tagID100213" Coordinate="[gr-25-5,44,48]" Relation="tagID100212" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100215" Coordinate="[gr-25-5,39,43]" Relation="elementID100214" Value="" />
+    <Tag Type="Opinion" ID="tagID100216" Coordinate="[gr-25-5,44,48]" Relation="tagID100215" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100218" Coordinate="[gr-25-5,67,77]" Relation="elementID100217" Value="" />
+    <Tag Type="Opinion" ID="tagID100219" Coordinate="[gr-25-5,78,82]" Relation="tagID100218" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100221" Coordinate="[gr-25-9,36,42]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100222" Coordinate="[gr-25-9,43,49]" Relation="tagID100221" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100224" Coordinate="[gr-26-1,61,75]" Relation="elementID100223" Value="" />
+    <Tag Type="Opinion" ID="tagID100225" Coordinate="[gr-26-1,109,115]" Relation="tagID100224" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100227" Coordinate="[cr-1-1,53,63]" Relation="elementID100226" Value="" />
+    <Tag Type="Opinion" ID="tagID100228" Coordinate="[cr-1-1,76,85]" Relation="tagID100227" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100230" Coordinate="[cr-1-1,71,75]" Relation="elementID100229" Value="" />
+    <Tag Type="Opinion" ID="tagID100231" Coordinate="[cr-1-1,76,85]" Relation="tagID100230" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100233" Coordinate="[cr-1-1,206,216]" Relation="elementID100232" Value="" />
+    <Tag Type="Opinion" ID="tagID100234" Coordinate="[cr-1-1,220,232]" Relation="tagID100233" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100241" Coordinate="[cr-1-1,416,427]" Relation="elementID100232" Value="" />
+    <Tag Type="Opinion" ID="tagID100242" Coordinate="[cr-1-1,441,453]" Relation="tagID100241" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100236" Coordinate="[cr-1-1,240,246]" Relation="elementID100235" Value="" />
+    <Tag Type="Opinion" ID="tagID100237" Coordinate="[cr-1-1,247,258]" Relation="tagID100236" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100239" Coordinate="[cr-1-1,350,356]" Relation="elementID100238" Value="" />
+    <Tag Type="Opinion" ID="tagID100240" Coordinate="[cr-1-1,357,364]" Relation="tagID100239" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100244" Coordinate="[cr-1-1,478,484]" Relation="elementID100243" Value="" />
+    <Tag Type="Opinion" ID="tagID100245" Coordinate="[cr-1-1,474,477]" Relation="tagID100244" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100247" Coordinate="[cr-1-1,685,694]" Relation="elementID100246" Value="" />
+    <Tag Type="Opinion" ID="tagID100248" Coordinate="[cr-1-1,712,720]" Relation="tagID100247" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100250" Coordinate="[cr-1-2,6,13]" Relation="elementID100249" Value="" />
+    <Tag Type="Opinion" ID="tagID100251" Coordinate="[cr-1-2,14,22]" Relation="tagID100250" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100253" Coordinate="[cr-1-2,54,61]" Relation="elementID100252" Value="" />
+    <Tag Type="Opinion" ID="tagID100254" Coordinate="[cr-1-2,77,84]" Relation="tagID100253" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100258" Coordinate="[cr-1-2,263,267]" Relation="elementID100255" Value="" />
+    <Tag Type="Opinion" ID="tagID100259" Coordinate="[cr-1-2,275,281]" Relation="tagID100258" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100332" Coordinate="[cr-3-3,290,296]" Relation="elementID100331" Value="" />
+    <Tag Type="Opinion" ID="tagID100333" Coordinate="[cr-3-3,297,301]" Relation="tagID100332" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100261" Coordinate="[cr-1-2,146,150]" Relation="elementID100260" Value="" />
+    <Tag Type="Opinion" ID="tagID100262" Coordinate="[cr-1-2,151,165]" Relation="tagID100261" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100264" Coordinate="[cr-1-2,434,442]" Relation="elementID100263" Value="" />
+    <Tag Type="Opinion" ID="tagID100265" Coordinate="[cr-1-2,451,465]" Relation="tagID100264" Value="+" />
+    <Tag Type="Opinion" ID="tagID100266" Coordinate="[cr-1-2,544,554]" Relation="tagID100264" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100268" Coordinate="[cr-1-3,178,183]" Relation="elementID100267" Value="" />
+    <Tag Type="Opinion" ID="tagID100269" Coordinate="[cr-1-3,184,188]" Relation="tagID100268" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100271" Coordinate="[cr-2-1,75,80]" Relation="elementID100270" Value="" />
+    <Tag Type="Opinion" ID="tagID100272" Coordinate="[cr-2-1,81,91]" Relation="tagID100271" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100274" Coordinate="[cr-2-1,189,193]" Relation="elementID100273" Value="" />
+    <Tag Type="Opinion" ID="tagID100275" Coordinate="[cr-2-1,194,198]" Relation="tagID100274" Value="+" />
+    <Tag Type="Opinion" ID="tagID100276" Coordinate="[cr-2-1,215,219]" Relation="tagID100274" Value="+" />
+    <Tag Type="Opinion" ID="tagID100277" Coordinate="[cr-2-1,222,230]" Relation="tagID100274" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100279" Coordinate="[cr-2-1,238,249]" Relation="elementID100278" Value="" />
+    <Tag Type="Opinion" ID="tagID100280" Coordinate="[cr-2-1,262,266]" Relation="tagID100279" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100282" Coordinate="[cr-2-1,252,261]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100283" Coordinate="[cr-2-1,262,266]" Relation="tagID100282" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100285" Coordinate="[cr-2-1,274,278]" Relation="elementID100284" Value="" />
+    <Tag Type="Opinion" ID="tagID100286" Coordinate="[cr-2-1,279,288]" Relation="tagID100285" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100288" Coordinate="[cr-2-1,369,374]" Relation="elementID100287" Value="" />
+    <Tag Type="Opinion" ID="tagID100289" Coordinate="[cr-2-1,375,379]" Relation="tagID100288" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100291" Coordinate="[cr-2-1,451,458]" Relation="elementID100290" Value="" />
+    <Tag Type="Opinion" ID="tagID100292" Coordinate="[cr-2-1,459,470]" Relation="tagID100291" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100294" Coordinate="[cr-2-2,2,10]" Relation="elementID100293" Value="" />
+    <Tag Type="Opinion" ID="tagID100295" Coordinate="[cr-2-2,11,14]" Relation="tagID100294" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100297" Coordinate="[cr-2-2,87,95]" Relation="elementID100296" Value="" />
+    <Tag Type="Opinion" ID="tagID100298" Coordinate="[cr-2-2,96,99]" Relation="tagID100297" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100300" Coordinate="[cr-2-2,118,125]" Relation="elementID100299" Value="" />
+    <Tag Type="Opinion" ID="tagID100301" Coordinate="[cr-2-2,147,159]" Relation="tagID100300" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100303" Coordinate="[cr-2-3,42,46]" Relation="elementID100302" Value="" />
+    <Tag Type="Opinion" ID="tagID100304" Coordinate="[cr-2-3,27,34]" Relation="tagID100303" Value="-" />
+    <Tag Type="Opinion" ID="tagID100305" Coordinate="[cr-2-3,37,41]" Relation="tagID100303" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100307" Coordinate="[cr-2-4,146,150]" Relation="elementID100306" Value="" />
+    <Tag Type="Opinion" ID="tagID100308" Coordinate="[cr-2-4,151,156]" Relation="tagID100307" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100310" Coordinate="[cr-2-4,165,172]" Relation="elementID100309" Value="" />
+    <Tag Type="Opinion" ID="tagID100311" Coordinate="[cr-2-4,173,179]" Relation="tagID100310" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100313" Coordinate="[cr-3-3,27,38]" Relation="elementID100312" Value="" />
+    <Tag Type="Opinion" ID="tagID100314" Coordinate="[cr-3-3,39,43]" Relation="tagID100313" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100316" Coordinate="[cr-3-3,45,56]" Relation="elementID100315" Value="" />
+    <Tag Type="Opinion" ID="tagID100317" Coordinate="[cr-3-3,57,61]" Relation="tagID100316" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100319" Coordinate="[cr-3-3,65,72]" Relation="elementID100318" Value="" />
+    <Tag Type="Opinion" ID="tagID100320" Coordinate="[cr-3-3,73,77]" Relation="tagID100319" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100322" Coordinate="[cr-3-3,92,98]" Relation="elementID100321" Value="" />
+    <Tag Type="Opinion" ID="tagID100323" Coordinate="[cr-3-3,80,91]" Relation="tagID100322" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100325" Coordinate="[cr-3-3,101,105]" Relation="elementID100324" Value="" />
+    <Tag Type="Opinion" ID="tagID100326" Coordinate="[cr-3-3,106,110]" Relation="tagID100325" Value="+" />
+    <Tag Type="Opinion" ID="tagID100327" Coordinate="[cr-3-3,113,121]" Relation="tagID100325" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100329" Coordinate="[cr-3-3,123,136]" Relation="elementID100328" Value="" />
+    <Tag Type="Opinion" ID="tagID100330" Coordinate="[cr-3-3,144,157]" Relation="tagID100329" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100335" Coordinate="[cr-3-3,382,387]" Relation="elementID100334" Value="" />
+    <Tag Type="Opinion" ID="tagID100336" Coordinate="[cr-3-3,388,392]" Relation="tagID100335" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100338" Coordinate="[cr-4-2,10,14]" Relation="elementID100337" Value="" />
+    <Tag Type="Opinion" ID="tagID100339" Coordinate="[cr-4-2,15,24]" Relation="tagID100338" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100355" Coordinate="[cr-4-8,27,31]" Relation="elementID100337" Value="" />
+    <Tag Type="Opinion" ID="tagID100356" Coordinate="[cr-4-8,32,45]" Relation="tagID100355" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100341" Coordinate="[cr-4-2,30,41]" Relation="elementID100340" Value="" />
+    <Tag Type="Opinion" ID="tagID100342" Coordinate="[cr-4-2,42,46]" Relation="tagID100341" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100344" Coordinate="[cr-4-3,8,13]" Relation="elementID100343" Value="" />
+    <Tag Type="Opinion" ID="tagID100345" Coordinate="[cr-4-3,36,39]" Relation="tagID100344" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100347" Coordinate="[cr-4-4,0,12]" Relation="elementID100346" Value="" />
+    <Tag Type="Opinion" ID="tagID100348" Coordinate="[cr-4-4,16,21]" Relation="tagID100347" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100350" Coordinate="[cr-4-5,29,37]" Relation="elementID100349" Value="" />
+    <Tag Type="Opinion" ID="tagID100351" Coordinate="[cr-4-5,5,9]" Relation="tagID100350" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100353" Coordinate="[cr-4-6,45,49]" Relation="elementID100352" Value="" />
+    <Tag Type="Opinion" ID="tagID100354" Coordinate="[cr-4-6,50,65]" Relation="tagID100353" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100358" Coordinate="[cr-5-1,104,110]" Relation="elementID100357" Value="" />
+    <Tag Type="Opinion" ID="tagID100359" Coordinate="[cr-5-1,124,134]" Relation="tagID100358" Value="" />
+    <Tag Type="Target(I)" ID="tagID100361" Coordinate="[cr-5-1,186,188]" Relation="elementID100360" Value="" />
+    <Tag Type="Opinion" ID="tagID100362" Coordinate="[cr-5-1,202,207]" Relation="tagID100361" Value="" />
+    <Tag Type="Target(I)" ID="tagID100364" Coordinate="[cr-5-1,250,253]" Relation="elementID100363" Value="" />
+    <Tag Type="Opinion" ID="tagID100365" Coordinate="[cr-5-1,267,275]" Relation="tagID100364" Value="-" />
+    <Tag Type="Opinion" ID="tagID100366" Coordinate="[cr-5-1,292,299]" Relation="tagID100364" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100368" Coordinate="[cr-5-1,536,550]" Relation="elementID100367" Value="" />
+    <Tag Type="Opinion" ID="tagID100369" Coordinate="[cr-5-1,551,557]" Relation="tagID100368" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100371" Coordinate="[cr-5-1,697,700]" Relation="elementID100370" Value="" />
+    <Tag Type="Opinion" ID="tagID100372" Coordinate="[cr-5-1,690,696]" Relation="tagID100371" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100374" Coordinate="[cr-5-1,784,795]" Relation="elementID100373" Value="" />
+    <Tag Type="Opinion" ID="tagID100375" Coordinate="[cr-5-1,823,828]" Relation="tagID100374" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100377" Coordinate="[cr-5-1,932,936]" Relation="elementID100376" Value="" />
+    <Tag Type="Opinion" ID="tagID100378" Coordinate="[cr-5-1,942,947]" Relation="tagID100377" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100380" Coordinate="[cr-5-1,963,976]" Relation="elementID100379" Value="" />
+    <Tag Type="Opinion" ID="tagID100381" Coordinate="[cr-5-1,977,984]" Relation="tagID100380" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100383" Coordinate="[cr-5-1,1098,1108]" Relation="elementID100382" Value="" />
+    <Tag Type="Opinion" ID="tagID100384" Coordinate="[cr-5-1,1109,1118]" Relation="tagID100383" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100386" Coordinate="[cr-5-1,1207,1214]" Relation="elementID100385" Value="" />
+    <Tag Type="Opinion" ID="tagID100387" Coordinate="[cr-5-1,1215,1225]" Relation="tagID100386" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100389" Coordinate="[cr-6-2,162,167]" Relation="elementID100388" Value="" />
+    <Tag Type="Opinion" ID="tagID100390" Coordinate="[cr-6-2,140,146]" Relation="tagID100389" Value="+" />
+    <Tag Type="Opinion" ID="tagID100391" Coordinate="[cr-6-2,149,161]" Relation="tagID100389" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100428" Coordinate="[cr-6-3,816,818]" Relation="elementID100388" Value="" />
+    <Tag Type="Opinion" ID="tagID100429" Coordinate="[cr-6-3,831,846]" Relation="tagID100428" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100393" Coordinate="[cr-6-3,7,15]" Relation="elementID100392" Value="" />
+    <Tag Type="Opinion" ID="tagID100394" Coordinate="[cr-6-3,23,33]" Relation="tagID100393" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100395" Coordinate="[cr-6-3,70,73]" Relation="elementID100392" Value="" />
+    <Tag Type="Opinion" ID="tagID100396" Coordinate="[cr-6-3,78,85]" Relation="tagID100395" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100433" Coordinate="[cr-6-4,6,9]" Relation="elementID100392" Value="" />
+    <Tag Type="Opinion" ID="tagID100434" Coordinate="[cr-6-4,14,22]" Relation="tagID100433" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100398" Coordinate="[cr-6-3,100,108]" Relation="elementID100397" Value="" />
+    <Tag Type="Opinion" ID="tagID100399" Coordinate="[cr-6-3,109,115]" Relation="tagID100398" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100401" Coordinate="[cr-6-3,116,126]" Relation="elementID100400" Value="" />
+    <Tag Type="Opinion" ID="tagID100402" Coordinate="[cr-6-3,127,136]" Relation="tagID100401" Value="+" />
+    <Tag Type="Opinion" ID="tagID100403" Coordinate="[cr-6-3,167,172]" Relation="tagID100401" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100405" Coordinate="[cr-6-3,272,277]" Relation="elementID100404" Value="" />
+    <Tag Type="Opinion" ID="tagID100406" Coordinate="[cr-6-3,278,288]" Relation="tagID100405" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100408" Coordinate="[cr-6-3,329,333]" Relation="elementID100407" Value="" />
+    <Tag Type="Opinion" ID="tagID100409" Coordinate="[cr-6-3,334,339]" Relation="tagID100408" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100411" Coordinate="[cr-6-3,401,411]" Relation="elementID100410" Value="" />
+    <Tag Type="Opinion" ID="tagID100412" Coordinate="[cr-6-3,412,416]" Relation="tagID100411" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100414" Coordinate="[cr-6-3,419,429]" Relation="elementID100413" Value="" />
+    <Tag Type="Opinion" ID="tagID100415" Coordinate="[cr-6-3,430,436]" Relation="tagID100414" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100417" Coordinate="[cr-6-3,481,487]" Relation="elementID100416" Value="" />
+    <Tag Type="Opinion" ID="tagID100418" Coordinate="[cr-6-3,488,495]" Relation="tagID100417" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100420" Coordinate="[cr-6-3,509,515]" Relation="elementID100419" Value="" />
+    <Tag Type="Opinion" ID="tagID100421" Coordinate="[cr-6-3,528,532]" Relation="tagID100420" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100423" Coordinate="[cr-6-3,599,605]" Relation="elementID100422" Value="" />
+    <Tag Type="Opinion" ID="tagID100424" Coordinate="[cr-6-3,606,610]" Relation="tagID100423" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100426" Coordinate="[cr-6-3,620,625]" Relation="elementID100425" Value="" />
+    <Tag Type="Opinion" ID="tagID100427" Coordinate="[cr-6-3,637,644]" Relation="tagID100426" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100431" Coordinate="[cr-6-3,976,989]" Relation="elementID100430" Value="" />
+    <Tag Type="Opinion" ID="tagID100432" Coordinate="[cr-6-3,1008,1015]" Relation="tagID100431" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100436" Coordinate="[cr-6-4,118,125]" Relation="elementID100435" Value="" />
+    <Tag Type="Opinion" ID="tagID100437" Coordinate="[cr-6-4,126,131]" Relation="tagID100436" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100439" Coordinate="[cr-7-1,235,247]" Relation="elementID100438" Value="" />
+    <Tag Type="Opinion" ID="tagID100440" Coordinate="[cr-7-1,248,255]" Relation="tagID100439" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100442" Coordinate="[cr-7-1,262,266]" Relation="elementID100441" Value="" />
+    <Tag Type="Opinion" ID="tagID100443" Coordinate="[cr-7-1,333,338]" Relation="tagID100442" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100445" Coordinate="[cr-7-1,446,450]" Relation="elementID100444" Value="" />
+    <Tag Type="Opinion" ID="tagID100446" Coordinate="[cr-7-1,451,456]" Relation="tagID100445" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100448" Coordinate="[cr-7-1,549,555]" Relation="elementID100447" Value="" />
+    <Tag Type="Opinion" ID="tagID100449" Coordinate="[cr-7-1,556,559]" Relation="tagID100448" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100451" Coordinate="[cr-7-3,86,89]" Relation="elementID100450" Value="" />
+    <Tag Type="Opinion" ID="tagID100452" Coordinate="[cr-7-3,127,130]" Relation="tagID100451" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100454" Coordinate="[cr-8-1,148,156]" Relation="elementID100453" Value="" />
+    <Tag Type="Opinion" ID="tagID100455" Coordinate="[cr-8-1,157,166]" Relation="tagID100454" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100457" Coordinate="[cr-8-1,180,186]" Relation="elementID100456" Value="" />
+    <Tag Type="Opinion" ID="tagID100458" Coordinate="[cr-8-1,192,204]" Relation="tagID100457" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100460" Coordinate="[cr-8-1,229,233]" Relation="elementID100459" Value="" />
+    <Tag Type="Opinion" ID="tagID100461" Coordinate="[cr-8-1,234,240]" Relation="tagID100460" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100463" Coordinate="[cr-8-1,363,369]" Relation="elementID100462" Value="" />
+    <Tag Type="Opinion" ID="tagID100464" Coordinate="[cr-8-1,370,374]" Relation="tagID100463" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100466" Coordinate="[cr-9-1,150,155]" Relation="elementID100465" Value="" />
+    <Tag Type="Opinion" ID="tagID100467" Coordinate="[cr-9-1,166,171]" Relation="tagID100466" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100469" Coordinate="[cr-9-1,181,185]" Relation="elementID100468" Value="" />
+    <Tag Type="Opinion" ID="tagID100470" Coordinate="[cr-9-1,174,180]" Relation="tagID100469" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100471" Coordinate="[cr-9-1,286,290]" Relation="elementID100468" Value="" />
+    <Tag Type="Opinion" ID="tagID100472" Coordinate="[cr-9-1,291,296]" Relation="tagID100471" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100474" Coordinate="[cr-9-1,324,328]" Relation="elementID100473" Value="" />
+    <Tag Type="Opinion" ID="tagID100475" Coordinate="[cr-9-1,329,333]" Relation="tagID100474" Value="" />
+    <Tag Type="Target(I)" ID="tagID100477" Coordinate="[cr-9-3,0,10]" Relation="elementID100476" Value="" />
+    <Tag Type="Opinion" ID="tagID100478" Coordinate="[cr-9-3,11,14]" Relation="tagID100477" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100480" Coordinate="[cr-9-4,0,5]" Relation="elementID100479" Value="" />
+    <Tag Type="Opinion" ID="tagID100481" Coordinate="[cr-9-4,6,10]" Relation="tagID100480" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100483" Coordinate="[cr-9-5,0,6]" Relation="elementID100482" Value="" />
+    <Tag Type="Opinion" ID="tagID100484" Coordinate="[cr-9-5,7,19]" Relation="tagID100483" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100486" Coordinate="[cr-9-5,22,25]" Relation="elementID100485" Value="" />
+    <Tag Type="Opinion" ID="tagID100487" Coordinate="[cr-9-5,26,29]" Relation="tagID100486" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100489" Coordinate="[cr-9-8,0,10]" Relation="elementID100488" Value="" />
+    <Tag Type="Opinion" ID="tagID100490" Coordinate="[cr-9-8,11,19]" Relation="tagID100489" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100492" Coordinate="[cr-9-9,0,7]" Relation="elementID100491" Value="" />
+    <Tag Type="Opinion" ID="tagID100493" Coordinate="[cr-9-9,8,15]" Relation="tagID100492" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100495" Coordinate="[cr-9-11,0,3]" Relation="elementID100494" Value="" />
+    <Tag Type="Opinion" ID="tagID100496" Coordinate="[cr-9-11,15,22]" Relation="tagID100495" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100498" Coordinate="[cr-9-13,0,5]" Relation="elementID100497" Value="" />
+    <Tag Type="Opinion" ID="tagID100499" Coordinate="[cr-9-13,6,11]" Relation="tagID100498" Value="+" />
+    <Tag Type="Opinion" ID="tagID100500" Coordinate="[cr-9-13,14,17]" Relation="tagID100498" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100502" Coordinate="[cr-9-14,0,4]" Relation="elementID100501" Value="" />
+    <Tag Type="Opinion" ID="tagID100503" Coordinate="[cr-9-14,5,10]" Relation="tagID100502" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100505" Coordinate="[cr-9-14,31,38]" Relation="elementID100504" Value="" />
+    <Tag Type="Opinion" ID="tagID100506" Coordinate="[cr-9-14,39,49]" Relation="tagID100505" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100508" Coordinate="[cr-10-1,16,24]" Relation="elementID100507" Value="" />
+    <Tag Type="Opinion" ID="tagID100509" Coordinate="[cr-10-1,7,15]" Relation="tagID100508" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100511" Coordinate="[cr-10-3,25,31]" Relation="elementID100510" Value="" />
+    <Tag Type="Opinion" ID="tagID100512" Coordinate="[cr-10-3,32,36]" Relation="tagID100511" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100514" Coordinate="[cr-10-6,0,10]" Relation="elementID100513" Value="" />
+    <Tag Type="Opinion" ID="tagID100515" Coordinate="[cr-10-6,42,46]" Relation="tagID100514" Value="" />
+    <Tag Type="Target(I)" ID="tagID100517" Coordinate="[cr-10-6,98,104]" Relation="elementID100516" Value="" />
+    <Tag Type="Opinion" ID="tagID100518" Coordinate="[cr-10-6,87,97]" Relation="tagID100517" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100520" Coordinate="[cr-10-9,33,39]" Relation="elementID100519" Value="" />
+    <Tag Type="Opinion" ID="tagID100521" Coordinate="[cr-10-9,26,32]" Relation="tagID100520" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100523" Coordinate="[cr-10-11,129,133]" Relation="elementID100522" Value="" />
+    <Tag Type="Opinion" ID="tagID100524" Coordinate="[cr-10-11,134,138]" Relation="tagID100523" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-3,74,81]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-4,40,50]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-4,53,60]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-5,67,77]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,138,142]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-8,66,77]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-8,39,43]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-9,80,90]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-9,93,98]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-9,125,142]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-1-1,17,22]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-15,142,150]" Value="-" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-15,164,168]" Value="-" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-15,159,163]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-17,80,101]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-19,23,42]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-20,37,48]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-21,17,23]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-21,7,14]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-23,50,57]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-23,39,49]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-23,103,107]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-23,110,117]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-23,146,156]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-24,32,45]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-24,75,85]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-26,64,77]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-27,80,84]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-27,66,74]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-27,7,18]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-28,16,23]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-29,75,83]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-29,84,90]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-31,11,21]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-31,24,28]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-31,43,54]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-31,55,59]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-31,35,42]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-32,0,8]" Value="-" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-32,66,74]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-32,75,81]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-33,72,76]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-33,77,81]" Value="-" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-33,145,154]" Value="-" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-33,174,178]" Value="-" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-33,179,184]" Value="" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-34,39,48]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-34,0,9]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-35,38,48]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-35,78,90]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-35,91,101]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-36,148,160]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-37,37,45]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-38,87,93]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-39,17,24]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-39,56,63]" Value="-" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-39,64,74]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-40,48,56]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-40,35,44]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-40,89,102]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-41,15,18]" Value="-" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-41,42,46]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-42,31,37]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-42,108,118]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-42,129,140]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-1-3,57,65]" Value="-" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-1-4,22,27]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-1-4,44,53]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-1-4,97,101]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[gr-2-1,13,18]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[gr-2-1,35,39]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[gr-3-1,5,15]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[gr-3-1,32,36]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[gr-4-1,209,213]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[gr-4-1,152,158]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-4-1,177,184]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-5-1,5,10]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-6-1,53,62]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-6-1,84,101]" Value="-" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-6-1,116,121]" Value="-" />
+    <Keyword ID="keywordID10082" Coordinate="[gr-6-1,155,160]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-7-1,10,20]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-7-3,43,47]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-7-4,14,22]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-7-4,37,51]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-7-5,45,54]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-7-6,0,4]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-7-8,0,4]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-7-7,0,4]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-8-2,26,37]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-8-3,11,15]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-8-3,0,6]" Value="" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-8-4,17,30]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[gr-8-4,37,42]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-9-1,7,17]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-10-1,5,15]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-10-1,18,27]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-10-1,75,85]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-10-1,126,128]" Value="-" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-10-1,129,135]" Value="-" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-10-1,126,135]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-10-1,164,170]" Value="-" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-10-1,142,146]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-10-1,224,229]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-11-1,8,11]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-11-1,21,25]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-12-1,29,34]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-12-1,134,149]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-13-1,39,48]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-14-1,5,10]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-14-1,27,31]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-14-1,32,37]" Value="-" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-15-1,11,15]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-16-2,61,67]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-16-3,19,22]" Value="-" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-16-3,23,28]" Value="-" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-16-3,93,102]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-16-4,10,15]" Value="+" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-16-5,11,15]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-16-6,38,44]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-16-6,22,26]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-17-1,24,34]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-18-1,22,33]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-18-2,186,196]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-18-2,126,131]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-19-1,125,129]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-19-1,0,6]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-20-1,30,35]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-20-1,77,89]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-20-2,28,35]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-20-2,66,75]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-21-1,95,103]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-21-1,106,117]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-21-1,121,128]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-21-1,131,138]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-21-1,31,34]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-21-1,45,55]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-22-1,0,5]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-22-1,6,9]" Value="-" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-23-1,0,4]" Value="+" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-23-1,7,15]" Value="+" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-24-1,8,12]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-25-4,0,10]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-25-5,10,15]" Value="+" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-25-5,18,26]" Value="+" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-25-5,44,48]" Value="+" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-25-5,78,82]" Value="+" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-25-6,5,9]" Value="-" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-25-7,0,6]" Value="-" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-25-8,30,37]" Value="+" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-25-9,43,49]" Value="+" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-26-1,29,34]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-26-1,109,115]" Value="+" />
+    <Keyword ID="keywordID100155" Coordinate="[cr-1-1,76,85]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[cr-1-1,88,92]" Value="+" />
+    <Keyword ID="keywordID100157" Coordinate="[cr-1-1,93,97]" Value="-" />
+    <Keyword ID="keywordID100158" Coordinate="[cr-1-1,220,225]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[cr-1-1,226,232]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[cr-1-1,247,258]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[cr-1-1,290,293]" Value="+" />
+    <Keyword ID="keywordID100162" Coordinate="[cr-1-1,336,342]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[cr-1-1,343,347]" Value="+" />
+    <Keyword ID="keywordID100164" Coordinate="[cr-1-1,357,364]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[cr-1-1,474,477]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[cr-1-1,537,541]" Value="-" />
+    <Keyword ID="keywordID100167" Coordinate="[cr-1-1,712,720]" Value="+" />
+    <Keyword ID="keywordID100168" Coordinate="[cr-1-2,14,22]" Value="+" />
+    <Keyword ID="keywordID100169" Coordinate="[cr-1-2,77,84]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[cr-1-2,99,107]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[cr-1-2,108,114]" Value="+" />
+    <Keyword ID="keywordID100172" Coordinate="[cr-1-2,151,165]" Value="+" />
+    <Keyword ID="keywordID100173" Coordinate="[cr-1-2,275,281]" Value="+" />
+    <Keyword ID="keywordID100174" Coordinate="[cr-1-2,329,334]" Value="+" />
+    <Keyword ID="keywordID100175" Coordinate="[cr-1-2,355,362]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[cr-1-2,391,400]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[cr-1-2,451,465]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[cr-1-3,98,103]" Value="+" />
+    <Keyword ID="keywordID100179" Coordinate="[cr-1-3,135,149]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[cr-1-3,28,31]" Value="+" />
+    <Keyword ID="keywordID100181" Coordinate="[cr-1-3,184,188]" Value="+" />
+    <Keyword ID="keywordID100182" Coordinate="[cr-2-1,81,91]" Value="+" />
+    <Keyword ID="keywordID100183" Coordinate="[cr-2-1,194,198]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[cr-2-1,215,219]" Value="+" />
+    <Keyword ID="keywordID100185" Coordinate="[cr-2-1,222,230]" Value="+" />
+    <Keyword ID="keywordID100186" Coordinate="[cr-2-1,262,266]" Value="+" />
+    <Keyword ID="keywordID100187" Coordinate="[cr-2-1,279,288]" Value="-" />
+    <Keyword ID="keywordID100188" Coordinate="[cr-2-1,307,312]" Value="-" />
+    <Keyword ID="keywordID100189" Coordinate="[cr-2-1,375,379]" Value="+" />
+    <Keyword ID="keywordID100190" Coordinate="[cr-2-1,385,388]" Value="-" />
+    <Keyword ID="keywordID100191" Coordinate="[cr-2-1,459,470]" Value="-" />
+    <Keyword ID="keywordID100192" Coordinate="[cr-2-1,496,501]" Value="-" />
+    <Keyword ID="keywordID100193" Coordinate="[cr-2-2,11,14]" Value="+" />
+    <Keyword ID="keywordID100194" Coordinate="[cr-2-2,22,30]" Value="+" />
+    <Keyword ID="keywordID100195" Coordinate="[cr-2-2,70,78]" Value="+" />
+    <Keyword ID="keywordID100196" Coordinate="[cr-2-2,79,84]" Value="+" />
+    <Keyword ID="keywordID100197" Coordinate="[cr-2-2,96,99]" Value="+" />
+    <Keyword ID="keywordID100198" Coordinate="[cr-2-2,109,114]" Value="-" />
+    <Keyword ID="keywordID100199" Coordinate="[cr-2-2,147,159]" Value="-" />
+    <Keyword ID="keywordID100200" Coordinate="[cr-2-3,27,34]" Value="-" />
+    <Keyword ID="keywordID100201" Coordinate="[cr-2-3,37,41]" Value="-" />
+    <Keyword ID="keywordID100202" Coordinate="[cr-2-4,151,156]" Value="+" />
+    <Keyword ID="keywordID100203" Coordinate="[cr-2-4,173,179]" Value="+" />
+    <Keyword ID="keywordID100204" Coordinate="[cr-2-4,89,92]" Value="-" />
+    <Keyword ID="keywordID100205" Coordinate="[cr-3-3,39,43]" Value="+" />
+    <Keyword ID="keywordID100206" Coordinate="[cr-3-3,3,9]" Value="+" />
+    <Keyword ID="keywordID100207" Coordinate="[cr-3-3,57,61]" Value="+" />
+    <Keyword ID="keywordID100208" Coordinate="[cr-3-3,73,77]" Value="+" />
+    <Keyword ID="keywordID100209" Coordinate="[cr-3-3,87,91]" Value="+" />
+    <Keyword ID="keywordID100210" Coordinate="[cr-3-3,106,110]" Value="+" />
+    <Keyword ID="keywordID100211" Coordinate="[cr-3-3,113,121]" Value="+" />
+    <Keyword ID="keywordID100212" Coordinate="[cr-3-3,144,157]" Value="+" />
+    <Keyword ID="keywordID100213" Coordinate="[cr-3-3,188,196]" Value="+" />
+    <Keyword ID="keywordID100214" Coordinate="[cr-3-3,197,201]" Value="+" />
+    <Keyword ID="keywordID100215" Coordinate="[cr-3-3,270,278]" Value="+" />
+    <Keyword ID="keywordID100216" Coordinate="[cr-3-3,297,301]" Value="-" />
+    <Keyword ID="keywordID100217" Coordinate="[cr-3-3,303,306]" Value="-" />
+    <Keyword ID="keywordID100218" Coordinate="[cr-3-3,340,346]" Value="-" />
+    <Keyword ID="keywordID100219" Coordinate="[cr-3-3,363,371]" Value="-" />
+    <Keyword ID="keywordID100220" Coordinate="[cr-3-3,388,392]" Value="-" />
+    <Keyword ID="keywordID100221" Coordinate="[cr-3-3,430,435]" Value="-" />
+    <Keyword ID="keywordID100222" Coordinate="[cr-4-2,15,24]" Value="+" />
+    <Keyword ID="keywordID100223" Coordinate="[cr-4-2,42,46]" Value="+" />
+    <Keyword ID="keywordID100224" Coordinate="[cr-4-3,36,39]" Value="+" />
+    <Keyword ID="keywordID100225" Coordinate="[cr-4-4,16,21]" Value="+" />
+    <Keyword ID="keywordID100226" Coordinate="[cr-4-5,5,9]" Value="-" />
+    <Keyword ID="keywordID100227" Coordinate="[cr-4-5,109,117]" Value="-" />
+    <Keyword ID="keywordID100228" Coordinate="[cr-4-6,50,65]" Value="+" />
+    <Keyword ID="keywordID100229" Coordinate="[cr-4-6,9,13]" Value="+" />
+    <Keyword ID="keywordID100230" Coordinate="[cr-4-6,116,120]" Value="+" />
+    <Keyword ID="keywordID100231" Coordinate="[cr-4-6,123,130]" Value="+" />
+    <Keyword ID="keywordID100232" Coordinate="[cr-4-7,62,66]" Value="+" />
+    <Keyword ID="keywordID100233" Coordinate="[cr-4-8,32,45]" Value="+" />
+    <Keyword ID="keywordID100254" Coordinate="[cr-6-3,23,33]" Value="+" />
+    <Keyword ID="keywordID100235" Coordinate="[cr-5-1,267,275]" Value="-" />
+    <Keyword ID="keywordID100236" Coordinate="[cr-5-1,292,299]" Value="-" />
+    <Keyword ID="keywordID100237" Coordinate="[cr-5-1,315,319]" Value="+" />
+    <Keyword ID="keywordID100238" Coordinate="[cr-5-1,452,462]" Value="-" />
+    <Keyword ID="keywordID100239" Coordinate="[cr-5-1,551,557]" Value="-" />
+    <Keyword ID="keywordID100240" Coordinate="[cr-5-1,586,590]" Value="+" />
+    <Keyword ID="keywordID100241" Coordinate="[cr-5-1,503,510]" Value="-" />
+    <Keyword ID="keywordID100242" Coordinate="[cr-5-1,690,696]" Value="-" />
+    <Keyword ID="keywordID100243" Coordinate="[cr-5-1,823,828]" Value="+" />
+    <Keyword ID="keywordID100244" Coordinate="[cr-5-1,861,871]" Value="+" />
+    <Keyword ID="keywordID100245" Coordinate="[cr-5-1,942,947]" Value="+" />
+    <Keyword ID="keywordID100246" Coordinate="[cr-5-1,977,984]" Value="+" />
+    <Keyword ID="keywordID100247" Coordinate="[cr-5-1,988,993]" Value="-" />
+    <Keyword ID="keywordID100248" Coordinate="[cr-5-1,1109,1118]" Value="+" />
+    <Keyword ID="keywordID100249" Coordinate="[cr-5-1,1215,1225]" Value="+" />
+    <Keyword ID="keywordID100250" Coordinate="[cr-6-2,140,146]" Value="+" />
+    <Keyword ID="keywordID100251" Coordinate="[cr-6-2,149,161]" Value="+" />
+    <Keyword ID="keywordID100252" Coordinate="[cr-6-2,181,184]" Value="-" />
+    <Keyword ID="keywordID100253" Coordinate="[cr-6-2,240,245]" Value="+" />
+    <Keyword ID="keywordID100255" Coordinate="[cr-6-3,50,62]" Value="+" />
+    <Keyword ID="keywordID100256" Coordinate="[cr-6-3,78,85]" Value="+" />
+    <Keyword ID="keywordID100257" Coordinate="[cr-6-3,109,115]" Value="+" />
+    <Keyword ID="keywordID100258" Coordinate="[cr-6-3,127,136]" Value="+" />
+    <Keyword ID="keywordID100259" Coordinate="[cr-6-3,167,172]" Value="+" />
+    <Keyword ID="keywordID100260" Coordinate="[cr-6-3,178,188]" Value="-" />
+    <Keyword ID="keywordID100261" Coordinate="[cr-6-3,189,192]" Value="-" />
+    <Keyword ID="keywordID100262" Coordinate="[cr-6-3,253,258]" Value="" />
+    <Keyword ID="keywordID100263" Coordinate="[cr-6-3,278,288]" Value="+" />
+    <Keyword ID="keywordID100264" Coordinate="[cr-6-3,289,299]" Value="+" />
+    <Keyword ID="keywordID100265" Coordinate="[cr-6-3,302,308]" Value="+" />
+    <Keyword ID="keywordID100266" Coordinate="[cr-6-3,334,339]" Value="+" />
+    <Keyword ID="keywordID100267" Coordinate="[cr-6-3,412,416]" Value="+" />
+    <Keyword ID="keywordID100268" Coordinate="[cr-6-3,430,436]" Value="+" />
+    <Keyword ID="keywordID100269" Coordinate="[cr-6-3,488,495]" Value="+" />
+    <Keyword ID="keywordID100270" Coordinate="[cr-6-3,528,532]" Value="-" />
+    <Keyword ID="keywordID100271" Coordinate="[cr-6-3,561,565]" Value="+" />
+    <Keyword ID="keywordID100272" Coordinate="[cr-6-3,606,610]" Value="+" />
+    <Keyword ID="keywordID100273" Coordinate="[cr-6-3,637,644]" Value="+" />
+    <Keyword ID="keywordID100274" Coordinate="[cr-6-3,831,846]" Value="+" />
+    <Keyword ID="keywordID100275" Coordinate="[cr-6-3,865,873]" Value="+" />
+    <Keyword ID="keywordID100276" Coordinate="[cr-6-3,1008,1015]" Value="-" />
+    <Keyword ID="keywordID100277" Coordinate="[cr-6-4,14,22]" Value="+" />
+    <Keyword ID="keywordID100278" Coordinate="[cr-6-4,38,43]" Value="-" />
+    <Keyword ID="keywordID100279" Coordinate="[cr-6-4,90,95]" Value="-" />
+    <Keyword ID="keywordID100280" Coordinate="[cr-6-4,126,131]" Value="+" />
+    <Keyword ID="keywordID100281" Coordinate="[cr-7-1,159,163]" Value="+" />
+    <Keyword ID="keywordID100282" Coordinate="[cr-7-1,164,168]" Value="-" />
+    <Keyword ID="keywordID100283" Coordinate="[cr-7-1,248,255]" Value="-" />
+    <Keyword ID="keywordID100284" Coordinate="[cr-7-1,333,338]" Value="-" />
+    <Keyword ID="keywordID100285" Coordinate="[cr-7-1,359,370]" Value="-" />
+    <Keyword ID="keywordID100286" Coordinate="[cr-7-1,451,456]" Value="-" />
+    <Keyword ID="keywordID100287" Coordinate="[cr-7-1,556,559]" Value="-" />
+    <Keyword ID="keywordID100288" Coordinate="[cr-7-3,127,130]" Value="-" />
+    <Keyword ID="keywordID100289" Coordinate="[cr-7-3,178,192]" Value="+" />
+    <Keyword ID="keywordID100290" Coordinate="[cr-8-1,32,41]" Value="+" />
+    <Keyword ID="keywordID100291" Coordinate="[cr-8-1,157,166]" Value="+" />
+    <Keyword ID="keywordID100292" Coordinate="[cr-8-1,198,204]" Value="+" />
+    <Keyword ID="keywordID100293" Coordinate="[cr-8-1,192,197]" Value="+" />
+    <Keyword ID="keywordID100294" Coordinate="[cr-8-1,234,240]" Value="+" />
+    <Keyword ID="keywordID100295" Coordinate="[cr-8-1,370,374]" Value="+" />
+    <Keyword ID="keywordID100296" Coordinate="[cr-8-1,393,398]" Value="-" />
+    <Keyword ID="keywordID100297" Coordinate="[cr-8-3,35,41]" Value="+" />
+    <Keyword ID="keywordID100298" Coordinate="[cr-9-1,166,171]" Value="+" />
+    <Keyword ID="keywordID100299" Coordinate="[cr-9-1,174,180]" Value="+" />
+    <Keyword ID="keywordID100300" Coordinate="[cr-9-1,291,296]" Value="+" />
+    <Keyword ID="keywordID100301" Coordinate="[cr-9-3,11,14]" Value="+" />
+    <Keyword ID="keywordID100302" Coordinate="[cr-9-4,6,10]" Value="+" />
+    <Keyword ID="keywordID100303" Coordinate="[cr-9-5,7,19]" Value="+" />
+    <Keyword ID="keywordID100304" Coordinate="[cr-9-5,26,29]" Value="+" />
+    <Keyword ID="keywordID100305" Coordinate="[cr-9-6,0,6]" Value="+" />
+    <Keyword ID="keywordID100306" Coordinate="[cr-9-7,0,5]" Value="+" />
+    <Keyword ID="keywordID100307" Coordinate="[cr-9-8,11,19]" Value="+" />
+    <Keyword ID="keywordID100308" Coordinate="[cr-9-9,8,15]" Value="+" />
+    <Keyword ID="keywordID100309" Coordinate="[cr-9-11,15,22]" Value="+" />
+    <Keyword ID="keywordID100310" Coordinate="[cr-9-12,0,4]" Value="+" />
+    <Keyword ID="keywordID100311" Coordinate="[cr-9-13,6,11]" Value="+" />
+    <Keyword ID="keywordID100312" Coordinate="[cr-9-13,14,17]" Value="+" />
+    <Keyword ID="keywordID100313" Coordinate="[cr-9-14,5,10]" Value="+" />
+    <Keyword ID="keywordID100314" Coordinate="[cr-9-14,39,49]" Value="+" />
+    <Keyword ID="keywordID100315" Coordinate="[cr-10-1,7,15]" Value="+" />
+    <Keyword ID="keywordID100316" Coordinate="[cr-10-1,96,104]" Value="+" />
+    <Keyword ID="keywordID100317" Coordinate="[cr-10-2,53,62]" Value="+" />
+    <Keyword ID="keywordID100318" Coordinate="[cr-10-3,33,37]" Value="+" />
+    <Keyword ID="keywordID100319" Coordinate="[cr-10-4,3,12]" Value="+" />
+    <Keyword ID="keywordID100320" Coordinate="[cr-10-5,92,97]" Value="+" />
+    <Keyword ID="keywordID100321" Coordinate="[cr-10-6,87,97]" Value="+" />
+    <Keyword ID="keywordID100322" Coordinate="[cr-10-8,4,13]" Value="-" />
+    <Keyword ID="keywordID100324" Coordinate="[cr-10-9,26,32]" Value="+" />
+    <Keyword ID="keywordID100325" Coordinate="[cr-10-11,134,138]" Value="+" />
+    <Keyword ID="keywordID100326" Coordinate="[cr-10-13,4,13]" Value="+" />
+    <Keyword ID="keywordID100327" Coordinate="[cr-10-13,107,114]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="328" />
+    <Tag_Index Value="525" />
+  </Index>
+</Product>

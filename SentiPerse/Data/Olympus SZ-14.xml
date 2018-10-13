@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Olympus SZ-14" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="سه پايه قدي Slik F143" Price="79000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="سه پايه قدي Slik F740" Price="129000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/02/29</Feature>
+    <Feature Name="نوع ">اولترازوم</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">106.5X68.7X39.5 mm</Feature>
+    <Feature Name="وزن ">216 گرم</Feature>
+    <Feature Name="جنس بدنه ">پلاستیک و فلز</Feature>
+    <Feature Name="نوع حسگر ">CCD</Feature>
+    <Feature Name="دقت حسگر ">14.5 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">14.0 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2.3 اینچ - 4.55 × 6.17 میلی‌متر</Feature>
+    <Feature Name="رزولوشن عکس ">4288X3216, 3264X2448, 2560X1920, 2048X1536, 1600X1200, 1280X960, 640X480, 4288X2416, 1920X1080</Feature>
+    <Feature Name="فرمت عکس ">JPEG 2.21</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">خیر</Feature>
+    <Feature Name="پردازشگر تصویر ">TruePic III+</Feature>
+    <Feature Name="رزولوشن فیلم ">HD</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌‌ 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت‌‌ 30 فریم بر ثانیه </Feature>
+    <Feature Name="ضبط صدا ">ضبط صدا به صورت مونو (Mono)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">25-600 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">f/3.0-f/6.9</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">24 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">4 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر حسگر (CCD Shift Type)</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">10 سانتی متر سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">خیر</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">3 سانتی متر سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">مودهای فوکوس: Contrast Detect (Sensor), Multi-Area, Tracking, Single, Touch, Face Detection</Feature>
+    <Feature Name="نورسنجی ">مودهای Multi Area، Center Weighted و Spot</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/4 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1/1700 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 12 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">80</Feature>
+    <Feature Name="حداکثر حساسیت ">1600</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 80، 100، 200، 400، 800، 1600</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 5 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکاسی پیاپی ">قابلیت عکسبرداری پی در پی با سرعت‌ 0.89 فریم بر ثانیه</Feature>
+    <Feature Name="فلاش ">فلاش داخلی با برد 7 متر</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">بلی</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش LCD رنگی از نوع TFT</Feature>
+    <Feature Name="سایز صفحه نمایش ">3 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">460,000 پیکسل پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="حافظه داخلی ">59 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری لیتیوم-یونی  LI-50B</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">همانطور که گفتیم،  SZ-14 همانند بسیاری از دوربین های هم رده ی المپوس از نوع دوربین های کامپکت سوپرزومی است که دستگیره ی نصفه و نیمه ای هم بر روی آن ها قرار می گیرد تا بتوانید دوربین را خیلی محکم‌تر در دست بگیرید.</Sentence>
+    <Sentence ID="rev-2" Value="+2">این دوربین مجهز به لنز 25-600 میلی متری با توانایی زوم 24 میلی متر می باشد که هم حالت واید بسیار عالی را ارائه می کند و هم توانایی زوم آن در سطح بسیار بالا و خوبی قرار می گیرد.</Sentence>
+    <Sentence ID="rev-3" Value="+2">در پشت این لنز نیز سنسور تصویر 14 مگاپیکسلی دوربین قرار گرفته که هرچند از نوع CCD است ولی رزولوشن بالایی را ارائه می دهد و در شرایط نوری خوب می توانید عکس‌هایی بسیار با کیفیت را با آن تهیه کنید.</Sentence>
+    <Sentence ID="rev-4" Value="+2">به خصوص اینکه با پردازشگر تصویر Truepic III نیز همراه شده تا پردازش عکس‌ها خیلی با کیفیت‌تر و با سرعت بیشتری انجام گیرد.</Sentence>
+    <Sentence ID="rev-5" Value="+1">همین نیز توانایی فیلم برداری با کیفیت HD را به این دوربین داده است.</Sentence>
+    <Sentence ID="rev-6" Value="+1">برای اینکه لرزش دست شما بر روی سنسور تصویر ثبت نشود این دوربین مجهز به لرزش گیر تصویر مکانیکی می‌باشد.</Sentence>
+    <Sentence ID="rev-7" Value="+2">در قسمت پشتی دوربین نمایشگر 3 اینچی 460000 پیکسلی قرار گرفته که کیفیت خیلی خوبی را ارائه می کند.</Sentence>
+    <Sentence ID="rev-8" Value="+1">این را نیز بگوییم که SZ-14 توانایی عکاسی 3D یا سه بعدی را دارد.</Sentence>
+    <Sentence ID="rev-9" Value="+2">به هر صورت همانطور که گفتیم SZ-14 از انواع ارزان قیمت‌تر دوربین های کامپکت سوپرزوم المپوس می باشد که دارای لنزی قدرتمند با توانایی زوم بسیار عالی 24 برابر است.</Sentence>
+    <Sentence ID="rev-10" Value="0">هرچند که کمینه ی نسبت کانونی آن در حالت واید f/3.0 می باشد ولی در زوم کامل f/6.9 را ارائه می دهد که لنزی نسبتاً کند محسوب می شود.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>لنز واید 25 میلی متر با توانایی زوم 24 برابر</Advantage>
+    <Advantage>دستگیره ی قرار گرفته بر روی بدنه</Advantage>
+    <Advantage>کمینه ی نسبت کانونی f3.0</Advantage>
+    <Advantage>توانایی عکاسی 3D</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="فريد کوهي " Value="0">
+      <Sentence ID="gr-1-1" Value="-1">در رده دوربين‌هاي کامپکت مقداري قيمتش از ساير برند‌ها حتا کانن بيشتره..</Sentence>
+      <Sentence ID="gr-1-2" Value="0">بايد ديد آيا واقعاً ارزشش رو داره يا نه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="عبدالحسن عبيات " Value="0">
+      <Sentence ID="gr-2-1" Value="0">نميدانم چرا دوستان از پرداختن به برندهاي معروفي همچون المپوس  که سابقه درخشاني در  صنعت عکاسي دارد خودداري ميکنند.</Sentence>
+      <Sentence ID="gr-2-2" Value="0">اگرچه قيمت دوربينهاي اين شرکت در مقايسه با امکانات آن کمي گران به نظر ميرسد اما جا دارد اين محصولات رو بيشتر به خريداران معرفي کنيد</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="7" />
+  <Performance Value="7.50" />
+  <Capability Value="7.40" />
+  <Production_Quality Value="7.80" />
+  <Ergonomics Value="7.90" />
+  <Purchase_Value Value="5.40" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="حالت واید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="توانایی زوم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="پردازش عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="سرعت پردازش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="کیفیت نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="قيمت" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10032" Root="دوربين المپوس" Relation="gr-2" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,81,90]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,91,101]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-2,123,134]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-2,145,155]" Relation="tagID1004" Value="+" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-2,158,162]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-9,123,134]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-9,135,145]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-3,90,97]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-3,98,104]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-3,151,159]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-3,160,174]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-4,61,74]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-4,75,91]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-4,97,101]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-4,102,108]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-7,64,69]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-7,70,79]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-9,107,111]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-9,112,119]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-10,100,104]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-10,105,115]" Relation="tagID10027" Value="" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[gr-1-1,32,37]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[gr-1-1,63,69]" Relation="tagID10030" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[gr-2-2,11,20]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[gr-2-2,54,62]" Relation="tagID10033" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,190,197]" Value="" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,91,101]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,145,155]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-2,158,162]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-3,98,104]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-3,160,174]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-4,75,91]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-4,102,108]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-5,9,16]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-6,63,67]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-6,94,101]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-7,70,79]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-8,27,34]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-8,58,62]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-9,43,48]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-9,112,119]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-9,135,145]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-10,105,115]" Value="" />
+    <Keyword ID="keywordID10018" Coordinate="[gr-1-1,63,69]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[gr-2-2,54,62]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="20" />
+    <Tag_Index Value="35" />
+  </Index>
+</Product>

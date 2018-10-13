@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Sony Ericsson Xperia Pureness" Type="Mobile">
+  <Accessories>
+    <Accessory Name="کار کيت بلوتوث Jabra Drive" Price="185000" />
+    <Accessory Name="مجموعه نرم افزار فارسي GPS اقليم (نسخه موبايل)" Price="24000" />
+    <Accessory Name="شارژر همراه HuntKey PBB4400" Price="95000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کيف موبايل اوريجينال Golla" Price="10000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="هندزفري بلوتوث Jabra EasyGo مشکي" Price="109000" />
+    <Accessory Name="هندزفري بلوتوث Jabra Supreme" Price="325000" />
+    <Accessory Name="شارژر فندکي گوشي موبايل" Price="9500" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/05/26</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">13 × 43 × 112 mm</Feature>
+    <Feature Name="وزن ">70 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="حافظه داخلی ">2048 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">خیر</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 2100</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA; HSUPA</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 10 (4+1/3+2 slots), 32 - 48 kbps</Feature>
+    <Feature Name="WLAN ">خیر</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 10, 236.8 kbps</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 2.1 همراه با A2DP</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">Transparent, Monochrome</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">1.8 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">320 × 240</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">تراکم پیکسلی 222ppi</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">خیر</Feature>
+    <Feature Name="کیفیت دوربین ">فاقد دوربین</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">خیر</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">خیر</Feature>
+    <Feature Name="سرعت فیلمبرداری ">-</Feature>
+    <Feature Name="فوکوس اتوماتیک ">خیر</Feature>
+    <Feature Name="فلاش ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">خیر</Feature>
+    <Feature Name="نوع زنگ ">MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">ورودی به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">30 مورد شماره‌گیری شده، 30 مورد تماس دریافت شده و 30 مورد تماس پاسخ داده نشده</Feature>
+    <Feature Name="سیستم عامل ">خیر</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">خیر</Feature>
+    <Feature Name="PDF ">خیر</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">خیر</Feature>
+    <Feature Name="مرورگر وب ">(WAP 2.0 / xHTML (NetFront</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM استریو با RDS</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون پلیمر استاندارد</Feature>
+    <Feature Name="زمان انتظار ">350 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">8:30 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">صفحه نمایش فرانما (Transparent) مجهز به سیستم امنیتی (Concierge)قاب ضدخش (Scratch-Resistant Surface) دارای (TrackID)</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژرکابل USBدفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="0">
+    <Sentence ID="rev-1" Value="0">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="امير " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">به نظرم نمي ارزه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-2-1" Value="+1">قيمت بالاي اين گوشي بخاطر صفحه نمايش فوق العاده اين گوشيه،  ميشه پشت گوشي رو از داخل صفحه نمايش ديد!</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="حسام سلم ابادي" Score="22" Voters="40" Value="+1">
+      <Sentence ID="cr-1-1" Value="0">با توجه به خاص بودن صفحه نمايش قيمت آن بالا ميباشد  .</Sentence>
+      <Sentence ID="cr-1-2" Value="0">ولي ميتوان با اين قيمت يکي ديگر از اعضاي خانواده اکسپريا را خريد - اکسپريا U - که از لحاظ سخت افزاري واقعا با اين گوشي قابل قياس نيست .</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">ولي بايد به اين نکته هم توجه کرد که براي افرادي که توانايي کنار آمدن با سيستم عامل هاي ديگر و به طور کلي با اسمارت فون ها را ندارند و در عين حال ميخواهند يک گوشي خاص داشته باشند بسيار عالي ميباشد .</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">البته اگر اين گوشي قيمت به مراتب پايين تري داشت حتما به عنوان گوشي دوم  آن را خريداري ميکردم به اين دليل که 1 وزن آن بسيار کم است 2 حافظه داخلي قابل قبولي دارد                                                                                                                                                                   </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="ميهمان" Score="45" Voters="141" Value="+2">
+      <Sentence ID="cr-2-1" Value="+2">گوشي بسيار زيبا و مدگرا ميباشد</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="4" />
+  <Performance Value="7.70" />
+  <Capability Value="5.50" />
+  <Production_Quality Value="5.50" />
+  <Ergonomics Value="4.70" />
+  <Purchase_Value Value="3.20" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="قيمت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="صفحه نمايش" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="صفحه نمايش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="گوشي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="وزن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="حافظه داخلي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="گوشي" Relation="cr-2" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-2-1,0,4]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-2-1,5,10]" Relation="tagID1002" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[gr-2-1,26,36]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[gr-2-1,37,47]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[cr-1-1,20,30]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[cr-1-1,11,19]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[cr-1-1,31,35]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[cr-1-1,39,43]" Relation="tagID10011" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[cr-1-3,157,161]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[cr-1-3,162,165]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[cr-1-4,110,113]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[cr-1-4,117,125]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[cr-1-4,132,143]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[cr-1-4,144,154]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[cr-2-1,0,4]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[cr-2-1,5,15]" Relation="tagID10023" Value="+" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[cr-2-1,18,23]" Relation="tagID10023" Value="" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,8,16]" Value="-" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-2-1,5,10]" Value="-" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-2-1,37,47]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[cr-1-1,11,19]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[cr-1-1,39,43]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[cr-1-3,162,165]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[cr-1-3,178,188]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[cr-1-4,117,125]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[cr-1-4,144,154]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[cr-2-1,5,15]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="11" />
+    <Tag_Index Value="26" />
+  </Index>
+</Product>

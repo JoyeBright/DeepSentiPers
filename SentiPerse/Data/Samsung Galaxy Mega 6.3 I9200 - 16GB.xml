@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy Mega 6.3 I9200 - 16GB" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2013/04/10</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">167.6 × 88 × 8 mm</Feature>
+    <Feature Name="وزن ">199 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، سفید</Feature>
+    <Feature Name="مدل پردازنده ">Dual-Core Cortex-A15 CPU, Exynos 5250 Chipset</Feature>
+    <Feature Name="سرعت پردازنده ">1.7GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Mali-T604</Feature>
+    <Feature Name="حافظه داخلی ">16384 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">1536 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 64 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G "> HSDPA</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 21 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="4G ">بلی</Feature>
+    <Feature Name="باند شبکه 4G ">LTE - GT-I9205</Feature>
+    <Feature Name="توضیحات 4G ">LTE, Cat3, 50 Mbps UL, 100 Mbps DL</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 12 (4+1/3+2/2+3/1+4 slots), 32 - 48 kbps</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS به همراه GLONASS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="NFC ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 4.0 همراه با LE و A2DP</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2.0, USB On-The-Go</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع TFT</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">6.3 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">720 × 1280</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش مالتی تاچ با قابلیت دریافت چند لمس همزمان (Multi-Touch Input Method) - دارای حسگر ژیروسکوپ (Gyroscope Sensor) - دارای کنترل های لمسی (Touch Sensitive Controls) - دارای حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor for Auto Turn-Off) - دارای حسگر شتاب سنج برای چرخش خودکار تصویر  (Accelerometer Sensor For UI Auto-Rotate) ، تراکم پیکسلی 233ppi</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم (دوربین مکالمه ویدئویی) با کیفیت 2 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">1080p 1920 × 1080</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD 1080p در ابعاد 1080 × 1920 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">قابلیت فوکوس لمسی (Touch Focus)مجهز به ردیاب خودکار چهره و لبخند (Face and Smile Detection)قابلیت ثبت موقعیت زمانی و مکانی عکس و فیلم گرفته شده بر روی آن (Geo-Tagging)قابلیت عکاسی HDR</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3, WAV</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">v4.2.2 JellyBean</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML5</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, OGG, AAC, AAC+, eAAC+, AMR-NB AMR-WB, WMA, WAV, MID, AC3, IMY, FLAC, XMF</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MPEG4, H.264, H.263, WMV, DivX, Xvid, VC-1</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر ژیروسکوپ (Gyro)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor For Auto Turn Off)حسگر شتاب سنج برای چرخش خودکار تصویر (Accelerometer Sensor For Auto Rotate)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">3200 میلی آمپر ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">TouchWiz UIقابلیت حذف نویز و صداهای اضافی برای مکالمه‌ی بهتر و شفاف‌تر با استفاده از میکروفن اختصاصی (Active Noise Cancellation with Dedicated Mic)قابلیت پشتیبانی از فایل‌های آفیس مانند Word, Excel, PowerPointویرایشگر عکس و فیلم (Image/Video Editor)دارای سازمان دهنده (Organizer)SNS integrationGoogle Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integrationVoice memo/dial/commands(Predictive Text Input (Swype</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژرهندزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="0">
+    <Sentence ID="rev-1" Value="0">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="soheyl " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">فبلت خوبي همه چيزش کامل .</Sentence>
+      <Sentence ID="gr-1-2" Value="0">اميدوارم قيمت مناسبي داشته باشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="Farhood " Value="+2">
+      <Sentence ID="gr-2-1" Value="+1">گوشي جالبيه.</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">براي اونايي که گوشي هاي بزرگ رو دوست دارن،  بهترين گوشيه!</Sentence>
+      <Sentence ID="gr-2-3" Value="+1">همه چيزش هم در حد خوبيه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="سيد کيانوش سجادي پور " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">بي‌صبرانه منتظرم که وارد بازار بشه
+به نظر من بهترين گوشيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="بهشاد جهاندارفر " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">از مشخصاتش معلومه که گوشيه خوبيه .</Sentence>
+      <Sentence ID="gr-4-2" Value="+1">از نظر ظاهري هم خوبه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="سامان دستيار " Value="-1">
+      <Sentence ID="gr-5-1" Value="-1">به نظر من هيچ فرقي با نوت2 نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="mohammad reza khoshab " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">سلام به همه دوستان و دوستداران تکنولوژي
+اين گوشي از نظر من بهترين محصول سامسونگ هستش</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="26" />
+  <Performance Value="5.50" />
+  <Capability Value="5.90" />
+  <Production_Quality Value="5.40" />
+  <Ergonomics Value="5.60" />
+  <Purchase_Value Value="5.40" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="گوشي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="گوشي" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="گوشي" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="ظاهر" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="گوشي" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="فبلت" Relation="gr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[gr-2-1,0,4]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[gr-2-1,5,11]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1003" Coordinate="[gr-2-2,51,56]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[gr-2-2,44,50]" Relation="tagID1003" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[gr-3-1,52,57]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[gr-3-1,45,51]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[gr-4-1,21,26]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[gr-4-1,27,32]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[gr-4-2,7,12]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[gr-4-2,16,20]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[gr-6-1,44,48]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[gr-6-1,59,65]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[gr-1-1,0,4]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[gr-1-1,5,9]" Relation="tagID10018" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[gr-1-1,5,9]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,19,23]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-2-1,5,11]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-2-2,44,50]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-2-3,18,23]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-3-1,0,9]" Value="" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-3-1,45,51]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-4-1,27,32]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-4-2,16,20]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-6-1,59,65]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="10" />
+    <Tag_Index Value="20" />
+  </Index>
+</Product>

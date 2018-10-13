@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="HP LaserJet P1102" Type="Printer">
+  <Accessories>
+    <Accessory Name="کابل يواس بي پرينتر" Price="5000" />
+  </Accessories>
+  <Features>
+    <Feature Name="ابعاد ">196 × 238 × 349 میلیمتر</Feature>
+    <Feature Name="وزن ">5.2 کیلوگرم</Feature>
+    <Feature Name="تکنولوژی چاپ ">لیزری</Feature>
+    <Feature Name="نوع چاپ ">سیاه و سفید</Feature>
+    <Feature Name="کاربری ">تک کاره</Feature>
+    <Feature Name="سایز چاپ ">A4</Feature>
+    <Feature Name="سایز کاغذ قابل استفاده ">A4; A5; A6; B5; postcards; envelopes (C5, DL, B5)</Feature>
+    <Feature Name="نوع کاغذ قابل استفاده ">Paper (laser, plain, photo, rough, vellum), envelopes, labels, cardstock, transparencies, postcards</Feature>
+    <Feature Name="ظرفیت سینی کاغذ ">150 برگ</Feature>
+    <Feature Name="قابلیت تغذیه حودکار ADF ">خیر</Feature>
+    <Feature Name="سرعت چاپ سیاه وسفید ">تا 18 صفحه در دقیقه</Feature>
+    <Feature Name="رزولوشن چاپ ">600x600</Feature>
+    <Feature Name="حافظه پرینتر ">2 مگابایت</Feature>
+    <Feature Name="پردازنده ">266 مگاهرتز</Feature>
+    <Feature Name="توان کار ماهانه ">5000 صفحه</Feature>
+    <Feature Name="زبان چاپ ">Host-based</Feature>
+    <Feature Name="چاپ روی سی دی ">خیر</Feature>
+    <Feature Name="قابلیت چاپ دو رو ">خیر</Feature>
+    <Feature Name="اسکنر ">خیر</Feature>
+    <Feature Name="کپی ">خیر</Feature>
+    <Feature Name="فکس ">خیر</Feature>
+    <Feature Name="گوشی تلفن ">خیر</Feature>
+    <Feature Name="شماره گیر خودکار ">خیر</Feature>
+    <Feature Name="نوع کارتریج ">تونر به شماره  35A</Feature>
+    <Feature Name="کارکرد کارتریج مشکی ">برای چاپ 1500 برگ</Feature>
+    <Feature Name="صفحه نمایش LCD ">خیر</Feature>
+    <Feature Name="نوع پورت ارتباط به کامپیوتر ">پورت USB 2.0</Feature>
+    <Feature Name="کارت خوان ">خیر</Feature>
+    <Feature Name="چاپ مستقیم PictBridge ">خیر</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wi-Fi ">خیر</Feature>
+    <Feature Name="اقلام همراه پرینتر ">HP LaserJet Pro P1102 Printer, introductory HP LaserJet Black print cartridge, power cord, CD(s) with printer software and documentation, Getting Started Guide, support flyer, Smart Install Flyer, USB cable.</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="+1">HP LaserJet P1102 مدل جدید پرینتر تک رنگ لیزری این شرکت از سری سطح مبتدی است که توانایی ارایه‌ی کیفیت خیلی خوب به همراه سرعت بالا دارد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">این پرینتر مناسب استفاده های اداری و شرکتی می‌باشد و به راحتی می‌توان آن را در شبکه به اشتراک گذاشت.</Sentence>
+    <Sentence ID="rev-3" Value="+2">ابعاد این پرینتر خیلی جمع و جور می‌باشد.</Sentence>
+    <Sentence ID="rev-4" Value="0">سینی های تغذیه‌ی کاغذ نیز می‌توانند موقعی که به آن ها نیازی نیست در سر جای خود بسته شوند.</Sentence>
+    <Sentence ID="rev-5" Value="0">سینی جلویی قابلیت جای دادن 150 برگ کاغذ را در خود دارد.</Sentence>
+    <Sentence ID="rev-6" Value="0">در قسمت بالای آن نیز سینی دیگری بیرون می‌آید که قابلیت پشتیبانی از 10 برگ کاغذ با ابعاد دیگر را دارد.</Sentence>
+    <Sentence ID="rev-7" Value="0">پنل بالایی از پلاستیک مشکی مات ساخته شده و این در حالی است که اطراف آن به رنگ براق می‌باشد.</Sentence>
+    <Sentence ID="rev-8" Value="0">این در حالی است که در قسمت سمت چپ یک کنترل پنل هم دیده می‌شود.</Sentence>
+    <Sentence ID="rev-9" Value="0">بر روی بدنه‌ی این پرینتر پورت USB 2.0 هم دیده می‌شود.</Sentence>
+    <Sentence ID="rev-10" Value="0">کاور بالایی را که باز کنید به کارتریج دسترسی پیدا می‌کنید.</Sentence>
+    <Sentence ID="rev-11" Value="+1">دسترسی نسبتا ساده ای است و در ضمن این تنها کارتریج این دستگاه می‌باشد که توانایی پشتیبانی از چاپ 1600 صفحه پیش از تعویض را هم دارد.</Sentence>
+    <Sentence ID="rev-12" Value="+1">HP به همراه این پرینتر درایورهای 32 و 64 بیت برای سازگاری با ویندوز XP،  Vista،  7 و OS X 10.4 را نیز فراهم کرده است.</Sentence>
+    <Sentence ID="rev-13" Value="0">همچنین درایور Linux هم بر روی سایت HP برای دانلود وجود دارد.</Sentence>
+    <Sentence ID="rev-14" Value="-1">HP ادعا می‌کند که این پرینتر توانایی چاپ 18 صفحه در دقیقه را دارد که برای پرینتر لیزری تک رنگ در این رده خیلی خوب است هرچند که به پای سرعت 30 صفحه در دقیقه P2035 نمی رسد.</Sentence>
+    <Sentence ID="rev-15" Value="0">تست پرینت 5 صفحه ای ما 27 ثانیه به طول انجامید که برابر با چیزی در حدود 11.1 صفحه در دقیقه است.</Sentence>
+    <Sentence ID="rev-16" Value="0">ولی افزایش پرینت ها به 20 صفحه باعث شد که بتوانیم به سرعت 15.8 صفحه در دقیقه برسیم که این چیزی در حدود 75 درصد سرعت ادعایی HP است.</Sentence>
+    <Sentence ID="rev-17" Value="0">در تست 5 صفحه پرینت متن و گرافیک به سرعت 13 صفحه در دقیقه رسیدیم.</Sentence>
+    <Sentence ID="rev-18" Value="0">اما عکس 15X10 سانتی متر بر روی یک صفحه‌ی A4 حدود 13 ثانیه به طول انجامید.</Sentence>
+    <Sentence ID="rev-19" Value="0">این عکس در بالاترین رزولوشن این پرینتر یعنی FastRes 1200 چاپ شد.</Sentence>
+    <Sentence ID="rev-20" Value="0">در کیفیت FastRes 600 این کار 10 ثانیه طول کشید.</Sentence>
+    <Sentence ID="rev-21" Value="+1">این سرعت ها برای پرینتری در سطح مبتدی خیلی خوب هستند و نسبت به مدل های ML-2525  و  ML-1915 شرکت سامسونگ عملکرد بهتری را از خود نشان می‌دهد.</Sentence>
+    <Sentence ID="rev-22" Value="+1">صحبت درباره‌ی کیفیت پرینترهای لیزری تک رنگ مدرن کمی سخت است چرا که بسیاری تولید کنندگان در تولیدات خود به کیفیت های خیلی خوب و نظیر هم دست یافته اند.</Sentence>
+    <Sentence ID="rev-23" Value="+2">متون در فونت های معمولی و استاندارد 10 تا 12 کاملا شارپ و با رنگ مشکی عمیق هستند.</Sentence>
+    <Sentence ID="rev-24" Value="+2">این کیفیت برای استفاده هایی که p1102 بدان منظور ساخته شده کاملا کافی می‌باشد.</Sentence>
+    <Sentence ID="rev-25" Value="+2">پرینت رنگ خاکستری هم خیلی خوب انجام می‌گیرد.</Sentence>
+    <Sentence ID="rev-26" Value="+2">این برای پرینت تک رنگ گرافیک ها کاملا مفید می‌باشد.</Sentence>
+    <Sentence ID="rev-27" Value="+1">حتی چاپ عکس نیز با این پرینتر با کیفیت خوبی صورت می‌گیرد.</Sentence>
+    <Sentence ID="rev-28" Value="0">دست کم بر روی عکس باندهای تاریک و روشن دیده نمی شود.</Sentence>
+    <Sentence ID="rev-29" Value="-1">این باندها را می‌توان در خروجی پرینترهای لیزری ارزان قیمت تر مشاهده کرد.</Sentence>
+    <Sentence ID="rev-30" Value="+1">جزئیات در قسمت های مشکی عکس هم به خوبی دیده می‌شوند.</Sentence>
+    <Sentence ID="rev-31" Value="-1">کارتریج های این پرینتر نسبتا گران قیمت هستند.</Sentence>
+    <Sentence ID="rev-32" Value="+2">در کل باید گفت که HP LaserJet P1102 به عنوان یک پرینتر لیزری تک رنگ سطح مبتدی عملکرد و ویژگی های خیلی خوبی را ارایه می‌دهد.</Sentence>
+    <Sentence ID="rev-33" Value="+2">جای کمی را بر روی میز اشغال می‌کند و سرعت و کیفیت پرینت خیلی خوبی هم دارد.</Sentence>
+    <Sentence ID="rev-34" Value="-1">هرچند که ممکن است هزینه‌ی نگهداری و کارتریج آن کمی بیشتر از رقبا باشد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>ارایه‌ی کیفیت و سرعت چاپ خیلی خوب</Advantage>
+    <Advantage>طراحی و کیفیت ساخت خوب</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="shahab vahdatian " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">نسبت به قيمتش دستگاه خوبي هست
+و در شبکه هم جواب خوبي داده کارتريج هم اگر اصل استفاده بشه نسبت به کاتريج هاي تقلبي که قيمت پايين تري دارن .</Sentence>
+      <Sentence ID="gr-1-2" Value="+1">به صرفه ميشه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="رحمان عرب زاده " Value="+1">
+      <Sentence ID="gr-2-1" Value="0">من يک سالي هست اين پرينتر رو دارم.</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">پرينتر خوبيه سرعت بالايي داره.</Sentence>
+      <Sentence ID="gr-2-3" Value="-1">منتها صداي بالايي داره موقع چاپ.</Sentence>
+      <Sentence ID="gr-2-4" Value="+1">در کل ازش راضيم.</Sentence>
+      <Sentence ID="gr-2-5" Value="+1">پرينتر خوبيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="پوريا لشگري " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">عاليه
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="کوثري  " Value="-2">
+      <Sentence ID="gr-4-1" Value="-2">سلام ،  حدود يکسال هست که دارم،  بعد از اولين شارژ کيفيتش خيلي اومد پايين،   </Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="مريم حائري " Value="+2">
+      <Sentence ID="gr-5-1" Value="0">حدود 3 ساله که اين پرينترو دارم.</Sentence>
+      <Sentence ID="gr-5-2" Value="0">فقط يکبار کارتريجشو با درامش عوض کردم.</Sentence>
+      <Sentence ID="gr-5-3" Value="+1">چون خيلي زياد ازش استفاده نکردم و در حد مصرف خونگي برام واقعا بصرفه بود.</Sentence>
+      <Sentence ID="gr-5-4" Value="+1">رنگ اوليه با شارژ مجددش خيلي متفاوت نبود (چون آشنا داشتم کيفيت جوهرش بعد از شارژ هم بسيار خوب بود).</Sentence>
+      <Sentence ID="gr-5-5" Value="+2">در کل اگه کسي يه پرينتر متوسط و بي دردسر براي مصرف خانگي ميخواد مي تونم بگم عاليه و تا سالها ميتونه نياز کاربر رو برطرف کنه.</Sentence>
+      <Sentence ID="gr-5-6" Value="+1">موفق باشين</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="سهيل کريمي " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">عالي</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="ميلاد ستوده نيا کراني " Value="+1">
+      <Sentence ID="gr-7-1" Value="0">من 1 ماه پيش از ديجي کالا خريدم.</Sentence>
+      <Sentence ID="gr-7-2" Value="+2">از همه نظر عاليه.</Sentence>
+      <Sentence ID="gr-7-3" Value="+1">براي خريد اين پرينتر شک نکنيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="محمد هادي رمضاني " Value="+2">
+      <Sentence ID="gr-8-1" Value="+2">خدا رو شکر پرينتر خوبي هست هم سرعتش بالاست هم کيفيتش که تا حالا خوب بوده
+مدت زيادي نيست که دارمش اما ازش راضي هستم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="اميرخاتم پدرام " Value="+2">
+      <Sentence ID="gr-9-1" Value="0">من حدود 2 ساله دارم از اين دستگاه تا حالا 3 بار شارژ کردم تونرش رو !</Sentence>
+      <Sentence ID="gr-9-2" Value="+2">عاليه !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="مهدي عابدين زاده ميبدي " Value="+2">
+      <Sentence ID="gr-10-1" Value="+2">پرينتر خوبي است و کيفيت خوبي دارد و عالي چاپ ميکند اگر پرينتري کارا و عالي مي خواهيد شک  نکنيد  من از ديجي کالا خريدم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="محمودساکي " Value="+2">
+      <Sentence ID="gr-11-1" Value="+2">عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="محمد عصاري " Value="+2">
+      <Sentence ID="gr-12-1" Value="+2">خيلي عالي 
+خيلي باکيفيت
+خيلي سريع </Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="صالحي فرد " Value="+2">
+      <Sentence ID="gr-13-1" Value="+2">سرعت چاپش خيلي خوبه.</Sentence>
+      <Sentence ID="gr-13-2" Value="+2">کيفيت چاپ اوليه که حرف نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="صادق قنبري " Value="+1">
+      <Sentence ID="gr-14-1" Value="+2">من حدود 2 سال هست که دارم ازش استفاده ميکنم،  خيلي ازش راضي هستم.</Sentence>
+      <Sentence ID="gr-14-2" Value="+1">اما در مورد کيفيت رنگش بايد بگم که تا قبل از تمام شدن رنگ اوليه،  کيفيت فوق العاده بود
+متاسفانه بعد از شارژ مجدد از کيفيت رنگ اوليه کاسته شده است ولي در کل چاپگر مناسبي هست
+و از خريدش پشيمون نميشيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="ابوالفضل صابري " Value="+2">
+      <Sentence ID="gr-15-1" Value="+2">من هم حدود 5ماه هست که دارم براي کاربرد خانگي عالي هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="ابوالفضل خلج اسکندري " Value="+2">
+      <Sentence ID="gr-16-1" Value="+2">من حدود يک سال و نيمه که دارم و خيلي ازش راضيم.</Sentence>
+      <Sentence ID="gr-16-2" Value="+2">تا حالا مشکلي نداشته و خيلي خوب کار کرده.</Sentence>
+      <Sentence ID="gr-16-3" Value="+1">کيفيت چاپش خوبه.</Sentence>
+      <Sentence ID="gr-16-4" Value="+1">من حتي روي مقوا هم چاپ کردم.</Sentence>
+      <Sentence ID="gr-16-5" Value="+2">کيفيت چاپ اول خيلي عاليه.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="سالار طاهرنيا" Score="26" Voters="60" Value="+1">
+      <Sentence ID="cr-1-1" Value="-1">از هر جهت خوب است اما کلا کارتريج به شماره 35A که در اين پرينتر و در مدل هاي  P1005 و P1006 وجود دارند قدري کمرنگ تر از مدل هاي کنون در همين رده ي قيمتي چاپ مي کنند .</Sentence>
+      <Sentence ID="cr-1-2" Value="0">اين موضوع در هنگام پرينت عکس بسيار قابل مقايسه است.</Sentence>
+      <Sentence ID="cr-1-3" Value="-1">در هنگام شارژ مجددا آن هم جوهر خوب به سختي يافت مي شود.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">اما از سرعت چاپ خوبي برخوردار است و تيراژ خوبي را چاپ مي نمايد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="ميهمان" Score="21" Voters="61" Value="-1">
+      <Sentence ID="cr-2-1" Value="0"> عمر تونرش فقط واسه 800 -900 تا پرينت جواب مي ده .</Sentence>
+      <Sentence ID="cr-2-2" Value="0">البته تا چند بار مي تونيد شارژش کنين که 10 تومن واستون آب مي خوره .</Sentence>
+      <Sentence ID="cr-2-3" Value="0">تازه گارانتيشم که بخاطر ت ح ر ي م !</Sentence>
+      <Sentence ID="cr-2-4" Value="-1">تعطيله ..</Sentence>
+      <Sentence ID="cr-2-5" Value="0">فراموش نکنين که پرينترها بخاطر ماهيت مکانيکيشون  کما بيش به تعميرات و يا سرويس نياز پيدا مي کنن.</Sentence>
+      <Sentence ID="cr-2-6" Value="+1">از ويژگياش هم اينکه قطعات يدکي و تونرش همه جا هست و راحت گير مياد( مثل سامسونگ نيست!</Sentence>
+      <Sentence ID="cr-2-7" Value="0">).</Sentence>
+      <Sentence ID="cr-2-8" Value="-1">در کل من بعد از تجربه دوستم از خريدش منصرف شدم و واسه خودم brother 2140 خريدم .</Sentence>
+      <Sentence ID="cr-2-9" Value="-2">دقيقا همين قيمت و واقعا ناراحت شدم که ديجي کالا حتي اسمشم نياورده .</Sentence>
+      <Sentence ID="cr-2-10" Value="+1">ويژگيش اينه که هم گارانتي شرکتي داره , هم تونرش بيشتر  چاپ مي زته , هم روي تونرش يه پيچ داره که مي توني بازش کني خودت توش پودر بريزي .</Sentence>
+      <Sentence ID="cr-2-11" Value="+2">اين يعني صرفه جويي اساسي در هزينه !</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="ميهمان" Score="10" Voters="12" Value="+2">
+      <Sentence ID="cr-3-1" Value="+2">بسيار عاليه ،  اين مشکلاتي که دوستان گفتن خيلي کم پيش مياد و در صورت وقوع نهايتا با 10.000 تومان هزينه و عوض کردن قطعه (مگنت يا درام) مثل روز اولش مي شه.</Sentence>
+      <Sentence ID="cr-3-2" Value="0">با هر بار شارژ هم 1000 برگ پرينت ميشه گرفت.</Sentence>
+      <Sentence ID="cr-3-3" Value="+1">(البته به نوع پرينت هم خيلي بستگي داره) من الان 1 سال و نيم هستش که از اين دستگاه در کافي نت دارم استفاده مي کنم و بطور معمول هم حداقل روزي 70 برگ پرينت مي گيرم تا به امروز مشکل خاصي بر نخوردم.</Sentence>
+      <Sentence ID="cr-3-4" Value="+2">پيشنهاد من به شما اينه که حتماً همين مدل را خريداري کنيد که علاوه بر قيمت پايين کيفيت و دوام خيلي خوبي داره.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="ميهمان" Score="9" Voters="21" Value="+1">
+      <Sentence ID="cr-4-1" Value="+1">به راحتي مي تونيد با تعويض يک درام مشکل کم رنگي دستگاه رو حل کنيد.</Sentence>
+      <Sentence ID="cr-4-2" Value="0">فقط اچ پي </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="ميهمان" Score="5" Voters="5" Value="+2">
+      <Sentence ID="cr-5-1" Value="+2">من الان 2 است کا دارمش و ميشه با اون با کيفيت بسيار عالي 1250 برگ پرينت گرفت قاط قوت:سريع و دقيق زيبا و شيک کيفيت عالي تعداد 1250برگ پرينتو همچنين ساخت کشور اصلي يعني ويتنام است.</Sentence>
+      <Sentence ID="cr-5-2" Value="+1">من اينو به همه توصيه مي کنم.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-6" Holder="مجيد امامي" Score="4" Voters="4" Value="+2">
+      <Sentence ID="cr-6-1" Value="+2">کيفيت کار اين پرينتر عاليست .</Sentence>
+      <Sentence ID="cr-6-2" Value="0">حدود 6 ماهي است که با آن کار ميکنم .</Sentence>
+      <Sentence ID="cr-6-3" Value="+2">و  فوق العاده از آن راضيم .</Sentence>
+      <Sentence ID="cr-6-4" Value="+1">يکي از ويژگي هاي جالب آن سيني جلوي کاغذ است که با داشتن فضاي باز استفاده از سايزهاي مختلف کاغذ را فراهم مياورد .</Sentence>
+      <Sentence ID="cr-6-5" Value="+1">ديگري قابليت گرفتن تعداد زيادي پرينت در يک روز است .</Sentence>
+      <Sentence ID="cr-6-6" Value="+1">مثلا همين ديروز تعداد 200 برگ پرينت بدون افت کيفيت از آن گرفتم .</Sentence>
+      <Sentence ID="cr-6-7" Value="+1">شارژ آسان کاتريج با هزينه ناچيز 10 هزار تومان براي گرفتن 1500 برگ گافي است .</Sentence>
+      <Sentence ID="cr-6-8" Value="+1">اين پرينتر راحت در شبکه شير ميشود .</Sentence>
+      <Sentence ID="cr-6-9" Value="0">بهتر است يک کاتريج يدک هم خريداري شود تا هيچ زماني دچار مشکل نشويد .</Sentence>
+      <Sentence ID="cr-6-10" Value="+1">اين دستگاه براي استفاده در فروشگاهها و موئسسات خصوصي و ادارات گزينه مناسبي بنظر ميرسد .</Sentence>
+      <Sentence ID="cr-6-11" Value="0">ضمنا براي شارژ مجدد بايد از پودر مناسب و استاندارد استفاده شده تا کيفيت چاپ اوليه خود را حفظ کند.</Sentence>
+      <Sentence ID="cr-6-12" Value="-1">تنها ضعفي که اين پرينتر دارد عدم وجود يک نمايشگر ديجيتالي براي تنظيم و نيز آگاهي از ميزان ذخيره پودر در درون آن است </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-7" Holder="ميهمان" Score="4" Voters="16" Value="+1">
+      <Sentence ID="cr-7-1" Value="+1">زيبا کم حجم سريع مهمتر از همه اينه که مارک hp هست در ضمن ساخت ويتنام هست.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-8" Holder="ميهمان" Score="1" Voters="55" Value="-1">
+      <Sentence ID="cr-8-1" Value="-1">علاوه بر کمرنگي اوليه چاپ،  با شارژ مجدد باز هم از کيفيت چاپ کاسته مي شود به طوري که در بهترين حالت گراف ها به خوبي قابل رويت نيستند.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-9" Holder="فرزاد قلي نژاد" Score="2" Voters="66" Value="+2">
+      <Sentence ID="cr-9-1" Value="+2">من دو سه روزه خريدمش فعلا که خوب کار ميکنه و من ازش خيلي راضيم طراحي شيکي داره و فضاي نسبتا کمي رو اشغال کرده و در ضمن سرعت بالايي هم داره .</Sentence>
+      <Sentence ID="cr-9-2" Value="+1">در کل من ازش راضيم</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-10" Holder="ميهمان" Score="42" Voters="76" Value="-1">
+      <Sentence ID="cr-10-1" Value="-1">از وزن بالاي برخوردار است و صداي زيادي دارد</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="118" />
+  <Performance Value="4.80" />
+  <Capability Value="4.70" />
+  <Production_Quality Value="5.30" />
+  <Ergonomics Value="4.90" />
+  <Purchase_Value Value="5.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="دستگاه" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="پرينتر" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="سرعت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="چاپ" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="پرينتر" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="پرينتر" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="سرعت" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="کيفيت" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="پرينتر" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="کيفيت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="چاپ" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="سرعت چاپ" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="کيفيت چاپ" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10057" Root="پرینتر" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID10065" Root="کاربرد خانگي" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="پرینتر" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="کار" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="کيفيت چاپ" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="کارتريج" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="سرعت چاپ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="تيراژ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="قيمت" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="کيفيت" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="دوام" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="کیفیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="سرعت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100108" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100111" Root="دسترسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100116" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100119" Root="متن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100130" Root="جزئیات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100133" Root="کارتریج" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100139" Root="ویژگی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100146" Root="هزینه‌ی نگهداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100149" Root="پرینتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100152" Root="کیفیت_2" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100155" Root="کیفیت چاپ عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100158" Root="کيفيت" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100161" Root="کيفيت" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100164" Root="کيفيت کار" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="شارژ" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100170" Root="هزينه شارژ" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100173" Root="شير" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100176" Root="کيفيت چاپ" Relation="cr-8" />
+    <Tag Type="Target(M)" ID="elementID100178" Root="پرینتر" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100181" Root="طراحي" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100184" Root="کارکرد" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100187" Root="فضا" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100190" Root="سرعت" Relation="cr-9" />
+    <Tag Type="Target(M)" ID="elementID100195" Root="وزن" Relation="cr-10" />
+    <Tag Type="Target(M)" ID="elementID100198" Root="صدا" Relation="cr-10" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-1-1,14,20]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-1-1,21,25]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[gr-2-2,0,6]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[gr-2-2,7,12]" Relation="tagID1005" Value="+" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[gr-2-2,13,24]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[gr-2-4,6,9]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[gr-2-4,10,15]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[gr-2-5,0,6]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[gr-2-5,7,12]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[gr-2-2,13,17]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[gr-2-2,18,24]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[gr-2-3,28,31]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[gr-2-3,6,17]" Relation="tagID10012" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[gr-5-5,17,23]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[gr-5-5,24,29]" Relation="tagID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[gr-5-5,32,40]" Relation="tagID10021" Value="+" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[gr-5-5,76,81]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[gr-8-1,11,17]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[gr-8-1,18,22]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[gr-8-1,101,104]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[gr-8-1,105,109]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[gr-8-1,30,35]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[gr-8-1,36,42]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[gr-8-1,46,52]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[gr-8-1,64,67]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[gr-10-1,0,6]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[gr-10-1,7,11]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[gr-10-1,55,62]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[gr-10-1,63,67]" Relation="tagID10048" Value="+" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[gr-10-1,70,74]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[gr-10-1,18,23]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[gr-10-1,24,28]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[gr-10-1,41,44]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[gr-10-1,36,40]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[gr-13-1,0,9]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[gr-13-1,10,19]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[gr-13-2,0,9]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[gr-13-2,19,28]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[gr-14-1,51,54]" Relation="elementID10057" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[gr-14-1,55,59]" Relation="tagID10058" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[gr-14-2,156,161]" Relation="elementID10057" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[gr-14-2,162,168]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[gr-15-1,33,45]" Relation="elementID10065" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[gr-15-1,46,50]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[gr-16-1,37,40]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[gr-16-1,41,46]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[gr-16-2,32,35]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[gr-16-2,23,31]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[gr-16-3,0,10]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[gr-16-3,11,15]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[gr-16-5,0,9]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[gr-16-5,14,24]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[cr-1-1,26,33]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[cr-1-1,103,116]" Relation="tagID10080" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[cr-1-4,7,15]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[cr-1-4,16,20]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[cr-1-4,36,41]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[cr-1-4,42,46]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[cr-3-4,69,73]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[cr-3-4,74,79]" Relation="tagID10092" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[cr-3-4,80,85]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[cr-3-4,93,102]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[cr-3-4,88,92]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[cr-3-4,93,102]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[rev-1,96,101]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[rev-1,102,110]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100125" Coordinate="[rev-24,4,9]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100126" Coordinate="[rev-24,58,68]" Relation="tagID100125" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100144" Coordinate="[rev-33,44,49]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100145" Coordinate="[rev-33,56,65]" Relation="tagID100144" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[rev-1,120,124]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[rev-1,125,129]" Relation="tagID100104" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100114" Coordinate="[rev-21,4,11]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100115" Coordinate="[rev-21,38,46]" Relation="tagID100114" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100142" Coordinate="[rev-33,37,41]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100143" Coordinate="[rev-33,56,65]" Relation="tagID100142" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[rev-3,0,5]" Relation="elementID100108" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[rev-3,17,31]" Relation="tagID100109" Value="" />
+    <Tag Type="Target(I)" ID="tagID100112" Coordinate="[rev-11,0,6]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[rev-11,7,20]" Relation="tagID100112" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100117" Coordinate="[rev-21,104,110]" Relation="elementID100116" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[rev-21,111,116]" Relation="tagID100117" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100137" Coordinate="[rev-32,78,84]" Relation="elementID100116" Value="" />
+    <Tag Type="Opinion" ID="tagID100138" Coordinate="[rev-32,97,106]" Relation="tagID100137" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100120" Coordinate="[rev-23,0,4]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100121" Coordinate="[rev-23,45,55]" Relation="tagID100120" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100131" Coordinate="[rev-30,0,6]" Relation="elementID100130" Value="" />
+    <Tag Type="Opinion" ID="tagID100132" Coordinate="[rev-30,34,38]" Relation="tagID100131" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100134" Coordinate="[rev-31,0,11]" Relation="elementID100133" Value="" />
+    <Tag Type="Opinion" ID="tagID100135" Coordinate="[rev-31,23,33]" Relation="tagID100134" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100140" Coordinate="[rev-32,87,96]" Relation="elementID100139" Value="" />
+    <Tag Type="Opinion" ID="tagID100141" Coordinate="[rev-32,97,106]" Relation="tagID100140" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100147" Coordinate="[rev-34,18,33]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100148" Coordinate="[rev-34,47,56]" Relation="tagID100147" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100150" Coordinate="[rev-2,4,10]" Relation="elementID100149" Value="" />
+    <Tag Type="Opinion" ID="tagID100151" Coordinate="[rev-2,11,16]" Relation="tagID100150" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100153" Coordinate="[rev-22,106,115]" Relation="elementID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100154" Coordinate="[rev-22,116,124]" Relation="tagID100153" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100156" Coordinate="[rev-27,33,38]" Relation="elementID100155" Value="" />
+    <Tag Type="Opinion" ID="tagID100157" Coordinate="[rev-27,39,43]" Relation="tagID100156" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100159" Coordinate="[gr-14-2,66,71]" Relation="elementID100158" Value="" />
+    <Tag Type="Opinion" ID="tagID100160" Coordinate="[gr-14-2,72,82]" Relation="tagID100159" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100162" Coordinate="[cr-5-1,108,113]" Relation="elementID100161" Value="" />
+    <Tag Type="Opinion" ID="tagID100163" Coordinate="[cr-5-1,114,118]" Relation="tagID100162" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[cr-6-1,0,9]" Relation="elementID100164" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[cr-6-1,21,27]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[cr-6-7,0,4]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[cr-6-7,5,9]" Relation="tagID100168" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100171" Coordinate="[cr-6-7,20,25]" Relation="elementID100170" Value="" />
+    <Tag Type="Opinion" ID="tagID100172" Coordinate="[cr-6-7,26,31]" Relation="tagID100171" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100174" Coordinate="[cr-6-8,24,27]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100175" Coordinate="[cr-6-8,11,15]" Relation="tagID100174" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100177" Coordinate="[cr-8-1,51,60]" Relation="elementID100176" Value="" />
+    <Tag Type="Target(I)" ID="tagID100179" Coordinate="[cr-9-1,48,51]" Relation="elementID100178" Value="" />
+    <Tag Type="Opinion" ID="tagID100180" Coordinate="[cr-9-1,52,62]" Relation="tagID100179" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100193" Coordinate="[cr-9-2,9,12]" Relation="elementID100178" Value="" />
+    <Tag Type="Opinion" ID="tagID100194" Coordinate="[cr-9-2,13,18]" Relation="tagID100193" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100182" Coordinate="[cr-9-1,63,68]" Relation="elementID100181" Value="" />
+    <Tag Type="Opinion" ID="tagID100183" Coordinate="[cr-9-1,69,73]" Relation="tagID100182" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100185" Coordinate="[cr-9-1,33,36]" Relation="elementID100184" Value="" />
+    <Tag Type="Opinion" ID="tagID100186" Coordinate="[cr-9-1,29,32]" Relation="tagID100185" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100188" Coordinate="[cr-9-1,81,85]" Relation="elementID100187" Value="" />
+    <Tag Type="Opinion" ID="tagID100189" Coordinate="[cr-9-1,86,95]" Relation="tagID100188" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100191" Coordinate="[cr-9-1,119,123]" Relation="elementID100190" Value="" />
+    <Tag Type="Opinion" ID="tagID100192" Coordinate="[cr-9-1,124,130]" Relation="tagID100191" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100196" Coordinate="[cr-10-1,3,6]" Relation="elementID100195" Value="" />
+    <Tag Type="Opinion" ID="tagID100197" Coordinate="[cr-10-1,7,12]" Relation="tagID100196" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100199" Coordinate="[cr-10-1,28,32]" Relation="elementID100198" Value="" />
+    <Tag Type="Opinion" ID="tagID100200" Coordinate="[cr-10-1,33,38]" Relation="tagID100199" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,21,25]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-1-2,0,7]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-2-2,7,12]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-2-2,18,24]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-2-3,11,17]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-2-4,10,15]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-2-5,7,12]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-3-1,0,5]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-4-1,68,73]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[gr-5-3,56,67]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[gr-5-4,84,93]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[gr-5-5,32,40]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[gr-5-5,76,81]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[gr-6-1,0,4]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[gr-7-2,11,16]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[gr-7-3,21,29]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[gr-8-1,18,22]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[gr-8-1,36,42]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[gr-8-1,64,67]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[gr-8-1,105,109]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[gr-9-2,0,5]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[gr-10-1,7,11]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[gr-10-1,24,28]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-10-1,36,40]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-10-1,63,67]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-10-1,70,74]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-11-1,0,5]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[gr-12-1,0,9]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-12-1,11,23]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[gr-12-1,24,33]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[gr-13-1,10,19]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[gr-13-2,19,28]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-14-1,55,59]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[gr-14-1,46,50]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[gr-14-2,162,168]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-14-2,72,82]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-14-2,132,137]" Value="-" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-15-1,46,50]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-16-1,41,46]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-16-2,23,31]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-16-2,8,20]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-16-3,11,15]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-16-5,14,24]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[cr-1-1,103,116]" Value="-" />
+    <Keyword ID="keywordID10045" Coordinate="[cr-1-1,10,13]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[cr-1-4,16,20]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[cr-1-4,42,46]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[cr-2-6,52,56]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[cr-2-11,9,18]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[cr-3-1,0,11]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[cr-3-4,74,79]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[cr-3-4,93,102]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[cr-4-1,3,8]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-1,102,110]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-1,125,129]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-2,56,61]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-2,11,16]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-3,17,31]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-11,7,20]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-14,105,113]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-21,38,46]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-21,111,116]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-23,45,55]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-24,58,68]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-25,21,29]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-26,32,42]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-27,39,43]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-30,34,38]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-31,23,33]" Value="-" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-32,97,106]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-33,56,65]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-34,47,56]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-1,67,72]" Value="-" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-11,73,80]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-12,50,57]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-12,102,107]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-14,118,123]" Value="" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-14,162,169]" Value="-" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-14,3,7]" Value="-" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-22,116,124]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-22,48,55]" Value="-" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-29,47,52]" Value="-" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-33,22,27]" Value="-" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-33,4,7]" Value="-" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-1-1,48,52]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-2-3,0,5]" Value="" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-4-1,58,62]" Value="" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-5-6,0,4]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-10-1,85,87]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-10-1,89,94]" Value="-" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-14-2,0,3]" Value="" />
+    <Keyword ID="keywordID10095" Coordinate="[gr-14-2,87,95]" Value="" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-14-2,184,190]" Value="-" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-14-2,191,197]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-16-1,32,36]" Value="" />
+    <Keyword ID="keywordID100100" Coordinate="[cr-1-1,18,21]" Value="" />
+    <Keyword ID="keywordID100101" Coordinate="[cr-1-3,38,42]" Value="-" />
+    <Keyword ID="keywordID100102" Coordinate="[cr-2-4,0,6]" Value="-" />
+    <Keyword ID="keywordID100103" Coordinate="[cr-2-8,37,42]" Value="-" />
+    <Keyword ID="keywordID100104" Coordinate="[cr-2-8,43,46]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[cr-2-9,18,30]" Value="-" />
+    <Keyword ID="keywordID100106" Coordinate="[cr-2-11,19,24]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[cr-3-1,19,26]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[cr-3-1,42,49]" Value="-" />
+    <Keyword ID="keywordID100109" Coordinate="[cr-3-3,173,177]" Value="-" />
+    <Keyword ID="keywordID100110" Coordinate="[cr-3-3,186,192]" Value="-" />
+    <Keyword ID="keywordID100111" Coordinate="[cr-3-4,26,31]" Value="" />
+    <Keyword ID="keywordID100112" Coordinate="[cr-5-1,84,88]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[cr-5-1,92,96]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[cr-5-1,97,101]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[cr-5-1,104,107]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[cr-5-1,114,118]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[cr-5-2,15,20]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[cr-6-1,21,27]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[cr-6-3,3,13]" Value="" />
+    <Keyword ID="keywordID100120" Coordinate="[cr-6-3,20,25]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[cr-6-4,17,21]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[cr-6-5,6,12]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[cr-6-5,25,30]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[cr-6-6,36,40]" Value="-" />
+    <Keyword ID="keywordID100125" Coordinate="[cr-6-6,41,44]" Value="-" />
+    <Keyword ID="keywordID100126" Coordinate="[cr-6-7,5,9]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[cr-6-7,26,31]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[cr-6-8,11,15]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[cr-6-10,68,74]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[cr-6-12,5,9]" Value="-" />
+    <Keyword ID="keywordID100131" Coordinate="[cr-6-12,29,32]" Value="-" />
+    <Keyword ID="keywordID100132" Coordinate="[cr-7-1,12,16]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[cr-7-1,0,4]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[cr-8-1,9,15]" Value="-" />
+    <Keyword ID="keywordID100135" Coordinate="[cr-8-1,61,66]" Value="-" />
+    <Keyword ID="keywordID100136" Coordinate="[cr-8-1,126,132]" Value="-" />
+    <Keyword ID="keywordID100137" Coordinate="[cr-8-1,111,115]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[cr-9-1,52,62]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[cr-9-1,69,73]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[cr-9-1,29,32]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[cr-9-1,86,95]" Value="+" />
+    <Keyword ID="keywordID100142" Coordinate="[cr-9-1,124,130]" Value="+" />
+    <Keyword ID="keywordID100143" Coordinate="[cr-9-2,13,18]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[cr-10-1,7,12]" Value="-" />
+    <Keyword ID="keywordID100145" Coordinate="[cr-10-1,33,38]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="146" />
+    <Tag_Index Value="201" />
+  </Index>
+</Product>

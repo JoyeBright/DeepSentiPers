@@ -1,0 +1,1172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="HP ProBook 4540s-A" Type="Notebook">
+  <Accessories>
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+    <Accessory Name="Acron USB Hub UH93" Price="28000" />
+    <Accessory Name="ماوس با سيم لپ تاپي سوني Sony VGP-UMS20" Price="28000" />
+    <Accessory Name="مجموعه نرم‌افزاري سافت رويد Softroid Android Package" Price="23000" />
+    <Accessory Name="خدمات نرم افزاري: نصب ويندوز 7 و درايورهاي لپ تاپ" Price="29000" />
+    <Accessory Name="شارژر همراه Energizer AP750" Price="70000" />
+    <Accessory Name="شارژر همراه HuntKey PBB4400" Price="95000" />
+    <Accessory Name="بسته رايانه امن ارگ" Price="75000" />
+    <Accessory Name="پايه خنک کننده DeepCool E-Golf" Price="12000" />
+    <Accessory Name="پايه خنک کننده فن دار DeepCool N1" Price="45000" />
+    <Accessory Name="کيت تميز کننده Soyntec Clean See 300" Price="17000" />
+    <Accessory Name="شارژر باتري نوت بوک HuntKey 90W Slim" Price="99000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="کارت تلويزيون ديجيتال ماي‌گيکا Mygica T119-3D" Price="49000" />
+  </Accessories>
+  <Features>
+    <Feature Name="نوع ">معمولی</Feature>
+    <Feature Name="ابعاد ">28 × 256 × 375 mm</Feature>
+    <Feature Name="وزن ">2.33 کیلوگرم</Feature>
+    <Feature Name="رنگ ">نقره‌ای</Feature>
+    <Feature Name="سازنده پردازنده ">Intel</Feature>
+    <Feature Name="مدل پردازنده ">3230M</Feature>
+    <Feature Name="نوع پردازنده ">Core i5</Feature>
+    <Feature Name="سرعت پردازنده ">2.6GHz UpTo 3.2 GHz</Feature>
+    <Feature Name="حافظه Cache ">3 MB</Feature>
+    <Feature Name="سرعت BUS ">1333 MHz</Feature>
+    <Feature Name="حافظه رم ">4 GB</Feature>
+    <Feature Name="نوع حافظه رم ">DDR3</Feature>
+    <Feature Name="ظرفیت هارد دیسک ">750 GB</Feature>
+    <Feature Name="مشخصات هارد دیسک ">SATA II (5400RPM)</Feature>
+    <Feature Name="سازنده کارت گرافیک ">AMD</Feature>
+    <Feature Name="مدل کارت گرافیک ">Radeon HD 7650M DDR3</Feature>
+    <Feature Name="حافظه اختصاصی کارت گرافیک ">2048 MB</Feature>
+    <Feature Name="کل حافظه گرافیکی ">4096 MB</Feature>
+    <Feature Name="اندازه صفحه نمایش ">15.6"</Feature>
+    <Feature Name="صفحه نمایش براق ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">LED</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">Diagonal LED-Backlit HD Anti-Glare</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">1366x768</Feature>
+    <Feature Name="درایو نوری ">DVD-RW</Feature>
+    <Feature Name="توضیحات درایو نوری ">DVD+/-RW SuperMulti DL</Feature>
+    <Feature Name="مودم ">فاقد مودم</Feature>
+    <Feature Name="بلوتوث ">بلوتوث داخلی</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم HD با قابلیت تشخیص چهره (Face Recognition)</Feature>
+    <Feature Name="حسگر اثر انگشت ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای داخلی استریو (Integrated Stereo Speakers)</Feature>
+    <Feature Name="مشخصات تاچ پد ">تاچ پد مالتی‌تاچ مجهز به کلید روشن و خاموش و نشانگر LED، با قابلیت اسکرول دو جهتی به همراه دو کلید انتخابی (Touchpad with Gestures Support, On/Off Button with LED Indicator, Two-Way Scroll, Two Pick Buttons)</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="شبکه LAN ">بلی</Feature>
+    <Feature Name="توضیحات شبکه LAN ">10/100/1000</Feature>
+    <Feature Name="شبکه بی سیم Wireless ">بلی</Feature>
+    <Feature Name="تعداد پورت USB 2.0 ">2</Feature>
+    <Feature Name="تعداد پورت USB 3.0 ">2</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wireless ">802.11b/g/n</Feature>
+    <Feature Name="پورت فایروایر 1394 یا iLink ">خیر</Feature>
+    <Feature Name="پورت HDMI ">بلی</Feature>
+    <Feature Name="پورت خروجی VGA ">بلی</Feature>
+    <Feature Name="پورت S-Video ">خیر</Feature>
+    <Feature Name="پورت Serial ">خیر</Feature>
+    <Feature Name="پورت PCMCIA ">خیر</Feature>
+    <Feature Name="پورت Express Card ">خیر</Feature>
+    <Feature Name="Expansion Port ">خیر</Feature>
+    <Feature Name="نوع باتری ">6 سلولی</Feature>
+    <Feature Name="توضیحات باتری ">Lithium-Ion Battery</Feature>
+    <Feature Name="کارکرد باتری ">7 ساعت</Feature>
+    <Feature Name="سیستم عامل ">DOS</Feature>
+    <Feature Name="امکانات دیگر ">بدنه آلومینیومی</Feature>
+    <Feature Name="اقلام همراه لپ تاپ ">باتری لیتیومیشارژرکابل برقدفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">HP در سال 2009 برای اولین بار لپ‌تاپ‌های بیزینسی ProBook S را معرفی کرد.</Sentence>
+    <Sentence ID="rev-2" Value="+1">این لپ‌تاپ‌ها در سال 2010 به نسل اول پردازنده های Intel Core و همچنین بدنه ای آلومینیومی به روز شدند و این بار در سال 2012 نسل سوم این لپ‌تاپ‌ها وارد بازار شده است که نه تنها به طراحی آلومینیومی جدیدی دارند،  بلکه از پردازنده های به روزتر و سریع‌تری نیز بهره می‌برند.</Sentence>
+    <Sentence ID="rev-3" Value="0">مدل 4540s،  یک مدل 15.6 اینچی از این سری جدید است که به تازگی وارد بازار شده است.</Sentence>
+    <Sentence ID="rev-4" Value="0">• طراحی و ساخت بدنه خارجی دستگاه از ترکیبی از فلز آلومینیوم و پلاستیک ساخته شده است.</Sentence>
+    <Sentence ID="rev-5" Value="+1">جنس بدنه این لپ‌تاپ طوریست که اثر انگشت را جذب نمی‌کند.</Sentence>
+    <Sentence ID="rev-6" Value="+1">به همین دلیل سطح آن همواره تمیز باقی می‌ماند.</Sentence>
+    <Sentence ID="rev-7" Value="+1">لبه های لپ‌تاپ کاملا انحنا داشته و این امر کمک قابل توجهی به کار کردن و حمل و نقل لپ‌تاپ می‌کند.</Sentence>
+    <Sentence ID="rev-8" Value="+2">طراحی سری 4540s همانند اکثر لپ‌تاپ‌های کمپانی HP،  بسیار ساده و در عین حال شکیل است.</Sentence>
+    <Sentence ID="rev-9" Value="+2">وزن این دستگاه تنها 2.3 کیلوگرم است که برای یک لپ‌تاپ 15.6 اینچی،  وزن بسیار مناسبی محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-10" Value="+2">کیفیت ساخت 4540s همانند مدل‌های سال‌های گذشته خانواده ProBook بسیار بالا بوده و بدنه با ضربات وارد شده طی مصارف روزانه، دچار خمش و یا پیچش نمی‌شود.</Sentence>
+    <Sentence ID="rev-11" Value="+2">• ورودی‌ها و خروجی‌ها از لحاظ پورت‌ها،  4540s بسیار کامل است.</Sentence>
+    <Sentence ID="rev-12" Value="0">لبه جلویی دستگاه شامل ورودی و خروجی صوتی و یک کارت خوان چهار کاره می‌باشد.</Sentence>
+    <Sentence ID="rev-13" Value="0">به علاوه خروجی‌های تصویری VGA و HDMI و پورت شبکه گیگابیتی نیز وجود دارند.</Sentence>
+    <Sentence ID="rev-14" Value="0">در دو طرف دستگاه چهار پورت USB قرار دارند که دو تای آن‌ها از نوع USB 2.0 بوده و دو تای دیگر از نوع USB 3.0 هستند.</Sentence>
+    <Sentence ID="rev-15" Value="0">• صفحه نمایش همان‌طور که گفتیم،  ProBook 4540s یک لپ‌تاپ 15.6 اینچی است.</Sentence>
+    <Sentence ID="rev-16" Value="0">صفحه نمایش قرار داده شده بر روی این لپ‌تاپ از دقت 1366x768 بهره می‌برد که تراکم پیکسلی متوسطی را ارائه می‌دهد.</Sentence>
+    <Sentence ID="rev-17" Value="+2">کیفیت تصاویر تولید شده شفاف و رنگ‌ها نیز کاملا طبیعی و زنده هستند.</Sentence>
+    <Sentence ID="rev-18" Value="+1">از نقاط قوت اصلی صفحه نمایش این لپ‌تاپ‌ها می‌توان به روکش ضد بازتاب آن اشاره آن کرد که به کاربران این امکان را می‌دهد که بتوانند با لپ‌تاپ خود به راحتی در فضاهای پر نور و یا در زیر تابش مستقیم نور آفتاب کار کنند.</Sentence>
+    <Sentence ID="rev-19" Value="0">زاویه دید افقی رضایت بخش بوده ولی زاویه دید عمودی بسیار محدود است به طوری که اگر کمی از بالا و یا پایین به صفحه نمایش لپ‌تاپ نگاه کنید،  تغییر قابل توجهی در کیفیت رنگ‌های تولید شده،  مشاهده خواهید کرد.</Sentence>
+    <Sentence ID="rev-20" Value="0">در بالای این صفحه نمایش یک وب کم 2 مگاپیکسلی HD قرار دارد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">تصاویر گرفته شده با این وب کم از کیفیت رضایت بخشی برخوردارند.</Sentence>
+    <Sentence ID="rev-22" Value="0">• بلندگوها در بالای کیبورد،  دو بلندگوی استریوی دستگاه قرار دارند که در زیر یک گرید یک تکه تعبیه شده‌اند.</Sentence>
+    <Sentence ID="rev-23" Value="+1">این بلندگوها به تکنولوژی SRS Premium Sound PRO مجهز بوده و کیفیت صدای رضایت بخشی را ارائه می‌دهند.</Sentence>
+    <Sentence ID="rev-24" Value="+1">بلندی صدا نیز بسیار مناسب است ولی با این وجود،  علاقه‌مندان به موسیقی و تماشای ویدئو بهتر است که از بلندگوهای خارجی و یا هدفون استفاده کنند.</Sentence>
+    <Sentence ID="rev-25" Value="+1">• صفحه کلید و تاچ پد صفحه کلید 4540s از نوع Chiclet یا جزیره‌ای می‌باشد که هر کلید به صورت مجزا بر روی شاسی قرار گرفته تا کار تایپ کردن با آن آسان‌تر شود.</Sentence>
+    <Sentence ID="rev-26" Value="+2">به دلیل فضای زیادی که وجود داشته، در سمت راست صفحه کلید نیز یک صفحه کلید عددی خیلی خوب قرار گرفته تا کار وارد کردن اعداد خیلی آسان‌تر صورت گیرد.</Sentence>
+    <Sentence ID="rev-27" Value="0">در پایین صفحه کلید،  تاچ پد دستگاه قرار دارد.</Sentence>
+    <Sentence ID="rev-28" Value="+2">این تاچ پد که از نوع مالتی تاچ می‌باشد،  کاملا حساس و پاسخگو است و عملکردی عالی را از خود به نمایش می‌گذارد.</Sentence>
+    <Sentence ID="rev-29" Value="+1">لازم به ذکر است که صفحه کلید 4540s در برابر نفوذ مایعات مقاوم است.</Sentence>
+    <Sentence ID="rev-30" Value="+1">• سخت افزار داخلی سری 4540s از لحاظ سخت افزار داخلی از تنوع بسیار بالایی برخوردارند.</Sentence>
+    <Sentence ID="rev-31" Value="0">گران‌ترین مدل از نسل سوم پردازنده چهار هسته ای Intel Core i7 و ارزان‌ترین مدل از پردازنده های Intel Celeron استفاده می‌کنند.</Sentence>
+    <Sentence ID="rev-32" Value="0">مدل‌های میانی بیشتر از نسل دوم پردازنده های دو هسته ای Intel Core i5 و Intel Core i3 استفاده می‌کنند.</Sentence>
+    <Sentence ID="rev-33" Value="0">حافظه RAM این دستگاه‌ها نیز بین 4 تا 8 گیگابایت است.</Sentence>
+    <Sentence ID="rev-34" Value="0">از لحاظ پردازشگر گرافیکی،  سری 4540s به دو بخش تقسیم می‌شوند.</Sentence>
+    <Sentence ID="rev-35" Value="0">بخش اول مدل‌های ارزان‌تر هستند که از پردازشگرهای آنبرد Intel HD سری‌های 3000 و 4000 استفاده می‌کنند.</Sentence>
+    <Sentence ID="rev-36" Value="0">دسته دوم مدل‌های حرفه ای تر هستند که از کارت گرافیک مجزای AMD مدل HD 7650M استفاده می‌کنند که قدرت پردازشی بسیار بالایی دارد.</Sentence>
+    <Sentence ID="rev-37" Value="0">چنین تنوع سخت افزاری،  سری ProBook 4540s را برای تمام کاربران چه سطح مبتدی و چه حرفه ای مناسب کرده است.</Sentence>
+    <Sentence ID="rev-38" Value="0">• باتری بسته به سخت افزار داخلی،  سری 4540s با دو نوع باتری لیتیوم-یونی 6 و 9 سلولی ارائه می‌شوند.</Sentence>
+    <Sentence ID="rev-39" Value="0">در حالت آماده به کار باتری 6 سلولی می‌تواند تا حداکثر 7 ساعت و باتری 9 سلولی تا حداکثر 15 ساعت شارژدهی کند.</Sentence>
+    <Sentence ID="rev-40" Value="0">مسلما این میزان شارژدهی با مصارف روزانه بسیار کمتر خواهد بود.</Sentence>
+    <Sentence ID="rev-41" Value="+2">• جمع بندی سری 2012 خانواده لپ‌تاپ‌های ProBook S کمپانی HP،  لپ‌تاپ‌های بیزینسی (اداری/مهندسی) فوق‌العاده هستند که نسبت به مدل‌های گذشته تغییرات بسیار خوبی داشته‌اند.</Sentence>
+    <Sentence ID="rev-42" Value="+2">طراحی فوق‌العاده با روکش فلزی،  امکانات امنیتی بسیار بالا و پورت‌های فراوان،  مدل 15.6 اینچی HP 4540s را به یک لپ‌تاپ ایده آل برای مدیران،  مهندسین و در مجموع کاربران اداری تبدیل کرده است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>مجهز به نسل سوم پردازنده‌های Core اینتل (Ivy Bridge)</Advantage>
+    <Advantage>طراحی فوق‌العاده</Advantage>
+    <Advantage>کیفیت ساخت بالا</Advantage>
+    <Advantage>دارای پورت‌های فراوان</Advantage>
+    <Advantage>کیبورد با کیفیت و مقاوم در برابر ریختن مایعات</Advantage>
+    <Advantage>مجهز به تکنولوژی صوتی SRS Premium Sound PRO</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="حسين شيخ صالحي " Value="+2">
+      <Sentence ID="gr-1-1" Value="0">سلام
+من بايد يک نکته رو تو نظر قبلي اصلاح کنم اونم اينکه بجاي درايور اثر انگشت (finger print) به اشتباه نوشتم درايور بلوتوث.</Sentence>
+      <Sentence ID="gr-1-2" Value="+2">بلوتوث اين لپ تاپ عالي عمل ميکنه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="ابوالفضل شهاب الدين " Value="+2">
+      <Sentence ID="gr-2-1" Value="0">سلام .</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">اين لب تاب از نظر گرافيک خيلي خوبه و همچنين سيستم خنک کنندگي خوبي داره فقط وقتي بازي سنگين با لب تاب ميکنيد کمي از هواکش گرما بيرون ميده که طبيعي هستش و بدنه خيلي خوبي داره.</Sentence>
+      <Sentence ID="gr-2-3" Value="0">ممنون از ديجي کالا از اطلاع رساني خوبش.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="آرش فخيمي " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">بسيار زيبا و کارامد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="علي ياسمي " Value="+2">
+      <Sentence ID="gr-4-1" Value="+2">حدود 5 ماهه خريدمش و واقعا ازش راضيم هيچ چيز کم نداره.</Sentence>
+      <Sentence ID="gr-4-2" Value="0">بخرين پشيمون نميشين البته بايد از راهنمايي هاي ديجي کالا هم تشکر کنم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="داود محمّدپور " Value="+2">
+      <Sentence ID="gr-5-1" Value="+2">بايد بگم خريد کردن از ديجي کالا تجربه فوق العاده جديد و خوبيه که به همه توصيه ميکنم .</Sentence>
+      <Sentence ID="gr-5-2" Value="0">اميدوارم در راهي که طي مي کنيد هميشه موفق باشيد.</Sentence>
+      <Sentence ID="gr-5-3" Value="+2">در مورد اين لپ تاپ بايد بگم براي کساني که اطلاعاتشون براشون اهميت زيادي داره و همواره نياز دارن که همراهشون باشه اين مدل لپ تاپ خيلي مناسبه .</Sentence>
+      <Sentence ID="gr-5-4" Value="+2">شکيل ساده با امکانات زياد و مقرون به صرفه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="هادي پورهاشم " Value="+2">
+      <Sentence ID="gr-6-1" Value="0">سه ماهي ميشه اين لب تاپ از ديجي کالا  خريدم.</Sentence>
+      <Sentence ID="gr-6-2" Value="+2">من واقعا ازش راضي هستم .</Sentence>
+      <Sentence ID="gr-6-3" Value="+1">ممنون ديجي کالا بخاطر تحويل سريع و آسان.</Sentence>
+      <Sentence ID="gr-6-4" Value="+1">به قول دوستمون ديجي کالا يک e bay در سطح مليه که رو دستش نيومده .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="سيد رضا موسوي " Value="+1">
+      <Sentence ID="gr-7-1" Value="0">سلام به همگي.</Sentence>
+      <Sentence ID="gr-7-2" Value="0">من اين لپ تاپ رو قبل عيد از همين سايت خريدم.</Sentence>
+      <Sentence ID="gr-7-3" Value="+1">از خريدي که کردم راضيم.</Sentence>
+      <Sentence ID="gr-7-4" Value="0">واقعا لپ تاپ خوبي هستش ولي هر چي ميگردم نمي تونم درايور finger printش رو پيدا بکنم از سايت hp هم دانلود نميشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="محمد حق شناس مهرآبادي " Value="+1">
+      <Sentence ID="gr-8-1" Value="+1"> اگه درايور وبکم رو نصب کنين از کيفيت اچ دي وبکم لذت خواهيد برد..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="حسين شيخ صالحي " Value="+1">
+      <Sentence ID="gr-9-1" Value="0">من اين لپ تاپ رو تازه از ديجي کالا بعد از دو سه هفته جستجو بين مدلهاي مختلف گرفتم.</Sentence>
+      <Sentence ID="gr-9-2" Value="+2">کيبوردش واقعا عاليه.</Sentence>
+      <Sentence ID="gr-9-3" Value="+1">وزنشم نسبت به اندازه صفحه نمايش خوبه.</Sentence>
+      <Sentence ID="gr-9-4" Value="+2">در کل ميشه گفت لپ تاپ خيلي خوبيه و آدم رو حداقل واسه دو سه سال ساپورت ميکنه.</Sentence>
+      <Sentence ID="gr-9-5" Value="-1">البته يه مشکل کوچک داره اونم وقتي به شارژ وصله يه کم احساس شوک ايجاد ميکنه.</Sentence>
+      <Sentence ID="gr-9-6" Value="0">در ضمن درايور بلوتوثش رو نصب کردم اما بلوتوث کار نميکنه
+اما باز هم تکرار ميکنم واقعا ارزش خريدن داره.</Sentence>
+      <Sentence ID="gr-9-7" Value="+2">زيباييش کم نظيره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="زاهدي " Value="+1">
+      <Sentence ID="gr-10-1" Value="0">سلام،  من هم اين مدل رو تقريبا 5 ماه هست که خريداري کردم،  واقعا عاليه.</Sentence>
+      <Sentence ID="gr-10-2" Value="-1">فقط تنها مشکلي که داره اينه که داغ ميکنه !</Sentence>
+      <Sentence ID="gr-10-3" Value="0">فقط همين خيلي ناراحتم ميکنه
+هيچ مشکل ديگه اي نداره از همه چيزش راضيم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="زهير توکلي " Value="-2">
+      <Sentence ID="gr-11-1" Value="-2">کيفيت بدنه بسيار پايين .</Sentence>
+      <Sentence ID="gr-11-2" Value="-2">دوربين بي کيفيت.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="محسن درخشان " Value="+2">
+      <Sentence ID="gr-12-1" Value="+2">بعد از شش ماه کار کردن با اين مدل مي‌تونم بگم که حرف نداره.</Sentence>
+      <Sentence ID="gr-12-2" Value="+1">البته اين نظر شخصي منه چون کلا خيلي از محصولات اچ پي راضيم.</Sentence>
+      <Sentence ID="gr-12-3" Value="+2">قبل از اين هم يه پروبوک 4520 داشتم که اونم عالي بود.</Sentence>
+      <Sentence ID="gr-12-4" Value="+2">از همه نظر کارش درسته کيفيت نمايش،  داغ هم نمي‌کنه،  لگ هم نداره،  هنگ نداره،  عمر باطري 6 ساعت،  طراحي کلاسيک،  در ضمن يکي از مهمترين ويژگيهاي لپ‌تاپها گه کمتر راجع بهش صحبت ميشه مچ بودن سخت‌افزار و يکپارچه عمل کردنشونه که در بسياري از مدلها ديده نميشه.</Sentence>
+      <Sentence ID="gr-12-5" Value="0">که در سري پروبوک به وضوح ديده ميشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="ازاد حسيني " Value="+2">
+      <Sentence ID="gr-13-1" Value="+2">سه ماهي ميشه که با همکاري يکي از دوستان اين لب تاپ رو خريدم البته با وسواس زياد هرچي تو ديجي کالا گشتيم در اين رنج قيمت بهتر و کاملتر از اون نبود انصافا هم چه از نظر ظاهري و چه از نظر داخلي حرف نداره قيمتش هم  از بازار ارزونتر بود از ديجي کالا بابت سايت خوبش ممنون </Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="جواد رضائي " Value="+2">
+      <Sentence ID="gr-14-1" Value="+2">من هم اين لپ تاپ را براي خواهر خريدم خيلي ازش راضيه و خوشحالم که خريد خوبي براش داشتم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="اشکان عربزاده " Value="-1">
+      <Sentence ID="gr-15-1" Value="-1">قدرت cpu اين لپ تاپ پايينه پيشنهاد من لپ تاپ ACER ASPIRE V3 است</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="مهران ذکريايي " Value="+2">
+      <Sentence ID="gr-16-1" Value="+2">لپ تاپ بسيار خوب با قيمت مناسبي است.</Sentence>
+      <Sentence ID="gr-16-2" Value="+1">سرعت و عملکرد خوبي دارد.</Sentence>
+      <Sentence ID="gr-16-3" Value="+1">کيفيت ساخت خوبي هم دارد.</Sentence>
+      <Sentence ID="gr-16-4" Value="+1">يکي از لپ تاپ هاي خوب شرکت HP هستش.</Sentence>
+      <Sentence ID="gr-16-5" Value="0">در کل لپ تاپ خيلي خوبيه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="مصطفي شفيعي " Value="+2">
+      <Sentence ID="gr-17-1" Value="0">2ماه ميشه که اين لپ تاپ رو خريدم.</Sentence>
+      <Sentence ID="gr-17-2" Value="+2">حرف نداره .</Sentence>
+      <Sentence ID="gr-17-3" Value="0">فقط ايني که من دارم رم 8 گيگه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="مهران کربلايي " Value="+2">
+      <Sentence ID="gr-18-1" Value="0">من يک هفته پيش اين لپ تاپ رو خريدم .</Sentence>
+      <Sentence ID="gr-18-2" Value="+2">فوق العادس .</Sentence>
+      <Sentence ID="gr-18-3" Value="+2">توي رنج قيمتش بهترينه ..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-19" Holder="معين ييلاق بيگي " Value="+2">
+      <Sentence ID="gr-19-1" Value="0">سلام به همه.</Sentence>
+      <Sentence ID="gr-19-2" Value="0">منم چند روزي ميشه که گرفتم.</Sentence>
+      <Sentence ID="gr-19-3" Value="+2">بنظرم عاليه.</Sentence>
+      <Sentence ID="gr-19-4" Value="+1">تو این وضعيت نابسماني بازار من اين لپ تاپ رو انتخاب کردم و از خريدم راضي هستم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-20" Holder="ميثم فهميده " Value="+1">
+      <Sentence ID="gr-20-1" Value="+1">من سه ماهي ميشه که اين لپ تاپ رو خريدم ميشه گفت لپ تاپ کم نقصيه.</Sentence>
+      <Sentence ID="gr-20-2" Value="+1">تمامي بازي هاي جديدو توش راحت بازي کردم .</Sentence>
+      <Sentence ID="gr-20-3" Value="+2">کيفيت دوربينش نسبت به لپ تاپ هاي ديگه خيلي بهتره .</Sentence>
+      <Sentence ID="gr-20-4" Value="0">اگه يکم صفحه شفاف تر و پر نورتر ميشد ديگه هيچ نقصي نداشت.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-21" Holder="علي وطن خواه " Value="+2">
+      <Sentence ID="gr-21-1" Value="+2">لپ تاپ بسيار عالي و کارآمدي ميباشد و هم به درد خونه و هم محل کار ميخوره .</Sentence>
+      <Sentence ID="gr-21-2" Value="+1">بخوام تو يه جمله بگم به هيچي نه نميگه .</Sentence>
+      <Sentence ID="gr-21-3" Value="+2">از لحاظ ظاهري هم بسيار شيک ميباشد و همچنين با نصب يک برنامه که سايت HP وجود داره کيفيت صداي فوق العاده اي پيدا ميکنه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-22" Holder="morteza rakhshani nejad " Value="+2">
+      <Sentence ID="gr-22-1" Value="+2">من دو ماهي هست خريدمش بسيار لپ تاپ خوبيه و نه داغ ميکنه و نه هيچ مشکلي داره و گرافيک و سي پي يوشم بسيار جديد و قدرتمند هست و در نوع خودش خيلي زيبا و کارآمد هست تا وقتي باهاش کار نکني نميدوني چقدر خوش ساخت و با کيفيت و قدرتمند هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-23" Holder="ali a " Value="+1">
+      <Sentence ID="gr-23-1" Value="+1">لپ تاپ خوبيه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-24" Holder="محمد امين روانسحر " Value="+2">
+      <Sentence ID="gr-24-1" Value="+2">واقعا لپ تاپ فوق العاده اي هستش
+منم يه هفته پيش اين لپ تاپ رو از ديجي کالا تهيه کردم و روش ويندوز 8 ريختم و تمام درايور هاي لازم رو از خود سايت اچ پي دانلود و نصب کردم و هيچ درايور نصب نشده اي الان ندارم حتي فينگر پرينت و orination sensor هم درست کار ميکنند و تو اين يه هفته اي که اين لب تاب دستمه هيچ کندي و داغ کردني ازش نديدم حتي موقعي که باهاش فيلم اچ دي هم نگاه مي کنم هيچ باد گرمي از فن اين لب تاب خارج نميشه 
+با تشکر</Sentence>
+    </General_Review>
+    <General_Review ID="gr-25" Holder="هادي شيخي " Value="0">
+      <Sentence ID="gr-25-1" Value="0">2 ماهي ميشه دارم ميگردم که يه لپ تاپ خوب پيدا کنم  بخرم  .</Sentence>
+      <Sentence ID="gr-25-2" Value="0">هر لپ تاپي ميبينم دوباره ميرسم به اين 
+پرو بوک .</Sentence>
+      <Sentence ID="gr-25-3" Value="0">ميخوام بخرمش.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-26" Holder="معين صادقي زاده " Value="+2">
+      <Sentence ID="gr-26-1" Value="+2">لپ تاپي بسيار خوب !</Sentence>
+      <Sentence ID="gr-26-2" Value="+1">که از پس همه کاري بر مي آيد !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-27" Holder="آرش فخيمي " Value="+2">
+      <Sentence ID="gr-27-1" Value="+2">لپ تاپ خيلي خوبيه از همه نظر حتما به زودي يکيشو از ديجي کالا سفارش ميدم ..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-28" Holder="جواد رحيم پور " Value="+2">
+      <Sentence ID="gr-28-1" Value="+2"> من حدود دو ماهه که اين لب تاپ رو خريدم و بايد با افتخار بگم که  تمام  خواسته هاي منو براورده کرد،  من بسيار روي  لب تاپ حساس هستم و بسيار کيفيت و کارکرد خوب و بدون مشکل برام مهمه بايد بگم اين مدل يکي از بهترين مدلهاست و از تمام مشخصات بي نظيرش که بگذريم  شکل ظاهريه بسيار شکيلي داره و به جرات ميگم  از نظر استايل و زيبايي چيزي رو دستش نيست.</Sentence>
+      <Sentence ID="gr-28-2" Value="+2">cpu  هم که نسل سومه و در تستي که من کردم  واقعا از لحاظ پروسس متحير شدم ،  به هيچ عنوان  داغ نميکنه و من اصلا با اين مشکل تا به حال برخورد نکردم حتي در اجراي سنگين ترين بازيهاي گرافيکي.</Sentence>
+      <Sentence ID="gr-28-3" Value="0">من تمام  خريدهاي خودمو از ديجي کالا انجام ميدم.</Sentence>
+      <Sentence ID="gr-28-4" Value="0">حتي لب تاپ قبليمو که سفارش دادم بدون گارانتي بود که بعد از تحويل متوجه شدم فنش خوب کار نميکنه که فرداش فرستادم و به کل برام يکي ديگه فرستادن.</Sentence>
+      <Sentence ID="gr-28-5" Value="+2">واقعا ممنونم ازت ديجي کالا ،  دوستان ديجي کالا يک e bay  در سطح مليه که رو دستش نيومده و نخواهد آمد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-29" Holder="سيد مرتضي طاهري " Value="+1">
+      <Sentence ID="gr-29-1" Value="-1">اول خودم قصد داشتم اين مدل رو تهيه کنم اما بنا به دلايلي از جمله عدم وجود بک لايت که خيلي براي من مهم بود پشيمون شدم.</Sentence>
+      <Sentence ID="gr-29-2" Value="0">اما اون رو به يکي از دوستان معرفي کردم و اون تهيه کرد و باهاش کار کردم.</Sentence>
+      <Sentence ID="gr-29-3" Value="+1">گذشته از ظاهر شيک و سنگينش کيفيت بدنه موقعي که اون رو در دست داريد احساس ميشه.</Sentence>
+      <Sentence ID="gr-29-4" Value="+1">حدود 3 ساعت به طور مداوم کار گرافيکي و مونتاژ سنگين باهاش انجام داديم و به خوبي از پس پردازش اون بر اومد.</Sentence>
+      <Sentence ID="gr-29-5" Value="0">واقعا يک لپ تاپ از هر جهت کامل فقط تنها مشکلش عدم وجود بک لايت بود که خوب شايد اگر بک لايت قرار ميدادند ديگر باتري 7 ساعته نداشت!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-30" Holder="مصطفي داور " Value="-1">
+      <Sentence ID="gr-30-1" Value="-1">لپ تاپ خوبيه ولي نسبت به مشخصاتش به صرفه نيست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-31" Holder="قدير شيرزايي " Value="+1">
+      <Sentence ID="gr-31-1" Value="+2">لب تابهاي کلاس پروبوک  اچ پي واقعا زيباست مخصوصا 4530s البته نسبت به قيمتي که دارن.</Sentence>
+      <Sentence ID="gr-31-2" Value="0">خودم يه اچ پي ميني دارم که حدود 5 تا 6 ساعت راحت جواب ميده اما اون سخت افزار و صفحه نمايشش به اين غولي نيست.</Sentence>
+      <Sentence ID="gr-31-3" Value="0">پروبوک 4530 هم داشتم با سي پي يو core i7 اما 3 ساعت بيشتر شارژدهي نداشت.</Sentence>
+      <Sentence ID="gr-31-4" Value="+1">ناگفته نمونه با اينکه ساکن تهران نيستم و برام هزينه ي پستي اعمال ميشه هميشه از ديجي کالا خريد ميکنم به چند دليل از همه مهمتر کالاي اصل و درجه يک تحويل ميده 2- بسته بنديش عاليه  3- 48 ساعت مهلت تست داره (با اينکه بيش از 30 قلم کالا از جمله لب تاب ،  هارد،  دوربين.</Sentence>
+      <Sentence ID="gr-31-5" Value="+1">خريدم يکبارم به مشکل نخوردم) هميشه هم از قيمت بازار پايينتره
+پس با خيال راحت کالاتون رو خريداري کنيد  </Sentence>
+    </General_Review>
+    <General_Review ID="gr-32" Holder="رضا غلامي " Value="+2">
+      <Sentence ID="gr-32-1" Value="+2">اين لپ تاپ حرف نداره
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-33" Holder="مصطفي منجزي " Value="+1">
+      <Sentence ID="gr-33-1" Value="+1">لپ تاپ خوبيه, از همه مهم تر سبک بودنش هست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-34" Holder="امين طالبي " Value="+2">
+      <Sentence ID="gr-34-1" Value="+2">HP يکي از بهترين برند ها در ساخت لپ تاپ است .</Sentence>
+      <Sentence ID="gr-34-2" Value="0">پس محصول بد نميسازد .</Sentence>
+      <Sentence ID="gr-34-3" Value="+2">با اين لپ تاپ کار کردم عاليه.</Sentence>
+      <Sentence ID="gr-34-4" Value="+2">بدليل وجود کارت گرافيک عالي تصاوير را به خوبي پردازش ميکند .</Sentence>
+      <Sentence ID="gr-34-5" Value="0">پيشنهاد ويژه ي دي جي کالا ..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-35" Holder="ک " Value="+2">
+      <Sentence ID="gr-35-1" Value="0">من 15 شهريور خريدم.</Sentence>
+      <Sentence ID="gr-35-2" Value="+1">براي گيم گرفتمش و رقيبش asus k53 هست که البته cpu اين جديدتره.</Sentence>
+      <Sentence ID="gr-35-3" Value="+2">بايد بگم واقعا عاليه،  از نظر CPU که نسل سوم هست و گرافيکش که 2 هست.</Sentence>
+      <Sentence ID="gr-35-4" Value="+1">برخلاف دوستان بايد بگم اين مدل داغ نميکنه و بازي هاي سنگيني که باهاش اجرا کردم مثل بتلفيلد يا  کرايسيس 2 رو هم خوب جواب داد و هم داغ نميکنه (برخي مدلاي HP داغ ميکنن).</Sentence>
+      <Sentence ID="gr-35-5" Value="+2">بدنه آلومينيوم و سبک بودنش حرف نداره.</Sentence>
+      <Sentence ID="gr-35-6" Value="-1">تنها عيبي که داره،  بهتر بود صفحه کليدش نور پس زمينه ميداشت.</Sentence>
+      <Sentence ID="gr-35-7" Value="-1">البته وبکمش واقعا HD نيست.</Sentence>
+      <Sentence ID="gr-35-8" Value="+1">اسپيکراش صداي مطلوبي دارن چون SRS دارن.</Sentence>
+      <Sentence ID="gr-35-9" Value="0">فقط نتونستم Fingerprint رو فعال کنم.</Sentence>
+      <Sentence ID="gr-35-10" Value="0">هرچند درايورشو دانلود کردم (بايد ويندوزش اوريجينال باشه).</Sentence>
+      <Sentence ID="gr-35-11" Value="+2">من واقعا ازش راضي هستم و عاليه.</Sentence>
+      <Sentence ID="gr-35-12" Value="0">از ديجي کالا هم ممنونم.</Sentence>
+      <Sentence ID="gr-35-13" Value="0">در يک کلام به قول دوستمون probook 4540 Is the best choice</Sentence>
+    </General_Review>
+    <General_Review ID="gr-36" Holder="محمد حق شناس مهرآبادي " Value="0">
+      <Sentence ID="gr-36-1" Value="0">آقاي سيد سجاد حيدري شما از کجا ميدوني؟</Sentence>
+      <Sentence ID="gr-36-2" Value="+1">کلا اين مدل نوت بوک 2 ماهه اومده، من که دارم هيچ گونه مشکلي نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-37" Holder="amirhosin " Value="+2">
+      <Sentence ID="gr-37-1" Value="+2">من لب تاب رو خريدم و بسيار راضيم.</Sentence>
+      <Sentence ID="gr-37-2" Value="0">قصد اصلي من براي بازي بود.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-38" Holder="سيد سجاد حيدري " Value="-1">
+      <Sentence ID="gr-38-1" Value="-1">خوبه اما متاسفانه خرابي هاي هاردش زياده!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-39" Holder="حميد رضا خاني " Value="+2">
+      <Sentence ID="gr-39-1" Value="+2">سلام 
+من بعد از چند روزي جستجوي جدي براي پيدا کردن يه لپ تاپ 2 هفته قبل به صورت اينترنتي اين لپ تاپ رو  خريدم واقعا عالي پيشنهاد من به شما هم خريدن اين لپ تاپ.</Sentence>
+      <Sentence ID="gr-39-2" Value="0">ممنون ديجي کالا </Sentence>
+    </General_Review>
+    <General_Review ID="gr-40" Holder="عباس " Value="+1">
+      <Sentence ID="gr-40-1" Value="+1">من اين لپ تاپ رو خريدم و ازش هم راضيم.</Sentence>
+      <Sentence ID="gr-40-2" Value="0">باهاش کار کردم درسته که داغ ميکنه ولي با اين امکاناتي که روش داره بايد داغ کنه اگه اين طور نباشه بايد بهش شک کرد .</Sentence>
+      <Sentence ID="gr-40-3" Value="+1">ولي داغ کردن لب تاب خيلي عاديه و هيچ  مشکلي به وجود نمياره خيالتون راحت باشه  .</Sentence>
+      <Sentence ID="gr-40-4" Value="+2">گرافيکش که ديگه حرف نداره .</Sentence>
+      <Sentence ID="gr-40-5" Value="+1">صداش به نسبت  لبتاب هاي رديف خودش بالاست .</Sentence>
+      <Sentence ID="gr-40-6" Value="0">در کل بايد گفت که :
+Its the best choice.</Sentence>
+      <Sentence ID="gr-40-7" Value="0">thanks digikala 
+                        </Sentence>
+    </General_Review>
+    <General_Review ID="gr-41" Holder="مجيد رجبي " Value="+2">
+      <Sentence ID="gr-41-1" Value="+2">سلام من يک هفته هست که اين لپ تاب رو خريدم همه چيزش عاليه و بهترين نکته آن صفحه نمايش ضد انعکاس نور هست که واقعا عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-42" Holder="محمد حق شناس مهرآبادي " Value="+2">
+      <Sentence ID="gr-42-1" Value="+2">من اين نوت بوک رو خريدم از ديجي کالا 
+واقعا نوت بوک عالي اي هست از هر نظر که فکرشو بکنيد!</Sentence>
+      <Sentence ID="gr-42-2" Value="+1">توي خريدش شک نکنيد 
+ممنون ديجي کالا</Sentence>
+    </General_Review>
+    <General_Review ID="gr-43" Holder="عباس باسره " Value="-1">
+      <Sentence ID="gr-43-1" Value="-1">علت داغ کردنش ميتونه هارد سنگين اون باشه که عمدتا هم هارد هاي wd هستن که با گذاشتن يه کولينگ حل ميشه ؛ لپتاپي که براي کار مهندسيست با مشکلات زيادي مواجه ميشه پس داشتن ديسک درايور ها الزاميست چون امکان داره با مشکلات متعدد نرم افزاري  نياز به نصب ويندوز داشته باشه و وقت زيادي براي تهيه ي اون نباشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-44" Holder="جرجاني " Value="+1">
+      <Sentence ID="gr-44-1" Value="+1">من يه 4530 دارم از همه لحاظ عاليه اصلا هم داغ نميکنه 4540 هم ورژن جديد همون هستش فکر نميکنم مشکل داغ کردن داشته باشه،  hp هاي قديمي مشکل داغ کردن داشتن ولي جديدا ندارن.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-45" Holder="هادي عطايي " Value="-1">
+      <Sentence ID="gr-45-1" Value="-1">همه چيزش عالي ولي زود داغ مي کنه دير سرد مي شه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="مجتبي حبيبي" Score="81" Voters="121" Value="+1">
+      <Sentence ID="cr-1-1" Value="+1">من اين لپ تاپ رو دو هفته است که خريدم قبل از اينکه بخرم راجبش خيلي تحقيق کردم و از بين msi cx61 و asus k45vd  اينو انتخاب کردم :hp 4540-a (از ديجي کالا هم ممنونم خيلي کمکم کرد) .</Sentence>
+      <Sentence ID="cr-1-2" Value="+2">hp پرفروشترين مارک لپ تاپ تو دنياست و انصافا لپتاپ هاي خيلي محکمي ميزنه و کلاس پروبوک علاوه بر استحکام شيکم هستن.</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">راجع به سخت افزارش بگم گرافيکش عاليه حتي واسه کاراي سنگين.</Sentence>
+      <Sentence ID="cr-1-4" Value="+2">اما وقتي خيلي زياد ازش کار بکشي يه کم داغ ميشه cpu مثل i7 نميشه اما خيلي کارش درسته سرعتش واقعا قابل قبوله.</Sentence>
+      <Sentence ID="cr-1-5" Value="+2">باطريش هم فوق العاده است راحت 7-6 ساعتو ساپورت ميکنه.</Sentence>
+      <Sentence ID="cr-1-6" Value="-1">بديش هم ويندوزشه که اصلي نيست و وسايل جانبي نداره مثلا کيف.</Sentence>
+      <Sentence ID="cr-1-7" Value="-1">کيفيت دسکتاپ چنگي به دل نميزنه.</Sentence>
+      <Sentence ID="cr-1-8" Value="0">دوستان توجه کنيد که i5 جديد اينتل فرقي با قديميا تو سرعت پردازش ندارن فقط يه هسته گرافيکي مجزا تو خود cpu که کاراي سبک رو با مصرف انرژي کم ميکنه پس اگه شارژ دهي براتون مهم نيست از همون قديميا استفاده کنيد ارزون تر دستتون رو ميگيره.</Sentence>
+      <Sentence ID="cr-1-9" Value="+1">در مجموع ارزش پولي که بابتش ميديد رو داره.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="ابوالفضل گنجي" Score="20" Voters="34" Value="+1">
+      <Sentence ID="cr-2-1" Value="+2">لپ تاپ فوق العاده ايه و به نسبت قيمتش در مقايسه با مدل هاي مشابه مارک اي سوس به صرفه تره.</Sentence>
+      <Sentence ID="cr-2-2" Value="-1">تنها مشکلي که من در اين مدل ديدم  اينه که وقتي به برق وصله در بدنه لپ تاب يه احساس ضعيف شوک برق گرفتگي وجود داره که اينطور که من تحقيق کردم طبيعيه!</Sentence>
+      <Sentence ID="cr-2-3" Value="0">خود شرکت هم در يه مقاله اي گفته بود که بايد به برق ارت دار وصل بشه و اين نوسان از طريق خروجي ارت حل ميشه.</Sentence>
+      <Sentence ID="cr-2-4" Value="0">البته تو سري هاي مختلف از مارک هاي مختلف که بدنه فلزي داشتن هم اين مشکل وجود داشته ولي به هرحال شايد نشه اون رو يه مشکل دونست.</Sentence>
+      <Sentence ID="cr-2-5" Value="0">بالاخره وقتي همه شرکتها روي محصولاتشون کابل ارت دار ميذارن به فکر خنثي کردن اين نوسانات هستن ديگه و خيلي مشکل ساز نيست.</Sentence>
+      <Sentence ID="cr-2-6" Value="0">سوالي که براي من مطرحه اينه که آيا در بلند مدت استفاده از اين لپ تاپ با برق بدون ارت ميتونه مشکل ساز باشه يه نه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="امين زينالي" Score="19" Voters="35" Value="+2">
+      <Sentence ID="cr-3-1" Value="+2">دوستان اين مدل علاوه بر زيبايي منحصر بفرد و مات بودن صفحش که خيلي مناسب براي کار زير نور آفتابه ،  واقعا قدرت بالايي تو پردازش نرم افزارهاي مهندسي داره ،  واسه گيم هم که عاليه فقط توصيم اينه که براي مواقعي که ميخواين گيم بازي کنين حتما از يه کول پد مناسب استفاده کنين ؛ اگه ميخوايد عمر لپ تاپتون هم زياد باشه بيشتر از 2 ساعت مداوم از گرافيکش کار نکشيد .</Sentence>
+      <Sentence ID="cr-3-2" Value="0">ضمنا خرابي هارد هم که ميگفتن و يا داغ کردن واسه من که اصلا اتفاق نيافته.</Sentence>
+      <Sentence ID="cr-3-3" Value="+1">اچ پي تنها مدلي هستش که ماندگاريش بالاست و خرابي هاش  هم قابل حل شدنه .</Sentence>
+      <Sentence ID="cr-3-4" Value="+1">لذت ببريد .</Sentence>
+      <Sentence ID="cr-3-5" Value="0">توي يک هفته کار با اين مدل هيچ گونه اثري از کرش يا کم شدن سرعت عليرغم نصب بازي هاي سنگين و انواع نرم افزارهاي مهندسي نديدم ،  اين مدل تنها مشکلش که زيادم به چشم نمياد عدم وجود نور پس زمينه صفحشه .</Sentence>
+      <Sentence ID="cr-3-6" Value="+1">4540 با توجه به سوييچ کردن گرافيک فشار زيادي به گرافيک قدرتمند AMD نمياره .</Sentence>
+      <Sentence ID="cr-3-7" Value="+2">به غير از اون موردي که گفتم صفحه کليدش واقعا فوق العادست ،  وقتي تايپ ميکني حس خيلي خوبي رو بهت منتقل ميکنه ،  دکمه هاش نه زياد بزرگن و نه کوچيک.</Sentence>
+      <Sentence ID="cr-3-8" Value="+2">در حالت کلي واسه دانشجوهاي رشته هاي مهندسي انتخاب عالي هستش .</Sentence>
+      <Sentence ID="cr-3-9" Value="0">در آخر لازم ميدونم بگم که 4540 اصلي فقط با هارد 640 عرضه شده.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="بهزاد مهري" Score="3" Voters="3" Value="+1">
+      <Sentence ID="cr-4-1" Value="+1">اين لپ تاب رو من چند روز پيش از ديجي کالا خريداري کردم در نگاه اول طراحي اون بسيار جالب و شيکه و بدنه آلومنيومي اون مقاومت خوبي داره کيبورد و تاچ واقعا عاليه و يکي از نقاط قوته اين مدله صفحه نمايش کيفيت متوسط رو به بالا داره و چون ماته توي محيط هاي خارج از منزل کاملا جواب ميده تنها نکته منفي نبود سي دي درايور دستگاه بود که واقعا اذيت شدم (سايت HP خيلي گنگ و سرعت پايينه!</Sentence>
+      <Sentence ID="cr-4-2" Value="+1">) توصيه ي من براي کساني که دنبال يه لپ تاب به اصطلاح ميانه قيمت ميگردن اينه که در خريد اين مدل شک نکنن چون مطمئنم بعد از ديدن لپ تاب حتما از انتخاب خودتون خوشحال خواهيد بود و ديگه اين که هنگام خريد با سرويس نصب ويندوز و درايور خريداري کنيد تا دچار مشکل نشيد(به علت داشتن فينگر تاچ و..</Sentence>
+      <Sentence ID="cr-4-3" Value="0">نصب درايورها و ويندوز يک مقداري دردسر داره) من با قيمتي گرفتم از ديجي کالا که واقعا توي ايران هيچ جا به اين قيمت نتونستم پيدا کنم البته پيشنهاد شگفت انگيز خورده بود</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="محسن" Score="1" Voters="3" Value="-2">
+      <Sentence ID="cr-5-1" Value="-2">با سلام،  با اينکه بنده از طرفدارهاي پر و پا قرص اچ پي چه در زمينه سرور و چه لپتاپ بودم و از تمام خريدهاي اچ پي که داشتم راضي بودم اين لپ تاپ رو يکي از بدترين محصولات اين شرکت ديدم در زمينه طراحي، اگر چه بدنه شکيل و آلمينيوميش در نگاه اول جذاب بنظر مياد اما ايرادات طراحي بد ترکپدش که هر بار کليک کردن دکمه باعث برخورد با لبه فلزي قسمت پايين ترکپد ميشه،  نبود چراغ هاي نمايش خاموش روشن،  شارژ،  وايرلس در لبه بيروني،  بطوري که اگه درب لپ تاپ بسته باشه شما عملا نميتونيد ببينيد لپ تاپ روشنه يا خاموش،  قرار دادن چراغ در بالاي درگاه شارژ که هر براي ديدن وضعيتش بايد يا خودتون خم بشيد يا لپ تاتون رو خم کنيد!</Sentence>
+      <Sentence ID="cr-5-2" Value="-2">و اينکه فراموش کردن براي نمايش خاموش يا روشن بودن نامبرلاک چراغ قرار بدن و  فقط  براي کپس لاک اين چراغ تعبيه شده و بدتر از همه اينکه قرار داشتن هارد در سمت چپ ترکپد که باعث داغ شدن بيش از حد تاچ پد ميشه منو نسبت به اين محصول از سري بيزنس مايوس کرد،  پس حتما قبل از خريد آنلاين سعي کنيد حد المقدور درست بررسيش کنيد تا بعد پشيمون نشيد </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-6" Holder="محمد سعيد بهمني" Score="3" Voters="9" Value="-1">
+      <Sentence ID="cr-6-1" Value="0">سلام.</Sentence>
+      <Sentence ID="cr-6-2" Value="0">من تقريبا يک سالي ميشه که 4520 اين سري رو دارم .</Sentence>
+      <Sentence ID="cr-6-3" Value="-1">خوب تقريبا همه چيش عالي هست به جز داغ شدن غير عادي اون که همين قضيه باعث آسيب ديدن چيپ گرافيکي لپ تاپ يکي از دوستانم شد که همين سري رو داشت و الان درگيرش هست و ميخواد ردش کنه.</Sentence>
+      <Sentence ID="cr-6-4" Value="-1">شايد بشه گفت براي بازي مناسب نيست .</Sentence>
+      <Sentence ID="cr-6-5" Value="+1">البته خوب با وجود گرافيک قوي ميشه گفت حيفه !</Sentence>
+      <Sentence ID="cr-6-6" Value="-1">دليل من داغ شدن اون هست و البته داغ شدن سيستم بعد از حدود يک ساعت و خورده اي بازي !</Sentence>
+      <Sentence ID="cr-6-7" Value="+1">البته اين موضوع رو بگم که تمام بازي ها رو راحت بالا آورد و بدون لگ و هنگ اجرا کرد.</Sentence>
+      <Sentence ID="cr-6-8" Value="+2">انصافا توي اين زمينه عالي بود.</Sentence>
+      <Sentence ID="cr-6-9" Value="-1">احساس ضعيف شوک برق روي بدنه رو هم منم تاييد مي کنم.</Sentence>
+      <Sentence ID="cr-6-10" Value="0">وقتي لپ تاپ پلاگين هست،  و بسته باشه ،  اگه به آرامي دستي روش کشيده بشه يه حالت وجود برق احساس ميشه .</Sentence>
+      <Sentence ID="cr-6-11" Value="+2">در کل ميشه گفت لپ تاپي خوب و با طراحي بي نظير .</Sentence>
+      <Sentence ID="cr-6-12" Value="0">ولي همون سري اداري و بيزنس بهترين اسمي هست که ميشه واسش گذاشت.</Sentence>
+      <Sentence ID="cr-6-13" Value="0">من تست کردم با نرم افزار سندرا،  دماي سي پي يو گاهي اوقات راحت تا 90 درجه هم ميره !</Sentence>
+      <Sentence ID="cr-6-14" Value="0">که صداي فن دقيقا تاييد ميکنه اين موضوع رو .</Sentence>
+      <Sentence ID="cr-6-15" Value="0">قبل از اين ، دل داشتم inspron 6400 ،  با اينکه ويندوزش ويستا بود و خيلي ضعيف،  ولي هيچ وقت اين مشکلات رو مشاهده نکردم .</Sentence>
+      <Sentence ID="cr-6-16" Value="0">اعم از داغ شدن غير عادي و .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-7" Holder="معين صادقي زاده" Score="9" Voters="101" Value="+1">
+      <Sentence ID="cr-7-1" Value="+2">اين لپ تاپ بسيار خوب رو امروز تست کردم نسبت به مدل قبلي يعني ۴۵۳۰ کاملا برتري داره و اگه قصد خريد ۴۵۳۰ داريد به شما پيشنهاد مي کنم حتما اين مدل رو بگيريد !</Sentence>
+      <Sentence ID="cr-7-2" Value="+1">خوب تقريبا اين لپ تاپ از همه لحاظ عاليه اما هيچ چيز بي عيب و نقصي وجود نداره و من مي خوام ناگفته هاشو بهتون بگم !</Sentence>
+      <Sentence ID="cr-7-3" Value="+2">اين لپتاپ از طراحي و ارگنومي بسيار خوبي برخوردار هست !</Sentence>
+      <Sentence ID="cr-7-4" Value="0">و امکانات خوبي داره اما نميشه نواقصش رو ناديده گرفت !</Sentence>
+      <Sentence ID="cr-7-5" Value="-1">اين لپ تاپ  اصلا براي کسايي که گيمر يا به اصطلاح خوره ي بازي هستند توصيه نمي کنم !</Sentence>
+      <Sentence ID="cr-7-6" Value="0">چون نسخه ي جديد بازي مست وانتد رو که با بالاترين گرافيک اجرا کردم به شدت لگ داشت و کند اجرا مي شد در صورتي با وجود همچين سيستم سخت افزاري قوي انتظاره بسيار بيشتر از اينا رو داشتم اما بايد بگم اين لپ تاپ از نظر پردازش گرافيک بسيار عالي هست و کارت اينتل ۴۰۰۰ اون تا ۴ گيگ شير ميشه !</Sentence>
+      <Sentence ID="cr-7-7" Value="+2">و سي پي يو ي بسيار قوي اي داره !</Sentence>
+      <Sentence ID="cr-7-8" Value="-1">اما رم اصلا خوب نيست اگه براي خودم ۴۵۴۰ بخرم حتما رمشو به ۸ ارتقا خواهم داد !</Sentence>
+      <Sentence ID="cr-7-9" Value="0">من خودم مک بوک پرو دارم و امروز فهميدم که براي من هيچي اپل نميشه اگه براتون ممکنه تا اونجا که مي تونيد از سخت افزار هاي با کيفيت استفاده کنيد !</Sentence>
+      <Sentence ID="cr-7-10" Value="0">اول اپل بعد سوني بعد اچ پي و ايسر و دل و فوجيتسو و ايسوس و..</Sentence>
+      <Sentence ID="cr-7-11" Value="+1">اما لازمه که بگم اين لپ تاپ کاري نيست که نتونه براتون انجام بده !</Sentence>
+      <Sentence ID="cr-7-12" Value="0">نبايد توقع اجراي بازي رو با بالاترين گرافيک رو داشته باشيم.</Sentence>
+      <Sentence ID="cr-7-13" Value="0">اگر مي خواين بازي کنيد کنسول بخريد يا لپ تاپ سري گيم يا يه سيستم گيمينگ ببنديد !</Sentence>
+      <Sentence ID="cr-7-14" Value="+2">من از کار کردن باهاش بسيار لذت بردم و اميدوارم شما هم لذت ببريد !</Sentence>
+      <Sentence ID="cr-7-15" Value="+2">اما يادتون باشه که هميشه يه بهتريني بهتر از بهترين هست اما تو اين رنج قيمت ايني که روبروتونه بهترينه !</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="108" />
+  <Performance Value="7.80" />
+  <Capability Value="7.90" />
+  <Production_Quality Value="7.60" />
+  <Ergonomics Value="7.50" />
+  <Purchase_Value Value="6.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="اثر انگشت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="سطح" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="لبه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="پورت‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="کیفیت تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="رنگ‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="زاویه دید افقی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="زاویه دید عمودی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="کیفیت صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="بلندی صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="تایپ کردن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="صفحه کلید عددی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="وارد کردن اعداد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="تاچ پد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10067" Root="سخت افزار داخلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10070" Root="لپ‌تاپ‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="تغییرات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="امکانات امنیتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="بلوتوث" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10089" Root="گرافيک" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="سيستم خنک کنندگي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="بدنه" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10098" Root="لپ تاپ" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="لپ تاپ" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="امکانات" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="لپ تاپ" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="تحويل" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="خريد" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="لپ تاپ" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100120" Root="کيبورد" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100123" Root="وزن" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100125" Root="لپ تاپ" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100128" Root="بلوتوث" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100131" Root="ارزش خريد" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100134" Root="زيبايي" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100137" Root="کيفيت بدنه" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100140" Root="دوربين" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100143" Root="طراحي" Relation="gr-12" />
+    <Tag Type="Target(M)" ID="elementID100146" Root="ظاهر" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100149" Root="دیجی کالا" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100152" Root="داخلي" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100155" Root="لپ تاپ" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100158" Root="خريد" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100161" Root="قدرت cpu" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100164" Root="لپ تاپ" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="قيمت" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100170" Root="سرعت" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100173" Root="عملکرد" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100176" Root="کيفيت ساخت" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100183" Root="خريد" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100186" Root="وضعيت" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100189" Root="لپ تاپ" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100192" Root="بازي" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100195" Root="کيفيت دوربين" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100198" Root="لپ تاپ" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100202" Root="ظاهر" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100205" Root="کيفيت صدا" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100208" Root="لپ تاپ" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100211" Root="گرافيک" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100215" Root="پردازنده" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100219" Root="لپ تاپ" Relation="gr-23" />
+    <Tag Type="Target(M)" ID="elementID100222" Root="لپ تاپ" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100225" Root="لپ تاپ" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100228" Root="لپ تاپ" Relation="gr-27" />
+    <Tag Type="Target(M)" ID="elementID100231" Root="لپ تاپ" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100234" Root="مشخصات" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100237" Root="شکل ظاهري" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100240" Root="ظاهر" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100244" Root="بدنه" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100247" Root="لپ تاپ" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100250" Root="لپ تاپ" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100253" Root="بسته بندي دیجی کالا" Relation="gr-31" />
+    <Tag Type="Target(M)" ID="elementID100256" Root="لپ تاپ" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100259" Root="لپ تاپ" Relation="gr-33" />
+    <Tag Type="Target(M)" ID="elementID100262" Root="HP" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100265" Root="کارت گرافيک" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100268" Root="پردازش تصاویر" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100271" Root="پردازنده" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100274" Root="لپ تاپ" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100277" Root="بلندگو" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100284" Root="خرابی هارد" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100287" Root="لپ تاپ" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100290" Root="داغ کردن" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100293" Root="گرافيک" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100296" Root="صدا" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100299" Root="صفحه نمايش" Relation="gr-41" />
+    <Tag Type="Target(M)" ID="elementID100302" Root="لپ تاپ" Relation="gr-42" />
+    <Tag Type="Target(M)" ID="elementID100305" Root="هارد" Relation="gr-43" />
+    <Tag Type="Target(M)" ID="elementID100308" Root="HP" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100311" Root="لپ تاپ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100314" Root="گرافيک" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100317" Root="سرعت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100320" Root="باتری" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100323" Root="ويندوز" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100326" Root="وسايل جانبي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100329" Root="کيفيت دسکتاپ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100332" Root="ارزش خرید" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100335" Root="لپ تاپ" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100339" Root="بدنه" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100396" Root="لپ تاپ" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100345" Root="صفحه" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100348" Root="پردازش" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100351" Root="ماندگاري" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100354" Root="خرابي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100357" Root="نور پس زمينه" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100360" Root="گرافيک" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100363" Root="صفحه کليد" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100366" Root="انتخاب" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100369" Root="طراحي" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100373" Root="بدنه" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100377" Root="صفحه کلید" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100380" Root="لمس" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100383" Root="صفحه نمايش" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100386" Root="سايت HP" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100390" Root="قيمت" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100393" Root="نصب درايور" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100399" Root="بدنه" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100403" Root="طراحي" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100406" Root="داغ شدن" Relation="cr-5" />
+    <Tag Type="Target(M)" ID="elementID100409" Root="گرافيک" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100411" Root="سيستم" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100414" Root="لپ تاپ" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100417" Root="طراحي" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100420" Root="Dell Inspron 6400" Relation="cr-6" />
+    <Tag Type="Target(M)" ID="elementID100423" Root="لپ تاپ" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100428" Root="طراحي" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100431" Root="ارگنومي" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100434" Root="امکانات" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100437" Root="سيستم سخت افزاري" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100440" Root="گرافيک" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100443" Root="پردازنده" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100446" Root="رم" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100449" Root="کار کردن" Relation="cr-7" />
+    <Tag Type="Target(M)" ID="elementID100452" Root="اجرا" Relation="cr-7" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,178,183]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,195,200]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-8,0,5]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-8,51,61]" Relation="tagID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-8,75,79]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-42,0,5]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-42,6,16]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-2,217,229]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-2,230,238]" Relation="tagID1004" Value="+" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-2,241,249]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-5,30,39]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-5,43,54]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-6,13,16]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-6,20,31]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-7,0,7]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-7,15,26]" Relation="tagID10014" Value="" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-9,67,70]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-9,71,83]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-10,0,10]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-10,62,72]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-11,30,37]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-11,46,56]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10082" Coordinate="[rev-42,60,68]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[rev-42,69,75]" Relation="tagID10082" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-16,74,86]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-16,87,93]" Relation="tagID10029" Value="" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-17,0,12]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-17,23,27]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-21,33,38]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-21,39,49]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-17,30,36]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-17,41,52]" Relation="tagID10035" Value="+" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-17,55,59]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-19,0,14]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-19,15,24]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-19,34,49]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-19,50,61]" Relation="tagID10042" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-23,59,69]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-23,70,80]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-24,0,9]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-24,14,25]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-25,126,135]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-25,142,149]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[rev-26,63,77]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-26,78,86]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-26,105,120]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-26,121,133]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-28,4,10]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-28,41,51]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-28,54,60]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-28,67,79]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10068" Coordinate="[rev-30,36,51]" Relation="elementID10067" Value="" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[rev-30,55,72]" Relation="tagID10068" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10071" Coordinate="[rev-41,61,71]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[rev-41,72,79]" Relation="tagID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-41,95,105]" Relation="tagID10071" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[rev-42,111,117]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-42,118,125]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-41,137,144]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-41,145,155]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-42,32,46]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-42,47,57]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[gr-1-2,0,6]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[gr-1-2,18,22]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[gr-2-2,18,24]" Relation="elementID10089" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[gr-2-2,25,34]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[gr-2-2,44,60]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[gr-2-2,61,65]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[gr-2-2,153,157]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[gr-2-2,158,167]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[gr-4-1,27,30]" Relation="elementID10098" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[gr-4-1,31,36]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-5-3,121,127]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-5-3,128,139]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-5-4,13,20]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-5-4,21,25]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[gr-6-2,9,12]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[gr-6-2,13,17]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[gr-6-3,22,27]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[gr-6-3,28,32]" Relation="tagID100111" Value="+" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[gr-6-3,35,39]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[gr-7-3,3,8]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[gr-7-3,17,22]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[gr-7-4,6,12]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-7-4,13,17]" Relation="tagID100118" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[gr-9-2,0,7]" Relation="elementID100120" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[gr-9-2,8,19]" Relation="tagID100121" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[gr-9-3,0,5]" Relation="elementID100123" Value="" />
+    <Tag Type="Target(I)" ID="tagID100126" Coordinate="[gr-9-4,15,21]" Relation="elementID100125" Value="" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[gr-9-4,22,32]" Relation="tagID100126" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[gr-9-6,38,44]" Relation="elementID100128" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[gr-9-6,45,55]" Relation="tagID100129" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100132" Coordinate="[gr-9-6,85,95]" Relation="elementID100131" Value="" />
+    <Tag Type="Opinion" ID="tagID100133" Coordinate="[gr-9-6,96,100]" Relation="tagID100132" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100135" Coordinate="[gr-9-7,0,7]" Relation="elementID100134" Value="" />
+    <Tag Type="Opinion" ID="tagID100136" Coordinate="[gr-9-7,8,16]" Relation="tagID100135" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100138" Coordinate="[gr-11-1,0,10]" Relation="elementID100137" Value="" />
+    <Tag Type="Opinion" ID="tagID100139" Coordinate="[gr-11-1,11,22]" Relation="tagID100138" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100141" Coordinate="[gr-11-2,0,6]" Relation="elementID100140" Value="" />
+    <Tag Type="Opinion" ID="tagID100142" Coordinate="[gr-11-2,7,15]" Relation="tagID100141" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100144" Coordinate="[gr-12-4,98,103]" Relation="elementID100143" Value="" />
+    <Tag Type="Opinion" ID="tagID100145" Coordinate="[gr-12-4,104,110]" Relation="tagID100144" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100147" Coordinate="[gr-13-1,166,171]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100148" Coordinate="[gr-13-1,190,199]" Relation="tagID100147" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100150" Coordinate="[gr-13-1,249,253]" Relation="elementID100149" Value="" />
+    <Tag Type="Opinion" ID="tagID100151" Coordinate="[gr-13-1,254,258]" Relation="tagID100150" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100153" Coordinate="[gr-13-1,184,189]" Relation="elementID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100154" Coordinate="[gr-13-1,190,199]" Relation="tagID100153" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100156" Coordinate="[gr-14-1,42,45]" Relation="elementID100155" Value="" />
+    <Tag Type="Opinion" ID="tagID100157" Coordinate="[gr-14-1,46,51]" Relation="tagID100156" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100159" Coordinate="[gr-14-1,65,69]" Relation="elementID100158" Value="" />
+    <Tag Type="Opinion" ID="tagID100160" Coordinate="[gr-14-1,70,74]" Relation="tagID100159" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100162" Coordinate="[gr-15-1,0,8]" Relation="elementID100161" Value="" />
+    <Tag Type="Opinion" ID="tagID100163" Coordinate="[gr-15-1,20,26]" Relation="tagID100162" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[gr-16-1,0,6]" Relation="elementID100164" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[gr-16-1,7,16]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100179" Coordinate="[gr-16-4,7,17]" Relation="elementID100164" Value="" />
+    <Tag Type="Opinion" ID="tagID100180" Coordinate="[gr-16-4,18,21]" Relation="tagID100179" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100181" Coordinate="[gr-16-5,6,12]" Relation="elementID100164" Value="" />
+    <Tag Type="Opinion" ID="tagID100182" Coordinate="[gr-16-5,13,23]" Relation="tagID100181" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[gr-16-1,20,24]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[gr-16-1,25,31]" Relation="tagID100168" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100171" Coordinate="[gr-16-2,0,4]" Relation="elementID100170" Value="" />
+    <Tag Type="Opinion" ID="tagID100172" Coordinate="[gr-16-2,14,18]" Relation="tagID100171" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100174" Coordinate="[gr-16-2,7,13]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100175" Coordinate="[gr-16-2,14,18]" Relation="tagID100174" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100177" Coordinate="[gr-16-3,0,10]" Relation="elementID100176" Value="" />
+    <Tag Type="Opinion" ID="tagID100178" Coordinate="[gr-16-3,11,15]" Relation="tagID100177" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100184" Coordinate="[gr-19-4,62,67]" Relation="elementID100183" Value="" />
+    <Tag Type="Opinion" ID="tagID100185" Coordinate="[gr-19-4,68,72]" Relation="tagID100184" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100187" Coordinate="[gr-19-4,7,12]" Relation="elementID100186" Value="" />
+    <Tag Type="Opinion" ID="tagID100188" Coordinate="[gr-19-4,13,21]" Relation="tagID100187" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100190" Coordinate="[gr-20-1,48,54]" Relation="elementID100189" Value="" />
+    <Tag Type="Opinion" ID="tagID100191" Coordinate="[gr-20-1,55,63]" Relation="tagID100190" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100193" Coordinate="[gr-20-2,30,34]" Relation="elementID100192" Value="" />
+    <Tag Type="Opinion" ID="tagID100194" Coordinate="[gr-20-2,25,29]" Relation="tagID100193" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100196" Coordinate="[gr-20-3,0,13]" Relation="elementID100195" Value="" />
+    <Tag Type="Opinion" ID="tagID100197" Coordinate="[gr-20-3,38,48]" Relation="tagID100196" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100199" Coordinate="[gr-21-1,0,6]" Relation="elementID100198" Value="" />
+    <Tag Type="Opinion" ID="tagID100200" Coordinate="[gr-21-1,7,17]" Relation="tagID100199" Value="+" />
+    <Tag Type="Opinion" ID="tagID100201" Coordinate="[gr-21-1,20,27]" Relation="tagID100199" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100203" Coordinate="[gr-21-3,8,13]" Relation="elementID100202" Value="" />
+    <Tag Type="Opinion" ID="tagID100204" Coordinate="[gr-21-3,17,26]" Relation="tagID100203" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100206" Coordinate="[gr-21-3,81,91]" Relation="elementID100205" Value="" />
+    <Tag Type="Opinion" ID="tagID100207" Coordinate="[gr-21-3,92,105]" Relation="tagID100206" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100209" Coordinate="[gr-22-1,28,34]" Relation="elementID100208" Value="" />
+    <Tag Type="Opinion" ID="tagID100210" Coordinate="[gr-22-1,35,40]" Relation="tagID100209" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100212" Coordinate="[gr-22-1,78,84]" Relation="elementID100211" Value="" />
+    <Tag Type="Opinion" ID="tagID100213" Coordinate="[gr-22-1,98,108]" Relation="tagID100212" Value="+" />
+    <Tag Type="Opinion" ID="tagID100214" Coordinate="[gr-22-1,111,118]" Relation="tagID100212" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100216" Coordinate="[gr-22-1,87,97]" Relation="elementID100215" Value="" />
+    <Tag Type="Opinion" ID="tagID100217" Coordinate="[gr-22-1,98,108]" Relation="tagID100216" Value="+" />
+    <Tag Type="Opinion" ID="tagID100218" Coordinate="[gr-22-1,111,118]" Relation="tagID100216" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100220" Coordinate="[gr-23-1,0,6]" Relation="elementID100219" Value="" />
+    <Tag Type="Opinion" ID="tagID100221" Coordinate="[gr-23-1,7,12]" Relation="tagID100220" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100223" Coordinate="[gr-24-1,6,12]" Relation="elementID100222" Value="" />
+    <Tag Type="Opinion" ID="tagID100224" Coordinate="[gr-24-1,13,26]" Relation="tagID100223" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100226" Coordinate="[gr-26-1,0,7]" Relation="elementID100225" Value="" />
+    <Tag Type="Opinion" ID="tagID100227" Coordinate="[gr-26-1,8,17]" Relation="tagID100226" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100229" Coordinate="[gr-27-1,0,6]" Relation="elementID100228" Value="" />
+    <Tag Type="Opinion" ID="tagID100230" Coordinate="[gr-27-1,7,17]" Relation="tagID100229" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100232" Coordinate="[gr-28-1,193,196]" Relation="elementID100231" Value="" />
+    <Tag Type="Opinion" ID="tagID100233" Coordinate="[gr-28-1,204,210]" Relation="tagID100232" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100235" Coordinate="[gr-28-1,229,235]" Relation="elementID100234" Value="" />
+    <Tag Type="Opinion" ID="tagID100236" Coordinate="[gr-28-1,236,244]" Relation="tagID100235" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100238" Coordinate="[gr-28-1,256,266]" Relation="elementID100237" Value="" />
+    <Tag Type="Opinion" ID="tagID100239" Coordinate="[gr-28-1,267,278]" Relation="tagID100238" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100241" Coordinate="[gr-29-3,9,13]" Relation="elementID100240" Value="" />
+    <Tag Type="Opinion" ID="tagID100242" Coordinate="[gr-29-3,14,17]" Relation="tagID100241" Value="+" />
+    <Tag Type="Opinion" ID="tagID100243" Coordinate="[gr-29-3,20,26]" Relation="tagID100241" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100245" Coordinate="[gr-29-3,33,37]" Relation="elementID100244" Value="" />
+    <Tag Type="Opinion" ID="tagID100246" Coordinate="[gr-29-3,27,32]" Relation="tagID100245" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100248" Coordinate="[gr-29-5,9,15]" Relation="elementID100247" Value="" />
+    <Tag Type="Opinion" ID="tagID100249" Coordinate="[gr-29-5,26,30]" Relation="tagID100248" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100251" Coordinate="[gr-30-1,0,6]" Relation="elementID100250" Value="" />
+    <Tag Type="Opinion" ID="tagID100252" Coordinate="[gr-30-1,7,12]" Relation="tagID100251" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100254" Coordinate="[gr-31-4,159,169]" Relation="elementID100253" Value="" />
+    <Tag Type="Opinion" ID="tagID100255" Coordinate="[gr-31-4,170,175]" Relation="tagID100254" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100257" Coordinate="[gr-32-1,4,10]" Relation="elementID100256" Value="" />
+    <Tag Type="Opinion" ID="tagID100258" Coordinate="[gr-32-1,11,20]" Relation="tagID100257" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100260" Coordinate="[gr-33-1,0,6]" Relation="elementID100259" Value="" />
+    <Tag Type="Opinion" ID="tagID100261" Coordinate="[gr-33-1,7,12]" Relation="tagID100260" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100263" Coordinate="[gr-34-1,0,2]" Relation="elementID100262" Value="" />
+    <Tag Type="Opinion" ID="tagID100264" Coordinate="[gr-34-1,10,16]" Relation="tagID100263" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100266" Coordinate="[gr-34-4,11,22]" Relation="elementID100265" Value="" />
+    <Tag Type="Opinion" ID="tagID100267" Coordinate="[gr-34-4,23,27]" Relation="tagID100266" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100269" Coordinate="[gr-34-4,46,52]" Relation="elementID100268" Value="" />
+    <Tag Type="Opinion" ID="tagID100270" Coordinate="[gr-34-4,38,45]" Relation="tagID100269" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100272" Coordinate="[gr-35-2,46,49]" Relation="elementID100271" Value="" />
+    <Tag Type="Opinion" ID="tagID100273" Coordinate="[gr-35-2,54,61]" Relation="tagID100272" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100275" Coordinate="[gr-35-4,23,30]" Relation="elementID100274" Value="" />
+    <Tag Type="Opinion" ID="tagID100276" Coordinate="[gr-35-4,31,41]" Relation="tagID100275" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100282" Coordinate="[gr-35-11,9,12]" Relation="elementID100274" Value="" />
+    <Tag Type="Opinion" ID="tagID100283" Coordinate="[gr-35-11,13,17]" Relation="tagID100282" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100278" Coordinate="[gr-35-8,0,8]" Relation="elementID100277" Value="" />
+    <Tag Type="Opinion" ID="tagID100279" Coordinate="[gr-35-8,9,20]" Relation="tagID100278" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100285" Coordinate="[gr-38-1,18,33]" Relation="elementID100284" Value="" />
+    <Tag Type="Opinion" ID="tagID100286" Coordinate="[gr-38-1,34,39]" Relation="tagID100285" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100288" Coordinate="[gr-40-1,25,28]" Relation="elementID100287" Value="" />
+    <Tag Type="Opinion" ID="tagID100289" Coordinate="[gr-40-1,32,37]" Relation="tagID100288" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100291" Coordinate="[gr-40-3,4,12]" Relation="elementID100290" Value="" />
+    <Tag Type="Opinion" ID="tagID100292" Coordinate="[gr-40-3,20,30]" Relation="tagID100291" Value="" />
+    <Tag Type="Target(I)" ID="tagID100294" Coordinate="[gr-40-4,0,7]" Relation="elementID100293" Value="" />
+    <Tag Type="Opinion" ID="tagID100295" Coordinate="[gr-40-4,16,25]" Relation="tagID100294" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100297" Coordinate="[gr-40-5,0,4]" Relation="elementID100296" Value="" />
+    <Tag Type="Opinion" ID="tagID100298" Coordinate="[gr-40-5,34,40]" Relation="tagID100297" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100300" Coordinate="[gr-41-1,75,85]" Relation="elementID100299" Value="" />
+    <Tag Type="Opinion" ID="tagID100301" Coordinate="[gr-41-1,86,99]" Relation="tagID100300" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100303" Coordinate="[gr-42-1,44,51]" Relation="elementID100302" Value="" />
+    <Tag Type="Opinion" ID="tagID100304" Coordinate="[gr-42-1,52,59]" Relation="tagID100303" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100306" Coordinate="[gr-43-1,21,25]" Relation="elementID100305" Value="" />
+    <Tag Type="Opinion" ID="tagID100307" Coordinate="[gr-43-1,26,31]" Relation="tagID100306" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100309" Coordinate="[cr-1-2,0,2]" Relation="elementID100308" Value="" />
+    <Tag Type="Opinion" ID="tagID100310" Coordinate="[cr-1-2,3,13]" Relation="tagID100309" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100312" Coordinate="[cr-1-2,45,54]" Relation="elementID100311" Value="" />
+    <Tag Type="Opinion" ID="tagID100313" Coordinate="[cr-1-2,55,65]" Relation="tagID100312" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100315" Coordinate="[cr-1-3,23,30]" Relation="elementID100314" Value="" />
+    <Tag Type="Opinion" ID="tagID100316" Coordinate="[cr-1-3,31,36]" Relation="tagID100315" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100318" Coordinate="[cr-1-4,84,89]" Relation="elementID100317" Value="" />
+    <Tag Type="Opinion" ID="tagID100319" Coordinate="[cr-1-4,90,106]" Relation="tagID100318" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100321" Coordinate="[cr-1-5,0,6]" Relation="elementID100320" Value="" />
+    <Tag Type="Opinion" ID="tagID100322" Coordinate="[cr-1-5,10,20]" Relation="tagID100321" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100324" Coordinate="[cr-1-6,8,16]" Relation="elementID100323" Value="" />
+    <Tag Type="Opinion" ID="tagID100325" Coordinate="[cr-1-6,20,29]" Relation="tagID100324" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100327" Coordinate="[cr-1-6,32,43]" Relation="elementID100326" Value="" />
+    <Tag Type="Opinion" ID="tagID100328" Coordinate="[cr-1-6,44,49]" Relation="tagID100327" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100330" Coordinate="[cr-1-7,0,12]" Relation="elementID100329" Value="" />
+    <Tag Type="Opinion" ID="tagID100331" Coordinate="[cr-1-7,13,30]" Relation="tagID100330" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100333" Coordinate="[cr-1-9,9,18]" Relation="elementID100332" Value="" />
+    <Tag Type="Opinion" ID="tagID100334" Coordinate="[cr-1-9,37,41]" Relation="tagID100333" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100336" Coordinate="[cr-2-1,0,6]" Relation="elementID100335" Value="" />
+    <Tag Type="Opinion" ID="tagID100337" Coordinate="[cr-2-1,7,21]" Relation="tagID100336" Value="+" />
+    <Tag Type="Opinion" ID="tagID100338" Coordinate="[cr-2-1,77,88]" Relation="tagID100336" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100340" Coordinate="[cr-2-2,62,66]" Relation="elementID100339" Value="" />
+    <Tag Type="Opinion" ID="tagID100341" Coordinate="[cr-2-2,88,102]" Relation="tagID100340" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100397" Coordinate="[cr-5-1,135,141]" Relation="elementID100396" Value="" />
+    <Tag Type="Opinion" ID="tagID100398" Coordinate="[cr-5-1,152,158]" Relation="tagID100397" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100346" Coordinate="[cr-3-1,53,57]" Relation="elementID100345" Value="" />
+    <Tag Type="Opinion" ID="tagID100347" Coordinate="[cr-3-1,44,52]" Relation="tagID100346" Value="" />
+    <Tag Type="Target(I)" ID="tagID100349" Coordinate="[cr-3-1,120,126]" Relation="elementID100348" Value="" />
+    <Tag Type="Opinion" ID="tagID100350" Coordinate="[cr-3-1,105,116]" Relation="tagID100349" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100352" Coordinate="[cr-3-3,24,33]" Relation="elementID100351" Value="" />
+    <Tag Type="Opinion" ID="tagID100353" Coordinate="[cr-3-3,34,40]" Relation="tagID100352" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100355" Coordinate="[cr-3-3,43,52]" Relation="elementID100354" Value="" />
+    <Tag Type="Opinion" ID="tagID100356" Coordinate="[cr-3-3,57,69]" Relation="tagID100355" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100358" Coordinate="[cr-3-5,176,188]" Relation="elementID100357" Value="" />
+    <Tag Type="Opinion" ID="tagID100359" Coordinate="[cr-3-5,167,175]" Relation="tagID100358" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100361" Coordinate="[cr-3-6,48,54]" Relation="elementID100360" Value="" />
+    <Tag Type="Opinion" ID="tagID100362" Coordinate="[cr-3-6,55,62]" Relation="tagID100361" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100364" Coordinate="[cr-3-7,28,38]" Relation="elementID100363" Value="" />
+    <Tag Type="Opinion" ID="tagID100365" Coordinate="[cr-3-7,39,56]" Relation="tagID100364" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100367" Coordinate="[cr-3-8,43,49]" Relation="elementID100366" Value="" />
+    <Tag Type="Opinion" ID="tagID100368" Coordinate="[cr-3-8,50,54]" Relation="tagID100367" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100370" Coordinate="[cr-4-1,67,72]" Relation="elementID100369" Value="" />
+    <Tag Type="Opinion" ID="tagID100371" Coordinate="[cr-4-1,77,87]" Relation="tagID100370" Value="+" />
+    <Tag Type="Opinion" ID="tagID100372" Coordinate="[cr-4-1,90,94]" Relation="tagID100370" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100374" Coordinate="[cr-4-1,97,101]" Relation="elementID100373" Value="" />
+    <Tag Type="Opinion" ID="tagID100375" Coordinate="[cr-4-1,102,111]" Relation="tagID100374" Value="" />
+    <Tag Type="Opinion" ID="tagID100376" Coordinate="[cr-4-1,116,127]" Relation="tagID100374" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100378" Coordinate="[cr-4-1,133,139]" Relation="elementID100377" Value="" />
+    <Tag Type="Opinion" ID="tagID100379" Coordinate="[cr-4-1,146,157]" Relation="tagID100378" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100381" Coordinate="[cr-4-1,142,145]" Relation="elementID100380" Value="" />
+    <Tag Type="Opinion" ID="tagID100382" Coordinate="[cr-4-1,146,157]" Relation="tagID100381" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100384" Coordinate="[cr-4-1,186,196]" Relation="elementID100383" Value="" />
+    <Tag Type="Opinion" ID="tagID100385" Coordinate="[cr-4-1,197,208]" Relation="tagID100384" Value="" />
+    <Tag Type="Target(I)" ID="tagID100387" Coordinate="[cr-4-1,341,348]" Relation="elementID100386" Value="" />
+    <Tag Type="Opinion" ID="tagID100388" Coordinate="[cr-4-1,349,357]" Relation="tagID100387" Value="-" />
+    <Tag Type="Opinion" ID="tagID100389" Coordinate="[cr-4-1,360,371]" Relation="tagID100387" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100391" Coordinate="[cr-4-2,59,63]" Relation="elementID100390" Value="" />
+    <Tag Type="Opinion" ID="tagID100392" Coordinate="[cr-4-2,53,58]" Relation="tagID100391" Value="" />
+    <Tag Type="Target(I)" ID="tagID100394" Coordinate="[cr-4-3,0,12]" Relation="elementID100393" Value="" />
+    <Tag Type="Opinion" ID="tagID100395" Coordinate="[cr-4-3,22,37]" Relation="tagID100394" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100400" Coordinate="[cr-5-1,204,208]" Relation="elementID100399" Value="" />
+    <Tag Type="Opinion" ID="tagID100401" Coordinate="[cr-5-1,209,213]" Relation="tagID100400" Value="+" />
+    <Tag Type="Opinion" ID="tagID100402" Coordinate="[cr-5-1,239,243]" Relation="tagID100400" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100404" Coordinate="[cr-5-1,266,271]" Relation="elementID100403" Value="" />
+    <Tag Type="Opinion" ID="tagID100405" Coordinate="[cr-5-1,272,274]" Relation="tagID100404" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100407" Coordinate="[cr-5-2,173,180]" Relation="elementID100406" Value="" />
+    <Tag Type="Opinion" ID="tagID100408" Coordinate="[cr-5-2,181,190]" Relation="tagID100407" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100410" Coordinate="[cr-6-5,18,24]" Relation="elementID100409" Value="" />
+    <Tag Type="Target(I)" ID="tagID100412" Coordinate="[cr-6-6,40,45]" Relation="elementID100411" Value="" />
+    <Tag Type="Opinion" ID="tagID100413" Coordinate="[cr-6-6,32,39]" Relation="tagID100412" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100415" Coordinate="[cr-6-11,15,22]" Relation="elementID100414" Value="" />
+    <Tag Type="Opinion" ID="tagID100416" Coordinate="[cr-6-11,23,26]" Relation="tagID100415" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100418" Coordinate="[cr-6-11,32,37]" Relation="elementID100417" Value="" />
+    <Tag Type="Opinion" ID="tagID100419" Coordinate="[cr-6-11,38,45]" Relation="tagID100418" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100421" Coordinate="[cr-6-15,22,34]" Relation="elementID100420" Value="" />
+    <Tag Type="Opinion" ID="tagID100422" Coordinate="[cr-6-15,67,76]" Relation="tagID100421" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100424" Coordinate="[cr-7-1,4,10]" Relation="elementID100423" Value="" />
+    <Tag Type="Opinion" ID="tagID100425" Coordinate="[cr-7-1,11,20]" Relation="tagID100424" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100426" Coordinate="[cr-7-2,15,21]" Relation="elementID100423" Value="" />
+    <Tag Type="Opinion" ID="tagID100427" Coordinate="[cr-7-2,34,39]" Relation="tagID100426" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100429" Coordinate="[cr-7-3,13,18]" Relation="elementID100428" Value="" />
+    <Tag Type="Opinion" ID="tagID100430" Coordinate="[cr-7-3,29,39]" Relation="tagID100429" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100432" Coordinate="[cr-7-3,21,28]" Relation="elementID100431" Value="" />
+    <Tag Type="Opinion" ID="tagID100433" Coordinate="[cr-7-3,29,39]" Relation="tagID100432" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100435" Coordinate="[cr-7-4,2,9]" Relation="elementID100434" Value="" />
+    <Tag Type="Opinion" ID="tagID100436" Coordinate="[cr-7-4,10,14]" Relation="tagID100435" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100438" Coordinate="[cr-7-6,121,137]" Relation="elementID100437" Value="" />
+    <Tag Type="Opinion" ID="tagID100439" Coordinate="[cr-7-6,138,141]" Relation="tagID100438" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100441" Coordinate="[cr-7-6,217,223]" Relation="elementID100440" Value="" />
+    <Tag Type="Opinion" ID="tagID100442" Coordinate="[cr-7-6,224,234]" Relation="tagID100441" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100444" Coordinate="[cr-7-7,2,12]" Relation="elementID100443" Value="" />
+    <Tag Type="Opinion" ID="tagID100445" Coordinate="[cr-7-7,13,25]" Relation="tagID100444" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100447" Coordinate="[cr-7-8,4,6]" Relation="elementID100446" Value="" />
+    <Tag Type="Opinion" ID="tagID100448" Coordinate="[cr-7-8,7,20]" Relation="tagID100447" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100450" Coordinate="[cr-7-14,6,14]" Relation="elementID100449" Value="" />
+    <Tag Type="Opinion" ID="tagID100451" Coordinate="[cr-7-14,21,30]" Relation="tagID100450" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100453" Coordinate="[cr-7-6,87,91]" Relation="elementID100452" Value="" />
+    <Tag Type="Opinion" ID="tagID100454" Coordinate="[cr-7-6,83,86]" Relation="tagID100453" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,195,200]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,230,238]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,241,249]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-5,43,54]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-7,47,57]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-6,27,31]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-7,43,46]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-8,75,79]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-9,71,83]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-10,62,72]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-11,46,56]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-17,23,27]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-17,41,52]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-17,55,59]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-18,8,11]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-18,143,151]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-19,15,24]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-19,50,61]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-21,39,49]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-23,70,80]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-24,14,25]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-25,142,149]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-26,78,86]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-26,121,133]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-28,41,51]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-28,54,60]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-28,75,79]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-29,56,61]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-30,60,72]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-41,95,105]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-41,145,155]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-42,6,16]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-42,47,57]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-42,69,75]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-42,118,125]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-1-2,18,22]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-2-2,25,34]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-2-2,61,65]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-2-2,158,167]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-3-1,0,10]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-3-1,13,19]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-4-1,31,36]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-4-1,45,53]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[gr-6-2,13,17]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[gr-5-1,38,53]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[gr-5-1,56,61]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[gr-5-3,128,139]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[gr-5-4,0,4]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[gr-5-4,5,9]" Value="" />
+    <Keyword ID="keywordID10050" Coordinate="[gr-5-4,21,25]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[gr-5-4,28,41]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[gr-6-3,28,32]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-6-3,35,39]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-6-4,49,63]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-7-3,17,22]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-7-4,13,17]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[gr-8-1,49,52]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-9-2,8,19]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-9-3,32,36]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-9-4,22,32]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-9-5,9,18]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-9-5,59,62]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-9-6,45,55]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-9-6,96,100]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-9-7,8,16]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-10-1,59,70]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-10-2,31,40]" Value="-" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-10-2,9,14]" Value="-" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-10-3,14,21]" Value="-" />
+    <Keyword ID="keywordID10071" Coordinate="[gr-10-3,63,68]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[gr-11-1,11,22]" Value="-" />
+    <Keyword ID="keywordID10073" Coordinate="[gr-11-2,7,15]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[gr-12-1,49,58]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[gr-12-2,53,58]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[gr-12-3,43,47]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-12-4,11,21]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-12-4,104,110]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-12-4,127,134]" Value="" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-12-4,200,207]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-12-4,36,50]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[gr-17-2,0,9]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-13-1,190,199]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-13-1,254,258]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-14-1,46,51]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-14-1,54,61]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-14-1,70,74]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-15-1,20,26]" Value="-" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-16-1,7,16]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-16-1,25,31]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-16-2,14,18]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-16-3,11,15]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-16-4,18,21]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-16-5,13,23]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-18-2,0,10]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-18-3,14,21]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-19-3,6,11]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-19-4,68,72]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-19-4,13,21]" Value="-" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-20-1,55,63]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-20-2,25,29]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-20-3,38,48]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-21-1,7,17]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-21-1,20,27]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-21-2,29,37]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-21-3,17,26]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-21-3,92,105]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-22-1,35,40]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-22-1,98,108]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-22-1,111,118]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-22-1,137,146]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-22-1,149,155]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-22-1,196,204]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-22-1,207,215]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-22-1,218,225]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-23-1,7,12]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-24-1,13,26]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-24-1,242,246]" Value="+" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-26-1,8,17]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-26-2,18,27]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-27-1,7,17]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-28-1,204,210]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-28-1,236,244]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-28-1,267,278]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-28-1,328,340]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-28-1,50,56]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-28-2,62,67]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-28-2,89,99]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-28-5,72,86]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-28-5,6,12]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-29-1,65,73]" Value="-" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-29-1,106,112]" Value="-" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-29-3,14,17]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-29-3,20,26]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-29-3,27,32]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-29-4,72,79]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-29-5,26,30]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-29-5,46,54]" Value="-" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-30-1,7,12]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-30-1,33,45]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-31-1,29,41]" Value="+" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-31-2,44,48]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-31-4,170,175]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-31-5,72,76]" Value="+" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-32-1,11,20]" Value="+" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-33-1,7,12]" Value="+" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-33-1,21,27]" Value="" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-33-1,28,31]" Value="+" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-34-1,10,16]" Value="+" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-34-3,23,28]" Value="+" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-34-4,23,27]" Value="+" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-34-4,38,45]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-35-2,54,61]" Value="+" />
+    <Keyword ID="keywordID100155" Coordinate="[gr-35-3,9,20]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[gr-35-4,31,41]" Value="+" />
+    <Keyword ID="keywordID100157" Coordinate="[gr-35-4,111,114]" Value="+" />
+    <Keyword ID="keywordID100158" Coordinate="[gr-35-5,27,36]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[gr-35-5,17,20]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[gr-35-6,5,9]" Value="-" />
+    <Keyword ID="keywordID100161" Coordinate="[gr-35-7,21,25]" Value="-" />
+    <Keyword ID="keywordID100162" Coordinate="[gr-35-8,14,20]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[gr-35-11,13,17]" Value="+" />
+    <Keyword ID="keywordID100164" Coordinate="[gr-35-11,25,30]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[gr-36-2,54,65]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[gr-37-1,21,32]" Value="+" />
+    <Keyword ID="keywordID100167" Coordinate="[gr-38-1,9,17]" Value="-" />
+    <Keyword ID="keywordID100168" Coordinate="[gr-38-1,18,27]" Value="-" />
+    <Keyword ID="keywordID100169" Coordinate="[gr-38-1,34,39]" Value="-" />
+    <Keyword ID="keywordID100170" Coordinate="[gr-38-1,0,4]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[gr-39-1,110,120]" Value="+" />
+    <Keyword ID="keywordID100172" Coordinate="[gr-40-1,32,37]" Value="+" />
+    <Keyword ID="keywordID100173" Coordinate="[gr-40-3,67,71]" Value="+" />
+    <Keyword ID="keywordID100174" Coordinate="[gr-40-4,16,25]" Value="+" />
+    <Keyword ID="keywordID100175" Coordinate="[gr-40-5,34,40]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[gr-41-1,52,57]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[gr-41-1,60,66]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[gr-41-1,107,118]" Value="+" />
+    <Keyword ID="keywordID100179" Coordinate="[gr-42-1,52,59]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[gr-42-2,10,18]" Value="+" />
+    <Keyword ID="keywordID100181" Coordinate="[gr-43-1,26,31]" Value="-" />
+    <Keyword ID="keywordID100182" Coordinate="[gr-43-1,4,13]" Value="-" />
+    <Keyword ID="keywordID100183" Coordinate="[gr-44-1,28,33]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[gr-45-1,9,13]" Value="+" />
+    <Keyword ID="keywordID100185" Coordinate="[gr-45-1,22,32]" Value="-" />
+    <Keyword ID="keywordID100186" Coordinate="[gr-45-1,33,36]" Value="-" />
+    <Keyword ID="keywordID100187" Coordinate="[cr-1-1,167,171]" Value="+" />
+    <Keyword ID="keywordID100188" Coordinate="[cr-1-1,155,161]" Value="+" />
+    <Keyword ID="keywordID100189" Coordinate="[cr-1-2,3,13]" Value="+" />
+    <Keyword ID="keywordID100190" Coordinate="[cr-1-2,55,65]" Value="+" />
+    <Keyword ID="keywordID100191" Coordinate="[cr-1-2,95,102]" Value="+" />
+    <Keyword ID="keywordID100192" Coordinate="[cr-1-2,103,107]" Value="+" />
+    <Keyword ID="keywordID100193" Coordinate="[cr-1-3,31,36]" Value="+" />
+    <Keyword ID="keywordID100194" Coordinate="[cr-1-4,38,46]" Value="-" />
+    <Keyword ID="keywordID100195" Coordinate="[cr-1-4,68,83]" Value="+" />
+    <Keyword ID="keywordID100196" Coordinate="[cr-1-4,90,106]" Value="+" />
+    <Keyword ID="keywordID100197" Coordinate="[cr-1-5,10,20]" Value="+" />
+    <Keyword ID="keywordID100198" Coordinate="[cr-1-5,25,29]" Value="+" />
+    <Keyword ID="keywordID100199" Coordinate="[cr-1-6,20,29]" Value="-" />
+    <Keyword ID="keywordID100200" Coordinate="[cr-1-6,44,49]" Value="-" />
+    <Keyword ID="keywordID100201" Coordinate="[cr-1-6,0,4]" Value="-" />
+    <Keyword ID="keywordID100202" Coordinate="[cr-1-7,13,30]" Value="-" />
+    <Keyword ID="keywordID100203" Coordinate="[cr-1-9,37,41]" Value="+" />
+    <Keyword ID="keywordID100204" Coordinate="[cr-2-1,7,21]" Value="+" />
+    <Keyword ID="keywordID100205" Coordinate="[cr-2-1,77,88]" Value="+" />
+    <Keyword ID="keywordID100206" Coordinate="[cr-2-2,88,91]" Value="-" />
+    <Keyword ID="keywordID100207" Coordinate="[cr-2-2,92,102]" Value="-" />
+    <Keyword ID="keywordID100208" Coordinate="[cr-3-1,31,41]" Value="+" />
+    <Keyword ID="keywordID100209" Coordinate="[cr-3-1,24,30]" Value="+" />
+    <Keyword ID="keywordID100210" Coordinate="[cr-3-1,61,71]" Value="+" />
+    <Keyword ID="keywordID100211" Coordinate="[cr-3-1,105,116]" Value="+" />
+    <Keyword ID="keywordID100212" Coordinate="[cr-3-1,170,175]" Value="+" />
+    <Keyword ID="keywordID100213" Coordinate="[cr-3-3,34,40]" Value="+" />
+    <Keyword ID="keywordID100214" Coordinate="[cr-3-3,57,69]" Value="+" />
+    <Keyword ID="keywordID100215" Coordinate="[cr-3-4,0,3]" Value="+" />
+    <Keyword ID="keywordID100216" Coordinate="[cr-3-5,167,175]" Value="-" />
+    <Keyword ID="keywordID100217" Coordinate="[cr-3-6,55,62]" Value="+" />
+    <Keyword ID="keywordID100218" Coordinate="[cr-3-7,39,56]" Value="+" />
+    <Keyword ID="keywordID100219" Coordinate="[cr-3-7,79,88]" Value="+" />
+    <Keyword ID="keywordID100220" Coordinate="[cr-3-8,50,54]" Value="+" />
+    <Keyword ID="keywordID100221" Coordinate="[cr-4-1,77,87]" Value="+" />
+    <Keyword ID="keywordID100222" Coordinate="[cr-4-1,90,94]" Value="+" />
+    <Keyword ID="keywordID100223" Coordinate="[cr-4-1,116,127]" Value="+" />
+    <Keyword ID="keywordID100224" Coordinate="[cr-4-1,146,157]" Value="+" />
+    <Keyword ID="keywordID100225" Coordinate="[cr-4-1,167,176]" Value="+" />
+    <Keyword ID="keywordID100226" Coordinate="[cr-4-1,288,292]" Value="-" />
+    <Keyword ID="keywordID100227" Coordinate="[cr-4-1,349,357]" Value="-" />
+    <Keyword ID="keywordID100228" Coordinate="[cr-4-1,360,371]" Value="-" />
+    <Keyword ID="keywordID100229" Coordinate="[cr-4-1,331,335]" Value="-" />
+    <Keyword ID="keywordID100230" Coordinate="[cr-4-2,107,113]" Value="+" />
+    <Keyword ID="keywordID100231" Coordinate="[cr-4-2,155,161]" Value="+" />
+    <Keyword ID="keywordID100232" Coordinate="[cr-4-3,22,37]" Value="-" />
+    <Keyword ID="keywordID100233" Coordinate="[cr-4-3,144,154]" Value="+" />
+    <Keyword ID="keywordID100234" Coordinate="[cr-5-1,37,48]" Value="+" />
+    <Keyword ID="keywordID100235" Coordinate="[cr-5-1,121,125]" Value="+" />
+    <Keyword ID="keywordID100236" Coordinate="[cr-5-1,152,158]" Value="-" />
+    <Keyword ID="keywordID100237" Coordinate="[cr-5-1,209,213]" Value="+" />
+    <Keyword ID="keywordID100238" Coordinate="[cr-5-1,239,243]" Value="+" />
+    <Keyword ID="keywordID100239" Coordinate="[cr-5-1,258,265]" Value="-" />
+    <Keyword ID="keywordID100240" Coordinate="[cr-5-1,272,274]" Value="-" />
+    <Keyword ID="keywordID100241" Coordinate="[cr-5-1,355,359]" Value="-" />
+    <Keyword ID="keywordID100242" Coordinate="[cr-5-2,115,119]" Value="-" />
+    <Keyword ID="keywordID100243" Coordinate="[cr-5-2,181,190]" Value="-" />
+    <Keyword ID="keywordID100244" Coordinate="[cr-5-2,238,243]" Value="-" />
+    <Keyword ID="keywordID100245" Coordinate="[cr-6-3,19,23]" Value="+" />
+    <Keyword ID="keywordID100246" Coordinate="[cr-6-3,34,41]" Value="-" />
+    <Keyword ID="keywordID100247" Coordinate="[cr-6-3,42,50]" Value="-" />
+    <Keyword ID="keywordID100248" Coordinate="[cr-6-3,73,82]" Value="-" />
+    <Keyword ID="keywordID100249" Coordinate="[cr-6-3,147,153]" Value="-" />
+    <Keyword ID="keywordID100250" Coordinate="[cr-6-4,23,33]" Value="-" />
+    <Keyword ID="keywordID100251" Coordinate="[cr-6-5,25,28]" Value="+" />
+    <Keyword ID="keywordID100252" Coordinate="[cr-6-6,32,39]" Value="-" />
+    <Keyword ID="keywordID100253" Coordinate="[cr-6-7,42,46]" Value="+" />
+    <Keyword ID="keywordID100254" Coordinate="[cr-6-8,21,25]" Value="+" />
+    <Keyword ID="keywordID100255" Coordinate="[cr-6-9,11,18]" Value="-" />
+    <Keyword ID="keywordID100256" Coordinate="[cr-6-11,23,26]" Value="+" />
+    <Keyword ID="keywordID100257" Coordinate="[cr-6-11,38,45]" Value="+" />
+    <Keyword ID="keywordID100258" Coordinate="[cr-6-15,67,76]" Value="-" />
+    <Keyword ID="keywordID100259" Coordinate="[cr-7-1,11,20]" Value="+" />
+    <Keyword ID="keywordID100260" Coordinate="[cr-7-1,66,77]" Value="+" />
+    <Keyword ID="keywordID100261" Coordinate="[cr-7-2,34,39]" Value="+" />
+    <Keyword ID="keywordID100262" Coordinate="[cr-7-3,29,39]" Value="+" />
+    <Keyword ID="keywordID100271" Coordinate="[cr-7-8,7,20]" Value="-" />
+    <Keyword ID="keywordID100264" Coordinate="[cr-7-4,10,14]" Value="+" />
+    <Keyword ID="keywordID100265" Coordinate="[cr-7-4,30,36]" Value="-" />
+    <Keyword ID="keywordID100266" Coordinate="[cr-7-5,67,80]" Value="-" />
+    <Keyword ID="keywordID100267" Coordinate="[cr-7-6,138,141]" Value="+" />
+    <Keyword ID="keywordID100268" Coordinate="[cr-7-6,224,234]" Value="+" />
+    <Keyword ID="keywordID100269" Coordinate="[cr-7-6,66,75]" Value="-" />
+    <Keyword ID="keywordID100270" Coordinate="[cr-7-7,13,25]" Value="+" />
+    <Keyword ID="keywordID100272" Coordinate="[cr-7-14,21,30]" Value="+" />
+    <Keyword ID="keywordID100273" Coordinate="[cr-7-14,54,57]" Value="+" />
+    <Keyword ID="keywordID100274" Coordinate="[cr-7-15,93,100]" Value="+" />
+    <Keyword ID="keywordID100275" Coordinate="[cr-7-6,83,86]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="276" />
+    <Tag_Index Value="455" />
+  </Index>
+</Product>

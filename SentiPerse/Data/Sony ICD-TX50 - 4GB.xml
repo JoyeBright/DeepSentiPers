@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Sony ICD-TX50 - 4GB" Type="MusicPlayer">
+  <Features>
+    <Feature Name="ابعاد ">102.3 × 40.8 × 6.4 mm</Feature>
+    <Feature Name="وزن ">50 گرم</Feature>
+    <Feature Name="نوع ">پخش کننده موسیقی MP3</Feature>
+    <Feature Name="رنگ ">سرمه‌ای</Feature>
+    <Feature Name="نوع حافظه ">حافظه داخلی فلش</Feature>
+    <Feature Name="ظرفیت حافظه داخلی ">4 گیگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل اتصال ">Micro SD</Feature>
+    <Feature Name="صفحه نمایش ">بلی</Feature>
+    <Feature Name="مشخصات صفحه نمایش ">Full Function Clear Organic LED Display with LED Operation Indicator رنگ</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="فرمت آهنگ ها ">MP3, AAC, WMA, WAV</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wi-Fi ">خیر</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="فرمت ضبط صدا ">MP3</Feature>
+    <Feature Name="ضبط از رادیو ">خیر</Feature>
+    <Feature Name="قابلیت نمایش متن ">خیر</Feature>
+    <Feature Name="پورت USB ">بلی</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="باتری ">باتری لیتیومی قابل شارژ</Feature>
+    <Feature Name="کارکرد باتری ">قابلیت پخش موسیقی تا 24 ساعت با فرمت (MP3 (192kbps و قابلیت ضبط تا 44 ساعت و 40 دقیقه با فرمت (MP3 (192kbps</Feature>
+    <Feature Name="مدت شارژ باتری ">3 دقیقه شارژ سریع برای 60 دقیقه ضبط</Feature>
+    <Feature Name="سایر امکانات ">ظرفیت 4 گیگابایتقدرت خروجی بلندگو: 150mWابعاد بلندگو: 6 × 10 میلی‌مترکانال: استریوقابلیت پخش موسیقی تا 24 ساعت با فرمت (MP3 (192kbps و تا 18 ساعت با فرمت (LPCM (44.1kHz, 16-Bitقابلیت ضبط تا 44 ساعت و 40 دقیقه با فرمت (MP3 (192kbps و تا 6 ساعت با فرمت (LPCM (44.1kHz, 16-Bit(Voice-Operated Recording (VORNoise Cut FunctionLow Cut FilterDigital Pitch ControlTrack Mark</Feature>
+    <Feature Name="اقلام همراه پخش کننده موسیقی ">Sony NWZ-B160 MP3 PlayerEarphonesQuick Start Guide</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="حسن شرفي " Value="">
+      <Sentence ID="gr-1-1" Value="+1"> اين يک دستگاه ضبط کننده است که قابليت پخش ام پي تري هم داره</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="40" />
+  <Performance Value="2.20" />
+  <Capability Value="9.00" />
+  <Production_Quality Value="2.20" />
+  <Ergonomics Value="9.00" />
+  <Purchase_Value Value="1.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="دستگاه" Relation="gr-1" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-1-1,8,14]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-1-1,15,24]" Relation="tagID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[gr-1-1,32,52]" Relation="tagID1002" Value="" />
+  </Tags>
+  <Keywords />
+  <Index>
+    <Keyword_Index Value="1" />
+    <Tag_Index Value="5" />
+  </Index>
+</Product>

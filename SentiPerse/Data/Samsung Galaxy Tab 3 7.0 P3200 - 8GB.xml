@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy Tab 3 7.0 P3200 - 8GB" Type="Tablet">
+  <Features>
+    <Feature Name="ابعاد ">188 × 111 × 9.9 mm</Feature>
+    <Feature Name="وزن ">306 گرم</Feature>
+    <Feature Name="رنگ ">سفید</Feature>
+    <Feature Name="سازنده پردازنده ">-</Feature>
+    <Feature Name="مدل پردازنده ">Dual-Core CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1.2GHz</Feature>
+    <Feature Name="حافظه رم ">1.0 GB</Feature>
+    <Feature Name="نوع حافظه رم ">-</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">8 GB</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">7 اینچ</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">صفحه نمایش 7 اینچی لمسی خازنی از نوع TFT با تراکم پیکسلی 170ppi</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">600 × 1024 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">صفحه نمایش مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Multi-Touch Input Method)قابلیت کنترل لمسی (Touch-Sensitive Controls)ضد خش از نوع Corning Gorilla Glassمجهز به حسگر شتاب‌سنج برای چرخش خودکار رابط کاربری ( Accelerometer Sensor For UI Auto-Rotate)</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">بلی</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">بلی</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1900 / 2100 </Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, Wi-Fi hotspot</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">همراه با پشتیبانی از A-GPS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3 همراه با A2DP</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="DLNA ">بلی</Feature>
+    <Feature Name="پیام رسانی ">SMS(threaded view), MMS, Email, Push Email, IM, RSS</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">کارت حافظه‌ی MicroSD با قابلیت افزایش تا 64 گیگابایت</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="توضیحات دوربین ">دوربین اصلی یا پشتی با کیفیت 3.2 مگاپیکسل - قابلیت ردیابی خودکار لبخند (Smile Detection) - فوکوس ثابت (Fixed Focus Camera) و قابلیت ثبت موقعیتن مکانی و زمانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)</Feature>
+    <Feature Name="کیفیت عکاسی ">1536 × 2048 پیکسل</Feature>
+    <Feature Name="کیفیت فیلمبرداری ">قابلیت فیلم‌برداری با کیفیت HD 720p در ابعاد 720 × 1280 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم (دوربین جلویی) با کیفیت 1.3 مگاپیکسل برای مکالمه تصویری</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای داخلی استریو</Feature>
+    <Feature Name="پخش موسیقی ">MP3, AAC, AC-3, AMR, FLAC, MID, WMA, WAV, Vorbis</Feature>
+    <Feature Name="پخش فیلم ">Codec: MPEG4, H.263, H.264, VC-1, DivX, WMV7, WMV8, VP8Format: 3GP, ASF, AVI, MP4, WMV, FLV, MKV, WebM</Feature>
+    <Feature Name="پورت USB ">خیر</Feature>
+    <Feature Name="نسخه USB ">USB نسخه‌ی 2</Feature>
+    <Feature Name="پورت microUSB ">بلی</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سایر پورت ها ">TV Out</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">v4.1 JellyBean</Feature>
+    <Feature Name="باتری ">یون لیتیوم استاندارد 4000 میلی‌آمپری (Standard Battery, Li-ion 4,000mAh)</Feature>
+    <Feature Name="کارکرد باتری ">بین 24 تا 48 ساعت</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">مجهز به ویرایشگر عکس و فیلم (Image/video editor)قابلیت نمایش و ویرایش فایل‌های آفیس (Quickoffice HD Editor &amp; Viewer)دارای سازمان دهنده (Organizer)Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integration</Feature>
+    <Feature Name="امکانات دیگر ">مجهز به خروجی تلویزیون (TV Out)TouchWiz UISamsung TouchWiz/ Samsung L!ve Panel UXSamsung AppsSamsung Kies / Samsung Kies airSNS integrationVoice memo(Predictive text input (Swype</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="محمود وطن پور " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">به نظر من با اين امکانات اصلا ارزش خريد نداره؛ Note 8.0  خيلي از اين بهتره مخصوصا از لحاظ امکانات سخت افزار.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="14" />
+  <Performance Value="7.50" />
+  <Capability Value="7.60" />
+  <Production_Quality Value="7.10" />
+  <Ergonomics Value="7.30" />
+  <Purchase_Value Value="7.10" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="ارزش خريد" Relation="gr-1" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-1-1,30,39]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-1-1,40,45]" Relation="tagID1002" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,40,45]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="2" />
+    <Tag_Index Value="4" />
+  </Index>
+</Product>

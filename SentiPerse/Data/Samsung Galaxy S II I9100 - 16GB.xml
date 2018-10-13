@@ -1,0 +1,1909 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy S II I9100 - 16GB" Type="Mobile">
+  <Accessories>
+    <Accessory Name="مجموعه بهترين نرم افزارهاي آندرويد (8 عدد DVD)" Price="23000" />
+    <Accessory Name="مجموعه نرم افزار فارسي GPS اقليم (نسخه موبايل)" Price="24000" />
+    <Accessory Name="محافظ سيليکوني Capdase" Price="6500" />
+    <Accessory Name="محافظ صفحه نمايش گوشي موبايل" Price="4500" />
+    <Accessory Name="شارژر همراه HuntKey PBB4400" Price="109000" />
+    <Accessory Name="کارت حافظه MicroSDHC Card Philips 32GB Class 10" Price="89000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کيف موبايل اوريجينال Golla" Price="10000" />
+    <Accessory Name="کيت تميز کننده Soyntec Clean See 300" Price="17000" />
+    <Accessory Name="قاب موبايل SGP Case For Samsung Galaxy S II (i9100) Black" Price="11000" />
+    <Accessory Name="قاب موبايل SGP Case For Samsung Galaxy S II (i9100) White" Price="11000" />
+    <Accessory Name="کارت حافظه MicroSD Card ADATA 8GB Class 4" Price="25000" />
+    <Accessory Name="هندزفري بلوتوث Jabra Clear - Black" Price="139000" />
+    <Accessory Name="هندزفري بلوتوث Plantronics ML10" Price="69000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/05/29</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">125.3 × 66.1 × 8.5 mm</Feature>
+    <Feature Name="وزن ">116 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، سفید، صورتی</Feature>
+    <Feature Name="مدل پردازنده ">Dual-Core Cortex-A9, Exynos Chipset</Feature>
+    <Feature Name="سرعت پردازنده ">1.2GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Mali-400MP</Feature>
+    <Feature Name="حافظه داخلی ">16384 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">1024 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 32 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1900 / 2100</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 21 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 12 (4+1/3+2/2+3/1+4 slots), 32 - 48 kbps</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 b/g/n, DLNA, Wi-Fi Direct, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS Support</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 12</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.0 همراه با HS</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2.0, USB On-The-Go</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع Super AMOLED Plus</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4.3 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">WVGA 800 × 480</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,000,000 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش مالتی تاچ با پوشش ضدخش Gorilla Glass با قابلیت دریافت چند لمس همزمان (Multi-Touch Input Method) - دارای حسگر ژیروسکوپ (Gyroscope Sensor) - دارای کنترل های لمسی (Touch Sensitive Controls) - دارای حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor for Auto Turn-Off) - دارای حسگر شتاب سنج برای چرخش خودکار تصویر  (Accelerometer Sensor For UI Auto-Rotate)</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم (دوربین مکالمه ویدئویی) با کیفیت 2 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">1080p 1920 × 1080</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD 1080p در ابعاد 1080 × 1920 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">مجهز به لرزشگیر دست (Image Stabilization)قابلیت فوکوس لمسی (Touch Focus)مجهز به ردیاب خودکار چهره و لبخند (Face and Smile Detection)قابلیت ثبت موقعیت زمانی و مکانی عکس و فیلم گرفته شده بر روی آن (Geo-Tagging)</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3, WAV</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">v2.3 (Gingerbread), planned Upgrade to v4.0</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, OGG, AAC, AAC+, eAAC+, AMR-NB AMR-WB, WMA, WAV, MID, AC3, IMY, FLAC, XMF</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MPEG4, H.264, H.263, WMV, DivX, Xvid, VC-1</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM استریو با RDS</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر ژیروسکوپ (Gyro)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor For Auto Turn Off)حسگر شتاب سنج برای چرخش خودکار تصویر (Accelerometer Sensor For Auto Rotate)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">1,650 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">710 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">18:20 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">GPU Mali-400MPTouchWiz UI v4.0قابلیت حذف نویز و صداهای اضافی برای مکالمه‌ی بهتر و شفاف‌تر با استفاده از میکروفن اختصاصی (Active Noise Cancellation with Dedicated Mic)قابلیت پشتیبانی از فایل‌های آفیس مانند Word, Excel, PowerPoint(NFC Support (Optionalدارای خروجی تلویزیون ((TV-Out (via MHL A/V Link)ویرایشگر عکس و فیلم (Image/Video Editor)دارای سازمان دهنده (Organizer)Adobe Flash 10.1SNS integrationGoogle Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integrationVoice memo/dial/commands(Predictive Text Input (Swype</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژرهندزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">سامسونگ Galaxy S II دارای قطری در حدود 8.5 میلی متر است و در ضخیم ترین مکان هرگز این قطر از 1 سانتی متر تجاوز نمی‌کند.</Sentence>
+    <Sentence ID="rev-2" Value="+2">با در نظر گرفتن تجهیزات سخت‌افزاری قدرتمندی که درون بدنه جای گرفته، بدنه‌ی باریک Galaxy S II در نوع خود یک شاهکار مهندسی محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-3" Value="0">از نظر باریکی؛ این گوشی را می‌توان با Sony Ericsson Xperia Arc مقایسه کرد.</Sentence>
+    <Sentence ID="rev-4" Value="+1">کاور پشتی گوشی دارای طرح برجسته‌ای می‌باشد و در هنگام لمس کردن احساس خوبی به شما می‌دهد.</Sentence>
+    <Sentence ID="rev-5" Value="+1">همچنین به نظر ما از نظر مقاومت در برابر خراش و آسیب های احتمالی مقاوم‌تر از کاور پشتی Galaxy S اصلی است.</Sentence>
+    <Sentence ID="rev-6" Value="-1">با این حال با توجه به ساختار پلاستیکی آن،  نباید استحکامی فوق‌العاده را از آن انتظار داشته باشیم.</Sentence>
+    <Sentence ID="rev-7" Value="0">فریم دور نمایشگر هم کاملا از پلاستیک ساخته شده و این بدنه‌ی پلاستیکی یکی از تفاوت های بارز بین این گوشی و گوشی های هوشمند ساخت HTC و یا آیفون است.</Sentence>
+    <Sentence ID="rev-8" Value="-1">موضوعی که از نظر بسیاری یکی از نقاط ضعف جدی این مدل به شمار می‌رود.</Sentence>
+    <Sentence ID="rev-9" Value="-1">وقتی این گوشی را برای اولین بار در دست میگیرید،  انتظار وزنی بیشتر و ساختاری فلزی و مستحکم تر را دارید، و ممکن است در وهله اول کمی شما را مأیوس کند.</Sentence>
+    <Sentence ID="rev-10" Value="+1">اما بعد از اینکه مدتی با آن کار می‌کنید، می‌بینید که آن طور هم که قبلا به نظر می‌آمد نیست و حس خوبی با آن خواهید داشت.</Sentence>
+    <Sentence ID="rev-11" Value="+2">به قسمت جلوی گوشی که نگاه کنیم؛ با نمایشگر 4.3 اینچی فوق‌العاده‌ی Super AMOLED مواجه می‌شویم که سطح آن کاملا توسط شیشه‌ی ضد خش و بسیار مستحکم Gorilla Glass پوشیده شده است.</Sentence>
+    <Sentence ID="rev-12" Value="0">در قسمت بالای نمایشگر،  سنسور سنجش نورمحیطی و دوربین جلویی،  و در قسمت زیر نمایشگر دو دکمه‌ی لمسی آندرویدی دیده می‌شود.</Sentence>
+    <Sentence ID="rev-13" Value="0">دکمه مکالمه یا Home تنها برآمدگی قسمت شیشه‌ای و صیقلی جلوی گوشی است.</Sentence>
+    <Sentence ID="rev-14" Value="+1">اندودی که سامسونگ بر روی شیشه‌ی نمایشگر به کار برده وظیفه‌ی خود را به خوبی انجام می‌دهد.</Sentence>
+    <Sentence ID="rev-15" Value="+1">مقاومت آن در برابر جذب اثر انگشت و کثیف شدگی از استاندارد گوشی های هم رده بالاتر است.</Sentence>
+    <Sentence ID="rev-16" Value="0">دکمه کنترل صدا و دکمه‌ی Power هر کدام در طرفین گوشی قرار دارند.</Sentence>
+    <Sentence ID="rev-17" Value="0">آدیو جک 3.5 میلی متری نیز در لبه‌ی بالا و پورت micro USB در لبه‌ی پایینی گوشی جایگذاری شده اند.</Sentence>
+    <Sentence ID="rev-18" Value="-1">بنابراین از نظر پورت‌ها و کنترل های فیزیکی خیلی خلوت است و حتی دکمه‌ی شاتر دوربین هم وجود ندارد.</Sentence>
+    <Sentence ID="rev-19" Value="+2">در عوض همه‌ی کنترل‌های لمسی و غیر لمسی ارگونومی بسیار خوبی دارند و عملکردشان کاملاً راضی‌کننده است.</Sentence>
+    <Sentence ID="rev-20" Value="+2">حساسیت لمسی خود نمایشگر هم کاملاً عالیست.</Sentence>
+    <Sentence ID="rev-21" Value="+1">شاید چنین آرایش دکمه‌ی فیزیکی در کنار دکمه‌ی لمسی در نگاه اول کمی عجیب به نظر برسد ولی پس از مدتی کار کردن با آن متوجه لذت‌بخشی چنین طراحی می‌شوید.</Sentence>
+    <Sentence ID="rev-22" Value="+1">برای توصیف نمایشگر 4.3 اینچی Galaxy S II از هیچ کلمه‌ای کمتر از شگفت‌انگیز نمی‌توانیم استفاده کنیم.</Sentence>
+    <Sentence ID="rev-23" Value="0">رنگ مشکی کاملاً عمیق است.</Sentence>
+    <Sentence ID="rev-24" Value="+1">رنگ‌ها شما را مسحور خود می‌کنند.</Sentence>
+    <Sentence ID="rev-25" Value="+2">کیفیت دید از زاویه هم بهترین است.</Sentence>
+    <Sentence ID="rev-26" Value="0">رزولوشن این نمایشگر 800X480 پیکسل می‌باشد.</Sentence>
+    <Sentence ID="rev-27" Value="0">هرچند که اکنون نمایشگرهایی با رزولوشن 960X540 پیکسل با نام QHD هم در بازار موجود اند که به عنوان مثال یک نمونه از آن بر روی HTC Sensation استفاده شده،  ولی کیفیت نمایشگر آن اصلا به پای Galaxy S II نمی‌رسد.</Sentence>
+    <Sentence ID="rev-28" Value="+1">در نمایشگری با چنین کیفیت؛ رزولوشن کمی بالاتر چندان نیاز نیست.</Sentence>
+    <Sentence ID="rev-29" Value="+1">همانطور که گفتیم کیفیت دید از زاویه‌ی آن فوق‌العاده است و با چرخاندن و نگاه کردن از زوایای تندتر هم کیفیت رنگ‌ها تغییر نمی‌کند.</Sentence>
+    <Sentence ID="rev-30" Value="0">تنها در تماشا از زاویه های بسیار تند تغییر رنگ مشاهده می‌گردد.</Sentence>
+    <Sentence ID="rev-31" Value="+2">چه با آن به تماشای فیلم بنشینید و چه به مرورگری وب بپردازید نمایشگر 4.3 اینچی Galaxy S II شما را به این فکر می‌اندازد که احتمالا بهترین نمایشگر موجود بر روی تلفن های همراه تا به این تاریخ است.</Sentence>
+    <Sentence ID="rev-32" Value="0">هرچند که رزولوشن آن پایین‌تر از نمایشگر Retina‌ی iPhone 4 است ولی با وجود بزرگتر بودن، کیفیتی تقریبا برابر را ارایه می‌دهد.</Sentence>
+    <Sentence ID="rev-33" Value="0">اما در مورد دقت لمسی آن،  به نظر ما با وجود بهبودهای رخ داده،  در مقایسه با iPhone 4 هنوز در رتبه دوم قرار دارد.</Sentence>
+    <Sentence ID="rev-34" Value="+1">یکی از بهبودهای رخ داده در این صفحه نمایش این است که در نمایشگر گوشی های پیشین،  رنگ‌ها غلظتی بیش از حد داشتند.</Sentence>
+    <Sentence ID="rev-35" Value="+1">در Galaxy S II برنامه‌ای وجود دارد که از طریق آن می‌توانید غلظت رنگ نمایشگر را به صورت دلخواه تنظیم کنید.</Sentence>
+    <Sentence ID="rev-36" Value="+1">روشنایی نمایشگر به وسیله‌ی سنسور سنجش نور محیطی می‌تواند به صورت خودکار تنظیم شود و این کار تا جایی که ما دیدیم کاملاً درست انجام می‌گیرد.</Sentence>
+    <Sentence ID="rev-37" Value="+2">در قلب Galaxy S II پردازنده‌ی بسیار قدرتمند ARM Cortex A9 با سرعت 1.2 گیگاهرتز قرار گرفته که در نوع خود فوق‌العاده است.</Sentence>
+    <Sentence ID="rev-38" Value="0">درحقیقت Galaxy S II جزو نخستین گوشی‌های هوشمند با پردازنده‌ی دو هسته‌ای می‌باشد و در ادامه باید منتظر گوشی های بیشتری با چنین پردازنده هایی باشیم.</Sentence>
+    <Sentence ID="rev-39" Value="+1">به خصوص به بکارگیری تکنولوژی دو هسته ای،  سرعت در عملکردهای چند وظیفه‌ای را به‌شدت ارتقاء بخشیده.</Sentence>
+    <Sentence ID="rev-40" Value="0">این پردازنده با 1 گیگابایت حافظه‌ی RAM و پردازشگر گرافیکی مجزا همراه شده.</Sentence>
+    <Sentence ID="rev-41" Value="+1">این حافظه‌ی RAM، بیشترین مقداری است که تا کنون بر روی یک گوشی هوشمند قرار گرفته و پردازشگر گرافیکی هم توان تولید قدرت فراوانی دارد.</Sentence>
+    <Sentence ID="rev-42" Value="+1">چنین سخت‌افزارهایی باعث شده که ذره‌ای مکث و تأخیر در عملکردهای گوشی دیده نشود.</Sentence>
+    <Sentence ID="rev-43" Value="+1">این گوشی در نسخه هایی با حافظه‌ی داخلی 16 و 32 گیگابایت عرضه می‌شود و در از کارت حافظه‌ی Micro SD تا سقف 32 گیگابایت هم پشتیبانی می‌کند که تقریباً بی‌نظیر است.</Sentence>
+    <Sentence ID="rev-44" Value="+2">در کنار چنان سخت‌افزار قدرتمندی، سیستم‌عامل کاملاً حرفه‌ای و جذاب Android 2.3 با واسط کاربری TouchWiz 3.0 قرار دارد.</Sentence>
+    <Sentence ID="rev-45" Value="0">Android 2.3 کاملا با سیستم عامل iOS شرکت اپل در رقابت است.</Sentence>
+    <Sentence ID="rev-46" Value="+2">پاسخگویی عمومی گوشی واقعاً مثال‌زدنی ست.</Sentence>
+    <Sentence ID="rev-47" Value="+1">در هنگام اسکرول و کار کردن با گوشی،  واقعا گویی در بین منوها،  صفحات خانگی و برنامه‌ها پرواز می‌کنید!</Sentence>
+    <Sentence ID="rev-48" Value="+1">به نظر خودمان تا به حال گوشی آندرویدی با چنین سرعت و روانی را تجربه نکرده ایم.</Sentence>
+    <Sentence ID="rev-49" Value="+1">با دسترسی به فروشگاه Android Market می‌توانید به هزاران برنامه، بازی و نرم افزار نوشته شده برای آن دسترسی پیدا کنید.</Sentence>
+    <Sentence ID="rev-50" Value="0">در این جا بد نیست به دعوای حقوقی شرکتهای اپل و سامسونگ که مدتی است در رسانه‌ها خبر‌ساز شده اند اشاره‌ای کنیم.</Sentence>
+    <Sentence ID="rev-51" Value="-1">در سالهای اخیر اپل بارها از شرکت سامسونگ با ادعای کپی برداری پتنت های اپل و «ظاهر و حس»‌ای پد و تلفن همراه هوشمند آیفون شکایت کرده است و خواهان پرداخت خسارات مادی و معنوی این تخلف شده است.</Sentence>
+    <Sentence ID="rev-52" Value="0">و البته سامسونگ نیز این اتهامات رد کرده است.</Sentence>
+    <Sentence ID="rev-53" Value="0">اما آنچه که با قطعیت میتوان اشاره کرد این است که رقابت در این سطح بسیار نزدیک شده است و دیگر فاصله های تکنولوژیکی به اندازه سالهای پیش تعیین کننده نیستند.</Sentence>
+    <Sentence ID="rev-54" Value="+1">و نقش خلاقیت و ایده‌های مبتکرانه کلیدی‌تر شده است.</Sentence>
+    <Sentence ID="rev-55" Value="0">آیا شما یک طبیعت گرد هستید و یا به تازگی به یک شهر بزرگ سفر کرده اید؟</Sentence>
+    <Sentence ID="rev-56" Value="0">خوب کافی است که به برنامه‌ی Maps رجوع کنید تا بوسیله‌ی آن نقشه‌ی کامل تمام کره‌ی زمین در کف دستتان باشد و موقعیت دقیق محلی که هستید را بیابید.</Sentence>
+    <Sentence ID="rev-57" Value="+1">حتی می‌توانید مقصد را هم مشخص کنید و از برنامه بخواهید که مسیر را به شما نشان دهد!</Sentence>
+    <Sentence ID="rev-58" Value="+1">شما حتی می‌توانید تصویر محل خود را به صورت واقعی و ماهواره‌ای مشاهده کنید!</Sentence>
+    <Sentence ID="rev-59" Value="0">اما برای همه اینها نیاز به اتصال به اینترنت دارید.</Sentence>
+    <Sentence ID="rev-60" Value="0">آیا به نجوم علاقه دارید؟</Sentence>
+    <Sentence ID="rev-61" Value="0">با استفاده از برنامه‌ی Google Sky Map،  گوشی را به هر سوی آسمان که نشانه بروید نقشه‌ی زنده‌ی آن به همراه همه‌ی اجرام و اطلاعاتشان برای شما به نمایش در خواهد آمد!</Sentence>
+    <Sentence ID="rev-62" Value="0">آیا به انجام بازی های موبایل علاقه دارید؟</Sentence>
+    <Sentence ID="rev-63" Value="+1">پیش روی شما دریایی از انواع بازی هایی قرار خواهد داشت که در بین آن‌ها بازی‌های 3D و کاملاً مهیج و گرافیکی هم وجود دارد.</Sentence>
+    <Sentence ID="rev-64" Value="0">این‌ها فقط نمونه‌ای از هزاران برنامه‌ی کاربردی و سرگرم کننده‌ی آندروید هستند و تقریبا از هر قشری،  چه دانشجو،  دانش آموز،  مدیر یک شرکت،  پزشک،  مهندس،  بازاریاب،  ورزشکار و هرچه که باشید،  برنامه هایی برای شما وجود دارد و Galaxy S II با سیستم عامل آندروید خود می‌تواند مورد نیاز شما باشد.</Sentence>
+    <Sentence ID="rev-65" Value="0">این گوشی از باتری لیتیوم یونی 1650 میلی آمپر بهره می‌برد.</Sentence>
+    <Sentence ID="rev-66" Value="+2">به طور مشخص سیستم مدیریت انرژی کار خود را بسیار عالی انجام می‌دهد.</Sentence>
+    <Sentence ID="rev-67" Value="+1">در استفاده های معمولی تا دو روز می‌توانید با یک بار شارژ باتری از آن استفاده کنید.</Sentence>
+    <Sentence ID="rev-68" Value="0">از نظر شارژدهی بسیار شبیه به گوشی های HTC Incredible S و HTC Desire S می‌باشد.</Sentence>
+    <Sentence ID="rev-69" Value="0">همانطور که اشاره کردیم،  Galaxy S II مجهز به دوربین 8 مگاپیکسلی است.</Sentence>
+    <Sentence ID="rev-70" Value="0">در قسمت جلو نیز یک دوربین 2 مگاپیکسلی برای مکالمه‌ی تصویری دارد.</Sentence>
+    <Sentence ID="rev-71" Value="+2">از نظر کیفیت عکس های گرفته شده، دوربین این گوشی یکی از بهترین دوربین‌هایی است که بر روی گوشی های تلفن همراه مشاهده کرده ایم.</Sentence>
+    <Sentence ID="rev-72" Value="+2">عکس‌های 8 مگاپیکسلی فوق‌العاده شارپ و با‌کیفیت هستند.</Sentence>
+    <Sentence ID="rev-73" Value="0">یک مود عکاسی ماکرو برای فوکوس کردن و گرفتن عکس سوژه های بسیار نزدیک بر روی این دوربین وجود دارد.</Sentence>
+    <Sentence ID="rev-74" Value="+2">فلاش LED این دوربین فوق‌العاده قدرتمند است.</Sentence>
+    <Sentence ID="rev-75" Value="+1">گاهی اوقات نیز می‌بینیم که برای فوکوس خودکار بر روی سوژه های مختلف این دوربین،  از فلاش برای پیدا کردن سوژه و کمک به فوکوس بهتر بهره می‌برد.</Sentence>
+    <Sentence ID="rev-76" Value="+2">از نظر ضبط ویدیویی، فیلم‌های ضبط شده بسیار شارپ و با‌کیفیت هستند.</Sentence>
+    <Sentence ID="rev-77" Value="+1">حتی در فیلم برداری 1080p Full HD نیز فیلم‌برداری روان و بدون هرگونه مشکل انجام می‌شود.</Sentence>
+    <Sentence ID="rev-78" Value="+2">سرعت عکس‌برداری و فیلم‌برداری هم فوق‌العاده است.</Sentence>
+    <Sentence ID="rev-79" Value="+1">در واقع زمان خیلی کمی برای گرفتن یک عکس و سپس عکس بعدی،  ورود و خروج به برنامه‌ی دوربین و سویچ بین مود دوربین عکاسی و دوربین فیلم برداری لازم است.</Sentence>
+    <Sentence ID="rev-80" Value="0">همچنین یک برنامه نیز برای ویرایش عکس و فیلم بر روی آن وجود دارد.</Sentence>
+    <Sentence ID="rev-81" Value="+1">سامسونگ به کمک سنسور شتاب سنج،  بعضی کنترل های حرکتی جالب را برای این گوشی در نظر گرفته است.</Sentence>
+    <Sentence ID="rev-82" Value="0">برای مثال وقتی گوشی را بر می‌گردانید تا نمایشگر آن به سمت زمین باشد،  به یک باره همه‌ی صداهای آن قطع می‌شود.</Sentence>
+    <Sentence ID="rev-83" Value="0">این صدا می‌تواند صدای یک مکالمه‌ی تلفنی و یا پخش مدیا باشد.</Sentence>
+    <Sentence ID="rev-84" Value="+1">یکی دیگر از آن‌ها Tilt Zoom به معنی کج کردن برای بزرگنمایی است که در مرورگر اینترنت و گالری عکس کاربرد دارد.</Sentence>
+    <Sentence ID="rev-85" Value="+1">شما می‌توانید با کج کردن گوشی به یک طرف در آن  Zoom IN و یا Zoom Out کنید.</Sentence>
+    <Sentence ID="rev-86" Value="0">وقتی شما دو انگشت خود را به صورت همزمان بر روی نمایشگر می‌گذارید منوی تنظیمات، حساسیت و دیگر ویژگی های آن ظاهر می‌شود.</Sentence>
+    <Sentence ID="rev-87" Value="+1">این هم ویژگی جالبی است.</Sentence>
+    <Sentence ID="rev-88" Value="0">آخرین کنترل حرکتی نیز مربوط به Panning یا حرکت در بین آیکون‌ها و صفحات خانگی است.</Sentence>
+    <Sentence ID="rev-89" Value="0">این حرکت هم می‌تواند با کج کردن دستگاه صورت گیرد.</Sentence>
+    <Sentence ID="rev-90" Value="+2">عملکرد مرورگر اینترنت موجود بر روی این دستگاه از نظر سرعت بسیار عالیست.</Sentence>
+    <Sentence ID="rev-91" Value="+1">عمل Pinch too Zoom که با دو انگشت صورت می‌گیرد،  کاملاً بدون خطاست.</Sentence>
+    <Sentence ID="rev-92" Value="+1">همچنین تغییر جهت نمایشگر به حالت عمودی و افقی در یک چشم به هم زدن انجام می‌گیرد.</Sentence>
+    <Sentence ID="rev-93" Value="+2">این مرورگر از Adobe Flash هم پشتیبانی می‌کند و محتوای آن از قبیل ویدیو و گرافیک نیز کاملاً عالی اجرا می‌شود.</Sentence>
+    <Sentence ID="rev-94" Value="+2">اما صفحه‌کلید لمسی یا همان صفحه کلید مجازی روی نمایشگر Galaxy S II فوق‌العاده است.</Sentence>
+    <Sentence ID="rev-95" Value="+1">بدین صورت که تا به حال چنین صفحه‌کلید خوبی را بر روی هیچ تلفن همراهی مشاهده نکرده بودیم.</Sentence>
+    <Sentence ID="rev-96" Value="+1">سرعت تایپ‌کردن ما با آن؛ از صفحه کلید هر گوشی دیگری بهتر بود.</Sentence>
+    <Sentence ID="rev-97" Value="+1">بر روی این صفحه کلید یک کلید جدید Voice input وجود دارد که به محض فشردن آن می‌توانید صحبت کنید تا گوشی صحبت های شما را به صورت نوشته درآورد.</Sentence>
+    <Sentence ID="rev-98" Value="+1">این ویژگی Voice to Speech در جاهای دیگر گوشی مثل جستجو در گوگل یا در مروگر برای نوشتن آدرس های اینترنتی هم کاربرد دارد.</Sentence>
+    <Sentence ID="rev-99" Value="+1">به عنوان یک گوشی تلفن همراه با چنین ویژگی‌ها و فناوری‌های خیره‌کننده‌ای،  Galaxy S II گوشی آسانی برای جمع بندی و اظهار نظر است.</Sentence>
+    <Sentence ID="rev-100" Value="+2">به نظر ما بهترین گوشی آندرویدی است که تا به حال دیده ایم و برای هر قشری می‌تواند کاملاً کاربردی و کارآمد باشد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>صفحه نمایش Super AMOLED Plus فوق العاده با کیفیت</Advantage>
+    <Advantage>دوربین عالی با قابلیت ضبط ویدئوهای 1080p با کیفیت بسیار بالا</Advantage>
+    <Advantage>یکی از سریعترین گوشی های موجود در بازار با پردازنده و گرافیک بسیار سریع</Advantage>
+    <Advantage>بدنه ای بسیار سبک و باریک</Advantage>
+    <Advantage>خروجی HDMI</Advantage>
+    <Advantage>امکانات ارتباطی متنوع</Advantage>
+    <Advantage>پشتیبانی از فرمت های مختلف ویدئویی</Advantage>
+    <Advantage>کیفیت مکالمه بسیار خوب</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>بدنه کاملا پلاستیکی</Disadvantage>
+    <Disadvantage>عدم وجود کلید اختصاصی دوربین</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="مصطفي شهروسوند " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">بهترين گوشي دنياس واقعا.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="فريد کوهي " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">گوشي بسيار خوبي هستش مخصوصا اينکه آپديت هم براش اومده و همونطور که دوستان گفتن بعد از آپديت هم سطح گوشي‌هاي مطرح بهتر ميشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="حسين خدامي " Value="-1">
+      <Sentence ID="gr-3-1" Value="-1">من يک سال پيش خريدمش فقط به خاطر داغ‌کردنش فروختمش</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="سعيد سرلک " Value="+2">
+      <Sentence ID="gr-4-1" Value="0">باسلام.</Sentence>
+      <Sentence ID="gr-4-2" Value="0">چند وقتي ميشه که اين گوشي رو به آندرويد 4.1.2 يا همون Jelly Bean آپديت کردم.</Sentence>
+      <Sentence ID="gr-4-3" Value="+2">بعد از اين آپديت بسيار کار‌کردن با اين گوشي لذت‌بخش‌تر از گذشته شد چرا که احساس ميکنم گوشي قدرتمند‌تر از گذشته عمل ميکنه و هم اينکه محيط اين نسخه از آندرويد فوق‌العاده کاربردي‌تر و جذاب‌تر شده و هم چنين بسياري از امکانات Galaxy S III هم به بهش اضافه شده.</Sentence>
+      <Sentence ID="gr-4-4" Value="+2">دراين نسخه امکانات وسيعي جهت شخصي سازي قسمت هاي مختلف سيستم عامل افزوده شده که با اين آپديت Galaxy S II نشون ميده که هنوز هم يکي از بهترين‌هاست و گفته هايي مبني بر اينکه دوره اين گوشي گذشته را ميتوان  غير قابل قبول دونست.</Sentence>
+      <Sentence ID="gr-4-5" Value="+2">اين گوشي هم زيبا و هم قدرتمند با آپديت شدن به آخرين نسخه آندرويد نشون داد که سامسونگ کاملا از محبوبيت اين گوشي در بين مردم دنيا آگاهه و ميدونه که Galaxy S II نه تنها قديمي نشده بلکه اين گوشي همچنان رقيبي سر‌سخت براي ساير گوشي هايه هوشمنده موجود در بازار هستش.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="عليرضا " Value="+2">
+      <Sentence ID="gr-5-1" Value="+2">دوستان شک نکنيد عاليه مخصوصا وقتي آندرويد جيلي بين 4.1.2 روش بريزيد فوق‌العاده ميشه.</Sentence>
+      <Sentence ID="gr-5-2" Value="+1">تو کارهاي معمولي و حتي سنگين چيزي از چهار هسته اي ها کم نداره.</Sentence>
+      <Sentence ID="gr-5-3" Value="+1">البته يکم قيمتش بالاست که با توجه به قابليت هايي که داره مي‌ارزه.</Sentence>
+      <Sentence ID="gr-5-4" Value="+1">من سري G دارم که نسبت به نسخه معمولي گرافيک قوي‌تري هم داره و هر بازي بخواين بدون مشکل مياره.</Sentence>
+      <Sentence ID="gr-5-5" Value="+1">درسته که با اين قيمت ميتونيد يه LG 4X HD با پردازنده تگرا 3 بخريد ولي رابط کاربري LG به پاي SAMSUNG نخواهد رسيد و اين گوشي يقينا از 4X HD هوشمند‌تره ( با توجه به امکاناتي مثل : smart stay و تمام قابليت هاي  Galaxy SIII  به جز S Voice که وقتي به جيلي بين آپديت کنيد به Galaxy S II هم اضافه ميشه)</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="masoud sabzian " Value="+1">
+      <Sentence ID="gr-6-1" Value="+1">با سلام با اين آپديت هايي که براش مياد دورش نگذشته و تازگي داره و از خيلي گوشي‌هاي جديد هم بهتره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="alimohammadsalmaniazghandi " Value="+1">
+      <Sentence ID="gr-7-1" Value="+1">گوشي عالي‌اي بود ولي با اين قيمت ميتوني يک 4X بخري که ۴ هسته اي تگرا۳ هست.</Sentence>
+      <Sentence ID="gr-7-2" Value="0">الان دوره S2 گذشته</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="عليرضا امامي " Value="0">
+      <Sentence ID="gr-8-1" Value="0">سلام بچه ها نسخه اندرويد 4 براش اومده.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="فريد کوهي " Value="+2">
+      <Sentence ID="gr-9-1" Value="+1">يکي‌ از بي‌‌نقص‌ترين گوشي‌هايي‌ که تا حالا داشتم.</Sentence>
+      <Sentence ID="gr-9-2" Value="+1">من الان ۱ ساله که دارمش و واقعاً مشکلي‌ ازش نديدم.</Sentence>
+      <Sentence ID="gr-9-3" Value="0">۱-۲ بار خودش خاموش شد همينجوري اما به جز اون اصلا نه هنگ کرده نه چيزي ديگه.</Sentence>
+      <Sentence ID="gr-9-4" Value="+2">بسيار پر‌سرعت و خوش‌دست هم هست.</Sentence>
+      <Sentence ID="gr-9-5" Value="0">شک نکنيد حتا الان!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="علي هنرور " Value="+1">
+      <Sentence ID="gr-10-1" Value="0">سلام 
+من از وقتي که يادم مياد هيچ گوشي جز سوني (سوني اريکسون) نداشتم و طرفدار دو آتيشه سوني بودم تجربه کاري با بهترين هاي سوني رو هم داشتم از K810 و W990 و Vivaz و X10i و Arc و Xperia S بگير تا همين آخري T !</Sentence>
+      <Sentence ID="gr-10-2" Value="0">بعد از اين همه مدت تعصبم رو اين برند رو کنار گذاشتم و اومدم سراغ  سامسونگ  اس 2 !</Sentence>
+      <Sentence ID="gr-10-3" Value="+2">حالا هم که در خدمتتون هستم واقعا از گوشي راضي‌ام ، اگر بخوام مقايسه کنم سرعت تاچ ويز و کاربردي‌تر بودنش خيلي بهتر از سادگي سوني هست همه چيز هم جلوي دست آدمه
+گوشي من سري G نيست و ساخت چين .</Sentence>
+      <Sentence ID="gr-10-4" Value="+1">،  و به 4.1.2 رسمي هم آپديت کردم واقعا محشر شده هيچ گونه افت سرعتي مشاهده نميشه و فريم ريت هنگام کار کردن با گوشي خيلي بالاست ، اصلا مشکل داغ‌کردن تا الان نداشتم حتي با اجراي بازي هاي سنگين ( از سوني که کمتر داغ ميکنه ) فقط تنها مشکلي که من حس کردم شايد اذيتتون کنه مصرف باطري بود که با استفاده هاي من 1 روز دوام نمياره .</Sentence>
+      <Sentence ID="gr-10-5" Value="0">در کل حالا حالا ها اين گوشي رو نگه ميدارم ،  با تشکر از همه دوستان </Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="سيد مسعود پردل " Value="+2">
+      <Sentence ID="gr-11-1" Value="+2">سلام بچه ها
+آندرويد 4.1.2 جيلي بين نسخه نهايي براي اين گوشي اومده که مي تونيد دانلود کنيد 
+در نسخه جيلي بين همه اين مشکلات برطرف شده
+يعني عالي شده.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="ابوالفضل دهقاني " Value="0">
+      <Sentence ID="gr-12-1" Value="0">گوشي خوبيه اما مشکلاتي هم داره اما هنوز هم بهترينه مخصوصا حالا که به اندرويد 4.1 هم آپديت ميشه
+مشکلات آن:
+1-سبک
+2-هنگ دوربين در بعضي موارد اندک
+3-نفرستادن اس ام اس بيش از يک کاراکتر
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="ali babaii " Value="+1">
+      <Sentence ID="gr-13-1" Value="+1">يعني واقعآ اگه نخريد ضرر ميکنيد به اين ميگن گوشي صفحه با‌کيفيت .</Sentence>
+      <Sentence ID="gr-13-2" Value="+1">صداي خوب .</Sentence>
+      <Sentence ID="gr-13-3" Value="+1">باريک .</Sentence>
+      <Sentence ID="gr-13-4" Value="+1">پر کار .</Sentence>
+      <Sentence ID="gr-13-5" Value="+1">دوربين خوب .</Sentence>
+      <Sentence ID="gr-13-6" Value="+1">همه چي خوب</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="رضا فولادوندي " Value="+1">
+      <Sentence ID="gr-14-1" Value="+1">سلام  دوستان عزيز
+واقعا گوشي فوق‌العاده‌اي هستش حتي الان توي قيمت خودش يه‌دونست
+ولي لطفا با گارانتي بخريد 
+دوست من همين گوشي رو شب تا صبح به شارژ زد تاچ ال سي ديش سوخت 
+خلاصه دقت کنيد توي خريد سامسونگ 
+با اين حال من هنوز عاشق سامسونگم ولي اگه بخوام بخرم حتما با گارانتي معتبر ميخرم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="حسين يوسفي  " Value="+1">
+      <Sentence ID="gr-15-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-15-2" Value="0">من يه htc sensation  داشتم که تازه با galaxy SII عوض کردم.</Sentence>
+      <Sentence ID="gr-15-3" Value="+1">واقعا از کارم راضي هستم نميگم htc sensation  بده ولي galaxy SII از نظر سرعت، دوربين، کيفيت تصوير و باريکي اين گوشي واقعاً سره.</Sentence>
+      <Sentence ID="gr-15-4" Value="+1">يه سر و گردن از htc sensation بالاتره و اصلا قابل مقايسه نيستن.</Sentence>
+      <Sentence ID="gr-15-5" Value="+1">واقعا از اين گوشي راضي هستم و هر کسي در خريدش شک داره اصلا شک نکنه بره بخره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="سيد محمد علي شاه محمدي " Value="+2">
+      <Sentence ID="gr-16-1" Value="+2">سلام
+من هشت ماه است که خريدم ، واقعا بهترين گوشي تو کلاس قيمت خودش هست
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="رضا عيوضي " Value="0">
+      <Sentence ID="gr-17-1" Value="+1">به نظر من صفحه نمايش super amoled plus گلکسي اس 2 البته i9100 هيچ چيزي از صفحه نمايش galaxy s3 و galaxy note کمتر نداره.</Sentence>
+      <Sentence ID="gr-17-2" Value="0">به نظر من i9100g.</Sentence>
+      <Sentence ID="gr-17-3" Value="-1">کيفتش super amoled plus نيست.</Sentence>
+      <Sentence ID="gr-17-4" Value="0">super amoled هستش.</Sentence>
+      <Sentence ID="gr-17-5" Value="+2">کلا i9100 غير از باتري اونم بخاطر سخت‌افزار قدرتمندش از همه لحاظ بهتر از i9100g هستش.</Sentence>
+      <Sentence ID="gr-17-6" Value="-1">نميدونم سامسونگ به جاي دادن i9100g که ضعيف هستش.</Sentence>
+      <Sentence ID="gr-17-7" Value="0">باتري i9100 قويتر ميکرد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="iraj abrishami " Value="+2">
+      <Sentence ID="gr-18-1" Value="0">سلام دوستان .</Sentence>
+      <Sentence ID="gr-18-2" Value="+2">من نزديک 1 ساله اين گوشي رو دارم و واقعاً محشره (البته اگه اندرويد 4 رو روش نصب کنيد که ديگه فوق‌العاده ميشه !</Sentence>
+      <Sentence ID="gr-18-3" Value="+2">) و به نظر من بهترين گوشيه دو هسته‌اي موجود در بازاره .</Sentence>
+      <Sentence ID="gr-18-4" Value="+2">در کل گوشي‌هاي سري NOTE و S سامسونگ محشرن و قابليت‌هاي فوق‌العاده‌اي دارند.</Sentence>
+      <Sentence ID="gr-18-5" Value="+1">فقط يکمي نسبت به ساير برند ها گرونتره، ولي در عوض کارايي و امکانات بيشتري داره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-19" Holder="بهمن کريمي " Value="+1">
+      <Sentence ID="gr-19-1" Value="+1">تو اين چند مدتي که دارمش فقط باتريش اذيتم کرده که شايد به خاطر عکس و فيلم‌هاي عاليه که باهاش ميگيرم و واقعاً ميشه گفت که با امکاناتي که اپراتورها تو ايران ارائه ميدن چيزي کم نداره.</Sentence>
+      <Sentence ID="gr-19-2" Value="0">موفق باشين</Sentence>
+    </General_Review>
+    <General_Review ID="gr-20" Holder="سعيد سرلک " Value="0">
+      <Sentence ID="gr-20-1" Value="0">با سلام.</Sentence>
+      <Sentence ID="gr-20-2" Value="0">من تعجب ميکنم چرا برخي کاربران عزيز در مورد Samsung Galexy S II نظراتي رو ميدن که به نظر مياد که اين گوشي رو در اختيار ندارن!</Sentence>
+      <Sentence ID="gr-20-3" Value="+2">اين گوشي با توجه به سخن متخصصين سايت ديجي کالا و همچنين کاربراي عزيزي که اين گوشي رو در اختيار دارند و از عملکرد اون آگاهند به واقع يک اَبَر گوشي در بين گوشي هاي هوشمنده و يکي از محبوبترين گوشي‌هاي همراه در دنيا.</Sentence>
+      <Sentence ID="gr-20-4" Value="+1">بنده غريب به يکساله که اين گوشي رو در اختيار دارم و هيچگونه عملکرد ضعيفي رو شاهد نبودم و با بروزرساني سيستم عامل اون به آندرويد 4 عملکرد اون بسيار بهبود پيدا کرد.</Sentence>
+      <Sentence ID="gr-20-5" Value="-1">عجيبه که برخي از دوستان برخلاف نظر کاربران عملکرد اين گوشي رو با آندرويد 4 همراه با هنگ و مشکل بيان ميکنند و اطلاعات نادرستي رو در اختيار علاقمندان قرار مي دهند.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-21" Holder="عليرضا محمدي " Value="+2">
+      <Sentence ID="gr-21-1" Value="0">با سلام خدمت شما دوستان عزيز .</Sentence>
+      <Sentence ID="gr-21-2" Value="0">من مي خواستم بگم يکي از نقاط قوت اين گوشي.</Sentence>
+      <Sentence ID="gr-21-3" Value="+1">هسته قوي آن است.</Sentence>
+      <Sentence ID="gr-21-4" Value="+2">که بسيار قوي و هر نرم‌افزاري قادر اجراست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-22" Holder="سيد محمد حسين هاشمي نيا " Value="-1">
+      <Sentence ID="gr-22-1" Value="0">سلام به همه.</Sentence>
+      <Sentence ID="gr-22-2" Value="-1">گلکسي اس 2 از نظر شيک بودن حرف نداره ولي cpu اون مقداري ضعيفه و با توجه به آمدن cpu هاي 2 هسته اي 1.7 و 4 هسته اي حرفي چنداني نميتواند بزند از نظر دوربين هم بد نيست يکم نويز داره ولي نسبت به گوشي هاي هم قيمت ميشه گفت ميتونه جا باز کنه ولي از نظر اپديت:چون ميدونيد اين گوشي اندرويد 2.3 داره و خيلي ها مايل به اپديتش هستن در اين مورد بايد بگم که وقتي اپديت ميکنيد گوشي مقداري در انجام برنامه ها هنگ داره و همينطور وقتي کار هاي گرافيکي با گوشي انجام ميدهيد پرش صفحه کاملاً محسوسه ولي در کل بگم اگه ميخوايد اين گوشي رو بخريد بهتره يه سري هم به xperia sl و xperia acro s  بزنيد و خودتون مقايسه کنيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-23" Holder="saeed rasooli " Value="+1">
+      <Sentence ID="gr-23-1" Value="+1">من حدود يک ساله دارمش و واقعاً ازش راضي هستم.</Sentence>
+      <Sentence ID="gr-23-2" Value="+1">من مدل i9100g دارم و اصلا داغ نميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-24" Holder="سهيل سعيدمهر " Value="+2">
+      <Sentence ID="gr-24-1" Value="+2">گوشي فوق‌العاده عالي ‌اي هستش.</Sentence>
+      <Sentence ID="gr-24-2" Value="+1">الان سيستم‌عامل 4.1.1 Jelly Bean رو روش نصب کردم که بشدت روونه و اکثر قابليت‌هاي نرم افزاري Galaxy SIII رو (اعم از صفحه ويديو کوچک در کنار ساير صفحات،  تماس سريع با شخص پيامک زده و..</Sentence>
+      <Sentence ID="gr-24-3" Value="0">) داره.</Sentence>
+      <Sentence ID="gr-24-4" Value="+1">ظاهرش هم به نظر من از SIII بهتره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-25" Holder="حسين سنگري " Value="+2">
+      <Sentence ID="gr-25-1" Value="+2">گوشي s2 يکي از گوشيهاي فوق‌العاده‌ي بازار گوشيهاي هوشمنده .</Sentence>
+      <Sentence ID="gr-25-2" Value="+1">به جرأت ميشه گفت يه غول به تمام معنا .</Sentence>
+      <Sentence ID="gr-25-3" Value="0">من اندرويد 4.1.3 رو نصب کردم تمام امکانات s3 هم اضافه شد .</Sentence>
+      <Sentence ID="gr-25-4" Value="0">مثلا دايرکت کال يا همون چيزي که گوش رو نزديک گوشي ميبريد با شماره طرف تماس ميگيره ..</Sentence>
+      <Sentence ID="gr-25-5" Value="0">قابليت پخش ويدئو در پس زمينه .</Sentence>
+      <Sentence ID="gr-25-6" Value="+1">سرعت گوشي هم واقعا رفته بالا .</Sentence>
+      <Sentence ID="gr-25-7" Value="+1">ازش راضي هستم ..</Sentence>
+      <Sentence ID="gr-25-8" Value="+2">شک نکنيد در خريد اين گوشي که يکي از بهترين‌هاست ..</Sentence>
+      <Sentence ID="gr-25-9" Value="+1">من خودم خيلي رو خريد گوشي حساس هستم اما واقعا s2 هيچ چي کم نداره .</Sentence>
+      <Sentence ID="gr-25-10" Value="+1">بر خلاف نظرات دوستان معتقدم که هيچ ضعفي در s2 نيست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-26" Holder="سالار شيوا " Value="+2">
+      <Sentence ID="gr-26-1" Value="+2">من خريدمش واقعاً راضي هستم امکاناتش واقعاً عالي هست.</Sentence>
+      <Sentence ID="gr-26-2" Value="0">هرچي باشه اخرش  samsung galaxy sII هستش و سرعتش 1.2 هست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-27" Holder="محسن @ " Value="0">
+      <Sentence ID="gr-27-1" Value="0">گوشي بدي نيست ولي با قيمت فعلي بهتره که همون اس 3 را خريد که امکاناتش بيشتره و از نظر شارژ‌دهي و خيلي چيزهاي ديگه تا به امروز جواب خودش را پس داده </Sentence>
+    </General_Review>
+    <General_Review ID="gr-28" Holder="saeed sarlak " Value="+2">
+      <Sentence ID="gr-28-1" Value="0">باسلام.</Sentence>
+      <Sentence ID="gr-28-2" Value="+1">گوشي Galexy S II گوشي هست که شما با داشتن اون ميتونيد يکي از بهترين تجربه‌هاي يک گوشي اندرويدي رو داشته باشيد.</Sentence>
+      <Sentence ID="gr-28-3" Value="0">من 8 ماهه که مدل I9100G اين گوشي رو دارم و با مدل  I9100 هم کار کردم و برخلاف نظرات برخي کاربران هيچگونه عملکرد ضعيف تري رو نسبت به I9100 حس نکردم و بايد اين رو هم بگم که مدل جي کمتر داغ ميکنه و شارژ باتري رو بهتر مصرف ميکنه و در کل بهينه‌تر کار ميکنه.</Sentence>
+      <Sentence ID="gr-28-4" Value="+1">به تازگي اندرويد 4.0.4 که براي خود ايران هم منتشر شده رو روش نصب کردم که ماندگاري شارژ باتري افزايش چشمگيري پيدا کرده و سرعت گوشي هم به نسبت اندرويد 2.3.6 نيز بهتر شده.</Sentence>
+      <Sentence ID="gr-28-5" Value="+1">در کل اين گوشي کاملاً ايده‌آله واسه کسايي که خيلي براشون مهمه که گوشي از هر لحاظي نمره قابل قبولي بگيره.</Sentence>
+      <Sentence ID="gr-28-6" Value="+1">شما با داشتن اين گوشي هيچوقت احساس پشيماني نخواهيد کرد و از خريدش کاملاً راضي خواهيد بود چرا که اين گوشي در آينده نيز حرفهاي بسياري براي گفتن خواهد داشت.</Sentence>
+      <Sentence ID="gr-28-7" Value="+2">تماشاي فيلم در صفحه نمايش بسيار با‌کيفيت اون بسيار لذت‌بخشه و تصاوير بسيار زنده و زيبا به نمايش در مياد.</Sentence>
+      <Sentence ID="gr-28-8" Value="+1">GT-I9100 يک اَبَر گوشي در بازاره که شما از داشتن اون بسيار حس خوبي خواهيد داشت و کمبودي رو در استفاده از اون حس نخواهيد کرد.</Sentence>
+      <Sentence ID="gr-28-9" Value="0">لازم ميدونم اين رو هم بگم که در مورد هنگ‌هايي که برخي کابران اشاره کردن در واقع اون به نحوه کارکرد شما برميگرده!</Sentence>
+      <Sentence ID="gr-28-10" Value="-1">اين موضوع بديهي است که دستور هاي پياپي و نا‌معقول در استفاده از هر سيستمي موجب وقفه‌هايي در اجراي دستورات CPU ميشه و اين موضوع به معماري CPU مربوطه که در اون تعبيه شده.</Sentence>
+      <Sentence ID="gr-28-11" Value="0">گاهي اوقات بسياري از کاربران هنگامي که دستوري رو صادر ميکنند ناخواسته بصورت پياپي اين دستور رو تکرار کرده و اين امر موجب صدور دستور وقفه توسط سيستم عامل و حتي CPU  در سيستم ميشه وگرنه اين کاملا مشهوده که عملکرد يک پردازشگر چند هسته اي متقارن با فرکانس 1.2GH به اين سادگي دچار وقفه (هنگ) نميشه!</Sentence>
+      <Sentence ID="gr-28-12" Value="+2">در آخر بايد بگم Samsung Galexy S II يک گوشي ماندگار و قدرتمند هست و يکي از بهترين گوشي‌هاي اندرويد حال حاضر موجود در بازار.</Sentence>
+      <Sentence ID="gr-28-13" Value="0">با سپاس.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-29" Holder="رضا عيوضي " Value="0">
+      <Sentence ID="gr-29-1" Value="0">امکانات و زيباييش حرف نداره ولي بدنش خيلي ضعيفه.</Sentence>
+      <Sentence ID="gr-29-2" Value="-1">طوري که اگه يه بار از دستتون بيوفته خراب مي‌شه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-30" Holder="امير مرادي " Value="+2">
+      <Sentence ID="gr-30-1" Value="+1">خيلي گوشي خوبيه 
+دوستام داشتن ازش راضي بودن
+فقط با اين که I9100G هم بود بازم داغ مي‌کرد که با يه بک کاور انداختن مشکل حل ميشه
+کيفيت صفحه .</Sentence>
+      <Sentence ID="gr-30-2" Value="0">سرعت .</Sentence>
+      <Sentence ID="gr-30-3" Value="+2">کيفيت عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-31" Holder="امين طالبي " Value="+2">
+      <Sentence ID="gr-31-1" Value="+2">صفحه نمايش Super AMOLED Plus فوق‌العاده با‌کيفيت..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-32" Holder="سعيد ابراهيمي " Value="+2">
+      <Sentence ID="gr-32-1" Value="+2">بهترين گوشي و خيلي بهتر از sony وhtc</Sentence>
+    </General_Review>
+    <General_Review ID="gr-33" Holder="احسان خواجه " Value="0">
+      <Sentence ID="gr-33-1" Value="0">سلام
+من 5 ماه هست که از اين گوشي استفاده ميکنم
+قبلش بگم که من قبل از اينکه اين گوشي رو خريداري کنم از گوشي هاي سامسونگ خوشم نمي‌اومد
+تا وقتي که گوشي گالکسي اس 2 رو ديدم و تجربه کردم
+البته وقتي اون رو به اندرويد 4 ارتقاع دادم باورم نمي شد که اين همون گوشيه چون واقعا از نظر گرافيکي جالب‌تر شده بود و .</Sentence>
+      <Sentence ID="gr-33-2" Value="0">بهتون پيشنهاد مي کنم حتماً گوشي خودتون رو ارتقا بديد البته اگه تا الان اين کار رو نکردين
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-34" Holder="سيد محمد تقي مرتضوي " Value="-1">
+      <Sentence ID="gr-34-1" Value="-1">عليرغم تمام توانايي‌هاي خيلي خوب اين گوشي  که واقعاً حرف نداره و از بکارگيري اون لذت تمام خواهيد برد ،  اما متأسفانه  :
+1- محل بلندگو بسيار بد انتخاب شده ( يعني در پشت گوشي) که باعث مي شود زمانيکه گوشي را در دست مي گيريد احتمال اينکه کف دست جلوي بلندگو را بگيرد زياد‌تر شده  و گاها صداي بلندگو به اصطلاح توسط کف دست خفه شود.</Sentence>
+      <Sentence ID="gr-34-2" Value="0">(اما در برخي گوشي هاي ساير مارک ها ،  بلند گو در لبه گوشي است که باعث مي شود اين اتفاق نيافتد).</Sentence>
+      <Sentence ID="gr-34-3" Value="0">2- دوم اينکه در اين گوش وقتي مي خواهيد عکس بگيريد تصاوير نمايش داده شده در صفحه نمايش بسيار زنده و روشن هستند اما وقتي عکس گرفته مي شود ديگر تصوير save شده به آن صورت قبل زنده و روشن نيست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-35" Holder="parizad " Value="+2">
+      <Sentence ID="gr-35-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-35-2" Value="0">من 4 ماهه اين گوشيو دارم.</Sentence>
+      <Sentence ID="gr-35-3" Value="+1">از خوبيش هرچي بگم کمه.</Sentence>
+      <Sentence ID="gr-35-4" Value="+1">آندرويد 4.0.4 ريختم روش که نه داغ ميکنه نه هنگ و نه شارژش تا 1و نيم روز تموم ميشه.</Sentence>
+      <Sentence ID="gr-35-5" Value="+2">تمامه سريالامو با فيلمام توش ميبينم کيفيت تصويرشم که فوق‌العادست.</Sentence>
+      <Sentence ID="gr-35-6" Value="+1">رم 16 ترنسند کلاس 10 روشه که از رو اونم بي هيچ لگي فيلم 1080 6 گيگي اجرا کرده برام.</Sentence>
+      <Sentence ID="gr-35-7" Value="0">سرعت واي فاي .</Sentence>
+      <Sentence ID="gr-35-8" Value="0">لاک جي پي اس.</Sentence>
+      <Sentence ID="gr-35-9" Value="+2">منو عاليه.</Sentence>
+      <Sentence ID="gr-35-10" Value="0">يه کابل گرفتم که فلش مستقيم ميخوره به گوشي از رو فلش وصل به گوشيم فيلم ديدم روش که اصلا فکرشم نميکردم که هيچ باگي نده.</Sentence>
+      <Sentence ID="gr-35-11" Value="0">ديگه با اين قابليت usb on the go لپتاپمم ديگه نياز نيست که هي بار کنم رو کولم.</Sentence>
+      <Sentence ID="gr-35-12" Value="0">واقعا تو خريد اين گوشي شک نداشته باشين دوستان.</Sentence>
+      <Sentence ID="gr-35-13" Value="0">حتي فرکانس پردازندشم تا 1800 GHz واسه هر هسته جا داره که من رو 1500 GHz گذاشتم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-36" Holder="زهرا آزادي " Value="+1">
+      <Sentence ID="gr-36-1" Value="+1">گوشي خوبيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-37" Holder="zandieh " Value="+2">
+      <Sentence ID="gr-37-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-37-2" Value="+2">دوستان نزديک 7 ماه هست که اين گوشي رو دارم حرف نداره خيلي خوبه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-38" Holder="افشين صادقي " Value="+1">
+      <Sentence ID="gr-38-1" Value="0">سلام خدمت همه مديران و کاربران محترم.</Sentence>
+      <Sentence ID="gr-38-2" Value="+2">ميخواستم بگم که در تمام سايت ها نوشته اند که نسخه 4.0.3 اندرويد فارسي اس 2 منتشر نشده ولي من آپديت کردم نسخه آخرين ورژن اومد و کاملا فارسي هستش بسيار هم عاليه .</Sentence>
+      <Sentence ID="gr-38-3" Value="+1">اس 2 آخرشه حتي از اس3 کارايي دل‌پسندتري داره.</Sentence>
+      <Sentence ID="gr-38-4" Value="0">ممنون</Sentence>
+    </General_Review>
+    <General_Review ID="gr-39" Holder=" مجيد فرشي " Value="+2">
+      <Sentence ID="gr-39-1" Value="+2">دوستان من اين گوشي رو تقريبا 3.5 ماه هست خريدم به اندرويد4.0.3 هم آپديت کردم به نظر شخصي خودم اين گوشي هم از نظر قدرت سخت‌افزاري و سرعت بالاش بهترين گوشي هوشمند ميباشد با دوربين 8مگا فوق‌العاده عالي با رابط کاربري فوق‌العاده دوست‌داشتني تاچ ويز سامسونگ.</Sentence>
+      <Sentence ID="gr-39-2" Value="0">بعد از آپديت مشکل داغ شدن به نظرم بيش از 70 درصد حل شده است.</Sentence>
+      <Sentence ID="gr-39-3" Value="+1">در ضمن سامسونگ در ليست محصولات آپديت به اندرويد4.1.1 قرار داده و اين مشکل به کلي حل ميشه ضمنا با قابليت هاي تازه افزوده شده گوگل به اندرويد تازه و همچنين بهينه شدن تاچ ويز ديگه هنگام روشن کردن اين گوشي بايد انتظار سرعت فوق‌العاده اي ازش داشته باشيد.</Sentence>
+      <Sentence ID="gr-39-4" Value="+2">از هر نظر 100 درصد عاليست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-40" Holder="پويا مصري  " Value="+2">
+      <Sentence ID="gr-40-1" Value="+2">به نظرم sony xperia s بهتره :برتريهاي xperia s را ميتوان به دلايل زير ربط داد:
+دوربيم 12 مگاپيکسلي _ زواياي ديد بالا _ رزولوشن صفحه خيلي بالا-بالا بودن حافظه داخلي _ سرعت فرکانس بيشتر و ..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-41" Holder="محمد جواد عظيمي " Value="0">
+      <Sentence ID="gr-41-1" Value="0">من اين گوشي رو 2 ماه هست که دارم گوشي فوق‌العاده و کاملي هستش ولي يه مشکل کوچيک داره وقتي بيشتر از 1 ساعت باهاش کار ميکني داغ ميکنه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-42" Holder="عبدالله ابوطالبيان " Value="0">
+      <Sentence ID="gr-42-1" Value="+1">سلام به همه دوستان
+من 2 ماه اس2 دارم واقعاً حرف نداره
+سري G به نظر من خيلي خيلي بهتره.</Sentence>
+      <Sentence ID="gr-42-2" Value="-1">معموليشم داشتم ولي خيلي داغ ميکرد.</Sentence>
+      <Sentence ID="gr-42-3" Value="+1">ولي سري G که گرفتم اصلا تا حالا داغ نکرده..</Sentence>
+      <Sentence ID="gr-42-4" Value="0">بازي هاي سنگين با گرافيک بالا هم مثل آسفالت 7 بخوبي رو سري G جواب داد
+ولي يه مشکلي از نظر من که داره (بازم ميگم از نظر من) اينه که پيش گوشي هاي ديگه انگار جلوه نداره و احساس ميکني گوشي اسباب بازيه
+ولي در کل هيچي کم نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-43" Holder="محمد براتي " Value="+2">
+      <Sentence ID="gr-43-1" Value="+2">به نظر من اين گوشي به قدري عاليه که هيچي دربارش نميشه گفت.</Sentence>
+      <Sentence ID="gr-43-2" Value="+1">من خودم اين گوشي رو دارم 100 درصد راضي هستم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-44" Holder="فرهاد فرهاديان " Value="-1">
+      <Sentence ID="gr-44-1" Value="0">واقعا گوشيه خوبيه ولي يه مشکل اساسي داره!</Sentence>
+      <Sentence ID="gr-44-2" Value="-1">من چند وقت پيش آپديتش کرم به ورژن 4 و در کمال ناباوري آنتن و شماره سريالش پريد!</Sentence>
+      <Sentence ID="gr-44-3" Value="-1">و جالب اينکه با تلاش چند ماهه نمايندگي و تعميرکاراي موبايل هنوز که هنوزه آنتنش برنگشته.</Sentence>
+      <Sentence ID="gr-44-4" Value="0">يعني شده مثل تبلت!</Sentence>
+      <Sentence ID="gr-44-5" Value="0">تو اين مدت هم تعداد زيادي از اين گوشي ديدم که همين طوري شده.</Sentence>
+      <Sentence ID="gr-44-6" Value="+1">خلاصه که واقعا گوشيه معرکه‌ايه ولي قبل از آپديت بايد يه بک آپ اساسي ازش بگيرين.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-45" Holder="fj " Value="-1">
+      <Sentence ID="gr-45-1" Value="-1">من 3ماهه اين گوشي رو خريدم و از خيلي نظرها بي‌نظيره ولي خيلي زياد هنگ ميکنه و حتي خاموش هم نميشه و تازگيا زياد شده که صداش قطع شه و حتي اس ام اس ها يا زنگ ها و آهنگ هام هم صدا ندارن و اين خيلي اذيت مي‌کنه و من مجبورم مدام خاموش و روشنش کنم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-46" Holder="مجمد زند " Value="+1">
+      <Sentence ID="gr-46-1" Value="+1">من عاشق اين گوشيم نقص نداره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-47" Holder="3ji a " Value="+1">
+      <Sentence ID="gr-47-1" Value="+1">من خودم one x دارم ولي تو گوشي هاي سامسونگ اينو حتي ازs3 بيشتر ميپسندم!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-48" Holder="عليرضا " Value="">
+      <Sentence ID="gr-48-1" Value="0">سلام خدمت همه عزيزان.</Sentence>
+      <Sentence ID="gr-48-2" Value="+2">گوشي عالي هست و همه امکانات رو تو سايت نوشته فقط چند تا نکته راجب به نظرات دوستان بدم..</Sentence>
+      <Sentence ID="gr-48-3" Value="+1">پلير گوشي به صورت پيش فرض از زيرنويس فارسي پشتيباني ميکنه فقط بايد اسم فايل تصويري و فايل زير نويس دقيقا يکي باشه.</Sentence>
+      <Sentence ID="gr-48-4" Value="0">سري G خيلي بهتره مخصوصا گرافيکش که power vr sgx 543 که جز قويترين‌هاست و از گرافيک خيلي از رقباي خودش مثل xperia S  به شدت سر تره داغ کردنش هم کمتره و خيلي از مشکلات سري اول توش برطرف شده.</Sentence>
+      <Sentence ID="gr-48-5" Value="">در کل از خريدنش پشيمون نميشيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-49" Holder="Amirhossein Asadi " Value="">
+      <Sentence ID="gr-49-1" Value="">سلام گوشي عاليه مشکلي با هيچ برنامه اي نداره و اصلا" داغ نميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-50" Holder="مرتضي رئيسي " Value="">
+      <Sentence ID="gr-50-1" Value="">به نظر من از هر نظر عاليه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-51" Holder="جواد مقبلي " Value="">
+      <Sentence ID="gr-51-1" Value="">من چند وقته دارمش .</Sentence>
+      <Sentence ID="gr-51-2" Value="">عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-52" Holder="آرش فخيمي " Value="">
+      <Sentence ID="gr-52-1" Value="">به نظر من  i9100 خيلي بهتر از i9100g  هستش هم اينکه cpu بالاست هم Gpu mali 400 خيلي بهتر از Gpu  i9100 هست به نظر من اگه سادشو بخرين خيلي بهتره من خودم سري جي شو دارم ولي با سري سادش اصلا از نظر کيفيت صفحه نمايش و سرعت پردازندش قابل قياس نيست سري سادش خيلي بهتره فقط تنها بهبودي که تو سري جي داشته اينه که  باتري خوب نگه ميداره و اينکه بدليل استفاده کمتر از پردازندش کمتر داغ ميکنه ولي در عوض در اجراي بازيهاي سنگين با مشکل مواجه ميشه و تو بيشتر بر نامه ها به اجبار بسته ميشه اگه ميخواهيد گالکسي اس 2 بخرين سادشو پيشنهاد ميکنم اگه بگردين ميتونين پيدا کنين در ضمن قيمتشم باقيمت سري جي چندان متفاوت نيست .</Sentence>
+      <Sentence ID="gr-52-2" Value="">اگه معموليشم پيدا نکردين سري جي شو نخرين بجاش يکم روش پول بزارين گالکسي اس 3 بخرين که غول گوشي ها تو دنياست من خودم ميخوام اس 2 سري جي مو بفروشم و يدونه گالکسي اس 3 بخرم که خيلي بصرفه تره .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-53" Holder="زهرا رفيعي " Value="">
+      <Sentence ID="gr-53-1" Value="">گوشي خيلي خوبيه!</Sentence>
+      <Sentence ID="gr-53-2" Value="">دوربينش که معرکس!</Sentence>
+      <Sentence ID="gr-53-3" Value="">فقط شارژش زود تموم ميشه!</Sentence>
+      <Sentence ID="gr-53-4" Value="">البته اونم اگه همش باهاش بازي کنين،  2 روز دووم مياره!</Sentence>
+      <Sentence ID="gr-53-5" Value="">براي دست هاي کوچيک هم زياد خوب نيست چون خيلي بزرگه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-54" Holder="سپهر باشي گشنيگاني " Value="">
+      <Sentence ID="gr-54-1" Value="">با سلام به همه ي دوستداران سامسونگ
+هيچ چيزي بهتر از راست گفتن نيست من مدت 3 ماه است که اين گوشي را خريده ام از همه لحاظ عاليه واقعاً که سامسونگ فوق العادست - از ويژگي هاي پر طرفدار اين گوشي ميتوان به نکات زير اشاره کرد : 1-دوربين 8 واقعي 2- صفحه نمايش 4.3 اينچي 3- کيفيت تصوير بالا 4- پردازنده 1.2GHz و امکانات پيشرفته ديگر
+از اين گوشي هر چي بگم کمه - تنها گوشي هست که تا به حال رقيب نداشته حتي glaxy sIII - </Sentence>
+    </General_Review>
+    <General_Review ID="gr-55" Holder="مصطفي جرگ " Value="">
+      <Sentence ID="gr-55-1" Value="">سلام من گوشي رو يک ماهه که خريدمش فقط کافيه آندرويد 4 بريزيد روش تا مشکل داغ شدنش تا حد زيادي برطرف بشه من خودم از وقتي رتمشو به 4 ارتقا دادم تا 45 دقيقه هم باهاش بازي hd بازي کردم و خيلي داغ نميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-56" Holder="آرش فخيمي " Value="">
+      <Sentence ID="gr-56-1" Value="">با سلام 
+اين گوشي در ردهي خودش يکي از بهترين هاست , من حدود دو ماهه که اين گوشي رو از ديجي کالا خريدم واقعا گوشي همه چي تموميه تنها مشکلي که داره اينه که خيلي هنگ ميکنه ولي در کل گوشيه خوبيه من که عاشق بدنهي زيبا و سبکشم .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-57" Holder="علي زيدي " Value="">
+      <Sentence ID="gr-57-1" Value="">سلام-بعد از تجربه داشتن چندين گوشي اندرويدي از برندهاي متفاوت بايد بگم که سامسونگ خيلي خوب کار کرده-در رابطه با اين گوشي چيزي که مهم بود از نظر کارکرد باتري راضي کنندس-ظاهري خوب و زيبا-ساخت خوبي داره-در رابطه با سخت افزار هم بايد بگم ،  نميدونم که چقدر از سخت افزار اطلاع دارين ولي اطمينان ميدم که حتي با وجود 4 هسته ايها براحتي تا يک سال به کوچکترين مشکلي بر نمي خوريد-من خودم خيلي راضيم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-58" Holder="عليرضا SIN " Value="">
+      <Sentence ID="gr-58-1" Value="">گوشي فوقالعاده !</Sentence>
+      <Sentence ID="gr-58-2" Value="">اگه نگم بهترين گوشي دوهسته اي به جرات ميشه گفت يکي از بهترينها است.</Sentence>
+      <Sentence ID="gr-58-3" Value="">از دوستان خواهشمندم اين گوشي رو با Arc S و يا Desire HD مقايسه نکنن چون اونا در برابر S2 حرفي واسه گفتن ندارن !</Sentence>
+      <Sentence ID="gr-58-4" Value="">از EVO 3D و کل خانواده Sensation هم بهتره ( حتي از Sensation XE ) کساني که شک دارن ميتونن مقايسه کنن !</Sentence>
+      <Sentence ID="gr-58-5" Value="">من خودم اين گوشي رو دام هر فرمت تصويري روش ريختم به راحتي اجرا ميکنه حتي MKV و AVI و.</Sentence>
+      <Sentence ID="gr-58-6" Value="">ولي پلير از زيرنويس پشتيباني نميکنه که با برنامه هايي مثل MX Player حل ميشه .</Sentence>
+      <Sentence ID="gr-58-7" Value="">در مورد داغ کردن هم همه گوشي هاي هوشمند داغ ميکنن و اصلا مساله عجيبي نيست و در اون حدي هم که دوستان ميگن نيست و در استفاده هاي عادي کوچکترين مشکلي ايجاد نميکنه.</Sentence>
+      <Sentence ID="gr-58-8" Value="">در کل از هيچ لحاظ کم نمياره !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-59" Holder="محمدرضا لطيفي " Value="">
+      <Sentence ID="gr-59-1" Value="">گوشي زيبا و کاربردي که حتي با اومدن GALAXY SIII بازهم حرفي براي گفتن داره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-60" Holder="کامياب مشکيني " Value="">
+      <Sentence ID="gr-60-1" Value="">سلام.</Sentence>
+      <Sentence ID="gr-60-2" Value="">من مدت 1 ماه است که اين گوشي را از digikala خريدم.</Sentence>
+      <Sentence ID="gr-60-3" Value="">گوشي خوبي است ولي چند مشکل کوچک دارد که ان ها هم حل شدني است
+1.داغ شدن بيش از حد که بدليل نازک بودن گوشي است البته با اپديت کردن به اندرويد 4 تا حد زيادي حل مي شود.</Sentence>
+      <Sentence ID="gr-60-4" Value="">2.جنس بدنه پلاستيکي اين گوشي باعث شده وقتي يکبار اين گوشي از دستتان بيفتد صدمه زيادي به ان وارد شود البته با انداختن يک گارد به آن اين مشکل حل ميشود.</Sentence>
+      <Sentence ID="gr-60-5" Value="">3.وقتي شما اين گوشي را به اندرويد 4 ارتقاء ميدهيد بعضي موقع ها هنگ کند.</Sentence>
+      <Sentence ID="gr-60-6" Value="">4.</Sentence>
+      <Sentence ID="gr-60-7" Value="">صداي گوشي که با کسي صحبت ميکنيم  اصلا خوب نيست.</Sentence>
+      <Sentence ID="gr-60-8" Value="">..</Sentence>
+      <Sentence ID="gr-60-9" Value="">5.صداي اسپيکر هم از گوشي هاي ارزون قيمت خيلي پايين تر است..</Sentence>
+      <Sentence ID="gr-60-10" Value="">6.شارژ هم زود تمام ميکند.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-61" Holder="کاشي زاده " Value="">
+      <Sentence ID="gr-61-1" Value="">سلام
+بچه ها من الان حدود 1 ماه ميشه که اين گوشي رو خريدم اونم به خاطر تمام خوبي هايي که داره واقعا گوشي خيلي خوبيه.</Sentence>
+      <Sentence ID="gr-61-2" Value="">ولي يه ايراد خيلي بزرگ داره يا شايد گوشي من اينجوريه چون جايي نديدم که به اون اشاره بشه اونم اينه که خيلي زياد هنگ ميکنه و وقتي اينجوري ميشه تنها راه حلش اينه که باطري گوشي رو خارج کني.</Sentence>
+      <Sentence ID="gr-61-3" Value="">اينم بگم من مدل 16 گيگ و خريدم و يه مموري 16 پاتريوت کلاس 10 هم روش گذاشتم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-62" Holder="علي آقايي " Value="">
+      <Sentence ID="gr-62-1" Value="">اين گوشي عالي است و به نظر من هيچ گوشي به اندازه اين گوشي خوب نيست و کساني که عاشق بازي با موبايل هستند اين گوشي را بخرند البته به نظر من اين گوشي يک تبلت هم است</Sentence>
+    </General_Review>
+    <General_Review ID="gr-63" Holder="افشين صادقي " Value="">
+      <Sentence ID="gr-63-1" Value="">سلام دوستاي عزيز.</Sentence>
+      <Sentence ID="gr-63-2" Value="">من 1 ماهي هستش اين گوشي رو دارم.</Sentence>
+      <Sentence ID="gr-63-3" Value="">واقعا عاليه.</Sentence>
+      <Sentence ID="gr-63-4" Value="">مشکل داغ کردنش با باکس زدن حل ميشه.</Sentence>
+      <Sentence ID="gr-63-5" Value="">من قبلا اپل 4 داشتم واقعا بهترينه ولي اس 2 هيچي از اون کم نداره.</Sentence>
+      <Sentence ID="gr-63-6" Value="">آدم بعد کار کردن باهاش متوجه ميشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-64" Holder="سيد مسعود پرس " Value="">
+      <Sentence ID="gr-64-1" Value="">من خيلي وقته که اين گوشيو دارم.</Sentence>
+      <Sentence ID="gr-64-2" Value="">از هر لحاظ عاليه.</Sentence>
+      <Sentence ID="gr-64-3" Value="">صفحه نمايشش که فوق العادس.</Sentence>
+      <Sentence ID="gr-64-4" Value="">دوربين 8 خيلي عاليي داره.</Sentence>
+      <Sentence ID="gr-64-5" Value="">اي گوشي حتي از اکسپريا اس هم کمي بهتره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-65" Holder="سجاد کاظمي " Value="">
+      <Sentence ID="gr-65-1" Value="">اين گوشي فقط از لحاظ تيوري خوبه.</Sentence>
+      <Sentence ID="gr-65-2" Value="">اما وقتي باهاش کار مي کني تفاوت رو احساس مي کني.</Sentence>
+      <Sentence ID="gr-65-3" Value="">تو عرض 2و3 ماه 2يا3بار هنگ کرد.</Sentence>
+      <Sentence ID="gr-65-4" Value="">اين ديگه نوبرشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-66" Holder="شروين دانشور " Value="">
+      <Sentence ID="gr-66-1" Value="">به نظر من گوشي خيلي عالي است و از همه مهمتر اينکه سري g اين گوشي داغ نمي کند و مصرف باتريش خيلي کمتر است من که خيلي راضي هستم و با انيکه گالکسي اس 3 هم آمده اما احساس مي کنم به بيشتر از اين نياز ندارم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-67" Holder="رضا وجدان " Value="">
+      <Sentence ID="gr-67-1" Value="">عوض اينکه اينو بخرين روش يکمم پول بزارين نوت بخرين هر چي باشه به نوت نميرسه مطمعن باشيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-68" Holder=" عليرضا روح اللهي " Value="">
+      <Sentence ID="gr-68-1" Value="">سلام دوستان اولا که باهاش کارمي کردم به خصوص موقع اينترنت دستام در حال ذوب شدن بودن ولي الان ازداغيش خيلي کم شده به نظر من تا چند وقته ديگه اونم از بين ميره خودتونو ناراحت نکنيد :-)</Sentence>
+    </General_Review>
+    <General_Review ID="gr-69" Holder="احمد فرخ نيا " Value="">
+      <Sentence ID="gr-69-1" Value="">من هفته پيش خريدم واقعا گوشيه فوق العاده اي هست هر وقت ميگيرمش دستم افسوس ميخورم که چرا زودتر نخريدم اگر کسي بخواد روي اين گوشي عيبي بذاره جدا بي انصافه
+من تا حالا 4 بار گوشيمو عوض کردم و هر بار حدودا 1 ماه طول مي کشيد تا باهاش عادت کنم اما وقتي گلکسي رو براي بار اول گرفتم واقعا راخت بودم باهاش خيلي احساس خوبي به آدم ميده</Sentence>
+    </General_Review>
+    <General_Review ID="gr-70" Holder="masoud hasanpour " Value="">
+      <Sentence ID="gr-70-1" Value="">به نظر من هيچ شرکتي نمياد يه گوشي بسازه که هيچ عيب و نقصي نداشته باشه، چون ميدونه اگه بسازه همه ميرند و ميخرند و بقيه ي محصولات رو دستشون باد ميکنه، حالا اين s2هم همينجوره، پس زياد حساس نباشيد که چرا زود باتري تموم ميکنه يا چرا داغ ميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-71" Holder="عليرضا حاج حيدري " Value="">
+      <Sentence ID="gr-71-1" Value="">گوشي خوب با امکانات عالي-ازنظرسبک بودن-دوربين-وامکانات نرم افزاري فقط مشکلش داغ کردنشه که اون بخاطر ريختن برنامه هاي زياده
+ازهمه لحاض سرترهarc sولي بي شيکي اون نيس
+واسه خريد خوبه
+وليب من عاشقarc s هستم-پيشنهاد ميکنم به اونم سربزنيد
+اگه دنبال گوشي بهترازarc s وsIIهستي ONE Sعليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-72" Holder="ساسان غلامي " Value="">
+      <Sentence ID="gr-72-1" Value="">گوشي بسيار عالي است اما نتها عيب ان داغ کردن زياد ان است</Sentence>
+    </General_Review>
+    <General_Review ID="gr-73" Holder="رضا محمدي  " Value="">
+      <Sentence ID="gr-73-1" Value="">گوشي خوبي هست و منم قصد خريدش را دارم ولي احساس مي کنم صفحه نمايش آن کمي کوچک است .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-74" Holder="سعادتي " Value="">
+      <Sentence ID="gr-74-1" Value="">من ميخواستمhtc-sensationبگيرم ولي ديدم galexy s2خيلي بهتر از اونه مثلا دوربينش بهتر عمل ميکنه-صفحه نمايشش خيلي برتره-دوربين مکالمه قوي تر داره به خاطر همين s2 را انتخاب کردم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-75" Holder="بهرام پرکاس " Value="">
+      <Sentence ID="gr-75-1" Value="">گوشي بسيار قدرتمندي هست هيچ عيبي هم ندارد که اين همه دوستان شلوغش کردن
+من تازه خريدمش گوشي بسيار خوبي هست همه برنامه ها رو هم جواب ميده من راضي ام فوق العاده است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-76" Holder="بهنام جامي " Value="">
+      <Sentence ID="gr-76-1" Value="">گوشي بسيار خوبيه من يک هفته هست خريدمش ولي مشکل داغ کردنش هنوز هم با آپديت کمي اذيت کننده است و عيب ديگرش هم اينکه دکمه هاي پاور و ولوم بعد از کمي کار کردن ديگه اون محکم بودن قبل را ندارد ولي در کل گوشي خوبيه و صفحه نمايش بي نظيري داره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-77" Holder="سيد مصطفي علوي " Value="">
+      <Sentence ID="gr-77-1" Value="">من مطمئنم استقبالي که از galaxy s2 شد هيچ گاه جاي خود را به galaxy s3 نخواهد داد .</Sentence>
+      <Sentence ID="gr-77-2" Value="">چون اين گوشي شاهکاري بود که فقط کاربرانش آن را درک خواهند کرد..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-78" Holder="رضا آقاجري " Value="">
+      <Sentence ID="gr-78-1" Value="">درود.</Sentence>
+      <Sentence ID="gr-78-2" Value="">اين گوشي تحولي در گوشي هاي موبايل ايجاد کرده.</Sentence>
+      <Sentence ID="gr-78-3" Value="">يک گوشي موبايل علاوه بر سخت افزار و امکانات بايد ظاهر خوشگل هم داشته باشه که s2 خيلي خوشگله.</Sentence>
+      <Sentence ID="gr-78-4" Value="">s3 رو واقعا ميشه امپراتور موبايل دونست ولي ظاهرش خوشگل نيست.</Sentence>
+      <Sentence ID="gr-78-5" Value="">بنظر من که گوشي خيلي توپيه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-79" Holder="آريا " Value="">
+      <Sentence ID="gr-79-1" Value="">گوشيه خيلي باحاليه!</Sentence>
+      <Sentence ID="gr-79-2" Value="">کاراييش فوق العادست!</Sentence>
+      <Sentence ID="gr-79-3" Value="">براي تابستان حتما ميگيرم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-80" Holder="سيدمحمدحسيني مطلق " Value="">
+      <Sentence ID="gr-80-1" Value="">بسيار قدرتمند و هوشيار در عين حال کارآمد
+ابتدا که با گوشي روبرو شدم به نظرم گوشيه بسيار بزرگ غير جالبي رسيد اما با تحقيقاتي که در مورد گوشي انجام دادم و موفق به خريد اين گوشي شدم متوجه شدم که بسيار گوشي کارآمد با سرعتي عالي و امکانات دلخواه هماني است که انتظارش را مي کشيدم .</Sentence>
+      <Sentence ID="gr-80-2" Value="">البته بزرگي گوشه به نظرم محوشد و با ديدن صفحه نمايش با کيفيت بالا و سرعت عملکرد گوشي و امکانات باورنکردي قتي که در دست گرفتمش حال ديگري به من دست داد که غير قابل توصيف مي باشد .</Sentence>
+      <Sentence ID="gr-80-3" Value="">پيشنهاد من و همانطور که ديجي کالا پيشنهاد ويژه نموده از سامسونگ s2 نگذريد و </Sentence>
+    </General_Review>
+    <General_Review ID="gr-81" Holder="mohammad reza    tabarestani " Value="">
+      <Sentence ID="gr-81-1" Value="">با توجه به چيز هايي که بالا نوشتن ومن هم خبر دارم اين گوشي در کنار عالي بودنش مشکل داغ کردن هم داره اما به نظر من نسبت به سنسيشن و arc s خيلي بهتره هر کي بخره ضرر نمي کنه خودم هم ميخوام بگيرم 
+(موفق باشيد)</Sentence>
+    </General_Review>
+    <General_Review ID="gr-82" Holder="مهيار بختياري راد " Value="">
+      <Sentence ID="gr-82-1" Value="">عاليــــــــــــــــــــــــــــــــــــــــه..</Sentence>
+      <Sentence ID="gr-82-2" Value="">من ديروز خريدم با رم يه رم 16 گيگم روش برنامه و بازي ريختم نه هنگ ميکنه نه داغ از ساعت 6 صبح تا الانم که ساعت هشته يه ضرب باهاش کار کردم تازه زدمش به شارژ البته ساعت 6 صبح شارژش 100%بود من که خيليييييييي راضيم اگه نخريد ضرر ميکنيد!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-83" Holder="سياوش جلال منش  " Value="">
+      <Sentence ID="gr-83-1" Value="">تو اکثر سايت هاي خارجي معتبر اين گوشي رو به عنوان يکي از بهترين گوشي هاي هوشمند معرفي مي کنند.</Sentence>
+      <Sentence ID="gr-83-2" Value="">مثلا تو سايت techradar بعد از اين که به صورت کامل اين گوشي رو نقد کرده نوشته که اين گوشي بازار گوشي هاي هوشمند رو متحول کرده.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-84" Holder="ميهمان " Value="">
+      <Sentence ID="gr-84-1" Value="">من يک هفته است اين گوشي رو خريدم من قبل از اين يه ارک اس داشتم ولي اين هم سرعت هم دوربين هم باتري وصفحه وپردازنده قوي تري داره واقعا از اپل 4اس وسنسيشن هم قوي تر توصيه ميکنم که بخريد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-85" Holder="ميهمان " Value="">
+      <Sentence ID="gr-85-1" Value="">به نظر منهنوز بهترين گوشي دنياست چون واقعا گوشي 4 هسته اي کارامد نيست واين جديدا کارايي ندارن هيچ نرم افزار يا بازي هم نيست که به 4هسته احتياج داشته باشه ولي اين گوشي کلا يه چيز ديگس تو هيچي کم نمياره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-86" Holder="ميهمان " Value="">
+      <Sentence ID="gr-86-1" Value="">واقعا راست ميگن، EVO 3D يه چيز ديگست.</Sentence>
+      <Sentence ID="gr-86-2" Value="">اگه فقط يک بار اونو تو دستتون بگيريد ، متوجه ميشيد که يکي از باکلاس ترين گوشي ها در دستان شماست.</Sentence>
+      <Sentence ID="gr-86-3" Value="">همچنين قدرت پردازنده و رزولوشن تصوير عالي داره و sens موجود در اين مدل يکي از بهترين سنس هاي HTC است، واز همه مهمتر اين گوشي توانايي عکسبرداري، فيلم برداري و تماشاي فيلم 3D(سه بعدي بدون نياز عينک )رو داره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-87" Holder="ميهمان " Value="">
+      <Sentence ID="gr-87-1" Value="">با سلام
+من 6ماهه که اين گوشي رو خريدم و بايد بگم خيلي ازش راضيم فقط مشکل داغ کردنش که اون هم با آپديت حل ميشه، پيشنهاد ميکنم هر چه زودتر بخريد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-88" Holder="روح اله صفايي " Value="">
+      <Sentence ID="gr-88-1" Value="">داغ کردن گوشي چندان هم که ميگوييد مشکل ساز وازار دهنده نيست ودر حد معموليه براي گوشي دوهسته اي مگر در موارد بازي هاي HD بعد از مدت طولاني استفاده کمي ازار دهنده است .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-89" Holder="ميهمان " Value="">
+      <Sentence ID="gr-89-1" Value="">محمد مرادي : من يک هفتس اين گوشي رو خريدم گوشي معرکه اييه کيفيت صفحه نمايش و عکس و فيلم خيلي بالاتر از سنسيشن که قبلا داشتم در ضمن اگر معقولانه ازش استفاده کني اصلا به اون شدتي که دوستان ميگن داغ ميکنه نيست مال من رنگ سفيد و با صفحه نمايش فوق العاده مشکي ترکيب رنگ قشنگي رو به وجود آورده در کل گوشي فوق العاده ايه زودتر بخرينش </Sentence>
+    </General_Review>
+    <General_Review ID="gr-90" Holder="ميهمان " Value="">
+      <Sentence ID="gr-90-1" Value="">بزرگترين ضعف اين گوشى رزولوشن 800*480 اونه که به قيمتش نمى ارزه.</Sentence>
+      <Sentence ID="gr-90-2" Value="">مثلا اگه يه بازى با رزولوشن 
+854*480 روش نصب کنيد اجرا نميشه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-91" Holder="ميهمان " Value="">
+      <Sentence ID="gr-91-1" Value="">من ديزاير اچ دي داشتم ولي چون روش زياد نصب کردم تو حرکت منوش يکم کند شده بود ولي در کل خيلي گوشي خوبي بود ولي اين واقعا يه چيزه ديگه است الان اس 2 دارم گوشي فوق العاده ايه فقط مشکل داغ کردنش خيلي اذيت ميکنه متاسفانه بجز داغ کردن و هر از گاهي دشارژه کردن بدليل داغي ديگه هيچ مشکلي نداره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-92" Holder="ميهمان " Value="">
+      <Sentence ID="gr-92-1" Value="">من فردي بودم که هر 1 ماه يا 2 ماه يه گوشي عوض ميکردم !</Sentence>
+      <Sentence ID="gr-92-2" Value="">هر گوشي موبايلي که فکر کنيد من دستم گرفتم !</Sentence>
+      <Sentence ID="gr-92-3" Value="">ولي از 2 سال پيش تاحالا Nokia N8-00 دارم !</Sentence>
+      <Sentence ID="gr-92-4" Value="">عمرا و هيچوقت نخواستم با گوشي ديگه اي عوضش کنم !</Sentence>
+      <Sentence ID="gr-92-5" Value="">حتي با اين گلکسي .</Sentence>
+      <Sentence ID="gr-92-6" Value="">شعارم اينه بعد اين گوشي که الان دارم بايد Apple iPHONE 5 خريد وگرنه همه اين گوشي هايي که الان وارد ميشن با ايني که 2 سال پيش من گرفتم يکيه !</Sentence>
+      <Sentence ID="gr-92-7" Value="">اين گوشي درسته در صف بهترين گوشي هاي جهانه ولي کاستي خيلي داره !</Sentence>
+      <Sentence ID="gr-92-8" Value="">نميشه برترين دونستش چون هنوز خيلي جاي کار داشته !</Sentence>
+      <Sentence ID="gr-92-9" Value="">از امتيازي هم که اينجا بهش دادن و نظرات شاکي بودن معلومه !</Sentence>
+      <Sentence ID="gr-92-10" Value="">1
+کسي که ميخاد 1 ميليون بده گوشي بده Apple بخره يا اگر عجله نداره منتظر Apple 5 باشه !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-93" Holder="ميهمان " Value="">
+      <Sentence ID="gr-93-1" Value="">سلام با تشکر از نظرات دوستان.</Sentence>
+      <Sentence ID="gr-93-2" Value="">من اين گوشي رو داشتم واقعا سرعت و کيفيت صفحه نمايشش بالاست ولي ايرادش اينه با يه دست نميشه اس ام اس داد و شماره ها هم رو سيمکارت خونده نميشه بايد کپي کنيد تا بشه ديدشون.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-94" Holder="ميهمان " Value="">
+      <Sentence ID="gr-94-1" Value="">من اين گوشي رو خريدم به اندرويد 4 هم آپديتش کردم فوق العادس حرف نداره قبلا sensation داشتم ميتونم بگم گلکسي اس 2 البته مدل i9100 معموليش نه مدل g ميتونم بگم 2برابر بهتر از سنسيشن هستش واقعا فوق العادس تا حالا تو هيچ برنامه اي نه نگفته مشکل داغ کردنش هم واقعا حل شده تو v4 اندرويدش خلاصه تا 3 سال گوشي عالي اي هستش</Sentence>
+    </General_Review>
+    <General_Review ID="gr-95" Holder="فريد فرازي " Value="">
+      <Sentence ID="gr-95-1" Value="">دوستاني که مي خواهند اين گوشي را خريداري نمايند توجه داشته باشيد که داغ کردن گوشي باعث باد کردن باتريش ميشه و خلاصه هر چند وقت بک باري يه باتري رودستتون هست حالا من گفتم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-96" Holder="ميهمان " Value="">
+      <Sentence ID="gr-96-1" Value="">با سلام 
+من محقق در زمينه طراحي و برنامه نويسي گوشي‌هاي همراه هوشمند مي‌باشم 
+ميتوانم در مورد اين گوشي بگويم که يک شاهکار مي‌باشد اما درمورد معايب آين گوشي مي توان گفت به دليل دو هسته اي بودن اين گوشي اگر در يک زمان طولاني مانند 2 ساعت با يک برنامه گرافيکي بالا مانند يک بازي کار کنيد باتري شروع به گرم کردن ميکند و گوشي احتياج مبرم به استراحت دارد در غير اينصورت گرماي ناشي از باتري و قطعات موبايل به صفحه نمايش گوشي تاثير گذاشته و چون بدنه گوشي پلاستيکي مي‌باشد باعث انعطاف بدنه به مرور زمان مي‌شود پس نصيحت مي‌کنم که اگر گوشي را خريديد در برنامه‌هاي گرافيکي کمتر فشار آن را بياوريد.</Sentence>
+      <Sentence ID="gr-96-2" Value="">با تشکر .</Sentence>
+      <Sentence ID="gr-96-3" Value="">تشاني  </Sentence>
+    </General_Review>
+    <General_Review ID="gr-97" Holder="ميهمان " Value="">
+      <Sentence ID="gr-97-1" Value="">سلام
+به نظر من اين گوشي به گرد پاي HTC EVO3D نمي رسه اگر قصد خريد يکي از قويترين گوشي ها موجود را داريد حتما در نظرش بگيريد من خودم به شخصه فقط به خاطر دوربينش يه خرده دوستش ندارم چون 5 هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-98" Holder="ميهمان " Value="">
+      <Sentence ID="gr-98-1" Value="">سلام من ي چند ماهي ميشه اين گوشي رو خريدم ولي فکر ميکنم ي کاستي هايي داره.</Sentence>
+      <Sentence ID="gr-98-2" Value="">.ولي گوشي خيلي با سرعت بالايي هستش..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-99" Holder="ميهمان " Value="">
+      <Sentence ID="gr-99-1" Value="">سلام من اين گوشي را داشتم ولي بدلايل داغ کردن رنگ ته صفحه نمايش به زردي ميزنه وبر خلاف نظر دوستان سرعتش نسبت به 2 هسته اي بودنش پايين هست فروختم و اچ تي سي ديزاير اچ دي گرفتم که خيلي هم راضي هستم الان ميدونم گوشي يعني چي .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-100" Holder="ميهمان " Value="">
+      <Sentence ID="gr-100-1" Value="">با سلام من هم اين گوشيو دارم عاليه خيلي فقط موقعي که بازي اچ دي وواي فاي کار مي کني باطري افت مي کنه بعد از زماني که رامشو تغيير دادم راضي نيستم البته رامش رسمي نبود خواهشا اگه  رام رسمي براي گلکسي اس 2 بود سايتشو اعلام کننين تا از اين گرفتاري در بيام ولي در کل اين گوشي با همون 2.3 خيلي عالي وطوفانيه چون کار کردم ميگم اين گوشي واقعا خوبه .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-101" Holder="ميهمان " Value="">
+      <Sentence ID="gr-101-1" Value="">عزيزان ن اين گوشي رو داشتم اره داغ ميکنه و مشکل شارژ هم که تو همه گوشيهاي رده بالا هست.</Sentence>
+      <Sentence ID="gr-101-2" Value="">اما من الان نوکيا ان9 دارم وبا وجود کمي برنامه خيلي ازش راضيم.</Sentence>
+      <Sentence ID="gr-101-3" Value="">در کل نظر شخصيم اينه که اس2 پيش ان9 کم مياره.</Sentence>
+      <Sentence ID="gr-101-4" Value="">اما هر دو بسيار با کيفيت هستن</Sentence>
+    </General_Review>
+    <General_Review ID="gr-102" Holder="ميهمان " Value="">
+      <Sentence ID="gr-102-1" Value="">من هم بالاخره اين گوشي رو گرفتم.</Sentence>
+      <Sentence ID="gr-102-2" Value="">اين که ميگن بين منو‌ها پرواز ميکني‌ واقعاً درسته.</Sentence>
+      <Sentence ID="gr-102-3" Value="">تا حالا هيچ گوشي به اين سرعت نديده بودم.</Sentence>
+      <Sentence ID="gr-102-4" Value="">کلا بگم عالي‌!</Sentence>
+      <Sentence ID="gr-102-5" Value="">در خريدش شک نکنيد که جزو بهترين هاست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-103" Holder="parsa maktoobian " Value="">
+      <Sentence ID="gr-103-1" Value="">سلام.</Sentence>
+      <Sentence ID="gr-103-2" Value="">من حدود 2 ماه که اين گوشي رو خريدم.</Sentence>
+      <Sentence ID="gr-103-3" Value="">فوق العادس.</Sentence>
+      <Sentence ID="gr-103-4" Value="">از همه جنبه ها عاليه.</Sentence>
+      <Sentence ID="gr-103-5" Value="">فقط تنها مشکلي که داره داغ شدنشه که به دليل نازک بودنشه.</Sentence>
+      <Sentence ID="gr-103-6" Value="">البته يه مشکل ديگه هم داره و اون اينه که زود شارج تموم ميکنه ولي ديگه هيچ مشکلي نداره مخصوصا سرعت گوشي که من نديدم اين گوشي با برنامه اي کم بياره.</Sentence>
+      <Sentence ID="gr-103-7" Value="">اگه بخرين ضرر نميکنين.</Sentence>
+      <Sentence ID="gr-103-8" Value="">اين گوشي خيلي بهتر از سنسيشن و گوشي هاي مشابه است.</Sentence>
+      <Sentence ID="gr-103-9" Value="">با تشکر.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-104" Holder="ميهمان " Value="">
+      <Sentence ID="gr-104-1" Value="">سلام.</Sentence>
+      <Sentence ID="gr-104-2" Value="">منم به تازگي اين گوشي رو خريدم.</Sentence>
+      <Sentence ID="gr-104-3" Value="">واقعا شايد بشه فقط دو تا مطلب رو واسش گفت يکي اينکه همون گرم شدن پشتش که ناشي از قطر کم گوشيه و يکي هم اينکه ظاهرا خيلي امواج گوشي رو کم کردن و به خاطر همبن شايد با آنتن دهيش گاهي مشکل پيدا کنين.</Sentence>
+      <Sentence ID="gr-104-4" Value="">از بقيه لحاظها کم و کسري نديدم مخصوصا دوربينش معرکست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-105" Holder="ميهمان " Value="">
+      <Sentence ID="gr-105-1" Value="">من پنج ماه هست از گلکسي اس 2 استفاده ميکنم.</Sentence>
+      <Sentence ID="gr-105-2" Value="">واقعا محشره.</Sentence>
+      <Sentence ID="gr-105-3" Value="">قبلا آيفون داشتم.</Sentence>
+      <Sentence ID="gr-105-4" Value="">فکر ميکنم اگه بهتر هم نباشه بدتر نيست.</Sentence>
+      <Sentence ID="gr-105-5" Value="">يه هفته باهاش کار کني عاشقش ميشي.</Sentence>
+      <Sentence ID="gr-105-6" Value="">سرعت بالا.</Sentence>
+      <Sentence ID="gr-105-7" Value="">زيبا.</Sentence>
+      <Sentence ID="gr-105-8" Value="">خوش دست البته بعد يکي دو هفته.</Sentence>
+      <Sentence ID="gr-105-9" Value="">بنظرم ميتوني با اين گوشي از تکنولوژي لذت ببري.</Sentence>
+      <Sentence ID="gr-105-10" Value="">مشکلي که داره چون من زياد با گوشي بازي ميکنم يه کم باطريش زود تموم ميشه مخصوصا اگه شبکه 3G باشه.</Sentence>
+      <Sentence ID="gr-105-11" Value="">البته ايران 2G هست.</Sentence>
+      <Sentence ID="gr-105-12" Value="">يکي هم اينکه  وقتي از سيستم وايرلس وقتي استفاده نميکنيد بهتره بسته باشه تا باطري زود تموم نشه.</Sentence>
+      <Sentence ID="gr-105-13" Value="">امکاناتش مخصوصا دوربينش عاليه.</Sentence>
+      <Sentence ID="gr-105-14" Value="">اکثر اپليکيشن ها با گوشي سازگاره و از کار کردن با اين گوشي لذت ميبريد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-106" Holder="mohammad " Value="">
+      <Sentence ID="gr-106-1" Value="">من واسه خريد يه گوشي اندرويد خوب حدود 1 ماه تحقيقات جامع کردم از هر جايي که فکرشو بشه کرد.</Sentence>
+      <Sentence ID="gr-106-2" Value="">که نتيجش شد galaxy s2.</Sentence>
+      <Sentence ID="gr-106-3" Value="">الان حدود سه ماهه که دارمش تا اين لحظه حدود 340 تا بازي و برنامه روش نصب کردم کماکان مثل روز اول داره کار ميکنه بدون کوچکترين افت سرعت , هنگ يا هر چيز ديگه اي.30-40 تا از بازيام hd وبا حجم بالاي 300 مگ بوده.</Sentence>
+      <Sentence ID="gr-106-4" Value="">چيزهايي هم که در مورد هاله زرد و داغ کردن در حد ذوب و .</Sentence>
+      <Sentence ID="gr-106-5" Value="">مينويسن کذب محضه.</Sentence>
+      <Sentence ID="gr-106-6" Value="">اين يه گوشي تمام عيار و همه فن حريف (در حد يه کامپيوتر کامل) هست .</Sentence>
+      <Sentence ID="gr-106-7" Value="">فوق العادست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-107" Holder="محسن فرسادي  " Value="">
+      <Sentence ID="gr-107-1" Value="">من با اين گوشي کار کردم فوق العادست .</Sentence>
+      <Sentence ID="gr-107-2" Value="">ولي نوسان قيمت بالايي داشته و هنوزم داره اما نکته جالب اينجاست که با اين نوسان قيمت بالا بخاطر امکانات و طراحي ساخت عالي ، خيلي فروش داشته و از محبوبيتشم کم نشده .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-108" Holder="ميهمان " Value="">
+      <Sentence ID="gr-108-1" Value="">من هم با آي فون 4 کار کردم هم اين گوشي، اين گوشي سامسونگ واقعآ حس آزادي بيشتري به آدم ميده،  به قيمتش هم خيلي مي ارزه براي کسايي که دنبال اسم و تبليغات نيستن و کارايي و امکانات براشون مهم تره </Sentence>
+    </General_Review>
+    <General_Review ID="gr-109" Holder="ميهمان " Value="">
+      <Sentence ID="gr-109-1" Value="">سلام
+به نظرم،  تو ايران،  زيادي به اسم اپل بها داده شده که صد البته اين امر،  يک کار بعضا سياسي و تبليغاتيه
+
+همه ي اونايي که با گوشي هايي مثل سامسونگ I900 کار کردن،  مي دونن که سري I سامسونگ،  همواره از رقبايي مثل اپل و اچ تي سي سر تر بوده
+
+از زماني که من I900 رو تو بازار ايران 950000 تومان خريدم تا همين حالا که اين گوشي بي نظير ( I9100)  رو با قيمت بالايي خريدم،  همواره به اين نتيجه رسيدم که کوشي هايي مقل اپل،  فقط يک برند سياسي و تبليغاتي هستن
+
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-110" Holder="ميهمان " Value="">
+      <Sentence ID="gr-110-1" Value="">طبق اعلام سايت gsmarena داراي بهترين صفحه لمسي دنيا در سال 2011
+من که واقعا از کار کردن باش لذت ميبرم
+از لحاظ فرستادن اس ام اس واقعا منوهاي راحت و حرفه اي.</Sentence>
+      <Sentence ID="gr-110-2" Value="">از لحاظ گيم باور نکردني در گوشيها.</Sentence>
+      <Sentence ID="gr-110-3" Value="">از لحاظ مقايسه در دنيا بهترين گوشي فقط کافيه يکم سرچ کنيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-111" Holder="ميهمان " Value="">
+      <Sentence ID="gr-111-1" Value="">من خريدمش.</Sentence>
+      <Sentence ID="gr-111-2" Value="">واقعا عاليه.</Sentence>
+      <Sentence ID="gr-111-3" Value="">سامسونگ انصافا روي اپل رو کم کرده.</Sentence>
+      <Sentence ID="gr-111-4" Value="">من هرچي دنبال نقطه ضعف اساسي گشتم که بگم پيدا نکردم.</Sentence>
+      <Sentence ID="gr-111-5" Value="">گوشي خوبيه.</Sentence>
+      <Sentence ID="gr-111-6" Value="">شک نکنيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-112" Holder="ميهمان " Value="">
+      <Sentence ID="gr-112-1" Value="">رودست نداره ..</Sentence>
+      <Sentence ID="gr-112-2" Value="">امتحان کنيد من امنيا2 دارم ولي اين گوشي رو خريدم چون توانايي بالايي داره با اپل انصافا در رقابته.</Sentence>
+      <Sentence ID="gr-112-3" Value="">..</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="رضا هدائي" Score="389" Voters="613" Value="">
+      <Sentence ID="cr-1-1" Value="">با سلام خدمت تمام کاربران و دوستداران ديجي کالا.</Sentence>
+      <Sentence ID="cr-1-2" Value="">باز هم سامسونگ همانند گذشته با محصولي زيبا و عالي بازار موبايل را تکان داد و نشان داد که مي تواند از عنوان بهترين گوشي سال 2010 يعني گلکسي اس 1 دفاع کند و باز هم پيش تاز بازار گوشي جهان باشد.</Sentence>
+      <Sentence ID="cr-1-3" Value="">بدون شک بايد قبول کرد که گلکسي اس 2 در حال حاضر بهترين گوشي هوشمند جهان است و اين گفته از طريق چندين و چند سايت و مجله معتبر جهاني تصديق مي شود.</Sentence>
+      <Sentence ID="cr-1-4" Value="">شايد کمي ها و کاستي هايي نيز وجود داشته باشد ولي توجه کنيد که همين کمبود ها باعث پيشرفت و توليد محصول بهتر مي شود.</Sentence>
+      <Sentence ID="cr-1-5" Value="">نيازي به بيان کردن مشخصات کلي گوشي نيست چون همه دوستداران اين گوشي با مشخصات کلي آشنايي کافي دارند بنده بيشتر قصد توضيح تجربه کاري با اين گوشي هستم.</Sentence>
+      <Sentence ID="cr-1-6" Value="">پس از روشن کردن گوشي اولين چيزي که توجه را بشدت به خود جلب مي کند،  صفحه بسيار با کيفيت و شفاف 4.3 اينچي + Super Amoled اين گوشي هست که به عقيده بسياري بهترين و با کيفيترين و 100 البته کم مصرفترين صفحه موجود بين گوشي ها است.</Sentence>
+      <Sentence ID="cr-1-7" Value="">(البته به عقيده خيلي ديگر رنگها بيش از اندازه سير و غير واقعي هستند که در تخصص اينجانب نميگنجد) بعد از روشن شدن گوشي،  رابط کاربري TouchWiz UI 4.0 خود را نمايش ميدهد که بسيار ساده و زيبا طراحي شده که حتي  اگر تجربه کار با اندرويد را هم نداشته باشيد،  باز هم به راحتي مي توانيد با اين رابط کاربري ارتباط برقرار کنيد.</Sentence>
+      <Sentence ID="cr-1-8" Value="">(در مورد رابط کاربري بسياري بر اين باور هستند که رابط کاربري HTC Sense بسيار زيباتر و کار آمتر است) سرعت گوشي در حد بسيار بالايي قرار دارد و خبري از مشکل قبلي سامسونگ يعني لگ زدن (مکس چند صدم ثانيه اي در هنگام صفحه زدن) نيست و همه چيز همانند آب روان بخوبي جاريست!</Sentence>
+      <Sentence ID="cr-1-9" Value="">صداي خروجي گوشي از بلندي خوبي برخوردار هست و فکر نميکنم شما تماسي را حتي در جاي شلوغ از دست بدهيد،  ويبره با توجه به اينکه گوشي بسيار باريک است،  بسيار قوي و در حد خوبي قرار دارد.</Sentence>
+      <Sentence ID="cr-1-10" Value="">دوربين داراي کيفيت بسيار عالي در فضاي باز و نور مناسب است ولي در شب،  عکساييکه با گلکسي اي 2 ميگيريد کمي نويزدار مي شوند که امري کاملا طبيعي بشمار مي رود.</Sentence>
+      <Sentence ID="cr-1-11" Value="">اگر شما هم طرفدار ويدئو هاي با کيفيت 1080 هستيد،  گلکسي اس 2 شما را هيجان زده خواهد کرد!</Sentence>
+      <Sentence ID="cr-1-12" Value="">ميزان جزئيات بسيار بالا و اگر حرکت بسيار سريع نکنيد بدون افت فريم همراه خواهد بود،  در يک کلام مي توانيد روي فيلم برداري اين گوشي حسابي حساب باز کنيد و ديگر براي ضبط صحنه هاي به ياد ماندني به فکر دوربين ديگر نباشيد!</Sentence>
+      <Sentence ID="cr-1-13" Value="">همانطور که شما هم مي دانيد اين گوشي بسيار باريک بوده (باريکترين گوشي جهان) و از پردازنده 2 هسته اي بهره مي برد،  پس نبايد وقتي زياد با اين گوشي بازي مي کنيد و دستانتان احساس گرما مي کند تعجب کنيد چون به لطف اندرويد 2.3.3 دماي سي پس يو بعضا به 50 درجه هم مي رسد که البته با آپديت به ورژن 2.3.4 اندرويد ،  ديگر اين مشکل را نخواهيد داشت.</Sentence>
+      <Sentence ID="cr-1-14" Value="">اگر از طرفداران گوشي ادن به موسيقي هستيد،  باز هم از داشتن گلکسي اس 2 خرسند خواهيد بود.</Sentence>
+      <Sentence ID="cr-1-15" Value="">بدنه کاملا پلاستيکي گوشي شايد شما را نااميد کند ولي وقتي سبکي و راحتي کار را با اين گوشي را تجربه کنيد،  ديگر به جنس آن فکر نخواهيد کرد.</Sentence>
+      <Sentence ID="cr-1-16" Value="">شايد با ميزان مصرف معمولي تا 2 روز و نيم هم باطري شما را ياري کند ولي اگر زياد بازي کنيد احتمالا آخر شب بايد گوشي را شارژ کنيد.</Sentence>
+      <Sentence ID="cr-1-17" Value="">در کل گوشي يکي از بهترين گزينه هاي موجود در بازار جهان است و شما را به خوبي براي مدت 1 تا 1.5 سال همراهي خواهد کرد.</Sentence>
+      <Sentence ID="cr-1-18" Value="">شما مي توانيد به گزينه هاي ديگر هم فکر کنيد : Htc Sensation , Motorola Atrix, LG 2X که هم رده با اين گوشي هستند و هر کدام مزيت ها و ايرادات خاص خود را دارند.</Sentence>
+      <Sentence ID="cr-1-19" Value="">با سپاس از شما،  رضا هدائي</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="حامد افسرطلا" Score="369" Voters="551" Value="">
+      <Sentence ID="cr-2-1" Value="">در اين نقد سعي مي کنم دلايل برتري و ضعف اين گوشي را نسبت به xperia s بررسي کنم برتري هاي xperia s صفحه نمايش با وضوح بسيار بالا با بهره گيري از موتور پردازش تصوير (be3)که اين موتور در تلويزيون هاي سوني نيز وجود دارد دوربين بسيار با کيفيت با پردازشگر exmorپردازشگر بسيار قوي  1.5زيبايي شگفت انگيز به خصوص نوار شيشه اي پايين گوشي نو آوري سوني و استفاده از تگ هاي nfc کيفيت ساخت بالا داشتن پورت hdmi برتري هاي galaxy 2 توانايي استفاده از micro sd لمس بسيار عالي ضمانت بسيار عالي آن در ايران باريک بودن آن  قابليت استفاده از سيم کارت عادي (در xperia s فقط از ميکرو سيم کارت مي توانيم استفاده کنيم )درکل به نظر من اين دو گوشي حرف زيادي براي گفتن دارند ولي بايد بدانيم به دنبال چه چيزي هستيم سپس به خريداري آن بپردازيم ولي از نظر من تکنولوژي ژاپن در سطح بالاتري از کره قرار دارد ولي کره نيز هر روز به فکر افزايش کيفيت محصولاتش است </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="محمد امين بشتام" Score="136" Voters="334" Value="">
+      <Sentence ID="cr-3-1" Value="">با سلام ؛طي استفاده چند ماهه از اين گوشي به مزاياي گوشي؛ و به معايبي که کمتر بيان،  و به آ ن توجه شده مي پردازم:مزايا:1.ابعاد بزرگ،  اما باريک و خوش ساخت که استفاده از گوشي را لذت بخش مي کند؛ طراحي اين گوشي بسيار شيک و زيبا مي باشد.</Sentence>
+      <Sentence ID="cr-3-2" Value="">2.</Sentence>
+      <Sentence ID="cr-3-3" Value="">صفحه نمايش با کيفيت عالي و رزوليشن خوب و زاويه ديد بسيار عالي3.</Sentence>
+      <Sentence ID="cr-3-4" Value="">دوربين عکاسي و فيلمبرداري بسيار عالي (در بعضي مواقع حتي بهتر از انواع دوبين ديجيتال هاي کامپکت شرکت هاي معتبر)4.کيبور کوورتي تاچ بسيار عالي عمل ميکند (کمتر پيش مي آيد که با آن در تايپ به مشکل بر خورد کنيد)5.</Sentence>
+      <Sentence ID="cr-3-5" Value="">قابليت تغيير فونت هاي متنوع از پيش نصب شده بر روي گوشي بسيار جذاب است6.</Sentence>
+      <Sentence ID="cr-3-6" Value="">اگر مدل I9100G را تهيه کنيد،  بسيار کم احساس مي کنيد که گوشي داغ کرده (از قابليت هاي نوع G مي باشد که شرکت سامسونگ داغ کردن گوشي را به حداقل رسانده) ضمن اينکه I9100G نسخه اي است که براي خاورمينه توليد شده و از زبان فارسي پشتيباني مي کند.</Sentence>
+      <Sentence ID="cr-3-7" Value="">7.پشتيباني از اکثر فرمت هاي ويدئويي و موسيقي بسيار جذاب و کارامد است8.</Sentence>
+      <Sentence ID="cr-3-8" Value="">حساسيت لمسي عالي صفحه نمايش و دو دکمه ي سخت افزاري9.با اينکه اکثر بخش هاي گوشي پلاستيکي مي باشد،  اما اصلا آزار دهنده نيست!</Sentence>
+      <Sentence ID="cr-3-9" Value="">اما معايب .</Sentence>
+      <Sentence ID="cr-3-10" Value="">:1.اين گوشي قابليت نوشتن و فرستادن پيامک بيش از 3 قسمت را ندارد..</Sentence>
+      <Sentence ID="cr-3-11" Value="">به عبارت ديگر،  بعد از نوشتن 3 قسمت پيامک داخل يک صفحه،  به طور اتوماتيک پيامک شما به پيام چند رسانه اي يا همان MMS تبديل مي شود و از حالت اس ام اس بودن خارج مي شود!</Sentence>
+      <Sentence ID="cr-3-12" Value="">و به هيچ وجه به طور فابريک(طبق گفته ي شرکت پارس مايکروتل) قابل درست شدن نيست!</Sentence>
+      <Sentence ID="cr-3-13" Value="">و فقط با نصب برنامه هاي جانبي نه چندان جذاب ميشه تا حدودي تحملش کرد که باز هم به مشکل بر ميخوريد!</Sentence>
+      <Sentence ID="cr-3-14" Value="">(( اگر کاربري هستيد که با فرستادن و نوشتن پيامک چند قسمتي سر و کار داريد،  اين عيب بسيار شما را اذيت مي کند!</Sentence>
+      <Sentence ID="cr-3-15" Value="">)) البته نا گفته نماند که با دريافت اين نوع پيامک ها مشکلي ندارد،  فقط در فروارد کردن و نوشتن دستي بيش از 3 قسمت مايوس کننده است!</Sentence>
+      <Sentence ID="cr-3-16" Value="">2.کيفيت بلندگوي و ميکروفون گوشي هنگام تماس اصلا جالب نيست  و در کل کيفيت تماس نسبت به گوشي هاي ديگر در سطح پاييني قرار دارد!</Sentence>
+      <Sentence ID="cr-3-17" Value="">3.</Sentence>
+      <Sentence ID="cr-3-18" Value="">کيفيت صداي نه چندان خوب،  به طوري که بسياري از گوشي هاي نوکياي ارزان قيمت تر از اين گوشي،  هنگام گوش دادن به موسيقي در دو حالت اسپيکر و هدفون کيفيت بهتري دارند،  مخصوصا هنگام استفاده از هدفون که کاملا وضح است اين گوشي حرفي براي گفتن ندارد!</Sentence>
+      <Sentence ID="cr-3-19" Value="">4.ضمنا در مواقعي هنگام گوش کردن به موسيقي و با کم و زياد کردن صداي گوشي به طور مداوم،  موزيک پلير هنگ کرده،  موزيک با صداي بلند گير مي کند و فقط بايد گوشي را ري استارت کنيم تا به حالت اول برگردد!</Sentence>
+      <Sentence ID="cr-3-20" Value="">5.</Sentence>
+      <Sentence ID="cr-3-21" Value="">زماني که ميخواهيد با دوربين اين گوشي عکس بادقت و کيفيت ثبت کنيد در مواردي  دوربين گوشي کاملا هنگ ميکند و بايد گوشي را ري استارت کنيد.</Sentence>
+      <Sentence ID="cr-3-22" Value="">6.</Sentence>
+      <Sentence ID="cr-3-23" Value="">گوشي آن طور ها هم که در تبليغات ميبينيد سريع نيست،  و ممکن است در بسياري از موارد شما را نا اميد کند.</Sentence>
+      <Sentence ID="cr-3-24" Value="">7.</Sentence>
+      <Sentence ID="cr-3-25" Value="">اگر بخواهيد با نور صفحه کامل و استفاده از قابليت هايي مثل واي فاي و نقشه ها  و حتي بازي کردن با گوشي،  يا ديدن ويدئو بپردازيد،  باتري اين گوشي کمتر از يک روز دوام مي آورد!</Sentence>
+      <Sentence ID="cr-3-26" Value="">و در کل به دليل قدرت کم باتري (1650 ميلي آمپر) نسبت به صفحه و ديگر قابليت هاي اين گوشي،  گوشي اصلا شارژ دهي مناسبي ندارد.8.شايد به دليل باريک نگه داشتن اين گوشي است که نمي توان به راحتي به مموري کارت دسترسي داشت و بايد باتري را در آوريم!</Sentence>
+      <Sentence ID="cr-3-27" Value="">9.براي دو قابليت وصل شدن به تلويزيون و USB On The GO بايد حدود 50 تا 60 هزار تومن براي خريد اين دو رابط خرج کنيد!</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="ميهمان" Score="128" Voters="146" Value="">
+      <Sentence ID="cr-4-1" Value="">من تازه اين گوشي رو خريدم.</Sentence>
+      <Sentence ID="cr-4-2" Value="">به لحاظ سخت افزاري کارآمد، پرسرعت و متقاعد کننده هستش.</Sentence>
+      <Sentence ID="cr-4-3" Value="">صفحه نمايش شفاف و با کيفيتي دارهعکس هاي و فيلم هايي که ثبت ميکنه واقعاً با کيفيت هستن.</Sentence>
+      <Sentence ID="cr-4-4" Value="">يکي از ضعفاش اينه که نسبت به ابعادش خيلي سبک و نازک هستش و وقتي براي بار اول تو دست ميگيري شک ميکني که به قيمتش ميارزه يه نه؟</Sentence>
+      <Sentence ID="cr-4-5" Value="">کيبورد نرم افزاريش خوشم نيومد کيبورد سوني اريکسون آرک اس عاليه و خيلي بهتره.</Sentence>
+      <Sentence ID="cr-4-6" Value="">در کل من از داشتن  i9100G Galaxy SII  راضي ام و ميتونم بگم "فوق العاده"</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="Mohammad Najafi" Score="100" Voters="114" Value="">
+      <Sentence ID="cr-5-1" Value="">من خودم از اين گوشي دارم استفاده مي کنم، راستش امکاناتش آنقدر زياد است و همچنين امکاناتي رو هم که نداره ميشه روش پياده نمود.</Sentence>
+      <Sentence ID="cr-5-2" Value="">مثلا من با اين گوشي مي تونم به راحتي کامپيوتر رو کنترل کنم،  براي نمونه من هنگام ارائه در دانشگاه،  با کامپيوتر کار زيادي ندارم و فقط از طريق اين گوشي و از راه دور کامپيوتر رو کنترل مي کنم و اسلايد ها رو عوض مي کنم و غيره.</Sentence>
+      <Sentence ID="cr-5-3" Value="">همچنين اين گوشي آنقدر قوي است که فقط خودش بدون نياز به رابط مي تونه از طريق وايرلس (شبکه بي سيم) به کامپيوتر متصل بشه و اين امکان براي انتقال اطلاعاتي از گوشي به کامپيوتر و برعکس،  خيلي مفيد است.</Sentence>
+      <Sentence ID="cr-5-4" Value="">درباره بازي هم بايد بگم،  تا الان هر بازي که در آيفون حتي آيفون فور اس هم ديدم،  به راحتي تونستم از اينترنت دانلود کنم و روي اين گوشي نصبش کنم.</Sentence>
+      <Sentence ID="cr-5-5" Value="">از امکانات دوربينش هم ميتونم به کيفيت بالاي عکس ها اشاره کنم،  که حتي امکان تشخيص لبخند رو هم در عکس برداري داره.</Sentence>
+      <Sentence ID="cr-5-6" Value="">درباره سرعتش هم که واقعا نمي تونم چيزي بگم،  چون هر قسمت رو که ميخواين خيلي سريع فراخواني مي کنه.</Sentence>
+      <Sentence ID="cr-5-7" Value="">حتي من با يکي از دوستان که  IPAD 2 داشت،  من اين گوشي رو مقايسه نمودم،  در خيلي از موارد از جمله پخش فيلم هاي خيلي با کيفيت بدون نياز به برنامه کمکي مي تونم اشاره کنم،  ولي در آي پد دوستم حتما بايد يک برنامه کمکي نصب مي شد تا بتونه يک فيلم با کيفيت رو نشون بده.</Sentence>
+      <Sentence ID="cr-5-8" Value="">راستش اينقدر از اين گوشي راضي هستم که اين گوشي رو ميخوام بدم به برادرم و يه گوشي گلاکسي نوت بخرم که دقيقا همين امکانات رو با کمي افزايش قدرت سخت افزاي داره.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-6" Holder="ميهمان" Score="82" Voters="172" Value="">
+      <Sentence ID="cr-6-1" Value="">اين گوشي به شدت شما رو شگفت زده مي کنه ..</Sentence>
+      <Sentence ID="cr-6-2" Value="">هيچ چيز کم نداره .</Sentence>
+      <Sentence ID="cr-6-3" Value="">وقتي فيلم آواتار رو با کيفيت فول اچ دي بدون حتي يک تيک با زيرنويس فارسي باهاش ديدم واقعا حال کردم .</Sentence>
+      <Sentence ID="cr-6-4" Value="">تاچ گوشي حرف نداره و من واقعا از خريدم راضيم اما 2 چيز گوشي هم اذيتم ميکنه که در کنار خوبي هاش به چشم نمياد اول از همه باتري گوشي که دير شارژ ميشه ( حدود 2 ساعت ) و دوم اينکه زود هم خالي ميشه و مجبورين هر شب اونو به شارژ بزنين ..</Sentence>
+      <Sentence ID="cr-6-5" Value="">مورد ديگه سايز گوشي هست که اگه مثل من يک قاب محافظ هم براش بگيرين واقعا شاهکار ميشه و ديگه به سختي ميتونين اس ام اس بدين .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-7" Holder="ميهمان" Score="68" Voters="196" Value="">
+      <Sentence ID="cr-7-1" Value="">اگر مي خواهيد بهترين گوشي رو داشته باشيد شک نکنيد Samsung I9100 Galaxy S II بهترين تو دنياست !</Sentence>
+      <Sentence ID="cr-7-2" Value="">من اين گوشي رو خريدم .</Sentence>
+      <Sentence ID="cr-7-3" Value="">دوربينش از بقيه 8.0 مگاپيکسلي ها بهتره .</Sentence>
+      <Sentence ID="cr-7-4" Value="">اونهايي که ميگن کيفيت دوربين گوشي ها دروغه اشتباه مي کنند .</Sentence>
+      <Sentence ID="cr-7-5" Value="">من با دوربين 7 مگاپيکسلي عکس و فيلم گرفتم .</Sentence>
+      <Sentence ID="cr-7-6" Value="">از نظر عکس Galaxy بهتره اما از نظر فيلم هرگز به گرد پاي Galaxy هم نمي رسد .</Sentence>
+      <Sentence ID="cr-7-7" Value="">اگر تنظيمات رو روي full HD تنظيم کنيم کيفيت فوق العاده اي رو شاهد خواهيم بود .</Sentence>
+      <Sentence ID="cr-7-8" Value="">flash اين دوربين تا حدي پر نوره که اگر بهش نگاه کنيد کوري لحظه اي مي آره که من توصيه مي کنم از فاصله ي نزديک عکس نگيريد چون آزار دهنده است.</Sentence>
+      <Sentence ID="cr-7-9" Value="">صفحه نمايش و تاچ بي نظيره هيچ برندي به پاي سامسونگ نمي رسه .</Sentence>
+      <Sentence ID="cr-7-10" Value="">کيفيت هندزفري در حد عالي است و واقعا با اپل در رقابته.</Sentence>
+      <Sentence ID="cr-7-11" Value="">کلا" من سه مشکل بيشتر نديدم يکي توليد گرماي زياده که با آپديت رام کمتر مي شه ولي از بين نمي رهو ديگري شارژدهي کم است که با استفاده ي معمولي يک شب در ميان بايد شارژ بشه و مشکل آخر هم اين است که دکمه ي دوربين نداره.</Sentence>
+      <Sentence ID="cr-7-12" Value="">در کل فعلا" بهترين گوشي دنياست از آيفون 4 که خيلي سره شايد آيفون 5 بتونه رقابت کنه !</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-8" Holder="وفا محمودي" Score="67" Voters="75" Value="">
+      <Sentence ID="cr-8-1" Value="">من حدود ۵ ماه است اين گوشي را خريدم و به نظرم گوشي خوب  و کارايي است ولي همانطور دوستمان محمد امين گفتند در نوشتن اس ام اس هاي طولاني مشکل داره و آن را به MMS تبديل ميکنه که من مجبور شدم از نرم افزارهاي جانبي استفاده کنم‌‌‌ ،  کيفيت بلندگو و ميکروفون هم خيلي خوب و با کيفيت و هيچ مشکلي در آن نديدم ،  هنگام گوش دادن به موسيقي هم چه با هدفون و چه حالت بلندگو کيفيت آن خوب است ولي هستن گوشيهاي که کيفيت بهتري دارند البته اين گوشي بعضي مواقع هنگ مي کنه و اين يکي از بزرگترين عيبهايي بوده که من در اين گوشي ديدم .</Sentence>
+      <Sentence ID="cr-8-2" Value="">ضبط صداشم خوبه٫ کيفيت دوربين هم خيلي خوب است به طوري که از دوربين سوني هشت مگاپيکسلي ام بهتر عمل کرده هم از لحاظ عکس و هم فيلم برداري که اصلا با هم قابل مقايسه نيستند چون گوشي با کيفيت full hd فيلم برداري ميکنه ولي دوربين چنين کيفيتي نداره  ،  تايپ هم با اين گوشي لذت بخش است.</Sentence>
+      <Sentence ID="cr-8-3" Value="">در کل من معتقدم سامسونگ گوشي  خوش دست ، شيک ،  سبک و کارايي ساخته</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-9" Holder="Classical Art" Score="62" Voters="208" Value="">
+      <Sentence ID="cr-9-1" Value="">واقعا اين مدل يک پديده بين گوشي هاي پيشرفته دنياست .</Sentence>
+      <Sentence ID="cr-9-2" Value="">با کارکردن با اين گوشي نهايت رضايت را خواهيد داشت .</Sentence>
+      <Sentence ID="cr-9-3" Value="">چه از نظر سرعت و قدرت نرم افزاري و سخت افزاري وچه از  نظر رزوليشن بالاي LED اين مدل.</Sentence>
+      <Sentence ID="cr-9-4" Value="">سامسونگ با اين مدل سيلي محکمي به شرکت اپل .</Sentence>
+      <Sentence ID="cr-9-5" Value="">نوکيا .</Sentence>
+      <Sentence ID="cr-9-6" Value="">سوني .</Sentence>
+      <Sentence ID="cr-9-7" Value="">موتورولا .</Sentence>
+      <Sentence ID="cr-9-8" Value="">ال جي و اچ تي سي زد </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-10" Holder="ميهمان" Score="49" Voters="65" Value="">
+      <Sentence ID="cr-10-1" Value="">اگه تو کاملترين محصولات جهان هم اينقدر ريز بشين ميتونيد اشکالاتي پيدا کنيد.</Sentence>
+      <Sentence ID="cr-10-2" Value="">من گوشي هاي زيادي عوض کردمبا فاصله زيادي اين بهترين گوشي اي هست که تا به حال ديدم و خوشحالم که آيفون نخريدماگه در حد نرمال استفاده کنيد باتريش 2 روز جواب ميدهقدرت پردازشش محشره.</Sentence>
+      <Sentence ID="cr-10-3" Value="">فايل هاي سنگين گرافيکي و محاسباتي رو خيلي سريع باز ميکنهکيفيت تصويرشم حرف ندارهاندازشم خوبه (به نسبت گلکسي نوت) و آدم زود بهش عادت ميکنه</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-11" Holder="ميهمان" Score="43" Voters="51" Value="">
+      <Sentence ID="cr-11-1" Value="">سلام من اين گوشي رو 4 ماهه که دارم عزيزان کي ميگه 4 ساعته شارژ تموم ميکنه بستگي داره باهاش چيکار کنين.</Sentence>
+      <Sentence ID="cr-11-2" Value="">اگه بازي HD بازي کنين آره تموم ميشه اما اگه کاري به کاريش نداشته باشين در حالت استند باي من 2 روز هم شارژ نگه داشتم تازه يه سري تنظيما ت داره مثلا بايد حالت شبکتونو فقط بذاريد رو GSM و چند تا تنظيمات ديگه که شارژ دير تموم ميکنه.</Sentence>
+      <Sentence ID="cr-11-3" Value="">از لحاظ بازي و فيلم که حرف نداره من يه مموري 16GB ديگه انداختم روش انگار نه انگار 32 گيگ حافظه داره نه افت سرعتي نه هيچي 17 تا بازي HD هم روش دارم آخ نگفته تنوع برنامه هاشم که بينظيره.</Sentence>
+      <Sentence ID="cr-11-4" Value="">گوشي 3 ساعته شارژ ميشه.</Sentence>
+      <Sentence ID="cr-11-5" Value="">فيلمبرداريش معرکست همچنين عکس 8 مگاپيکسليش بعد نميدونم چرا بعضيا با نازکي گوشي مشکل دارن اين که يه حسنه.</Sentence>
+      <Sentence ID="cr-11-6" Value="">W-Fi معرکه با سرعت وحشتناک و تاچ بي نظير اين گوشي که باهات واقعا حرف ميزنه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-12" Holder="بلال شيخ" Score="43" Voters="133" Value="">
+      <Sentence ID="cr-12-1" Value="">1.براي عوض کردن يا خارج کردنه مموري بايد باتريشو در بياريد.</Sentence>
+      <Sentence ID="cr-12-2" Value="">2.همونطور که ديگر دوستان گفتن در بسياري از موارد قسمت پشت گوشي(مخصوصا اطراف دوربين)زيادي داغ ميشه.</Sentence>
+      <Sentence ID="cr-12-3" Value="">البته خيلي مهم نيست3.نوار کرومي اطراف گوشي خيلي حساسه.</Sentence>
+      <Sentence ID="cr-12-4" Value="">موقع زمين خوردن يکي از آسيب پذير ترين بخش هاي گوشيه.4.بلند گوي گوشي موقعيت خيلي خيلي بدي داره.</Sentence>
+      <Sentence ID="cr-12-5" Value="">در مواقع بازي کردن و فيلم ديدن.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-13" Holder="عليرضا يوسفي" Score="26" Voters="36" Value="">
+      <Sentence ID="cr-13-1" Value="">حدود 3 ماه ميباشد که اين مدل رو دارم و خيلي ازش راضي هستم.</Sentence>
+      <Sentence ID="cr-13-2" Value="">اين گوشي از نظر سخت افزاري واقعا فوق العاده است!</Sentence>
+      <Sentence ID="cr-13-3" Value="">به شخصه فيلم فول اچ واقعي با فرمت mkv تست کردم و اين گوشي به راحتي و بدون درد سر نرم و روان پخش کرد و از لحاظ سرعت عليرغم نصب تعداد قابل توجه بازي و برنامه هاي هيچگونه افت سرعتي نداشته.</Sentence>
+      <Sentence ID="cr-13-4" Value="">دوستاني که در مورد گرم کردن گوشي نظراتش رو گفته که اين مشکل حاد نيست و با تعويض کرنل مناسب ميتوان اين اثر تا حدي کم نمود.</Sentence>
+      <Sentence ID="cr-13-5" Value="">اين گوشي با سيستم عامل آندرويد واقعا آزادي کاملي بر خلاف آيفون به آدم دست ميده!</Sentence>
+      <Sentence ID="cr-13-6" Value="">دوستاني که قصد خريد اين گوشي را دارند مطمئن باشيد که از خريدنش پشيمان نمي شويد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-14" Holder="ميهمان" Score="21" Voters="35" Value="">
+      <Sentence ID="cr-14-1" Value="">من خودم الان يک اس2 اونم سري جي دارم الان يک ماهي هست دارم کار ميکنم نه داغ ميکنه نه عکسش خرابهفقط تنها مشکلي که داره اونم بعضي وقت ها نه هر روز هر چند وقتي هنگاي جزئي داره وگرنه عالييينرم افزار و گيمم خيلي راحت ميتونين خودتون بريزين و استفاده کنيد</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-15" Holder="ميهمان" Score="12" Voters="28" Value="">
+      <Sentence ID="cr-15-1" Value="">من ديزاير اچ دي داشتم ولي چون روش زياد نصب کردم تو حرکت منوش يکم کند شده بود ولي در کل خيلي گوشي خوبي بود ولي اين واقعا يه چيزه ديگه است الان اس 2 دارم گوشي فوق العاده ايه فقط مشکل داغ کردنش خيلي اذيت ميکنه متاسفانه بجز داغ کردن و هر از گاهي دشارژه کردن بدليل داغي ديگه هيچ مشکلي نداره!</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-16" Holder="محمد رسول عظيمي پور" Score="12" Voters="24" Value="">
+      <Sentence ID="cr-16-1" Value="">sII از رقباي خود يعني (HTC  sensation    apple 4     xperis arc s    sony xperia s ) برتر بوده  عکسبرداري اين گوشي بسيار با کيفيت است و کساني که مگويند دوربين آيفون 4 بهتر است در اشتباه هستند فيلمبرداري اين گوشي آنقدر با کيفيت است که شما را شگفت زده مي کند                                                امکانات نرم افزاري آن هم خستگي و کسل بودن را از شما به دور ميکند                                                                 کيبورد آن بسيار روان است و کار کردن با آن لذت بخش است                                                                                                                                                                                                                        در کل اگر در خريد اين گوشي شک و ترديد داريد يک لحظي هم تعلل نکنيد و براي خريد آن اقدام کنيد                      </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-17" Holder="احمد حسينيان" Score="8" Voters="18" Value="">
+      <Sentence ID="cr-17-1" Value="">من اين گوشيو 6 ماه شده که دارم.</Sentence>
+      <Sentence ID="cr-17-2" Value="">سري معمولي هست.</Sentence>
+      <Sentence ID="cr-17-3" Value="">تا به حال هيچ عيب درست و حسابي نتونستم از اين گوشي بگيرم.</Sentence>
+      <Sentence ID="cr-17-4" Value="">عيب هايي هم که بعضي از دوستان گفتن واسه من اصلا پيش نيومده.</Sentence>
+      <Sentence ID="cr-17-5" Value="">از نظر سرعت و بازي عالي.</Sentence>
+      <Sentence ID="cr-17-6" Value="">من خودم ازش بنچ مارک گرفتم با quadrant شده 5400.يعني چيزي در حد s3.</Sentence>
+      <Sentence ID="cr-17-7" Value="">فقط شما کافيه يه فيلم رو داخل اين گوشي بريزينو عقب جلو کنيد اون موقع سرعتشو مي فهمين.</Sentence>
+      <Sentence ID="cr-17-8" Value="">کيفيت صفحه که با super AMOLED plus ديگه جاي هيچ حرفي رو نميذاره.</Sentence>
+      <Sentence ID="cr-17-9" Value="">در کل شما از خريدش پشيمون نميشين.</Sentence>
+      <Sentence ID="cr-17-10" Value="">عيبايي مثل باتريو ميشه با نصب چند نرم افزار بر طرف کرد ونبايد اين مشکلو خيلي بزرگ کرد.</Sentence>
+      <Sentence ID="cr-17-11" Value="">شما گوشي اي رو پيدا کنين با اين اندازه صفحه و باريکي باهاش بازي، wifi، آهنگ، فيلم، و.</Sentence>
+      <Sentence ID="cr-17-12" Value="">کاراي ديگه بکنين بيشتر از يک روز دوام بياره!</Sentence>
+      <Sentence ID="cr-17-13" Value="">نميگم باتري اين گوشي خيلي خوبه فقط مي گم با اين سخت افزار قوي يکم انصاف داشته باشيم در مورد مصرف برقش.</Sentence>
+      <Sentence ID="cr-17-14" Value="">هر چند که کمي قديمي شده ولي به نسبت گوشياي امروزي بازهم حرف براي گفتن داره.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-18" Holder="شجاع فلکي طرازکوهي" Score="8" Voters="24" Value="">
+      <Sentence ID="cr-18-1" Value="">سلام .</Sentence>
+      <Sentence ID="cr-18-2" Value="">توي اين نقد ميخوام تجربياتم رو خيلي کوتاه و مفيد به دوستان بگم .</Sentence>
+      <Sentence ID="cr-18-3" Value="">گالاکسي اس 2 يکي از پرقدرترين گوشي هاست که بعد از حدود 1 سال از ارائه ،  هنوز از محبوبترين کالا ها در ايران و جهان است .</Sentence>
+      <Sentence ID="cr-18-4" Value="">خب در وهله اول صفحه نمايش بزرگ و با کيفيت ،  دوربين و از همه مهم تر پردازنده اين گوشي جلب نظر ميکند که واقعا" هم از اين نظر اين گوشي چيزي کم ندارد اما همين موارد باعث يکسري مشکلات ميشه که تمامي اين امکانات رو تحت الشعاع قرار ميدهد .</Sentence>
+      <Sentence ID="cr-18-5" Value="">به عنوان مثال قردت بالاي cpu و صفحه نمايش باعث ميشه که باتري اين گوشي زود به اتمام برسد و به همين منظور کاربراني که استفاده مداوم از گوشي دارند مجبورند اقداماتي مانند پايين آوردن شفافيت تصوير رو انجام بدن که عملا" وضوح صفحه نمايش و خوانايي زير آفتاب را از دست ميدهند .</Sentence>
+      <Sentence ID="cr-18-6" Value="">يا مجبورند از رام هاي غير رسمي استفاده کنند که خب اين هم مزايا هم معايب خاص خود را دارد .</Sentence>
+      <Sentence ID="cr-18-7" Value="">اما اگر کسي مشکلي با باتري و تا حدودي اندازه نسبتا" بزرگ اين گوشي نداشته باشد ،  گوشي کاملي است و کيفيت ساخت خوبي دارد .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-19" Holder="روح الله عاشوريان" Score="4" Voters="20" Value="">
+      <Sentence ID="cr-19-1" Value="">ر طراحي گوشي گالاکسي S سامسونگ يک ايراد بزرگي وجود داشت که قاب اين گوشي موبايل از پلاستيک کم کيفيت سياه استفاده شده بود.</Sentence>
+      <Sentence ID="cr-19-2" Value="">اما در گالاکسي S2 ،  سامسونگ کار خوبي انجام داده و قاب گوشي رو از جنس خوبي ساخته.</Sentence>
+      <Sentence ID="cr-19-3" Value="">يکي ديگه از کارهاي خوب سامسونگ بر روي اين گوشي صفحه نمايش لمسي 4.3 اينچي براي اين گوشي هست که در نسخه گالاکسي S فقط 4 اينچ بود.</Sentence>
+      <Sentence ID="cr-19-4" Value="">البته طبق نظر کساني که در نمايشگاه هاي موبايل اين گوشي رو ديدند رنگ تصاوير در گوشي گالاکسي S 2 سامسونگ خيلي زنده هستن که در عکس هايي که از اين گوشي ارائه شده قابل قياس نيستن.</Sentence>
+      <Sentence ID="cr-19-5" Value="">گوشي Galaxy S II سامسونگ از سيستم عامل نان زنجبيلي يا همان اندرويد 2.3 بهره ميبره و سامسونگ از تازه ترين فناوري صفحه هاي لمسي خودش يعني TouchWiz UI v4.0 استفاده ميکنه.</Sentence>
+      <Sentence ID="cr-19-6" Value="">اين گوشي تحولي در گوشي هاي موبايل ايجاد کرده.</Sentence>
+      <Sentence ID="cr-19-7" Value="">يک گوشي موبايل علاوه بر سخت افزار و امکانات بايد ظاهر خوشگل هم داشته باشه که s2 خيلي خوشگله.</Sentence>
+      <Sentence ID="cr-19-8" Value="">s3 رو واقعا ميشه امپراتور موبايل دونست ولي ظاهرش خوشگل نيست.</Sentence>
+      <Sentence ID="cr-19-9" Value="">بنظر من که گوشي خيلي توپيه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-20" Holder="Sina" Score="3" Voters="3" Value="">
+      <Sentence ID="cr-20-1" Value="">سلام اين گوشي 1 ماه دستم بود بعدا فروختمش.</Sentence>
+      <Sentence ID="cr-20-2" Value="">.1 اين گوشي از زيبايي چيزي کم نداره و همه اين رو به خوبي ميدونيم و با اين که جنس بدنه از پلاستيکه ولي مقاومت خوبي داره.</Sentence>
+      <Sentence ID="cr-20-3" Value="">.2 در کيفيت صفحه نمايش که چيزي کم نداره و رنگ هاي توليدي واقعا زنده و زيبا هستن و جزئيات رو به خوبي نشون ميده..</Sentence>
+      <Sentence ID="cr-20-4" Value="">3 بازي هاي اچ دي رو به خوبي اجرا ميکنه اما بعد از مدتي بازي کردن  گوشي به شدت داغ ميکنه که ادم احساس ميکنه الانه که بسوزه!</Sentence>
+      <Sentence ID="cr-20-5" Value="">4 سرعتش بعدا از اپديت 4 به صورت چشم گيري بالا ميره 5 دوربين محشري داره و عکس ها کمترين نويز ممکن رو دارن6 پردازنده ي پر قدرتي داره که سنگين ترين کارها رو راحت انجام ميده7 وبگردي باهاش خيلي راحته و به سرعت صفحات رو برات باز ميکنه ولي اگه با اينترنت همراه اول يا ايرانسل بري گوشي به شدت داغ ميکنه که هنوزم نفهميدم چرا داغ ميکنه!</Sentence>
+      <Sentence ID="cr-20-6" Value="">8 رابط کاربري ساده و کاربردي اي داره ولي به پاي بهترين رابط کاربري گوشي ها يعني سنس نميرسه و در مقابل اون واقعا ضعيفه.</Sentence>
+      <Sentence ID="cr-20-7" Value="">در نهايت ميتوان گفت اين گوشي تمام نياز هاي شما رو در کار هاي روزانه برطرف ميکنه و بهترين بازده در ميان گوشي هاي همرده رو داره!</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-21" Holder="سروش احمديان" Score="1" Voters="1" Value="">
+      <Sentence ID="cr-21-1" Value="">اين گوشي با اينکه يکم قديمي شده اما هنوز هم يکي از انتخاب هاي برتر تو بازار هست و با گوشي هاي جديد رقابت ميکنه.</Sentence>
+      <Sentence ID="cr-21-2" Value="">يکي از نقاط ضعف اين گوشي بدنه کاملا پلاستيکي هست که موجب ميشه وقتي شما داريد بازي HD ميکنيد يا کار هاي سنگين انجام ميديد بدنه به شدت گرم ميشه که کمي ازار دهنده هست.</Sentence>
+      <Sentence ID="cr-21-3" Value="">از نظر باطري هم متوسط به بالا هست و نياز هاي يک روز کاربران برطرف ميکنه.</Sentence>
+      <Sentence ID="cr-21-4" Value="">در کل يکي از انتخاب هاي خوب بين گوشي هاي اندرويد هست.</Sentence>
+      <Sentence ID="cr-21-5" Value="">از نظر ساپورت هم که تا الان عالي بوده و اخرين نسخه اندرويد يهني jeally bean يا همون اندرويد 4.1 هم براش عرضه شده که با  اپديت به اين نسخه محيط گوشي دقيقا شبيه گالاکسي اس 3 ميشه و ميتونيد ازش لذت ببريد همچنين بسياري از برنامه هاي اپديت ميشه و تغييرات چشم گير ديگري هم رخ ميده.</Sentence>
+      <Sentence ID="cr-21-6" Value="">از نظر دوربين هم گوشي در سطح قابل قبولي قرار داره و حتي دوربين اين گوشي با اس 3 برابري ميکنه و چيزي کم نداره به جز يه سري گزينه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-22" Holder="سيد محمد تقي مرتضوي" Score="0" Voters="16" Value="">
+      <Sentence ID="cr-22-1" Value="">عليرغم تمام توانايي هاي خيلي خوب اين گوشي  که واقعا حرف نداره و از به کارگيري اون لذت تمام خواهيد برد ،  اما متاسفانه  :1- محل بلندگو  بسيار بد انتخاب شده ( يعني در پشت گوشي) که باعث مي شود زمانيکه گوشي را در دست مي گيريد احتمال اينکه کف دست جلوي بلندگو را بگيرد زياد تر شده  و گاها صداي بلند گو به اصطلاح توسط کف دست خفه شود.</Sentence>
+      <Sentence ID="cr-22-2" Value="">(اما در برخي گوشي هاي ساير مارک ها ،  بلند گو در لبه گوشي است که باعث مي شود اين اتفاق نيافتد).</Sentence>
+      <Sentence ID="cr-22-3" Value="">2- دوم اينکه در اين گوش وقتي مي خواهيد عکس بگيريد تصاوير نمايشي داده شده در صفحه نمايش بسيار زنده و روشن هستند اما وقتي عکس گرفته مي شود ديگر تصوير save شده به آن صورت قبل زنده و روشن نيست.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-23" Holder="حسين وکيل زاده" Score="1" Voters="95" Value="">
+      <Sentence ID="cr-23-1" Value=""> Galaxy S II ،  در هم شکستن حد و مرزها توسط کهکشان،  انفجاري از انرژي و سرعت ،  هوشمندي با قدرتي فوق العاده ،  گوشي تلفن همراهي که به شما اجازه خواهد داد نهايت لذت را با آندرويد تجربه کنيد.</Sentence>
+      <Sentence ID="cr-23-2" Value="">بله ،  حقيقت اين است که در حال حاضر گوشي ديگري شبيه Galaxy S II وجود ندارد.</Sentence>
+      <Sentence ID="cr-23-3" Value="">سامسونگ با توليد اين گوشي نشان داد که ميتواند غول توليد دنياي گوشي هاي اسمات فون باشد با وجود تراشه گرافيکي  Exynos و   شتاب دهنده گرافيکي Mali-400MP که در نوع خود بي نظير است.</Sentence>
+      <Sentence ID="cr-23-4" Value="">امکانات سخت افزار   Galaxy S II نشان دهنده تمام ماجراست :1.صفحه نمايش تمام لمسي خازني 4.3 اينچي Super AMOLED با قابليت نمايش 16 ميليون رنگ و پشتيباني از رزولوشن WVGA (480 x 800 پيکسل)2.پردازنده دو هسته اي 1.2 گيگاهرتزي Cortex A9 ،  شتاب دهنده گرافيکي Mali-400MP ، تراشه Exynos و يک گيگابايت حافظه RAM3.دوربين هشت مگاپيکسلي با لنز وايد و فوکوس خودکار،  فلاش LED ،  سيستم تشخيص چهره ،  لبخند و چشمکضبط ويديويي HD 1080p با نرخ 30 فريم بر ثانيه4.GPS به همراه عملکرد AGPS ،  قطب نماي ديجيتال5.سنسورهاي شتاب سنج ،  ژيروسکوپ و مجاورت6.حافظه داخلي 16/32 گيگابايتي ،  اسلات کارت حافظه microSD7.</Sentence>
+      <Sentence ID="cr-23-5" Value="">امکان شارژ از طريق پورت microUSB با قابليت USB Host ، و تبديل آن به خروجي تلويزيون با پشتيباني از پخش 1080p با استفاده از MHL8.</Sentence>
+      <Sentence ID="cr-23-6" Value="">بلوتوث استريو v3.09.دوربين ثانويه دو مگاپيکسلي براي برقراري تماس هاي ويديويي10.پشتيباني کامل از فلش ،  بهره گيري از شتاب دهنده گرافيکي در مرورگر وب و فراهم آوردن امکان پخش ويديويي 1080p در آن11.پشتيباني فوق العاده از فرمت هاي ويديويي (انواع فرمت هاي مختلف از Avi (DivX و XviD) گرفته تا Mp4 و Mkv پشتيباني مي کند.</Sentence>
+      <Sentence ID="cr-23-7" Value="">هيچ مشکلي در رزولوشن ويديوها نيز وجود ندارد و گوشي قادر به پخش ويديوهاي Full HD است.</Sentence>
+      <Sentence ID="cr-23-8" Value="">فايل هايي با حجم بيش از دو گيگابايت نيز به خوبي پخش مي شوند)12.کيفيت صداي فوق العادهو اما ضعف هاي Galaxy S II:بدنه تمام پلاستيکيعدم تعبيه کليد اختصاصي دوربينگوشي هايي براي ديدن ،  گوشي هايي براي مورد توجه واقع شدن و گوشي هايي براي ديده شدن ،  در بازار وجود دارند.</Sentence>
+      <Sentence ID="cr-23-9" Value="">Samsung Galaxy S II همه اين مشخصات را با هم دارد.</Sentence>
+      <Sentence ID="cr-23-10" Value="">آندرويد پلت فرم هوشمند برگزيده اين روزهاست.</Sentence>
+      <Sentence ID="cr-23-11" Value="">با وجود گوشي هايي چون Galaxy جديد ،  سامسونگ در حال تبديل شدن به برندي شکست ناپذير است.</Sentence>
+      <Sentence ID="cr-23-12" Value="">در آخر جالب است بدانيد طبق مقايسه اي که بين بزرگترين گوشي هاي آندروئيد کنوني از سوني اريکسون (xperia arc) , ال جي ( Optimus 2X ) و اچ تي سي (Sensation) شده است  Galaxy S II به راحتي توانسته رقباي خود را پشت سر بگذارد.</Sentence>
+      <Sentence ID="cr-23-13" Value="">اما از اين نکته هم نمي توان غافل شد که بزرگترين فاکتور انتخاب گوشي قيمت ان است که در اين ضمينه Galaxy S II حدود 200 تا 300 هزار تومان بالاتر از هم رده اي هاي خود است.</Sentence>
+      <Sentence ID="cr-23-14" Value="">اما چنانچه پول کافي براي خريد اين گوشي فوق العاده داريد درنگ نکنيد مطمئن باشيد بهترين انتخاب را انجام داده ايد.</Sentence>
+      <Sentence ID="cr-23-15" Value="">با سخت افزار فوق العاده اي که اين گوشي دارد تا مدت ها ميتواند در کورس رقابت با گوشي هاي ديگر باقي بماند.</Sentence>
+      <Sentence ID="cr-23-16" Value="">با تشکر :حسين وکيل زاده</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-24" Holder="مهدي علوي " Score="2" Voters="24" Value="">
+      <Sentence ID="cr-24-1" Value="">دوستان اين گوشي  فوق العاده هستش .</Sentence>
+      <Sentence ID="cr-24-2" Value="">خوش دست .</Sentence>
+      <Sentence ID="cr-24-3" Value="">زيبا ..</Sentence>
+      <Sentence ID="cr-24-4" Value="">وقتي گوشي قفل ميشه رنگ مشکي خيره کننده اي به خودش ميگيره .</Sentence>
+      <Sentence ID="cr-24-5" Value="">..</Sentence>
+      <Sentence ID="cr-24-6" Value="">ديگه نميدونم چي بگم  عاليه دوستان ميتوني صحبت کني تا صحبت هاي شما رو به اس ام اس تبديل کنه .</Sentence>
+      <Sentence ID="cr-24-7" Value="">ميتوني با چرخش به هر طرف منو هايش هم به چرخش در بياد ..</Sentence>
+      <Sentence ID="cr-24-8" Value="">دوربين خوبي داره و 1080p يعني کيفيت HDدر کل اين گوشي حرف نداره .</Sentence>
+      <Sentence ID="cr-24-9" Value="">رزوليشني که اين گوشي داره حتي تو گوشي سوني اريکسون يا اچ تي سي و.</Sentence>
+      <Sentence ID="cr-24-10" Value="">نميتونين پيدا کنين ..</Sentence>
+      <Sentence ID="cr-24-11" Value="">خيلي وزن سبکي داره ..</Sentence>
+      <Sentence ID="cr-24-12" Value="">لمسش عاليه ولي هنوز به پاي اپل نرسيده //////يه پردازنده 1.2 دو هسته اي عالي در قلبش وجود داره مانع از هنگ کردن ميشه اين پردازنده سرعت در عملکرد هاي چند وظيفه اي را خيلي اسان کرده و زره اي مکث در اون نميبينين يه کار خيلي جالب وقتي دارين با تلفن صحبت ميکنين اونو رو يه ميز بزارين تمامي صدا ها قطع ميشود .</Sentence>
+      <Sentence ID="cr-24-13" Value="">وقتي دارين از گوشي به عنوان بازي هاي سه بعدي استفاده ميکنين خيلي فوق العاده هستن .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-25" Holder="حامد عقيلي" Score="2" Voters="54" Value="">
+      <Sentence ID="cr-25-1" Value="">با عرض ادب و احترام به تمامي کاربران و مديران عزيز ديجي کالا سلام و خدا قوتکاربران عزيز گوشي گالکسي اس 2 از لحاظ هنگي بسيار کمتر از گالاکسي اس3 ميباشداين تست ها رو خودم کامل انجام دادم و برتري گوشي اس2 از اس3 به وضوح مشخص شده براماگر قصد خريدن گوشي رو داريد پيشنهاد من گالاکسي اس2 بدون پسوند G هستش زيرا مرغوبيت سري اول بيشتر از سري G هستش در ضمن اگر توجه کرده باشيد در برنامه هاي سنگين و بازيها گوشي اس 2 با پسوند G دستور متوقف کردن CPU رو صادر ميکنه که بر خلاف اون سري ساده اون پردازنده ي قدرتمندتري نسبت به اون دارهو برسيم سر مقايسه اس 2 با اس 3:صفحه ي نمايش اس 2 به نظر من از اس 3 بالاتره زيرا آخرين تکنولوژي در صفحه هاي نمايش SUPER AMOLED PLUS نه SUPER AMOLEDدوما از نظر ساپورت بازي اس 2 بهتر از اس 3 عمل کرده سوما اس 2 کمتر از اس 3 گرم ميشه و بدونيد گرماي زياد در گوشي باعث کم شدن عمر گوشي و باتري ميشهدر کل بگم اس 2 از هر لحاظ بهتره و به جرأت ميتونم بگم هنوزم بهترين گوشي در بين گوشيهاي ديگه با برندهاي ديگه ست.</Sentence>
+      <Sentence ID="cr-25-2" Value="">اميدوارم مطالب بنده حقير مورد استفاده شما قرار گرفته باشه موفق و مؤيد باشيد </Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-26" Holder="جواد مقبلي" Score="3" Voters="11" Value="">
+      <Sentence ID="cr-26-1" Value="">بازي هاي HD رو بخوبي نمايش و پردازش ميکنه .</Sentence>
+      <Sentence ID="cr-26-2" Value="">و ميتونه بازي هاي game loft و amd  رو بخوبي ساپورت کنه .</Sentence>
+      <Sentence ID="cr-26-3" Value="">در ضمن دوربين عکاس و فيلمبرداري خيلي عالي داره که هم اتوفوکوس داره و هم فول HD  فيلمبرداري ميکنه .</Sentence>
+      <Sentence ID="cr-26-4" Value="">صفحه نمايش هم که amoled است و از همه نظر که فکرش رو بکنيد در نمايش تصاوير کم نمياره .</Sentence>
+      <Sentence ID="cr-26-5" Value="">البته سي پي يو پاييني داره که تعجب ميکنم چرا ارتقاش ندادن .</Sentence>
+      <Sentence ID="cr-26-6" Value="">در کل شرکت بين المللي کره اي سامسونگ توانسته گوشي خوبي به بازار ارائه کنه و بازار رو قبضه کرده و نوکيا رو از ميدون به در کرده .</Sentence>
+      <Sentence ID="cr-26-7" Value="">البته اين گوشي يکي از عيب هاش اينه که باطريش زود مصرف ميشه و دوام چنداني نداره و همش بايد وصل به شارژ باشه .</Sentence>
+      <Sentence ID="cr-26-8" Value="">جي پي اس خوبي هم داره که با برنامه هايي مثل ناويتل به راحتي کارميکنه و ميتونه ساپورت کنه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-27" Holder="فرهتگ صلاح" Score="55" Voters="91" Value="">
+      <Sentence ID="cr-27-1" Value="">با سلاماز نظر من که از اين گوشي به مدت چند روز استفاده کردم ،  گوشي بسيار کارايي است .</Sentence>
+      <Sentence ID="cr-27-2" Value="">از وبژگيهاي بسيار بسيار بارز و قابل توجه آن ،  وزن خيلي سبک آن ميباشد که واقعا و بطور جدي قابل توجه است و بطور کامل در مقايسه با گوشي همچون Apple Iphone 4S  ،  سبک بودن Samsung Galaxy SII فوق العاده ملموس است که بسته به نظر کاربر و اولويت اهميت استفاده و کاربري او از گوشي ،  ميتواند مد نظر افراد زيادي باشد .</Sentence>
+      <Sentence ID="cr-27-3" Value="">ولي دقت کنيد که اين گوشي پيشرفته و محبوب علي رغم امکانات فراواني که آن را در زمره بهترين گوشيهاي دنيا همچنان حفظ کرده ،  عيب بسيار قابل ملاحظه اي داردو آن فقدان وجاهت است.</Sentence>
+      <Sentence ID="cr-27-4" Value="">وقتي اين گوشي را در دست ميگيريد ،  لمس ميکنيد ،  و نگاه ميکنيد ،  حس يک وسيله اسباب بازي پلاستيکي به شما دست ميدهد.</Sentence>
+      <Sentence ID="cr-27-5" Value="">و برخلاف باريکي و سبکي آن ،  بسيار توي ذوق کاربر ميزند.</Sentence>
+      <Sentence ID="cr-27-6" Value="">ضمنا طبق تجربه شخصي من در استفاده از گوشيهاي سامسونگOmnia  و Jet ،  احتمال آسيب ديدگي آن هنگام رها شدي و ضربه ديدن ،  بيشتر از رقباست.</Sentence>
+      <Sentence ID="cr-27-7" Value="">ضمنا بطور کلي گوشيهاي سامسونگ سابقه بسيار بدي دارند که از لحاظ نرم افزار و سخت افزار خيلي زودتر از مارکهاي ديگر خراب ميشوند.</Sentence>
+      <Sentence ID="cr-27-8" Value="">به همين دليل از نظر من هرگز به سامسونگ Galaxy SII نينديشيد و حتما گوشيهاي جايگزين آن همچون HTC Sensation , ،   &amp; XE &amp; XLاپل آيفون چهار ،  و سوني Xperia S  و سوني اريکسون Arc S فکر کنيد و بسته به توان مالي خود از بين آنها انتخاب کنيد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-28" Holder="ميهمان" Score="57" Voters="137" Value="">
+      <Sentence ID="cr-28-1" Value="">با سلام خدمت به دوستان ميخواستم اندکي از مشکلات اين گوشي بگم.</Sentence>
+      <Sentence ID="cr-28-2" Value="">بخاطر پردازنده پرمصرفش زود باتري خالي ميکنه.</Sentence>
+      <Sentence ID="cr-28-3" Value="">رزوليشن صفحه پايينه و بر خلاف چيزي که يکي از دوستان گفت اصلا جزييات فيلمهاي 1080 خوب نمايش داده نميشه.</Sentence>
+      <Sentence ID="cr-28-4" Value="">توجه کنيد رزوليشن صفحه 800*480 است و رزوليشن فيلم هاي 1920*1080 تقريبا 180 برابر است.</Sentence>
+      <Sentence ID="cr-28-5" Value="">وزن سبکش باعث ميشه بخاطر اندازهي برزگش دردست احساس خوبي به ادم دست نده.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-29" Holder="سجاد محمدي نيا" Score="166" Voters="524" Value="">
+      <Sentence ID="cr-29-1" Value="">با سلام.</Sentence>
+      <Sentence ID="cr-29-2" Value="">ميخوام نقدي درباره مشکلات اين گوشي کنم.</Sentence>
+      <Sentence ID="cr-29-3" Value="">راستيتش اين گوشي گوشيه خوبي هست اما متاسفانه مشکلاتي داره.</Sentence>
+      <Sentence ID="cr-29-4" Value="">واين مشکلات رو باريک بودنش براش ايجاد کرده البته همه اين جور ميگن و سايت هاي متعبر و به عنوان يک کارشناس فناوري و به عنوان کسي که نقد زياد کرده.</Sentence>
+      <Sentence ID="cr-29-5" Value="">بدون تعصب و لکن خودمم يه گوشي سامسونگ دارم.</Sentence>
+      <Sentence ID="cr-29-6" Value="">خب اين گوشي گوشي هست داراي پردازنده دو هسته اي و cpu 1.2 خب اينا همه خوبه.</Sentence>
+      <Sentence ID="cr-29-7" Value="">اما من خودم با کارکردنش متوجه شدم که بعد از مدتي با اجراي بازي هاي سنگين hd داغ ميشود.</Sentence>
+      <Sentence ID="cr-29-8" Value="">و يا هنگام شارز شدنش به حد ذوب شدن داغ ميشود.</Sentence>
+      <Sentence ID="cr-29-9" Value="">و يا وقتي باهاش اهنگ گوشي ميدهيم داغ ميشود.</Sentence>
+      <Sentence ID="cr-29-10" Value="">و البته مال بيشتر دارندگان رخ داده است.</Sentence>
+      <Sentence ID="cr-29-11" Value="">البته مي گويند اگر به نسخه هاي بالا تر اپديت شود درست ميشود.</Sentence>
+      <Sentence ID="cr-29-12" Value="">و اين داغي علتش چيست؟</Sentence>
+      <Sentence ID="cr-29-13" Value="">از نظر من علتش باريک بودن و همچنين به دليل اينکه تمام موبايل را صفحه نمايش تشکيل داده است و همچنين به دليل پردازنده پر قدرت که البه موبايل شايد توانايي کشيده شدنش را ندارد.2.يکي ديگر از ميشکلان ديگر اين است که شارزش زود خالي ميشود.</Sentence>
+      <Sentence ID="cr-29-14" Value="">خوب گزارش شده در مدت 4 الي 6 ساعت شارز خالي مشود!</Sentence>
+      <Sentence ID="cr-29-15" Value="">چه ميشود کرد.</Sentence>
+      <Sentence ID="cr-29-16" Value="">و البته cpu از خودش کار ميکشد!</Sentence>
+      <Sentence ID="cr-29-17" Value="">و اين علت اين عمل است!</Sentence>
+      <Sentence ID="cr-29-18" Value="">البته خب راه چاره اي براي اين نيست اما بايد تحمل کرد.</Sentence>
+      <Sentence ID="cr-29-19" Value="">با تشکر از شما</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="182" />
+  <Performance Value="1.10" />
+  <Capability Value="1.30" />
+  <Production_Quality Value="1.00" />
+  <Ergonomics Value="1.00" />
+  <Purchase_Value Value="1.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="سخت‌افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="احساس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="ساختار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="شیشه‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="مقاومت اندود" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="کنترل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="عملکرد کنترل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="حساسیت لمسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="کیفیت‌ دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10048" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="تنظیم رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="تنظیم روشنایی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10057" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="زمان" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10067" Root="سرعت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="سیستم‌عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10076" Root="پاسخگویی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="سیستم مدیریت انرژی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="فلاش LED" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="فیلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10099" Root="فیلم‌برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100102" Root="سرعت عکس‌برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="ویژگی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100115" Root="عملکرد مرورگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100118" Root="اجرا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100121" Root="صفحه‌کلید لمسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100126" Root="سرعت تایپ‌کردن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100131" Root="فناوری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100138" Root="گوشي" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100141" Root="گوشي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100144" Root="کار‌کردن" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100147" Root="گوشي" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100150" Root="محيط" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100154" Root="امکانات" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100164" Root="رقيب" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="قيمت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100170" Root="گرافيک سری G" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100173" Root="گوشي" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100176" Root="گوشي" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100179" Root="گوشی" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100182" Root="گوشي" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100185" Root="سرعت تاچ" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100188" Root="فريم ريت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100191" Root="مشکلات" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100194" Root="گوشي" Relation="gr-12" />
+    <Tag Type="Target(M)" ID="elementID100198" Root="صفحه" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100201" Root="صدا" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100204" Root="دوربين" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100207" Root="گوشي" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100237" Root="کارايي" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100212" Root="گوشي" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100215" Root="گوشي" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100218" Root="سخت‌افزار" Relation="gr-17" />
+    <Tag Type="Target(M)" ID="elementID100221" Root="گوشی" Relation="gr-17" />
+    <Tag Type="Target(M)" ID="elementID100224" Root="مدل i9100g" Relation="gr-17" />
+    <Tag Type="Target(M)" ID="elementID100227" Root="گوشي" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100232" Root="قابليت" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100240" Root="امکانات" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100243" Root="باتري" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100246" Root="عکس" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100249" Root="فيلم" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100252" Root="گوشي" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100257" Root="هسته" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100261" Root="گوشی" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100264" Root="پردازنده" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100267" Root="گوشی" Relation="gr-23" />
+    <Tag Type="Target(M)" ID="elementID100270" Root="گوشي" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100273" Root="سيستم‌عامل 4.1.1 Jelly Bean" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100276" Root="ظاهر" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100342" Root="کيفيت" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100281" Root="گوشي" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100284" Root="سرعت" Relation="gr-25" />
+    <Tag Type="Target(M)" ID="elementID100293" Root="امکانات" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100296" Root="تجربه" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100299" Root="ماندگاري شارژ" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100302" Root="گوشي" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100305" Root="خريد" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100308" Root="صفحه نمايش" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100311" Root="تماشاي فيلم" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100314" Root="تصویر" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100318" Root="حس" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100326" Root="امکانات" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100329" Root="زيبايی" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100332" Root="بدنه" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100335" Root="گوشي" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100345" Root="صفحه نمايش" Relation="gr-31" />
+    <Tag Type="Target(M)" ID="elementID100348" Root="گوشي" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100351" Root="گرافيک" Relation="gr-33" />
+    <Tag Type="Target(M)" ID="elementID100354" Root="توانايي" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100357" Root="محل بلندگو" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100360" Root="تصویر" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100364" Root="کيفيت تصوير" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100367" Root="منو" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100370" Root="گوشي" Relation="gr-36" />
+    <Tag Type="Target(M)" ID="elementID100373" Root="گوشي" Relation="gr-37" />
+    <Tag Type="Target(M)" ID="elementID100377" Root="کارايي" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100380" Root="سرعت" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100383" Root="سخت‌افزار" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100385" Root="گوشي" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100388" Root="دوربين" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100391" Root="رابط کاربري" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100396" Root="رزولوشن XPeria S" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100399" Root="سرعت فرکانس XPeria S" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100402" Root="حافظه داخلي XPeria S" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100405" Root="زواياي ديد XPeria S" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100408" Root="گوشي" Relation="gr-41" />
+    <Tag Type="Target(M)" ID="elementID100412" Root="سري G" Relation="gr-42" />
+    <Tag Type="Target(M)" ID="elementID100415" Root="گوشی" Relation="gr-42" />
+    <Tag Type="Target(M)" ID="elementID100418" Root="گوشي" Relation="gr-43" />
+    <Tag Type="Target(M)" ID="elementID100421" Root="گوشي" Relation="gr-44" />
+    <Tag Type="Target(M)" ID="elementID100426" Root="گوشي" Relation="gr-45" />
+    <Tag Type="Target(M)" ID="elementID100429" Root="گوشي" Relation="gr-48" />
+    <Tag Type="Target(M)" ID="elementID100432" Root="سري G" Relation="gr-48" />
+    <Tag Type="Target(M)" ID="elementID100435" Root="گرافيک سری G" Relation="gr-48" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,24,34]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,35,43]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-44,13,22]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-44,23,31]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-2,68,74]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-2,75,80]" Relation="tagID1004" Value="+" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-2,107,113]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-4,63,68]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-4,69,73]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-10,92,94]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-10,95,99]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-6,22,28]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-6,29,37]" Relation="tagID10011" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-11,35,42]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-11,53,65]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-22,11,18]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-22,64,74]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-28,3,11]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-28,20,25]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-31,136,143]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-31,129,135]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-11,114,120]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-11,121,126]" Relation="tagID10019" Value="+" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-11,129,141]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-15,0,6]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-15,74,80]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-19,13,22]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-19,48,58]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-19,67,76]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-19,77,94]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-20,0,11]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-20,27,40]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-21,133,138]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-21,119,127]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[rev-25,0,9]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-25,22,28]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-29,17,26]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-29,41,51]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[rev-32,9,16]" Relation="elementID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-32,20,28]" Relation="tagID10049" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[rev-35,94,99]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[rev-35,87,93]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[rev-36,72,77]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-36,65,71]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[rev-37,19,29]" Relation="elementID10057" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-37,30,43]" Relation="tagID10058" Value="+" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-37,104,114]" Relation="tagID10058" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[rev-79,8,12]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[rev-79,13,21]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-38,31,39]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-38,40,46]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10079" Coordinate="[rev-48,24,28]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[rev-48,53,58]" Relation="tagID10079" Value="+" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-48,46,50]" Relation="tagID10079" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100134" Coordinate="[rev-100,17,21]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID100135" Coordinate="[rev-100,10,16]" Relation="tagID100134" Value="+" />
+    <Tag Type="Opinion" ID="tagID100136" Coordinate="[rev-100,81,95]" Relation="tagID100134" Value="+" />
+    <Tag Type="Opinion" ID="tagID100137" Coordinate="[rev-100,98,104]" Relation="tagID100134" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10068" Coordinate="[rev-39,42,46]" Relation="elementID10067" Value="" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[rev-39,76,89]" Relation="tagID10068" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[rev-44,33,43]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-44,44,58]" Relation="tagID10073" Value="+" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-44,61,65]" Relation="tagID10073" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-46,0,8]" Relation="elementID10076" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-46,20,36]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[rev-66,12,30]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-66,42,52]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-71,62,73]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-71,55,61]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[rev-72,0,7]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[rev-72,20,35]" Relation="tagID10089" Value="+" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[rev-72,38,46]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-74,0,8]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-74,20,38]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[rev-76,20,28]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[rev-76,37,47]" Relation="tagID10096" Value="+" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[rev-76,50,58]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100100" Coordinate="[rev-77,37,48]" Relation="elementID10099" Value="" />
+    <Tag Type="Opinion" ID="tagID100101" Coordinate="[rev-77,49,53]" Relation="tagID100100" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[rev-78,18,29]" Relation="elementID10099" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[rev-78,33,43]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100103" Coordinate="[rev-78,0,15]" Relation="elementID100102" Value="" />
+    <Tag Type="Opinion" ID="tagID100104" Coordinate="[rev-78,33,43]" Relation="tagID100103" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[rev-87,7,12]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[rev-87,13,18]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[rev-99,36,44]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[rev-99,59,72]" Relation="tagID100129" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[rev-90,0,13]" Relation="elementID100115" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[rev-90,58,70]" Relation="tagID100116" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100119" Coordinate="[rev-93,96,100]" Relation="elementID100118" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[rev-93,84,95]" Relation="tagID100119" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100122" Coordinate="[rev-94,4,18]" Relation="elementID100121" Value="" />
+    <Tag Type="Opinion" ID="tagID100123" Coordinate="[rev-94,67,77]" Relation="tagID100122" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[rev-95,28,37]" Relation="elementID100121" Value="" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[rev-95,38,42]" Relation="tagID100124" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100127" Coordinate="[rev-96,0,14]" Relation="elementID100126" Value="" />
+    <Tag Type="Opinion" ID="tagID100128" Coordinate="[rev-96,52,56]" Relation="tagID100127" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100132" Coordinate="[rev-99,47,57]" Relation="elementID100131" Value="" />
+    <Tag Type="Opinion" ID="tagID100133" Coordinate="[rev-99,58,71]" Relation="tagID100132" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100139" Coordinate="[gr-1-1,7,11]" Relation="elementID100138" Value="" />
+    <Tag Type="Opinion" ID="tagID100140" Coordinate="[gr-1-1,0,6]" Relation="tagID100139" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100142" Coordinate="[gr-2-1,0,4]" Relation="elementID100141" Value="" />
+    <Tag Type="Opinion" ID="tagID100143" Coordinate="[gr-2-1,5,15]" Relation="tagID100142" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100145" Coordinate="[gr-4-3,23,31]" Relation="elementID100144" Value="" />
+    <Tag Type="Opinion" ID="tagID100146" Coordinate="[gr-4-3,44,54]" Relation="tagID100145" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100148" Coordinate="[gr-4-3,86,90]" Relation="elementID100147" Value="" />
+    <Tag Type="Opinion" ID="tagID100149" Coordinate="[gr-4-3,91,101]" Relation="tagID100148" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100157" Coordinate="[gr-4-4,92,103]" Relation="elementID100147" Value="" />
+    <Tag Type="Opinion" ID="tagID100158" Coordinate="[gr-4-4,132,143]" Relation="tagID100157" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100159" Coordinate="[gr-4-5,4,8]" Relation="elementID100147" Value="" />
+    <Tag Type="Opinion" ID="tagID100160" Coordinate="[gr-4-5,12,16]" Relation="tagID100159" Value="+" />
+    <Tag Type="Opinion" ID="tagID100161" Coordinate="[gr-4-5,22,29]" Relation="tagID100159" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100162" Coordinate="[gr-4-5,106,110]" Relation="elementID100147" Value="" />
+    <Tag Type="Opinion" ID="tagID100163" Coordinate="[gr-4-5,94,101]" Relation="tagID100162" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100151" Coordinate="[gr-4-3,132,136]" Relation="elementID100150" Value="" />
+    <Tag Type="Opinion" ID="tagID100152" Coordinate="[gr-4-3,157,178]" Relation="tagID100151" Value="+" />
+    <Tag Type="Opinion" ID="tagID100153" Coordinate="[gr-4-3,181,188]" Relation="tagID100151" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100155" Coordinate="[gr-4-4,11,18]" Relation="elementID100154" Value="" />
+    <Tag Type="Opinion" ID="tagID100156" Coordinate="[gr-4-4,19,24]" Relation="tagID100155" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[gr-4-5,198,203]" Relation="elementID100164" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[gr-4-5,204,210]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[gr-5-3,10,15]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[gr-5-3,16,22]" Relation="tagID100168" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100171" Coordinate="[gr-5-4,37,43]" Relation="elementID100170" Value="" />
+    <Tag Type="Opinion" ID="tagID100172" Coordinate="[gr-5-4,44,51]" Relation="tagID100171" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100174" Coordinate="[gr-5-5,118,122]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100175" Coordinate="[gr-5-5,138,148]" Relation="tagID100174" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100177" Coordinate="[gr-7-1,0,4]" Relation="elementID100176" Value="" />
+    <Tag Type="Opinion" ID="tagID100178" Coordinate="[gr-7-1,5,12]" Relation="tagID100177" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100180" Coordinate="[gr-9-1,21,30]" Relation="elementID100179" Value="" />
+    <Tag Type="Opinion" ID="tagID100181" Coordinate="[gr-9-1,8,20]" Relation="tagID100180" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100183" Coordinate="[gr-10-3,36,40]" Relation="elementID100182" Value="" />
+    <Tag Type="Opinion" ID="tagID100184" Coordinate="[gr-10-3,41,48]" Relation="tagID100183" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100186" Coordinate="[gr-10-3,72,80]" Relation="elementID100185" Value="" />
+    <Tag Type="Opinion" ID="tagID100187" Coordinate="[gr-10-3,104,113]" Relation="tagID100186" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100189" Coordinate="[gr-10-4,82,90]" Relation="elementID100188" Value="" />
+    <Tag Type="Opinion" ID="tagID100190" Coordinate="[gr-10-4,114,125]" Relation="tagID100189" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100192" Coordinate="[gr-11-1,116,122]" Relation="elementID100191" Value="" />
+    <Tag Type="Opinion" ID="tagID100193" Coordinate="[gr-11-1,123,128]" Relation="tagID100192" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100195" Coordinate="[gr-12-1,0,4]" Relation="elementID100194" Value="" />
+    <Tag Type="Opinion" ID="tagID100196" Coordinate="[gr-12-1,5,10]" Relation="tagID100195" Value="+" />
+    <Tag Type="Opinion" ID="tagID100197" Coordinate="[gr-12-1,43,50]" Relation="tagID100195" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100199" Coordinate="[gr-13-1,49,53]" Relation="elementID100198" Value="" />
+    <Tag Type="Opinion" ID="tagID100200" Coordinate="[gr-13-1,54,62]" Relation="tagID100199" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100202" Coordinate="[gr-13-2,0,4]" Relation="elementID100201" Value="" />
+    <Tag Type="Opinion" ID="tagID100203" Coordinate="[gr-13-2,5,8]" Relation="tagID100202" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100205" Coordinate="[gr-13-5,0,6]" Relation="elementID100204" Value="" />
+    <Tag Type="Opinion" ID="tagID100206" Coordinate="[gr-13-5,7,10]" Relation="tagID100205" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100208" Coordinate="[gr-14-1,24,28]" Relation="elementID100207" Value="" />
+    <Tag Type="Opinion" ID="tagID100209" Coordinate="[gr-14-1,29,42]" Relation="tagID100208" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100238" Coordinate="[gr-18-5,50,56]" Relation="elementID100237" Value="" />
+    <Tag Type="Opinion" ID="tagID100239" Coordinate="[gr-18-5,67,73]" Relation="tagID100238" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100213" Coordinate="[gr-15-5,13,17]" Relation="elementID100212" Value="" />
+    <Tag Type="Opinion" ID="tagID100214" Coordinate="[gr-15-5,18,22]" Relation="tagID100213" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100216" Coordinate="[gr-16-1,44,48]" Relation="elementID100215" Value="" />
+    <Tag Type="Opinion" ID="tagID100217" Coordinate="[gr-16-1,37,43]" Relation="tagID100216" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100219" Coordinate="[gr-17-5,34,43]" Relation="elementID100218" Value="" />
+    <Tag Type="Opinion" ID="tagID100220" Coordinate="[gr-17-5,44,52]" Relation="tagID100219" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100222" Coordinate="[gr-17-5,4,9]" Relation="elementID100221" Value="" />
+    <Tag Type="Opinion" ID="tagID100223" Coordinate="[gr-17-5,65,69]" Relation="tagID100222" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100225" Coordinate="[gr-17-6,28,34]" Relation="elementID100224" Value="" />
+    <Tag Type="Opinion" ID="tagID100226" Coordinate="[gr-17-6,38,42]" Relation="tagID100225" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100228" Coordinate="[gr-18-2,20,24]" Relation="elementID100227" Value="" />
+    <Tag Type="Opinion" ID="tagID100229" Coordinate="[gr-18-2,35,47]" Relation="tagID100228" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100230" Coordinate="[gr-18-3,21,26]" Relation="elementID100227" Value="" />
+    <Tag Type="Opinion" ID="tagID100231" Coordinate="[gr-18-3,14,20]" Relation="tagID100230" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100235" Coordinate="[gr-18-4,6,14]" Relation="elementID100227" Value="" />
+    <Tag Type="Opinion" ID="tagID100236" Coordinate="[gr-18-4,36,41]" Relation="tagID100235" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100233" Coordinate="[gr-18-4,44,54]" Relation="elementID100232" Value="" />
+    <Tag Type="Opinion" ID="tagID100234" Coordinate="[gr-18-4,55,68]" Relation="tagID100233" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100241" Coordinate="[gr-18-5,59,66]" Relation="elementID100240" Value="" />
+    <Tag Type="Opinion" ID="tagID100242" Coordinate="[gr-18-5,67,73]" Relation="tagID100241" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100244" Coordinate="[gr-19-1,29,35]" Relation="elementID100243" Value="" />
+    <Tag Type="Opinion" ID="tagID100245" Coordinate="[gr-19-1,36,41]" Relation="tagID100244" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100247" Coordinate="[gr-19-1,63,66]" Relation="elementID100246" Value="" />
+    <Tag Type="Opinion" ID="tagID100248" Coordinate="[gr-19-1,78,83]" Relation="tagID100247" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100250" Coordinate="[gr-19-1,69,77]" Relation="elementID100249" Value="" />
+    <Tag Type="Opinion" ID="tagID100251" Coordinate="[gr-19-1,78,83]" Relation="tagID100250" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100253" Coordinate="[gr-20-3,189,197]" Relation="elementID100252" Value="" />
+    <Tag Type="Opinion" ID="tagID100254" Coordinate="[gr-20-3,179,188]" Relation="tagID100253" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100255" Coordinate="[gr-20-3,141,145]" Relation="elementID100252" Value="" />
+    <Tag Type="Opinion" ID="tagID100256" Coordinate="[gr-20-3,135,140]" Relation="tagID100255" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100258" Coordinate="[gr-21-3,0,4]" Relation="elementID100257" Value="" />
+    <Tag Type="Opinion" ID="tagID100259" Coordinate="[gr-21-3,5,8]" Relation="tagID100258" Value="+" />
+    <Tag Type="Opinion" ID="tagID100260" Coordinate="[gr-21-4,3,12]" Relation="tagID100258" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100262" Coordinate="[gr-22-2,0,10]" Relation="elementID100261" Value="" />
+    <Tag Type="Opinion" ID="tagID100263" Coordinate="[gr-22-2,27,36]" Relation="tagID100262" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100265" Coordinate="[gr-22-2,41,44]" Relation="elementID100264" Value="" />
+    <Tag Type="Opinion" ID="tagID100266" Coordinate="[gr-22-2,49,61]" Relation="tagID100265" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100268" Coordinate="[gr-23-1,31,34]" Relation="elementID100267" Value="" />
+    <Tag Type="Opinion" ID="tagID100269" Coordinate="[gr-23-1,35,39]" Relation="tagID100268" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100271" Coordinate="[gr-24-1,0,4]" Relation="elementID100270" Value="" />
+    <Tag Type="Opinion" ID="tagID100272" Coordinate="[gr-24-1,5,20]" Relation="tagID100271" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100274" Coordinate="[gr-24-2,5,32]" Relation="elementID100273" Value="" />
+    <Tag Type="Opinion" ID="tagID100275" Coordinate="[gr-24-2,52,62]" Relation="tagID100274" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100277" Coordinate="[gr-24-4,0,5]" Relation="elementID100276" Value="" />
+    <Tag Type="Opinion" ID="tagID100278" Coordinate="[gr-24-4,27,32]" Relation="tagID100277" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100343" Coordinate="[gr-30-3,0,5]" Relation="elementID100342" Value="" />
+    <Tag Type="Opinion" ID="tagID100344" Coordinate="[gr-30-3,6,11]" Relation="tagID100343" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100282" Coordinate="[gr-25-1,0,4]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100283" Coordinate="[gr-25-1,23,35]" Relation="tagID100282" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100287" Coordinate="[gr-25-7,0,3]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100288" Coordinate="[gr-25-7,4,8]" Relation="tagID100287" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100289" Coordinate="[gr-25-8,21,25]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100290" Coordinate="[gr-25-8,36,47]" Relation="tagID100289" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100291" Coordinate="[gr-25-9,46,48]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100292" Coordinate="[gr-25-9,56,64]" Relation="tagID100291" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100285" Coordinate="[gr-25-6,0,4]" Relation="elementID100284" Value="" />
+    <Tag Type="Opinion" ID="tagID100286" Coordinate="[gr-25-6,24,28]" Relation="tagID100285" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100294" Coordinate="[gr-26-1,27,35]" Relation="elementID100293" Value="" />
+    <Tag Type="Opinion" ID="tagID100295" Coordinate="[gr-26-1,36,47]" Relation="tagID100294" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100297" Coordinate="[gr-28-2,68,77]" Relation="elementID100296" Value="" />
+    <Tag Type="Opinion" ID="tagID100298" Coordinate="[gr-28-2,61,67]" Relation="tagID100297" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100300" Coordinate="[gr-28-4,73,86]" Relation="elementID100299" Value="" />
+    <Tag Type="Opinion" ID="tagID100301" Coordinate="[gr-28-4,93,99]" Relation="tagID100300" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100303" Coordinate="[gr-28-5,10,14]" Relation="elementID100302" Value="" />
+    <Tag Type="Opinion" ID="tagID100304" Coordinate="[gr-28-5,15,30]" Relation="tagID100303" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100321" Coordinate="[gr-28-12,39,43]" Relation="elementID100302" Value="" />
+    <Tag Type="Opinion" ID="tagID100322" Coordinate="[gr-28-12,44,51]" Relation="tagID100321" Value="+" />
+    <Tag Type="Opinion" ID="tagID100323" Coordinate="[gr-28-12,54,61]" Relation="tagID100321" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100324" Coordinate="[gr-28-12,82,90]" Relation="elementID100302" Value="" />
+    <Tag Type="Opinion" ID="tagID100325" Coordinate="[gr-28-12,75,81]" Relation="tagID100324" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100306" Coordinate="[gr-28-6,60,65]" Relation="elementID100305" Value="" />
+    <Tag Type="Opinion" ID="tagID100307" Coordinate="[gr-28-6,66,77]" Relation="tagID100306" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100309" Coordinate="[gr-28-7,15,25]" Relation="elementID100308" Value="" />
+    <Tag Type="Opinion" ID="tagID100310" Coordinate="[gr-28-7,26,40]" Relation="tagID100309" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100312" Coordinate="[gr-28-7,0,11]" Relation="elementID100311" Value="" />
+    <Tag Type="Opinion" ID="tagID100313" Coordinate="[gr-28-7,45,59]" Relation="tagID100312" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100315" Coordinate="[gr-28-7,62,68]" Relation="elementID100314" Value="" />
+    <Tag Type="Opinion" ID="tagID100316" Coordinate="[gr-28-7,69,79]" Relation="tagID100315" Value="+" />
+    <Tag Type="Opinion" ID="tagID100317" Coordinate="[gr-28-7,82,86]" Relation="tagID100315" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100319" Coordinate="[gr-28-8,57,59]" Relation="elementID100318" Value="" />
+    <Tag Type="Opinion" ID="tagID100320" Coordinate="[gr-28-8,60,64]" Relation="tagID100319" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100327" Coordinate="[gr-29-1,0,7]" Relation="elementID100326" Value="" />
+    <Tag Type="Opinion" ID="tagID100328" Coordinate="[gr-29-1,18,27]" Relation="tagID100327" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100330" Coordinate="[gr-29-1,10,17]" Relation="elementID100329" Value="" />
+    <Tag Type="Opinion" ID="tagID100331" Coordinate="[gr-29-1,18,27]" Relation="tagID100330" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100333" Coordinate="[gr-29-1,32,36]" Relation="elementID100332" Value="" />
+    <Tag Type="Opinion" ID="tagID100334" Coordinate="[gr-29-1,37,47]" Relation="tagID100333" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100336" Coordinate="[gr-30-1,5,9]" Relation="elementID100335" Value="" />
+    <Tag Type="Opinion" ID="tagID100337" Coordinate="[gr-30-1,10,15]" Relation="tagID100336" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100340" Coordinate="[gr-30-1,30,33]" Relation="elementID100335" Value="" />
+    <Tag Type="Opinion" ID="tagID100341" Coordinate="[gr-30-1,34,38]" Relation="tagID100340" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100346" Coordinate="[gr-31-1,0,10]" Relation="elementID100345" Value="" />
+    <Tag Type="Opinion" ID="tagID100347" Coordinate="[gr-31-1,29,48]" Relation="tagID100346" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100349" Coordinate="[gr-32-1,7,11]" Relation="elementID100348" Value="" />
+    <Tag Type="Opinion" ID="tagID100350" Coordinate="[gr-32-1,0,6]" Relation="tagID100349" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100352" Coordinate="[gr-33-1,273,280]" Relation="elementID100351" Value="" />
+    <Tag Type="Opinion" ID="tagID100353" Coordinate="[gr-33-1,281,288]" Relation="tagID100352" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100355" Coordinate="[gr-34-1,12,23]" Relation="elementID100354" Value="" />
+    <Tag Type="Opinion" ID="tagID100356" Coordinate="[gr-34-1,24,32]" Relation="tagID100355" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100358" Coordinate="[gr-34-1,123,133]" Relation="elementID100357" Value="" />
+    <Tag Type="Opinion" ID="tagID100359" Coordinate="[gr-34-1,134,142]" Relation="tagID100358" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100361" Coordinate="[gr-34-3,50,56]" Relation="elementID100360" Value="" />
+    <Tag Type="Opinion" ID="tagID100362" Coordinate="[gr-34-3,86,96]" Relation="tagID100361" Value="+" />
+    <Tag Type="Opinion" ID="tagID100363" Coordinate="[gr-34-3,99,103]" Relation="tagID100361" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100365" Coordinate="[gr-35-5,36,49]" Relation="elementID100364" Value="" />
+    <Tag Type="Opinion" ID="tagID100366" Coordinate="[gr-35-5,53,64]" Relation="tagID100365" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100368" Coordinate="[gr-35-9,0,3]" Relation="elementID100367" Value="" />
+    <Tag Type="Opinion" ID="tagID100369" Coordinate="[gr-35-9,4,9]" Relation="tagID100368" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100371" Coordinate="[gr-36-1,0,4]" Relation="elementID100370" Value="" />
+    <Tag Type="Opinion" ID="tagID100372" Coordinate="[gr-36-1,5,10]" Relation="tagID100371" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100374" Coordinate="[gr-37-2,30,34]" Relation="elementID100373" Value="" />
+    <Tag Type="Opinion" ID="tagID100375" Coordinate="[gr-37-2,43,52]" Relation="tagID100374" Value="+" />
+    <Tag Type="Opinion" ID="tagID100376" Coordinate="[gr-37-2,53,62]" Relation="tagID100374" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100378" Coordinate="[gr-38-3,22,28]" Relation="elementID100377" Value="" />
+    <Tag Type="Opinion" ID="tagID100379" Coordinate="[gr-38-3,29,39]" Relation="tagID100378" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100381" Coordinate="[gr-39-1,131,135]" Relation="elementID100380" Value="" />
+    <Tag Type="Opinion" ID="tagID100382" Coordinate="[gr-39-1,136,141]" Relation="tagID100381" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100394" Coordinate="[gr-39-3,214,218]" Relation="elementID100380" Value="" />
+    <Tag Type="Opinion" ID="tagID100395" Coordinate="[gr-39-3,219,232]" Relation="tagID100394" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100384" Coordinate="[gr-39-1,118,128]" Relation="elementID100383" Value="" />
+    <Tag Type="Target(I)" ID="tagID100386" Coordinate="[gr-39-1,149,153]" Relation="elementID100385" Value="" />
+    <Tag Type="Opinion" ID="tagID100387" Coordinate="[gr-39-1,142,148]" Relation="tagID100386" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100389" Coordinate="[gr-39-1,171,177]" Relation="elementID100388" Value="" />
+    <Tag Type="Opinion" ID="tagID100390" Coordinate="[gr-39-1,183,198]" Relation="tagID100389" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100392" Coordinate="[gr-39-1,202,213]" Relation="elementID100391" Value="" />
+    <Tag Type="Opinion" ID="tagID100393" Coordinate="[gr-39-1,214,236]" Relation="tagID100392" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100397" Coordinate="[gr-40-1,119,126]" Relation="elementID100396" Value="" />
+    <Tag Type="Opinion" ID="tagID100398" Coordinate="[gr-40-1,132,141]" Relation="tagID100397" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100400" Coordinate="[gr-40-1,166,177]" Relation="elementID100399" Value="" />
+    <Tag Type="Opinion" ID="tagID100401" Coordinate="[gr-40-1,178,183]" Relation="tagID100400" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100403" Coordinate="[gr-40-1,152,163]" Relation="elementID100402" Value="" />
+    <Tag Type="Opinion" ID="tagID100404" Coordinate="[gr-40-1,142,146]" Relation="tagID100403" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100406" Coordinate="[gr-40-1,101,111]" Relation="elementID100405" Value="" />
+    <Tag Type="Opinion" ID="tagID100407" Coordinate="[gr-40-1,112,116]" Relation="tagID100406" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100409" Coordinate="[gr-41-1,33,37]" Relation="elementID100408" Value="" />
+    <Tag Type="Opinion" ID="tagID100410" Coordinate="[gr-41-1,38,48]" Relation="tagID100409" Value="+" />
+    <Tag Type="Opinion" ID="tagID100411" Coordinate="[gr-41-1,51,56]" Relation="tagID100409" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100413" Coordinate="[gr-42-1,54,59]" Relation="elementID100412" Value="" />
+    <Tag Type="Opinion" ID="tagID100414" Coordinate="[gr-42-1,70,85]" Relation="tagID100413" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100416" Coordinate="[gr-42-1,28,31]" Relation="elementID100415" Value="" />
+    <Tag Type="Opinion" ID="tagID100417" Coordinate="[gr-42-1,44,53]" Relation="tagID100416" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100419" Coordinate="[gr-43-1,14,18]" Relation="elementID100418" Value="" />
+    <Tag Type="Opinion" ID="tagID100420" Coordinate="[gr-43-1,27,32]" Relation="tagID100419" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100422" Coordinate="[gr-44-1,6,11]" Relation="elementID100421" Value="" />
+    <Tag Type="Opinion" ID="tagID100423" Coordinate="[gr-44-1,12,17]" Relation="tagID100422" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100424" Coordinate="[gr-44-6,15,20]" Relation="elementID100421" Value="" />
+    <Tag Type="Opinion" ID="tagID100425" Coordinate="[gr-44-6,21,30]" Relation="tagID100424" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100427" Coordinate="[gr-45-1,13,17]" Relation="elementID100426" Value="" />
+    <Tag Type="Opinion" ID="tagID100428" Coordinate="[gr-45-1,43,51]" Relation="tagID100427" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100430" Coordinate="[gr-48-2,0,4]" Relation="elementID100429" Value="" />
+    <Tag Type="Opinion" ID="tagID100431" Coordinate="[gr-48-2,5,9]" Relation="tagID100430" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100433" Coordinate="[gr-48-4,0,5]" Relation="elementID100432" Value="" />
+    <Tag Type="Opinion" ID="tagID100434" Coordinate="[gr-48-4,6,16]" Relation="tagID100433" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100436" Coordinate="[gr-48-4,24,31]" Relation="elementID100435" Value="" />
+    <Tag Type="Opinion" ID="tagID100437" Coordinate="[gr-48-4,58,70]" Relation="tagID100436" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,35,43]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,75,80]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,107,113]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-4,69,73]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-5,64,72]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-6,43,48]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-6,29,37]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-8,36,39]" Value="-" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-8,40,43]" Value="" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-9,138,143]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-10,95,99]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-11,53,65]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-11,121,123]" Value="-" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-11,124,126]" Value="-" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-11,129,141]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-14,70,74]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-15,74,80]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-18,90,95]" Value="-" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-18,43,52]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-19,48,58]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-19,77,94]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-20,27,40]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-21,119,127]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-21,66,70]" Value="-" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-22,64,74]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-24,14,19]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-25,22,28]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-27,197,204]" Value="-" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-28,20,25]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-29,41,51]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-31,129,135]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-32,20,28]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-34,7,15]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-35,87,93]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-36,65,71]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-36,112,123]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-37,30,43]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-37,104,114]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-38,40,46]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-39,83,89]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-41,113,117]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-41,118,125]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-41,17,24]" Value="" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-43,147,154]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-43,120,128]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-43,129,135]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-44,23,31]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-44,44,58]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-44,61,65]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-46,20,36]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-48,53,58]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-48,46,50]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-79,13,21]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-49,36,45]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-49,99,105]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-50,21,26]" Value="-" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-50,79,86]" Value="" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-51,120,125]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-51,151,157]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-51,175,179]" Value="-" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-52,24,31]" Value="-" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-54,6,12]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-54,24,32]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-57,4,13]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-58,8,17]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-63,84,95]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-66,42,52]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-67,32,41]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-71,55,61]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-72,20,35]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-72,38,46]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-74,20,38]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-75,123,127]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-75,128,132]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-75,133,139]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-76,37,47]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-76,50,58]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-77,49,53]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-78,33,43]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-81,53,57]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-84,96,102]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-84,103,107]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-85,4,13]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-87,13,18]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-90,58,70]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-91,56,60]" Value="-" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-91,61,66]" Value="-" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-92,52,65]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-93,29,37]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-93,38,44]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-93,84,95]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-94,67,77]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-95,38,42]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-96,52,56]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-97,29,33]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-97,75,84]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-98,107,113]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-98,114,118]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-99,58,71]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-100,10,16]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-100,72,80]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-100,81,95]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-100,98,104]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-1-1,0,6]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-2-1,5,15]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-2-1,113,117]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-3-1,33,42]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-4-3,44,54]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-4-3,91,101]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-4-3,157,178]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-4-3,181,188]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-4-4,19,24]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-4-4,132,143]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-4-5,12,16]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-4-5,22,29]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-4-5,94,101]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-4-5,204,210]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-5-1,16,21]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-5-1,68,78]" Value="+" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-5-2,53,55]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-5-2,56,61]" Value="-" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-5-3,16,22]" Value="-" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-5-3,57,64]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-5-4,44,51]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-5-4,82,86]" Value="-" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-5-4,77,81]" Value="-" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-5-5,138,148]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-6-1,53,58]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-6-1,59,63]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-6-1,91,96]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-7-1,5,12]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-7-1,17,20]" Value="-" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-9-1,8,20]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-9-2,33,38]" Value="-" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-9-2,44,49]" Value="-" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-9-3,53,56]" Value="-" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-9-3,50,52]" Value="-" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-9-4,0,13]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-9-4,16,23]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-10-1,78,86]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-10-3,41,48]" Value="+" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-10-3,104,113]" Value="+" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-10-4,39,43]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-10-4,114,125]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-10-4,229,234]" Value="-" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-10-4,254,261]" Value="-" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-10-4,308,312]" Value="+" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-10-4,313,319]" Value="-" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-10-4,138,146]" Value="-" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-10-4,155,161]" Value="-" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-11-1,138,142]" Value="+" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-11-1,123,128]" Value="+" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-12-1,5,10]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-12-1,15,22]" Value="-" />
+    <Keyword ID="keywordID100155" Coordinate="[gr-12-1,43,50]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[gr-12-1,114,117]" Value="-" />
+    <Keyword ID="keywordID100157" Coordinate="[gr-12-1,146,154]" Value="-" />
+    <Keyword ID="keywordID100158" Coordinate="[gr-13-1,54,62]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[gr-13-2,5,8]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[gr-13-3,0,5]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[gr-13-4,0,6]" Value="+" />
+    <Keyword ID="keywordID100162" Coordinate="[gr-13-5,7,10]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[gr-13-6,7,10]" Value="+" />
+    <Keyword ID="keywordID100164" Coordinate="[gr-14-1,29,42]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[gr-14-1,221,225]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[gr-14-1,163,167]" Value="-" />
+    <Keyword ID="keywordID100167" Coordinate="[gr-14-1,71,79]" Value="+" />
+    <Keyword ID="keywordID100168" Coordinate="[gr-15-3,14,18]" Value="+" />
+    <Keyword ID="keywordID100169" Coordinate="[gr-15-3,115,125]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[gr-15-4,30,37]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[gr-15-5,18,22]" Value="+" />
+    <Keyword ID="keywordID100172" Coordinate="[gr-16-1,37,43]" Value="+" />
+    <Keyword ID="keywordID100173" Coordinate="[gr-17-1,109,113]" Value="-" />
+    <Keyword ID="keywordID100174" Coordinate="[gr-17-1,114,119]" Value="-" />
+    <Keyword ID="keywordID100175" Coordinate="[gr-17-3,24,28]" Value="-" />
+    <Keyword ID="keywordID100176" Coordinate="[gr-17-5,44,52]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[gr-17-5,65,69]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[gr-17-6,38,42]" Value="-" />
+    <Keyword ID="keywordID100179" Coordinate="[gr-18-2,35,47]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[gr-18-2,93,103]" Value="+" />
+    <Keyword ID="keywordID100181" Coordinate="[gr-18-3,14,20]" Value="+" />
+    <Keyword ID="keywordID100185" Coordinate="[gr-18-5,30,37]" Value="-" />
+    <Keyword ID="keywordID100186" Coordinate="[gr-18-5,67,73]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[gr-18-4,36,41]" Value="+" />
+    <Keyword ID="keywordID100187" Coordinate="[gr-19-1,36,41]" Value="-" />
+    <Keyword ID="keywordID100188" Coordinate="[gr-19-1,78,83]" Value="+" />
+    <Keyword ID="keywordID100189" Coordinate="[gr-19-1,171,173]" Value="-" />
+    <Keyword ID="keywordID100190" Coordinate="[gr-19-1,174,179]" Value="-" />
+    <Keyword ID="keywordID100191" Coordinate="[gr-20-3,179,188]" Value="+" />
+    <Keyword ID="keywordID100192" Coordinate="[gr-20-3,135,140]" Value="+" />
+    <Keyword ID="keywordID100193" Coordinate="[gr-20-4,147,152]" Value="+" />
+    <Keyword ID="keywordID100196" Coordinate="[gr-20-5,0,5]" Value="-" />
+    <Keyword ID="keywordID100197" Coordinate="[gr-20-5,84,87]" Value="-" />
+    <Keyword ID="keywordID100198" Coordinate="[gr-20-5,90,94]" Value="-" />
+    <Keyword ID="keywordID100199" Coordinate="[gr-20-5,117,124]" Value="-" />
+    <Keyword ID="keywordID100200" Coordinate="[gr-21-2,29,32]" Value="+" />
+    <Keyword ID="keywordID100201" Coordinate="[gr-21-3,5,8]" Value="+" />
+    <Keyword ID="keywordID100202" Coordinate="[gr-21-4,3,12]" Value="+" />
+    <Keyword ID="keywordID100203" Coordinate="[gr-21-4,29,33]" Value="+" />
+    <Keyword ID="keywordID100204" Coordinate="[gr-22-2,27,36]" Value="+" />
+    <Keyword ID="keywordID100205" Coordinate="[gr-22-2,49,61]" Value="-" />
+    <Keyword ID="keywordID100206" Coordinate="[gr-22-2,157,159]" Value="-" />
+    <Keyword ID="keywordID100207" Coordinate="[gr-22-2,160,164]" Value="-" />
+    <Keyword ID="keywordID100208" Coordinate="[gr-22-2,393,396]" Value="-" />
+    <Keyword ID="keywordID100209" Coordinate="[gr-22-2,397,401]" Value="+" />
+    <Keyword ID="keywordID100210" Coordinate="[gr-22-2,169,173]" Value="-" />
+    <Keyword ID="keywordID100211" Coordinate="[gr-23-1,35,39]" Value="+" />
+    <Keyword ID="keywordID100212" Coordinate="[gr-23-2,26,29]" Value="-" />
+    <Keyword ID="keywordID100213" Coordinate="[gr-23-2,30,36]" Value="-" />
+    <Keyword ID="keywordID100214" Coordinate="[gr-24-1,5,20]" Value="+" />
+    <Keyword ID="keywordID100215" Coordinate="[gr-24-2,52,62]" Value="+" />
+    <Keyword ID="keywordID100216" Coordinate="[gr-24-4,27,32]" Value="+" />
+    <Keyword ID="keywordID100217" Coordinate="[gr-25-1,23,35]" Value="+" />
+    <Keyword ID="keywordID100218" Coordinate="[gr-25-2,20,23]" Value="+" />
+    <Keyword ID="keywordID100219" Coordinate="[gr-25-6,24,28]" Value="+" />
+    <Keyword ID="keywordID100220" Coordinate="[gr-25-7,4,8]" Value="+" />
+    <Keyword ID="keywordID100221" Coordinate="[gr-25-8,36,47]" Value="+" />
+    <Keyword ID="keywordID100222" Coordinate="[gr-25-9,56,64]" Value="+" />
+    <Keyword ID="keywordID100223" Coordinate="[gr-25-10,35,39]" Value="-" />
+    <Keyword ID="keywordID100224" Coordinate="[gr-25-10,46,50]" Value="-" />
+    <Keyword ID="keywordID100225" Coordinate="[gr-26-1,17,21]" Value="+" />
+    <Keyword ID="keywordID100226" Coordinate="[gr-26-1,36,47]" Value="+" />
+    <Keyword ID="keywordID100227" Coordinate="[gr-27-1,5,8]" Value="-" />
+    <Keyword ID="keywordID100228" Coordinate="[gr-27-1,9,13]" Value="-" />
+    <Keyword ID="keywordID100229" Coordinate="[gr-28-2,61,67]" Value="+" />
+    <Keyword ID="keywordID100230" Coordinate="[gr-28-3,233,241]" Value="+" />
+    <Keyword ID="keywordID100231" Coordinate="[gr-28-3,209,213]" Value="+" />
+    <Keyword ID="keywordID100232" Coordinate="[gr-28-4,93,99]" Value="" />
+    <Keyword ID="keywordID100233" Coordinate="[gr-28-4,159,163]" Value="+" />
+    <Keyword ID="keywordID100234" Coordinate="[gr-28-4,164,167]" Value="+" />
+    <Keyword ID="keywordID100235" Coordinate="[gr-28-4,100,107]" Value="+" />
+    <Keyword ID="keywordID100236" Coordinate="[gr-28-5,15,30]" Value="+" />
+    <Keyword ID="keywordID100237" Coordinate="[gr-28-6,66,77]" Value="+" />
+    <Keyword ID="keywordID100238" Coordinate="[gr-28-7,26,40]" Value="+" />
+    <Keyword ID="keywordID100239" Coordinate="[gr-28-7,45,59]" Value="+" />
+    <Keyword ID="keywordID100240" Coordinate="[gr-28-7,69,79]" Value="+" />
+    <Keyword ID="keywordID100241" Coordinate="[gr-28-7,82,86]" Value="+" />
+    <Keyword ID="keywordID100242" Coordinate="[gr-28-8,60,64]" Value="+" />
+    <Keyword ID="keywordID100243" Coordinate="[gr-28-8,12,17]" Value="+" />
+    <Keyword ID="keywordID100244" Coordinate="[gr-28-9,37,45]" Value="-" />
+    <Keyword ID="keywordID100245" Coordinate="[gr-28-10,41,49]" Value="-" />
+    <Keyword ID="keywordID100246" Coordinate="[gr-28-10,79,88]" Value="-" />
+    <Keyword ID="keywordID100247" Coordinate="[gr-28-12,44,51]" Value="+" />
+    <Keyword ID="keywordID100248" Coordinate="[gr-28-12,54,61]" Value="+" />
+    <Keyword ID="keywordID100249" Coordinate="[gr-28-12,75,81]" Value="+" />
+    <Keyword ID="keywordID100250" Coordinate="[gr-29-1,18,27]" Value="+" />
+    <Keyword ID="keywordID100251" Coordinate="[gr-29-1,37,47]" Value="-" />
+    <Keyword ID="keywordID100252" Coordinate="[gr-29-2,36,40]" Value="-" />
+    <Keyword ID="keywordID100253" Coordinate="[gr-29-2,41,46]" Value="+" />
+    <Keyword ID="keywordID100254" Coordinate="[gr-30-1,10,15]" Value="+" />
+    <Keyword ID="keywordID100255" Coordinate="[gr-30-1,34,38]" Value="+" />
+    <Keyword ID="keywordID100256" Coordinate="[gr-30-1,77,80]" Value="-" />
+    <Keyword ID="keywordID100257" Coordinate="[gr-30-1,81,87]" Value="+" />
+    <Keyword ID="keywordID100258" Coordinate="[gr-30-3,6,11]" Value="+" />
+    <Keyword ID="keywordID100259" Coordinate="[gr-31-1,29,48]" Value="+" />
+    <Keyword ID="keywordID100260" Coordinate="[gr-32-1,0,6]" Value="+" />
+    <Keyword ID="keywordID100261" Coordinate="[gr-32-1,14,23]" Value="+" />
+    <Keyword ID="keywordID100262" Coordinate="[gr-33-1,281,288]" Value="+" />
+    <Keyword ID="keywordID100263" Coordinate="[gr-33-2,21,26]" Value="" />
+    <Keyword ID="keywordID100264" Coordinate="[gr-34-1,24,32]" Value="+" />
+    <Keyword ID="keywordID100265" Coordinate="[gr-34-1,53,62]" Value="+" />
+    <Keyword ID="keywordID100266" Coordinate="[gr-34-1,81,84]" Value="+" />
+    <Keyword ID="keywordID100267" Coordinate="[gr-34-1,108,116]" Value="-" />
+    <Keyword ID="keywordID100268" Coordinate="[gr-34-1,134,142]" Value="-" />
+    <Keyword ID="keywordID100269" Coordinate="[gr-34-1,262,269]" Value="" />
+    <Keyword ID="keywordID100270" Coordinate="[gr-34-1,316,319]" Value="-" />
+    <Keyword ID="keywordID100271" Coordinate="[gr-34-1,320,323]" Value="+" />
+    <Keyword ID="keywordID100272" Coordinate="[gr-34-3,86,96]" Value="+" />
+    <Keyword ID="keywordID100273" Coordinate="[gr-34-3,99,103]" Value="+" />
+    <Keyword ID="keywordID100274" Coordinate="[gr-34-3,183,187]" Value="-" />
+    <Keyword ID="keywordID100275" Coordinate="[gr-35-3,3,8]" Value="+" />
+    <Keyword ID="keywordID100276" Coordinate="[gr-35-4,43,46]" Value="-" />
+    <Keyword ID="keywordID100277" Coordinate="[gr-35-4,40,42]" Value="-" />
+    <Keyword ID="keywordID100278" Coordinate="[gr-35-4,30,33]" Value="-" />
+    <Keyword ID="keywordID100279" Coordinate="[gr-35-4,27,29]" Value="-" />
+    <Keyword ID="keywordID100280" Coordinate="[gr-35-5,53,64]" Value="+" />
+    <Keyword ID="keywordID100281" Coordinate="[gr-35-6,47,50]" Value="-" />
+    <Keyword ID="keywordID100282" Coordinate="[gr-35-6,43,46]" Value="-" />
+    <Keyword ID="keywordID100283" Coordinate="[gr-35-9,4,9]" Value="+" />
+    <Keyword ID="keywordID100284" Coordinate="[gr-36-1,5,10]" Value="+" />
+    <Keyword ID="keywordID100285" Coordinate="[gr-37-2,43,52]" Value="+" />
+    <Keyword ID="keywordID100286" Coordinate="[gr-37-2,53,62]" Value="+" />
+    <Keyword ID="keywordID100287" Coordinate="[gr-38-2,153,158]" Value="+" />
+    <Keyword ID="keywordID100288" Coordinate="[gr-38-3,29,39]" Value="+" />
+    <Keyword ID="keywordID100289" Coordinate="[gr-39-1,136,141]" Value="+" />
+    <Keyword ID="keywordID100290" Coordinate="[gr-39-1,142,148]" Value="+" />
+    <Keyword ID="keywordID100291" Coordinate="[gr-39-1,183,198]" Value="+" />
+    <Keyword ID="keywordID100292" Coordinate="[gr-39-1,214,236]" Value="+" />
+    <Keyword ID="keywordID100293" Coordinate="[gr-39-3,154,159]" Value="+" />
+    <Keyword ID="keywordID100294" Coordinate="[gr-39-3,219,232]" Value="+" />
+    <Keyword ID="keywordID100295" Coordinate="[gr-39-4,19,25]" Value="+" />
+    <Keyword ID="keywordID100296" Coordinate="[gr-40-1,22,27]" Value="+" />
+    <Keyword ID="keywordID100297" Coordinate="[gr-40-1,132,141]" Value="+" />
+    <Keyword ID="keywordID100298" Coordinate="[gr-40-1,178,183]" Value="+" />
+    <Keyword ID="keywordID100299" Coordinate="[gr-40-1,142,146]" Value="+" />
+    <Keyword ID="keywordID100300" Coordinate="[gr-40-1,112,116]" Value="+" />
+    <Keyword ID="keywordID100301" Coordinate="[gr-41-1,38,48]" Value="+" />
+    <Keyword ID="keywordID100302" Coordinate="[gr-41-1,51,56]" Value="+" />
+    <Keyword ID="keywordID100303" Coordinate="[gr-41-1,69,73]" Value="-" />
+    <Keyword ID="keywordID100304" Coordinate="[gr-41-1,80,84]" Value="+" />
+    <Keyword ID="keywordID100305" Coordinate="[gr-41-1,122,125]" Value="-" />
+    <Keyword ID="keywordID100306" Coordinate="[gr-41-1,126,131]" Value="+" />
+    <Keyword ID="keywordID100307" Coordinate="[gr-42-1,44,53]" Value="+" />
+    <Keyword ID="keywordID100308" Coordinate="[gr-42-1,70,85]" Value="+" />
+    <Keyword ID="keywordID100309" Coordinate="[gr-42-2,24,27]" Value="-" />
+    <Keyword ID="keywordID100310" Coordinate="[gr-42-2,28,33]" Value="+" />
+    <Keyword ID="keywordID100311" Coordinate="[gr-42-3,32,35]" Value="-" />
+    <Keyword ID="keywordID100312" Coordinate="[gr-42-3,36,41]" Value="-" />
+    <Keyword ID="keywordID100313" Coordinate="[gr-42-4,46,51]" Value="+" />
+    <Keyword ID="keywordID100314" Coordinate="[gr-42-4,77,82]" Value="-" />
+    <Keyword ID="keywordID100315" Coordinate="[gr-42-4,155,159]" Value="+" />
+    <Keyword ID="keywordID100316" Coordinate="[gr-42-4,160,165]" Value="-" />
+    <Keyword ID="keywordID100317" Coordinate="[gr-42-4,212,214]" Value="-" />
+    <Keyword ID="keywordID100318" Coordinate="[gr-42-4,215,220]" Value="-" />
+    <Keyword ID="keywordID100319" Coordinate="[gr-43-1,27,32]" Value="+" />
+    <Keyword ID="keywordID100320" Coordinate="[gr-43-2,34,38]" Value="+" />
+    <Keyword ID="keywordID100321" Coordinate="[gr-44-1,12,17]" Value="+" />
+    <Keyword ID="keywordID100322" Coordinate="[gr-44-1,25,29]" Value="-" />
+    <Keyword ID="keywordID100323" Coordinate="[gr-44-1,36,40]" Value="+" />
+    <Keyword ID="keywordID100324" Coordinate="[gr-44-2,46,53]" Value="-" />
+    <Keyword ID="keywordID100325" Coordinate="[gr-44-6,21,30]" Value="+" />
+    <Keyword ID="keywordID100326" Coordinate="[gr-44-3,79,86]" Value="-" />
+    <Keyword ID="keywordID100327" Coordinate="[gr-45-1,43,51]" Value="+" />
+    <Keyword ID="keywordID100328" Coordinate="[gr-45-1,66,69]" Value="-" />
+    <Keyword ID="keywordID100329" Coordinate="[gr-45-1,70,75]" Value="+" />
+    <Keyword ID="keywordID100330" Coordinate="[gr-45-1,176,181]" Value="-" />
+    <Keyword ID="keywordID100331" Coordinate="[gr-45-1,193,197]" Value="-" />
+    <Keyword ID="keywordID100332" Coordinate="[gr-45-1,198,204]" Value="+" />
+    <Keyword ID="keywordID100333" Coordinate="[gr-45-1,123,126]" Value="-" />
+    <Keyword ID="keywordID100334" Coordinate="[gr-46-1,18,21]" Value="-" />
+    <Keyword ID="keywordID100335" Coordinate="[gr-46-1,22,27]" Value="-" />
+    <Keyword ID="keywordID100336" Coordinate="[gr-46-1,3,7]" Value="+" />
+    <Keyword ID="keywordID100337" Coordinate="[gr-47-1,63,70]" Value="+" />
+    <Keyword ID="keywordID100338" Coordinate="[gr-48-2,5,9]" Value="+" />
+    <Keyword ID="keywordID100339" Coordinate="[gr-48-3,43,51]" Value="+" />
+    <Keyword ID="keywordID100340" Coordinate="[gr-48-3,52,57]" Value="+" />
+    <Keyword ID="keywordID100341" Coordinate="[gr-48-4,6,16]" Value="+" />
+    <Keyword ID="keywordID100342" Coordinate="[gr-48-4,58,70]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="343" />
+    <Tag_Index Value="438" />
+  </Index>
+</Product>

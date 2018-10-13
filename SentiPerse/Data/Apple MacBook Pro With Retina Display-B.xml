@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Apple MacBook Pro With Retina Display-B" Type="Notebook">
+  <Accessories>
+    <Accessory Name="کاور محافظ کروکو ريز فندقي Dorsa MacBook Air 13&quot; Cover Tiny Hazel Croco" Price="125000" />
+    <Accessory Name="کاور محافظ مک بوک Moshi MacBook Air 11&quot; iGlaze Pearl White" Price="190000" />
+    <Accessory Name="مجموعه نرم‌افزاري آموزش سيستم عامل مکينتاش به زبان فارسي Mac OS X Tutorial + Tools" Price="25000" />
+    <Accessory Name="ريموت کنترل اينفرارد اورجينال اپل براي مک، آي پد يا آيفون Apple Remote Infrared Remote Control for Mac, iPhone, iPod" Price="110000" />
+    <Accessory Name="ماوس با سيم لپ تاپي سوني Sony VGP-UMS20" Price="28000" />
+    <Accessory Name="مجموعه نرم‌افزاري سافت رويد Softroid Android Package" Price="23000" />
+    <Accessory Name="خدمات نرم افزاري: نصب ويندوز 7 و درايورهاي لپ تاپ" Price="29000" />
+    <Accessory Name="هاب Moshi iLynx 800" Price="272000" />
+    <Accessory Name="محافظ صفحه کليد مک بوک (moshi clearguard 11 (US layout" Price="83000" />
+    <Accessory Name="پايه خنک کننده مک بوک اپل Moshi Zefyr 2 Coolpad" Price="280000" />
+    <Accessory Name="Acron USB Hub UH93" Price="28000" />
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+    <Accessory Name="شارژر همراه Energizer AP750" Price="70000" />
+    <Accessory Name="شارژر همراه HuntKey PBB4400" Price="95000" />
+  </Accessories>
+  <Features>
+    <Feature Name="نوع ">معمولی</Feature>
+    <Feature Name="ابعاد ">358.9 × 247.1 × 18 mm</Feature>
+    <Feature Name="وزن ">2.02 کیلوگرم</Feature>
+    <Feature Name="رنگ ">نقره‌ای</Feature>
+    <Feature Name="سازنده پردازنده ">Intel</Feature>
+    <Feature Name="مدل پردازنده ">Quad-Core</Feature>
+    <Feature Name="نوع پردازنده ">Core i7</Feature>
+    <Feature Name="سرعت پردازنده ">2.3GHz Turbo Boost Up To 3.3 GHz</Feature>
+    <Feature Name="حافظه Cache ">6 MB</Feature>
+    <Feature Name="سرعت BUS ">1333 MHz</Feature>
+    <Feature Name="حافظه رم ">8 GB</Feature>
+    <Feature Name="نوع حافظه رم ">DDR3</Feature>
+    <Feature Name="ظرفیت هارد دیسک ">256 GB</Feature>
+    <Feature Name="مشخصات هارد دیسک ">Flash Storage</Feature>
+    <Feature Name="سازنده کارت گرافیک ">Nvidia</Feature>
+    <Feature Name="مدل کارت گرافیک ">GeForce GT 650M GDDR5 + Intel HD Graphics 4000</Feature>
+    <Feature Name="حافظه اختصاصی کارت گرافیک ">1024 MB</Feature>
+    <Feature Name="اندازه صفحه نمایش ">15.4"</Feature>
+    <Feature Name="صفحه نمایش براق ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LED</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">Retina Display: (Diagonal) LED-Backlit Display with IPS Technology; 2880-By-1800 Resolution at 220 Pixels Per Inch with Support For Millions Of Colors</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">2048x1080</Feature>
+    <Feature Name="درایو نوری ">فاقد درایو نوری</Feature>
+    <Feature Name="مودم ">فاقد مودم</Feature>
+    <Feature Name="بلوتوث ">بلوتوث داخلی</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">720p FaceTime HD Camera</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="مشخصات اسپیکر ">بلندگوهای استریو (Stereo Speakers)</Feature>
+    <Feature Name="مشخصات تاچ پد ">Multi-Touch Trackpad For Precise Cursor Control; Supports Inertial Scrolling, Pinch, Rotate, Swipe, Three-Finger Swipe, Four-Finger Swipe, Tap, Double-Tap, and Drag Capabilities</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="شبکه LAN ">خیر</Feature>
+    <Feature Name="توضیحات شبکه LAN ">Apple Thunderbolt to Gigabit Ethernet </Feature>
+    <Feature Name="شبکه بی سیم Wireless ">بلی</Feature>
+    <Feature Name="تعداد پورت USB 3.0 ">2</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wireless ">802.11n Wi-Fi Wireless Networking;3 IEEE 802.11a/b/g Compatible</Feature>
+    <Feature Name="پورت فایروایر 1394 یا iLink ">خیر</Feature>
+    <Feature Name="پورت HDMI ">بلی</Feature>
+    <Feature Name="پورت خروجی VGA ">خیر</Feature>
+    <Feature Name="پورت S-Video ">خیر</Feature>
+    <Feature Name="پورت Serial ">خیر</Feature>
+    <Feature Name="پورت PCMCIA ">خیر</Feature>
+    <Feature Name="پورت Express Card ">خیر</Feature>
+    <Feature Name="Expansion Port ">خیر</Feature>
+    <Feature Name="نوع باتری ">6 سلولی</Feature>
+    <Feature Name="توضیحات باتری ">Built-in 95-Watt-Hour Lithium-Polymer Battery</Feature>
+    <Feature Name="کارکرد باتری ">7 ساعت</Feature>
+    <Feature Name="سیستم عامل ">Apple Mac OS</Feature>
+    <Feature Name="نسخه ویندوز ">X Lion</Feature>
+    <Feature Name="امکانات دیگر ">قابلیت اتصال پورت‌ VGA با استفاده از مبدل‌ مخصوص</Feature>
+    <Feature Name="اقلام همراه لپ تاپ ">شارژرکابل برقدفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">طراحی و ساخت طراحی MacBook Proی جدید (که Retina MacBook Pro نیز نامیده می‌شود) را می‌توان تلفیقی از MacBook Air و سری MacBook Pro سال گذشته دانست.</Sentence>
+    <Sentence ID="rev-2" Value="+1">طراحی مدل جدید به طرز چشمگیری نسبت به مدل سال گذشته باریک‌تر و سبک‌تر شده است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">ضخامت دستگاه تنها 18 میلی‌متر است که نسبت به مدل قبلی 25 درصد باریک‌تر شده است.</Sentence>
+    <Sentence ID="rev-4" Value="0">وزن دستگاه نیز تنها 2 کیلوگرم است.</Sentence>
+    <Sentence ID="rev-5" Value="-1">البته این کاهش ضخامت و وزن،  عواقب اجتناب ناپذیری را به همراه داشته است که مهم‌ترین و بارزترین آن،  عدم وجود درایو نوری بر روی دستگاه است.</Sentence>
+    <Sentence ID="rev-6" Value="0">به علاوه مدل جدید تنها قابلیت خواندن کارت حافظه SD را دارد.</Sentence>
+    <Sentence ID="rev-7" Value="+1">عدم حضور این دو،  نه تنها باعث باریک‌تر شدن لپ‌تاپ شده است،  بلکه به اپل کمک کرده که باتری بزرگ‌تر و قوی‌تری را در دستگاه جای دهد.</Sentence>
+    <Sentence ID="rev-8" Value="+1">علاوه بر این،  پورت‌های شبکه Ethernet و FireWire نیز حذف شده‌اند ولی در عوض پورت‌های پرسرعت USB 3.0 و Thunderbolt وجود دارند.</Sentence>
+    <Sentence ID="rev-9" Value="+1">این بسیار باعث خشنودیست که اپل بالاخره تصمیم گرفت که از پورت USB 3.0 به جای پورت USB 2.0 در لپ‌تاپ‌های خود استفاده کند.</Sentence>
+    <Sentence ID="rev-10" Value="0">همانند سایر لپ‌تاپ‌های مدرن،  MacBook Pro 2012 نیز تنها از یک پورت ترکیبی برای خروجی و ورودی صدا استفاده می‌کند.</Sentence>
+    <Sentence ID="rev-11" Value="-1">چند نکته بسیار مهم وجود دارد که در رابطه با Retina MacBook Pro باید بدانید: اول اینکه پردازنده و حافظه RAM کاملا به برد دستگاه لحیم شده‌اند و امکان ارتقای آن‌ها وجود ندارد.</Sentence>
+    <Sentence ID="rev-12" Value="-1">دوم اینکه باتری دستگاه کاملا به بدنه چسبیده است و برای تعویض آن لازم است که کل قسمت بالایی دستگاه تعویض شود و این کار هزینه بسیار بالایی خواهد داشت.</Sentence>
+    <Sentence ID="rev-13" Value="0">البته اپل ادعا کرده است که حتی با وجود استفاده های سنگین،  باتری MacBook Pro 2012 حداقل سه الی چهار سال عمر خواهد کرد.</Sentence>
+    <Sentence ID="rev-14" Value="0">صفحه نمایش در سال 2010،  کمپانی اپل برای اولین بار با تولید گوشی آیفون4،  از صفحه نمایش با دقت بسیار بالای خود یعنی Retina پرده برداری کرد.</Sentence>
+    <Sentence ID="rev-15" Value="0">دقت صفحه نمایش این گوشی 960x640  بود که تراکم پیکسلی بسیار بالای 315ppi را ارائه می‌کرد.</Sentence>
+    <Sentence ID="rev-16" Value="0">سپس این اتفاق در سال 2012 با تولید نسل سوم تبلت آی پد تکرار شد.</Sentence>
+    <Sentence ID="rev-17" Value="0">این بار اپل دقت آی پد2 را چهار برابر کرده بود و آی پد3 تراکم پیکسلی بسیار بالای 264ppi را ارائه می‌کرد که برای یک تبلت،  واقعا شگفت انگیز بود.</Sentence>
+    <Sentence ID="rev-18" Value="+1">و اینک اپل دقت صفحه نمایش MacBook Pro را از 1440x900 به 2880x1800 افزایش داده که این میزان تراکم پیکسلی کم نظیر 221ppi را ارائه می‌دهد.</Sentence>
+    <Sentence ID="rev-19" Value="0">حال شاید برای شما این سوال پیش آید که با وجود اینکه تراکم پیکسلی،  صفحه نمایش Retina MacBook Pro نسبت به گوشی آیفون4 و آی پد3 بسیار کمتر است،  آیا باز هم می‌توان این صفحه را Retina دانست؟</Sentence>
+    <Sentence ID="rev-20" Value="+1">پاسخ این سوال مثبت است.</Sentence>
+    <Sentence ID="rev-21" Value="0">Retina تنها به تراکم پیکسلی مربوط نیست،  در حقیقت به این اشاره دارد که دستگاه شما چگونه تصویر را برای چشمان شما نشان می‌دهد.</Sentence>
+    <Sentence ID="rev-22" Value="0">برای مثال شما گوشی تلفن همراه خود را خیلی بیشتر از یک تبلت یا لپ‌تاپ به صورت خود نزدیک می‌کنید.</Sentence>
+    <Sentence ID="rev-23" Value="0">به همین دلیل،  حسی که هنگام کار کردن با صفحه Retinaی MacBook Pro به شما انتقال می‌شود،  با صفحه Retinaی آیفون4 برابری می‌کند.</Sentence>
+    <Sentence ID="rev-24" Value="+1">با وجود اینکه دقت بالا،  نقش مهمی در کیفیت صفحه نمایش بازی می‌کند،  تکنولوژی‌های دیگر استفاده شده در صفحه نمایش Retina MacBook Pro باعث شده است که کیفیت صفحه نمایش این لپ‌تاپ،  با اختلاف زیاد از تمام لپ‌تاپ‌های موجود در دنیا تا به این تاریخ بیشتر شود.</Sentence>
+    <Sentence ID="rev-25" Value="0">در حقیقت می‌توانیم به سادگی همین‌جا بگوییم که اگر کیفیت صفحه نمایش لپ‌تاپ برای شما اهمیت ویژه ای دارد،  این لپ‌تاپ تنها انتخاب شما باید باشد.</Sentence>
+    <Sentence ID="rev-26" Value="0">همانند آیفون و آی پد،  Retina MacBook Pro نیز از صفحه نمایش IPS استفاده می‌کند.</Sentence>
+    <Sentence ID="rev-27" Value="+2">برتری اصلی این پنل نسبت به پنل های TN در کیفیت رنگ‌های عالی و زوایای دید بسیار بالای آن است.</Sentence>
+    <Sentence ID="rev-28" Value="0">نکته بسیار مهمی که باید در نظر داشت این است که اگر برنامه ای برای چنین دقت بالایی طراحی نشده باشد،  ظاهر خیلی خوبی بر روی صفحه نمایش نخواهد داشت.</Sentence>
+    <Sentence ID="rev-29" Value="-1">برای شروع،  اپل تمام برنامه های اصلی خود (مانند Aperture،  iMovie،  Final Cut Pro X) را برای این صفحه نمایش به‌روزرسانی کرده است ولی برنامه های جانبی دیگر (مانند مرورگر Google Chrome) که برای چنین دقتی طراحی نشده‌اند،  به این خوبی نخواهند بود.</Sentence>
+    <Sentence ID="rev-30" Value="+2">زوایای دید این صفحه نمایش واقعا عالیست به طوری که حتی اگر از بالا یا پایین به صفحه نمایش نگاه کنید،  هیچ‌گونه تغییر خاصی در کیفیت صفحه نمایش مشاهده نخواهید کرد.</Sentence>
+    <Sentence ID="rev-31" Value="0">اپل همان‌طور که پیش‌تر در کنفرانس WWDC امسال گفته بود،  لایه شیشه ای که بر روی تمام صفحات LCD قرار دارد را حذف کرده است.</Sentence>
+    <Sentence ID="rev-32" Value="+1">حذف این لایه نه تنها باعث افزایش چشمگیر کیفیت تصویر می‌شود،  بلکه از براق بودن آن نیز می‌کاهد و این امر به شما کمک می‌کند که راحت‌تر بتوانید با لپ‌تاپ خود در محیط‌های خارجی و یا در زیر تابش نور آفتاب کار کنید.</Sentence>
+    <Sentence ID="rev-33" Value="0">در بالای این صفحه نمایش یک وب کم با کیفیت 720p به همراه سنسور روشنایی دستگاه قرار دارد.</Sentence>
+    <Sentence ID="rev-34" Value="+1">بلندگوها اپل بلندگوهای MacBook Pro 2012 را به طور کامل از نو طراحی کرده است و می‌توانیم بدون اغراق بگوییم که این بلندگوها یکی از بهترین بلندگوهاییست که تا به امروز بر روی لپ‌تاپ‌ها دیده بودیم.</Sentence>
+    <Sentence ID="rev-35" Value="+2">کیفیت بلندگوها بسیار شفاف است و حتی صدای بیس تولید شده نیز کاملا رضایت بخش است و به راحتی می‌توانند جوابگوی نیاز اکثر کاربران باشد.</Sentence>
+    <Sentence ID="rev-36" Value="+1">نکته مهم،  حفظ کیفیت در صداهای بلند است به طوری که هر چقدر که بلندی صدا را زیاد کردیم،  هیچ‌گونه اعوجاج یا کاهش کیفیتی مشاهده نکردیم.</Sentence>
+    <Sentence ID="rev-37" Value="0">کیبورد و تاچ پدRetina MacBook Pro تاچ پد همیشگی شیشه ای اپل را به همراه دارد.</Sentence>
+    <Sentence ID="rev-38" Value="0">شاید بتوان با کمی اغراق گفت که جزو تنها تاج پدهاییست که بتوان از آن استفاده کرد و آن را به ماوس ترجیح داد.</Sentence>
+    <Sentence ID="rev-39" Value="+1">البته تنها کیفیت بالای تاچ پد،  دلیل این امر نیست و یکپارچه بودن سیستم عامل OS X نیز با فرمان‌های لمسی ،  در این امر بسیار موثر است.</Sentence>
+    <Sentence ID="rev-40" Value="0">کیبورد Retina MacBook Pro شباهت بسیاری به کیبورد استفاده شده در MacBook Air دارد.</Sentence>
+    <Sentence ID="rev-41" Value="0">به علاوه از آنجایی که Retina MacBook Pro به درایو نوری مجهز نیست،  کلید خروج (Eject) از روی کیبورد حذف شده است.</Sentence>
+    <Sentence ID="rev-42" Value="0">این کیبورد داری نور پس زمینه نیز هست که تنظیمات مختلفی هم دارد و این تنظیمات توسط نرم افزار مربوطه قابل تغییر است.</Sentence>
+    <Sentence ID="rev-43" Value="0">سخت افزار داخلی اپل در Retina MacBook Pro از نسل سوم پردازنده های چهار هسته ای Intel Core i7 با نام Ivy Bridge استفاده کرده است.</Sentence>
+    <Sentence ID="rev-44" Value="+2">این پردازنده‌ها نه تنها فوق‌العاده قدرتمندتر از مدل‌های پیشین هستند،  بلکه مصرف انرژی کمتری نیز دارند.</Sentence>
+    <Sentence ID="rev-45" Value="0">وظیفه پردازش گرافیکی نیز بر عهده کارت گرافیک مستقل NVIDIA GeForce GT 650M است.</Sentence>
+    <Sentence ID="rev-46" Value="+1">این کارت گرافیک،  قدرتی همانند کارت‌های گرافیک رده بالای GeForce GTX 460M و GeForce GTX 560M دارد و به راحتی جوابگوی سنگین‌ترین وظایف گرافیکی حتی اجرای بازی‌های کامپیوتری نیز خواهد بود.</Sentence>
+    <Sentence ID="rev-47" Value="0">هنگامی که سیستم در حال انجام پردازش‌های سنگین است،  فن‌های خنک کننده فعال شده و هوای خنک را از چپ و راست قسمت پایینی دستگاه به داخل هدایت کرده و از دریچه های خروجی،  خارج می‌کنند.</Sentence>
+    <Sentence ID="rev-48" Value="+1">اپل ادعا کرده است که پره های این فن‌ها به صورت نامنظم طراحی شده‌اند تا صدای کمتری نسبت به فن‌های عادی ایجاد کنند و در عمل نیز به نظر ما تا حد زیادی در این کار موفق بوده‌اند.</Sentence>
+    <Sentence ID="rev-49" Value="+1">البته نمی‌توان گفت که سیستم خنک کننده کاملا بی صدا است ولی مسلما صدای آزار دهنده ای تولید نمی‌کند.</Sentence>
+    <Sentence ID="rev-50" Value="0">اپل در Retina MacBook Pro برای اولین بار به طور کامل از حافظه های خشک (SSD) به جای هارد درایوهای همیشگی استفاده کرده است.</Sentence>
+    <Sentence ID="rev-51" Value="+1">این حافظه‌ها از سرعت بینهایت بالایی برخوردارند و به هیچ عنوان قابل مقایسه با هاردهای استاندارد قبلی نیستند.</Sentence>
+    <Sentence ID="rev-52" Value="+1">به علاوه از آنجایی که این حافظه‌ها از نوع Flash هستند،  بر خلاف هاردهای معمولی بر اثر لرزش و ضربه های کوچک ایجاد شده بر اثر مصارف روزمره،  دچار آسیب نمی‌شوند.</Sentence>
+    <Sentence ID="rev-53" Value="+1">باتری با وجود تمام سخت افزارهای فوق‌العاده به کار رفته شده در Retina MacBook Pro،  انتظار می‌رفت که باتری آن نتواند شارژ دهی خیلی بالایی داشته باشد ولی در عمل خلاف این امر ثابت شد.</Sentence>
+    <Sentence ID="rev-54" Value="+2">در تست تماشای ویدئو با Wi-Fi روشن و روشنایی ثابت،  Retina MacBook Pro  توانست بیش از هفت ساعت و نیم شارژ دهی کند که میزان فوق‌العاده بالاییست.</Sentence>
+    <Sentence ID="rev-55" Value="+1">نرم افزار به طور پیش فرض Retina MacBook Pro از سیستم عامل OS X نسخه Lion استفاده می‌کند ولی اپل به خریداران این لپ‌تاپ،  امکان ارتقا به Mountain Lion را به صورت رایگان فراهم کرده است.</Sentence>
+    <Sentence ID="rev-56" Value="0">تمام نرم افزارهای اولیه مانند Safari،  ایمیل،  و غیره برای دقت این صفحه نمایش طراحی شده‌اند.</Sentence>
+    <Sentence ID="rev-57" Value="0">کمپانی‌هایی نظیر Adobe و AutoDesk نیز اعلام کرده‌اند که نسخه Retinaی برنامه های معروف Photoshop و AutoCAD را به زودی منتشر خواهند کرد.</Sentence>
+    <Sentence ID="rev-58" Value="-1">متاسفانه سایر برنامه‌ها بر روی این صفحه نمایش ظاهر زیاد خوبی ندارند.</Sentence>
+    <Sentence ID="rev-59" Value="0">بر خلاف Windows،  برنامه های سیستم عامل OS X باید برای این رزلوشن بالا طراحی شوند در غیر این صورت اصلا ظاهر خوبی نخواهند داشت.</Sentence>
+    <Sentence ID="rev-60" Value="-1">برای مثال در حال حاضر مرورگر Google Chrome،  صفحه Retina را پشتیبانی نمی‌کند و همین باعث می‌شود که نه تنها ظاهر رابط کاربری برنامه،  بلکه متون نیز مات نشان داده شوند به طوری که ترجیح خواهید داد که از این برنامه تا موقعی که برای صفحه Retina به روز رسانی نشود،  استفاده نکنید.</Sentence>
+    <Sentence ID="rev-61" Value="0">جمع بندی همواره MacBook Pro جزو سری خاصی از لپ‌تاپ‌های حرفه ای و گران قیمت و یا به اصطلاح "لوکس" بازار بوده است و بازار هدف این لپ‌تاپ‌ها افراد محدودی هستند.</Sentence>
+    <Sentence ID="rev-62" Value="+1">صفحه نمایش این لپ‌تاپ واقعا یک نوآوری و یک جهش بزرگ در صفحات نمایش لپ‌تاپ‌ها محسوب می‌شود و به هیچ وجه قابل مقایسه با صفحات نمایش لپ‌تاپ‌های دیگر موجود در بازار مثل لپ‌تاپ‌های ASUS،  Acer،  HP و یا Dell نیست.</Sentence>
+    <Sentence ID="rev-63" Value="+2">با وجود چنین تکنولوژی و سخت افزار پیشرفته ای که در این لپ‌تاپ به کار گرفته شده است،  Retina Macbook Pro بسیار باریک و سبک بوده و طول عمر باتری آن بسیار بالاست.</Sentence>
+    <Sentence ID="rev-64" Value="-1">از تنها نقاط ضعف جزئی این دستگاه می‌توان به عدم وجود درایو نوری و پورت شبکه اشاره کرد.</Sentence>
+    <Sentence ID="rev-65" Value="0">اگر بخواهیم رقیبی برای این دستگاه معرفی کنیم،  تنها می‌توان به لپ‌تاپ‌های فوق باریک و زیبای سامسونگ سری 9 اشاره کرد که در کیفیت ساخت نیز با Retina MacBook Pro برابری می‌کنند.</Sentence>
+    <Sentence ID="rev-66" Value="+2">همان‌طور که در ابتدا گفتیم،  Retina MacBook Pro تلفیقی از گذشته و آینده است که تبدیل به یک دستگاه دوست داشتنی،  زیبا،  قدرتمند و کم نظیر شده است و برای کسانی طراحی شده است که به دنبال بهترین بهترین‌ها هستند و حاضرند بهای آن را نیز پرداخت کنند.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>صفحه نمایش Retina با دقت بالا و کیفیت باورنکردنی</Advantage>
+    <Advantage>طراحی باریک و سبک</Advantage>
+    <Advantage>سخت افزار فوق‌العاده قدرتمند</Advantage>
+    <Advantage>کیبورد و تاچ پد عالی</Advantage>
+    <Advantage>بلندگوهای با کیفیت</Advantage>
+    <Advantage>باتری با شارژ دهی بالا</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="محمد مهدي تبريزي " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">صفحه نمايشش بي نظيره  همين طور گرافيکش اگه پولش را دارين  حتما بگيرينش
+تا 5سال تو دنيا به نظر من بهترينه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="رضا جليلي " Value="-1">
+      <Sentence ID="gr-2-1" Value="-1">اپل هميشه عالي بوده،  ولي نسبت به قيمتش نمي ارزه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="محمد ستار " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">واقعا محشره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="رضاديوالايي " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">خيلي خوبه اما حيف که درايو نوري نداره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="مهدي حجاري " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">اپل هميشه بهترين کيفيت رو داره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="پارسا نفري " Value="-1">
+      <Sentence ID="gr-6-1" Value="-1">نسبت به قيمتش نمي ارزه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="علي خانه زر " Value="0">
+      <Sentence ID="gr-7-1" Value="0">شما به راحتي ميتونيد در کنار مک ويندوز بريزيد و در کيفيت صفحه رتينا کيفيت واقعي ويندوز رو ببينيد
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="مصطفي مرتضوي " Value="0">
+      <Sentence ID="gr-8-1" Value="0">آقاي فرجي
+سيستم عامل مک اجازه ي نصب ويندوز رو به کاربرا ميده.</Sentence>
+      <Sentence ID="gr-8-2" Value="0">اگه منظورتون نداشتن درايو نوري هستش،  اونم با يه اکسترنال حل ميشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="هادي فرجي " Value="-1">
+      <Sentence ID="gr-9-1" Value="-1">اصلا راضي نيستم،  حتي نمي تونم ويندوز توش بريزم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="mohammadalichalabi " Value="+2">
+      <Sentence ID="gr-10-1" Value="+2">من اينو دارم و ميخواهم بگم عاليه به تمام معنا و فوق العادست اگه پولشو دارين حتما يکي بگيرين</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="آرمين ثريائي صومعه سرائي" Score="82" Voters="606" Value="+1">
+      <Sentence ID="cr-1-1" Value="0">نسل جديد لپ تاپ هاي MacBook Pro  با قابليت Retina Display که تنها در سايز 15.4 اينچ عرضه مي شود داراي مشخصات رويايي يک سيستم قابل حمل مي باشد.</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">از سويي وزن کم و ضخامت باريک آن و از سوي ديگر زيبايي در طراحي و کيفيت بالاي ساخت اين محصول آن را به يک گجت خواستني بدل نموده است.</Sentence>
+      <Sentence ID="cr-1-3" Value="0">با نگاهي موشکافانه به اين مدل مي توان شاخصه هاي آن را بدين گونه بر شمرد.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">1- وزن 2.02 کيلويي اين مدل در اين سايز بسيار مناسب و سبک محصوب مي شود،  اين در حالي است که اغلب مدل هاي موجود در بازار وزن سيستم خود را بدون احتساب باتري اعلام ميکنند.</Sentence>
+      <Sentence ID="cr-1-5" Value="+2">2-استفاده از نمايشگر 15.4 اينچ Retina براي اولين بار 3-فن آوري جديد در سيستم خنک کننده اين دستگاه که ايده اي بسيار خلاقانه داره،  نه تنها در کاهش صدا به روشي ساده بلکه استفاده از روند جريان هوا از دو پهلو که در عمل باعث کاهش ورود گرد و غبار نسبت به روش سنتي به داخل لپ تاپ مي شود4-استفاده از 2 عدد رابط Thunder Bolt که به نظر من فوق العاده است.</Sentence>
+      <Sentence ID="cr-1-6" Value="0">اگه خواستيد مي تونيد تو سايت اپل با USB3 مقايسه اش کنيد5-کارت گرافيک GeForce GT 650M , در مورد اين کارت گرافيک حرف هاي زيادي ميشه زد ولي به نظرم همين عبارت GDDR5 براي تعريف از اين کارت کافيه 6-من به استفاده از حافظه فلش،  پردازنده چهار هسته اي i7 و 6 گيگابايت رم يه شماره اختصاص ميدم چون شايد اگه تو بازار خوب بگردي با يکم شانس بتوني مشابه 15 اينچي براش پيدا کني7- ضخامت 1.83 سانتيمتر راستي تا يادم نرفته بگم خروجي HDMI هم داره،  فقط نميدونم چرا يدونه گذاشتن !</Sentence>
+      <Sentence ID="cr-1-7" Value="-1">اما اگه به اين محصول تنها از ديد تحسين نگاه کنيم مسير را به اشتباه رفته ايم،  چرا که معمولا آنچنان که از سابقه اپل به خاطر داريم اين شرکت نقاط ضعف محصولات خودش رو در سايه تبليغات پر زرق و برقش پنهان مي کنه.</Sentence>
+      <Sentence ID="cr-1-8" Value="-1">پس بهتره ايرادات اين مدل رو هم مرور کنيم:1-هيچ توجه کردين اين لپ تاپ CD و DVD درايو نداره !</Sentence>
+      <Sentence ID="cr-1-9" Value="0">چه برسه به اينکه بخواين توش BlueRay ببينين!</Sentence>
+      <Sentence ID="cr-1-10" Value="-1">اين به اين معني است که اپل خواسته به استفاده از سيستم عامل Mac در اين مدل تاکيد کنه و اين امر براي يک کاربر ايراني که سابقه چنداني در استفاده از اين سيستم عامل ندارد ايجاد مشکل خواهد کرد.</Sentence>
+      <Sentence ID="cr-1-11" Value="-1">اين مشکل چاره اي هم دارد با خريد دايو اکسترنال اپل که آن هم BlueRay را پشتيباني نميکند تا بتوان سيستم عامل Windows را در اين مدل نصب کرد2-سيستم عامل Windows در MacBook ها آن علکردهاي ميانبر خود را ندارد،  از جمله عملگرهايي که نبودشان را احساس خواهيد کرد دگمه Print Screen ،  Menu و Ctrl+Enter در مرورگرها مي باشد.</Sentence>
+      <Sentence ID="cr-1-12" Value="0">خوشبختانه دگمه هاي Start و Ctrl+Alt+Del همچنان عمل خواهند نمود3-عملکرد متفاوت پد موس در MacBook ها تفاوت در عملکرد scroll و پيچيدگي Right Click در اين سري کامپيوترها4-ميزان دوام باتري در Windows بسيار کمتر از 7 ساعت است چيزي در حدود 4.5 ساعت5-قيمت بالاي اين مدل در مقايسه با ساير مدلهاي موجود در بازار ما را به نتيجه گيري مي رساند که اين مدل براي عکاسان،  طراحان گرافيک،  کساني که در صنعت ساخت فيلم و مونتاژ فعاليت مي کنند و نهايتاً کاربراني که بتوانند با سيستم عامل Mac کار کنند مناسب است و ساير عاشقان اپل بهتر است مدل غير Retina را که هم زمان با معرفي اين محصول با سخت افزار هاي ارتقاع يافته با همان قيمت سابق به بازار عرضه شده برگزينند.</Sentence>
+      <Sentence ID="cr-1-13" Value="0">اگه موافق هستين تاييد رو بزنيد حتماً</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="139" />
+  <Performance Value="5.90" />
+  <Capability Value="6.30" />
+  <Production_Quality Value="6.20" />
+  <Ergonomics Value="5.90" />
+  <Purchase_Value Value="5.30" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="ضخامت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="لپ‌تاپ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="پورت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="دقت صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="کیفیت صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="کیفیت رنگ پنل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="زوایای دید پنل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="زوایای دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="کیفیت تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="بلندگو" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="کیفیت بلندگو" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="صدای بیس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10046" Root="مصرف انرژی پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10049" Root="حافظه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="سرعت حافظه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="شارژ دهی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="عمر باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="صفحه نمايش" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="کيفيت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="وزن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="ضخامت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="کيفيت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="دوام باتري" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-3,0,5]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-3,62,70]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-7,85,90]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-7,91,98]" Relation="tagID1004" Value="+" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-7,101,108]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-7,44,50]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-7,31,39]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[rev-63,85,103]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[rev-63,104,115]" Relation="tagID10066" Value="+" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-63,118,121]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-66,91,97]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-66,98,109]" Relation="tagID10069" Value="+" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-66,112,116]" Relation="tagID10069" Value="+" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[rev-66,119,126]" Relation="tagID10069" Value="+" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-66,129,136]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-8,76,84]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-8,85,91]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-18,91,103]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-18,104,111]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-18,11,25]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-18,66,72]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-24,147,163]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-24,241,246]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-27,41,54]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-27,55,59]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-27,62,72]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-27,73,84]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-30,0,10]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-30,26,38]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-32,40,51]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-32,26,32]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-34,136,148]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-34,129,135]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-35,0,14]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-35,15,25]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-35,36,44]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-35,59,74]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-44,4,15]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-44,24,44]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[rev-44,75,85]" Relation="elementID10046" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-44,86,91]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-51,4,12]" Relation="elementID10049" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-51,16,35]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-51,16,20]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-51,21,35]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-53,19,31]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-53,32,42]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[rev-63,24,33]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-63,34,44]" Relation="tagID10061" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-54,100,108]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-54,122,141]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-63,133,142]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-63,146,158]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[gr-1-1,0,11]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[gr-1-1,12,20]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[gr-5-1,17,22]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[gr-5-1,10,16]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[cr-1-2,8,11]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[cr-1-2,12,14]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[cr-1-4,3,6]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[cr-1-4,39,50]" Relation="tagID10089" Value="+" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[cr-1-4,53,56]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[cr-1-2,17,22]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[cr-1-2,23,28]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[cr-1-2,64,69]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[cr-1-2,70,75]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[cr-1-12,173,183]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[cr-1-12,195,205]" Relation="tagID10093" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[cr-1-12,243,247]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[cr-1-12,248,253]" Relation="tagID10096" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,22,29]" Value="" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,52,60]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,63,69]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,62,70]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-5,29,34]" Value="-" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,100,103]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-5,0,5]" Value="" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-7,91,98]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-7,101,108]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-7,31,39]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-8,65,68]" Value="" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-8,85,91]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-9,15,23]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-9,4,9]" Value="" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-11,15,18]" Value="" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-11,166,171]" Value="-" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-11,107,112]" Value="" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-12,124,136]" Value="" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-12,118,123]" Value="" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-12,23,28]" Value="" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-18,66,72]" Value="" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-18,104,111]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-20,14,18]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-24,241,246]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-27,55,59]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-27,0,5]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-27,73,84]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-28,47,50]" Value="" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-28,133,139]" Value="-" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-28,88,92]" Value="-" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-29,208,216]" Value="-" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-29,231,238]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-29,129,132]" Value="" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-30,26,38]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-32,26,32]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-32,33,39]" Value="" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-32,125,132]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-34,129,135]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-35,15,25]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-35,59,74]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-35,84,89]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-36,97,103]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-36,126,132]" Value="-" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-36,5,8]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-36,88,96]" Value="" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-39,117,127]" Value="" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-39,17,22]" Value="" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-39,52,59]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-39,0,5]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-44,24,44]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-44,86,91]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-46,103,108]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-46,18,23]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-48,159,163]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-48,164,172]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-48,142,147]" Value="" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-49,55,58]" Value="" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-49,59,64]" Value="" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-49,70,83]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-49,90,97]" Value="-" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-49,0,5]" Value="" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-49,6,14]" Value="-" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-49,38,50]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-51,21,35]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-51,62,73]" Value="" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-51,100,106]" Value="-" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-52,144,148]" Value="-" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-52,149,157]" Value="-" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-53,32,42]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-53,172,176]" Value="" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-53,148,151]" Value="" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-53,109,115]" Value="-" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-54,71,77]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-54,122,141]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-55,127,132]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-55,88,91]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-55,168,173]" Value="" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-55,179,182]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-58,0,8]" Value="-" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-58,56,60]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-58,61,67]" Value="-" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-60,60,68]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-60,69,76]" Value="-" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-60,147,150]" Value="-" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-59,108,112]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-59,113,120]" Value="-" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-59,98,102]" Value="" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-61,36,40]" Value="" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-62,31,37]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-62,22,27]" Value="" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-62,47,51]" Value="" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-62,103,114]" Value="" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-62,203,207]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-63,34,44]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-63,146,158]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-63,104,115]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-63,118,121]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-64,13,16]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-64,17,21]" Value="" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-64,44,47]" Value="-" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-66,98,109]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-66,112,116]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-66,119,126]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-66,129,136]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[rev-66,184,190]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-1-1,12,20]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-1-1,97,104]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-2-1,10,14]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-2-1,22,25]" Value="" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-2-1,40,48]" Value="-" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-3-1,0,11]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-4-1,0,9]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-4-1,10,13]" Value="" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-4-1,14,17]" Value="-" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-4-1,32,37]" Value="-" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-5-1,10,16]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-6-1,14,22]" Value="-" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-9-1,5,9]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-9-1,10,15]" Value="-" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-9-1,0,4]" Value="" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-9-1,22,30]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-9-1,18,21]" Value="" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-10-1,27,32]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-10-1,48,59]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-10-1,33,45]" Value="" />
+    <Keyword ID="keywordID100125" Coordinate="[cr-1-2,12,14]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[cr-1-2,23,28]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[cr-1-2,46,52]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[cr-1-2,70,75]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[cr-1-4,39,50]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[cr-1-4,53,56]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[cr-1-5,63,67]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[cr-1-5,109,122]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[cr-1-5,329,339]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[cr-1-5,158,162]" Value="" />
+    <Keyword ID="keywordID100135" Coordinate="[cr-1-5,230,240]" Value="-" />
+    <Keyword ID="keywordID100136" Coordinate="[cr-1-5,220,224]" Value="-" />
+    <Keyword ID="keywordID100137" Coordinate="[cr-1-5,130,137]" Value="" />
+    <Keyword ID="keywordID100138" Coordinate="[cr-1-5,163,167]" Value="" />
+    <Keyword ID="keywordID100139" Coordinate="[cr-1-7,33,38]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[cr-1-7,60,66]" Value="-" />
+    <Keyword ID="keywordID100141" Coordinate="[cr-1-7,143,146]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[cr-1-7,193,198]" Value="" />
+    <Keyword ID="keywordID100143" Coordinate="[cr-1-8,84,89]" Value="-" />
+    <Keyword ID="keywordID100144" Coordinate="[cr-1-8,9,16]" Value="-" />
+    <Keyword ID="keywordID100145" Coordinate="[cr-1-10,172,176]" Value="-" />
+    <Keyword ID="keywordID100146" Coordinate="[cr-1-11,71,79]" Value="+" />
+    <Keyword ID="keywordID100147" Coordinate="[cr-1-11,80,86]" Value="-" />
+    <Keyword ID="keywordID100148" Coordinate="[cr-1-11,197,202]" Value="-" />
+    <Keyword ID="keywordID100149" Coordinate="[cr-1-12,0,9]" Value="+" />
+    <Keyword ID="keywordID100150" Coordinate="[cr-1-12,195,205]" Value="-" />
+    <Keyword ID="keywordID100151" Coordinate="[cr-1-12,248,253]" Value="-" />
+    <Keyword ID="keywordID100152" Coordinate="[cr-1-12,480,485]" Value="+" />
+    <Keyword ID="keywordID100153" Coordinate="[cr-1-12,486,489]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="154" />
+    <Tag_Index Value="98" />
+  </Index>
+</Product>

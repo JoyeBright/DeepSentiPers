@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Fujitsu Stylistic M532" Type="Tablet">
+  <Features>
+    <Feature Name="ابعاد ">8.6 × 175.4 × 262.6 mm</Feature>
+    <Feature Name="وزن ">560 گرم</Feature>
+    <Feature Name="رنگ ">مشکی-قرمز , مشکی-نقره ای</Feature>
+    <Feature Name="سازنده پردازنده ">Nvidia</Feature>
+    <Feature Name="مدل پردازنده ">Tegra 3 Chipset - Quad-Core Cortex-A9 CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1.4GHz</Feature>
+    <Feature Name="حافظه رم ">1.0 GB</Feature>
+    <Feature Name="نوع حافظه رم ">DDR3</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">32 GB</Feature>
+    <Feature Name="مدل پردازنده گرافیک ">ULP GeForce</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">10.1 اینچ</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">صفحه نمایش لمسی خازنی از نوع IPS LCD با محافظ ضد خش</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">1280 × 752 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">صفحه نمایش مالتی تاچ  (Multi-Touch ) صفحه نمایش خازنی و ضد خش</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">بلی</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">خیر</Feature>
+    <Feature Name="باند شبکه 3G ">3G HSPA+ module</Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">802.11 a, b, g, n</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="Edge ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.0 همراه با EDR</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="DLNA ">خیر</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">MicroSD</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="توضیحات دوربین ">دوربین پشتی مجهز به حسگر 8 مگاپیکسلی و فوکوس خودکار</Feature>
+    <Feature Name="کیفیت فیلمبرداری ">1080p Full-HD</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم (دوربین جلویی) با کیفیت VGA برای مکالمه تصویری و دوربین عقب با کیفیت 8 مگاپیکسل</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">بلندگوهای استریو</Feature>
+    <Feature Name="پخش موسیقی ">پشتیبانی از فرمت های MP3/WAV/WMA/AAC</Feature>
+    <Feature Name="پخش فیلم ">پشتیبانی از فرمت های MP4/H.264/H.263</Feature>
+    <Feature Name="پورت USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">microUSB نسخه 2</Feature>
+    <Feature Name="پورت microUSB ">بلی</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">v4.0  Ice-Cream Sandwich</Feature>
+    <Feature Name="باتری ">3170 میلی آمپر - ساعت</Feature>
+    <Feature Name="کارکرد باتری ">8 ساعت</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">ES File ExplorerThinkFree Office MobileTouchDown for TabletsNorton Tablet SecurityAbsolute ComputracePowerDVD Mobile</Feature>
+    <Feature Name="امکانات دیگر ">درگاه سیم کارت صرفاً با قابلیت ارسال SMSپشتیبانی از OTGقابلیت ارتقاء به اندروید 4.1.1کیبورد کاملاً فارسی</Feature>
+    <Feature Name="اقلام همراه تبلت ">شارژر USBکابل داک USB دفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">طراحی و ساخت با دیدن این تبلت در همان نگاه اول به اختلاف ظاهر آن با تبلت های اندرویدی موجود در بازار که اکثرا بسیار شبیه به یکدیگر طراحی شده‌اند خواهید شد.</Sentence>
+    <Sentence ID="rev-2" Value="+2">دور تا دور این دستگاه را یک لایه آلومینیومی قرمز رنگ فرا گرفته که بسیار زیبا و شکیل است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">این زیبایی زمانی بیشتر به چشم می‌آید که تبلت را روشن می‌نمایید و هماهنگی بین قالب قرمز رنگ منتخب فوجیتسو با بدنه دستگاه را مشاهده می‌نمایید.</Sentence>
+    <Sentence ID="rev-4" Value="0">چیزی که پیش‌تر در مورد گوشی‌های دارای ویندوز فون 8 مشاهده نموده بودیم.</Sentence>
+    <Sentence ID="rev-5" Value="0">قاب پشتی تبلت اما از جنس پلاستیک فشرده می‌باشد.</Sentence>
+    <Sentence ID="rev-6" Value="+1">این جنس پلاستیک،  علاوه بر اینکه مقاومت نسبتا خوبی در برابر ضربه و خش پذیری دارد،  به دلیل اصطکاک زیاد سطح آن،  احساس امنیت خوبی را نیز بابت لیز خوردن از دست به کاربر می‌دهد.</Sentence>
+    <Sentence ID="rev-7" Value="+1">در ضمن،  نگران به جا ماندن اثر انگشت بر روی قاب پشتی نیز نباشید که خوشبختانه استعداد بسیار کمی در جذب اثر انگشت دارد.</Sentence>
+    <Sentence ID="rev-8" Value="+1">اما یکی دیگر از مواردی که برای ما بسیار جذاب بود،  ابعاد و وزن این تبلت است.</Sentence>
+    <Sentence ID="rev-9" Value="0">ابعاد دستگاه 175×262 میلی متر است که تنها 8.6 میلی متر قطر و 560 گرم وزن  دارد.</Sentence>
+    <Sentence ID="rev-10" Value="+1">این ابعاد برای تبلت های 10 اینچی کاملا مناسب است و این تبلت را در بین تبلت های باریک و سبک موجود در بازار قرار می‌دهد.</Sentence>
+    <Sentence ID="rev-11" Value="+1">باریکی این تبلت در حالیست که فوجیتسو موفق شده برای این دستگاه استاندارد نظامی STD-810G را نیز کسب نماید.</Sentence>
+    <Sentence ID="rev-12" Value="+1">این استاندارد بدین معناست که این دستگاه در برابر رطوبت،  ضربه،  شوک الکتریکی و ارتعاشات از دیگر تبلت های اندرویدی مقاومت بیشتری دارد.</Sentence>
+    <Sentence ID="rev-13" Value="+1">حتی می‌توان گفت که در مقابل قطرات باران نیز مقاوم است و می‌توان در مواقع لزوم در زیر بارش باران نیز با آن کار کرد.</Sentence>
+    <Sentence ID="rev-14" Value="+2">در کل،  از نظر طراحی و کیفیت ساخت این تبلت می‌توان گفت که بسیار مناسب و رضایت بخش بود و ما را راضی نمود.</Sentence>
+    <Sentence ID="rev-15" Value="0">بر روی لبه بالایی گوشی کلید پاور به همراه جک 3.5 میلی متری صدا قرار دارند.</Sentence>
+    <Sentence ID="rev-16" Value="+1">لبه چپ دستگاه کاملا صاف و صیقلی است.</Sentence>
+    <Sentence ID="rev-17" Value="0">در لبه سمت راست کلید کنترل صدا،  درگاه microUSB و شکاف‌های سیم کارت و microSD که البته توسط درپوشی محافظت شده است قرار گرفته‌اند،  و بر روی لبه زیرین تبلت،  محل اتصال کابل شارژر تعبیه گشته است.</Sentence>
+    <Sentence ID="rev-18" Value="+2">نهایتا بر روی قاب پشتی نیز دوربین و یک لوگوی فوجیتسو به چشم می‌خورند که نمای پشتی تبلت را نیز بسیار زیبا نموده است.</Sentence>
+    <Sentence ID="rev-19" Value="-1">نکته منفی در مورد درگاه های این تبلت،  عدم وجود درگاه HDMI است که ترجیح می‌دادیم این تبلت دارای این درگاه نیز بود.</Sentence>
+    <Sentence ID="rev-20" Value="+1">در اطراف صفحه نمایش به اندازه کافی قاب وجود دارد که در هنگام نگه داشتن تبلت در دست،  به طور اتفاقی لمسی با صفحه نمایش صورت نگیرد که این مورد نیز در هنگام کار با آن،  راحتی بیشتری را ایجاد می‌نماید.</Sentence>
+    <Sentence ID="rev-21" Value="0">صفحه نمایش صفحه نمایش موجود بر روی این تبلت یک صفحه نمایش 10.1 اینچی لمسی خازنی از نوع IPS LCD می‌باشد که دارای رزولوشن 800×1280 می‌باشد.</Sentence>
+    <Sentence ID="rev-22" Value="0">این رزولوشن تراکم پیکسلی 150ppi را تشکیل می‌دهد که تراکم خیلی خوبی نیست،  اما چندان هم غیر منتظره نیست.</Sentence>
+    <Sentence ID="rev-23" Value="0">همچنین محافظ Gorilla Glass موجود بر روی این صفحه نمایش نیز وظیفه محافظت از صفحه در مقابل خش را دارد.</Sentence>
+    <Sentence ID="rev-24" Value="+2">با توجه به پنل IPS موجود،  عملکرد صفحه نمایش در زوایای مختلف بسیار مناسب است.</Sentence>
+    <Sentence ID="rev-25" Value="+2">همچنین در زیر نور مستقیم آفتاب نیز عملکرد آن بسیار مناسب است.</Sentence>
+    <Sentence ID="rev-26" Value="+2">رنگ‌های تولید شده بسیار جذاب و روشنایی صفحه نمایش نیز بسیار عالیست.</Sentence>
+    <Sentence ID="rev-27" Value="+1">می‌توان گفت که در این حدود قیمت صفحه نمایش‌های با رزولوشن بیشتری نیز وجود دارند،  اما در کل صفحه نمایش Stylistic M532 رضایت بخش می‌باشد.</Sentence>
+    <Sentence ID="rev-28" Value="0">سخت افزار سخت افزار این دستگاه شامل یک پردازنده چهار هسته ای Cortex-A9 با فرکانس 1.4 گیگاهرتز به همراه چیپ Tegra 3 و  یک پردازشگر گرافیکی Octocore Mobile GeForce می‌شود که همراه با یک گیگابایت حافظه رم،  وظیفه انجام پردازش‌ها را بر عهده دارند.</Sentence>
+    <Sentence ID="rev-29" Value="+2">با وجود این سخت افزار شاهد عملکرد بسیار خوب و روان دستگاه و واکنش سریع آن به دستورات خواهید بود.</Sentence>
+    <Sentence ID="rev-30" Value="+1">در ضمن،  با وجود پردازنده Tegra 3،  قادر خواهید بود از TegraZone بازی‌های بسیاری که برای این پردازنده‌ها طراحی شده‌اند را دریافت کرده اجرا نمایید.</Sentence>
+    <Sentence ID="rev-31" Value="+2">در تست‌های سخت افزاری،  این تبلت بسیار قدرتمند تر از Samsung Galaxy Tab 10.1 و Asus TF300 نشان داد که این خبر بسیار خوبی است.</Sentence>
+    <Sentence ID="rev-32" Value="+1">حافظه داخلی Stylistic به میزان 32 گیگابایت است که با توجه به قابلیت این دستگاه مبنی بر پشتیبانی از کارت حافظه جانبی،  می‌توان با کارت‌های microSD آن‌را افزایش داد.</Sentence>
+    <Sentence ID="rev-33" Value="+1">در کل،  از حرکت در بین منوها و دیدن روان بودن آن بسیار لذت خواهید برد و می‌توان گفت که با این تبلت،  قادر خواهید بود از اکثر برنامه های موجود برای سیستم عامل اندروید استفاده نمایید.</Sentence>
+    <Sentence ID="rev-34" Value="+1">نرم افزار سیستم عامل موجود بر روی تبلت جدید فوجیتسو همان طور که گفتیم سیستم عامل محبوب و قدرتمند اندروید می‌باشد.</Sentence>
+    <Sentence ID="rev-35" Value="0">نسخه 4.0.3 نسخه استفاده شده بر روی این دستگاه است.</Sentence>
+    <Sentence ID="rev-36" Value="+2">فقط فوجیتسو قالب آن‌را منطبق بر طراحی بدنه تغییر داده است که انصافا تغییر بسیار زیبا و مفیدی بوده است.</Sentence>
+    <Sentence ID="rev-37" Value="+1">مرورگر موجود بر روی این دستگاه مرورگر استاندارد گوگل است که قابلیت پشتیبانی از فایل‌های فلش را نیز داراست.</Sentence>
+    <Sentence ID="rev-38" Value="+2">با وجود سخت افزار مناسب و البته راه های مختلف اتصال به دنیای اینترنت مانند 3G،  GPRS،  Edge و Wi-Fi و البته حساسیت و عملکرد بسیار خوب صفحه نمایش،  مرورگری دنیای اینترنت در این تبلت بسیار لذت بخش خواهد بود.</Sentence>
+    <Sentence ID="rev-39" Value="+1">البته با توجه به تراکم پیکسلی نسبتا پایین صفحه نمایش شاید برای خواندن متن‌های بسیار ریز مقداری دچار دشواری شوید که با کمی زوم قابل حل خواهد بود.</Sentence>
+    <Sentence ID="rev-40" Value="0">برنامه های زیادی به صورت پیش فرض بر روی استایلیستیک قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-41" Value="+1">از جمله آن‌ها می‌توان Google Chrome،  ES File Explorer،  Gmail،  Google Plus،  ID Gard،  Maps،  Movie Studio،  آنتی ویروس Norton Security،  Sound Recorder،  ، TegraZone،  ThinkFree Office و Youtube را نام برد که به همراه آن‌ها ویجت های کاربردی زیادی نیز برای استفاده کاربر وجود دارد.</Sentence>
+    <Sentence ID="rev-42" Value="0">همچنین فناوری بلوتوث نیز برای تبادل اطلاعات با دستگاه های دیگر بر روی این تبلت وجود دارد.</Sentence>
+    <Sentence ID="rev-43" Value="0">دوربین فوجیتسو در Stylistic M532 یک دوربین 8 مگاپیکسلی قرار داده است.</Sentence>
+    <Sentence ID="rev-44" Value="+2">تصاویر گرفته شده با دوربین این تبلت کیفیت فوق‌العاده بالایی دارند.</Sentence>
+    <Sentence ID="rev-45" Value="+1">رنگ‌های تولید شده بسیار زنده و طبیعی بوده و نویز تصاویر نیز کم است.</Sentence>
+    <Sentence ID="rev-46" Value="+1">به علاوه این تبلت می‌تواند با کیفیت Full HD 1080p فیلم‌برداری کند.</Sentence>
+    <Sentence ID="rev-47" Value="+2">همانند عکس‌های گرفته شده،  کیفیت فیلم‌برداری این تبلت نیز بسیار خوب و رضایت بخش است.</Sentence>
+    <Sentence ID="rev-48" Value="+1">در حقیقت می‌توان به جرات گفت که کمتر تبلتی در بازار وجود که دوربینی به خوبی دوربینStylistic    داشته باشد.</Sentence>
+    <Sentence ID="rev-49" Value="+2">رابط کاربری دوربین نیز بسیار ساده و کاربردی است.</Sentence>
+    <Sentence ID="rev-50" Value="0">با این دوربین امکان عکاسی در حالت‌های مختلف و عکاسی در شرایط نوری ضعیف را خواهید داشت.</Sentence>
+    <Sentence ID="rev-51" Value="+2">همچنین تنوع مود بسیار خوبی برای انتخاب مود های مختلف عکاسی وجود دارد تا با آن‌ها بتوان عکس‌هایی با افکت‌های مختلف را ثبت نمود.</Sentence>
+    <Sentence ID="rev-52" Value="+2">در ضمن،  یک دوربین 2 مگاپیکسلی نیز برای انجام مکالمات تصویری وجود دارد که برای این منظور بسیار مناسب و با کیفیت است.</Sentence>
+    <Sentence ID="rev-53" Value="+1">در کل،  با اینکه عکاسی با تبلت را همواره جزو موارد غیر ضروری نامیده‌ایم،  ولی در مورد این دستگاه برای کسانی که علاقه‌مند به عکاسی نیز هستند،  فوجیتسو شرایطی را فراهم نموده است که کاملا آن‌ها را راضی خواهد نمود.</Sentence>
+    <Sentence ID="rev-54" Value="0">باتری باتری استفاده شده در این تبلت یک باتری لیتیوم پلیمری 3170 میلی آمپر ساعتی است.</Sentence>
+    <Sentence ID="rev-55" Value="+1">در ابتدا بابت این باتری کاملا نا امید شدیم،  اما بعد از تست‌های انجام شده شاهد بودیم که این تبلت قادر بود تا 8 ساعت ممتد ویدئو پخش نماید که برای تبلت های 10 اینچی کاملا نرمال است.</Sentence>
+    <Sentence ID="rev-56" Value="+1">این مقدار در مقابل حدود 12 ساعت آیپد و یا حدود 10 ساعت TF700 شاید مقداری کم به نظر برسد،  اما در کل مقداری متوسط و قابل قبول است.</Sentence>
+    <Sentence ID="rev-57" Value="+2">جمع بندی با یک تبلت بسیار دوست داشتنی آشنا شدیم.</Sentence>
+    <Sentence ID="rev-58" Value="+1">به واقع در ابتدا انتظار چنین تبلتی را از فوجیتسو نداشتیم و فکر می‌کردیم که با یک تبلت کاملا متوسط طرف هستیم،  اما منصفانه با یکی از برترین تبلت های 10 اینچی موجود در بازار آشنا شدیم.</Sentence>
+    <Sentence ID="rev-59" Value="+1">با توجه به قیمت این تبلت،  می‌توان آن‌را یک دستگاه مقرون به صرفه دانست.</Sentence>
+    <Sentence ID="rev-60" Value="+2">یک تبلت 10 اینچی با کیفیت ساخت فوق‌العاده خوب،  32 گیگابایت حافظه داخلی،  سخت افزار بسیار قدرتمند،  دوربین‌های جلو و پشت با کیفیت و البته استاندارد مقاومت در برابر آب و ضربه مسلما تبلت ارزشمندی محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-61" Value="+1">به همه این‌ها،  پشتیبانی آن از سیم کارت را نیز بی افزایید تا متوجه ارزشمندی این تبلت شوید.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>طراحی زیبا و کیفیت ساخت بسیار خوب به همراه استاندارد نظامی STD-810G</Advantage>
+    <Advantage>صفحه نمایش 10 اینچی از نوع IPS</Advantage>
+    <Advantage>سخت افزار بسیار قدرتمند</Advantage>
+    <Advantage>32 گیگابایت حافظه داخلی با قابلیت افزایش از طریق کارت حافظه جانبی</Advantage>
+    <Advantage>دوربین‌های با کیفیت</Advantage>
+    <Advantage>قابلیت نصب سیم کارت جهت اتصال به اینترنت</Advantage>
+    <Advantage>سیستم عامل اندروید</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>رزولوشن پایین صفحه نمایش</Disadvantage>
+    <Disadvantage>عدم وجود درگاه HDMI</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="غفار عليزاده " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">سلام من هم چند روزي هست که يکي خريدم,مشکلش در شناسايي wifiو نصبgprs</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="محمد باقر حسيني " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">کيفيت صفحه نمايش تو عمل واقعا راضي کنندست اصلا به چشم نمياد نسبت به امکانات واقعا محشره من الان دو هفته اي ميشه که دارمش به جرات ميشه گفت از media pad fhd و asus transformers مناسبتره، مخصوصا gamingش عاليه، shadowgun,blade slinger,real boxing , ..</Sentence>
+      <Sentence ID="gr-2-2" Value="0">هر بازي ديگه که رو one x داشتم تو اينم اجرا شد </Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="قاسم نصيري " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">من خودم اين تبلت رو دارم و هيچ مشکلي نداره رزولوشن عالي هست هيچ فرقي با نوت ۱۰.</Sentence>
+      <Sentence ID="gr-3-2" Value="0">۱ نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="محمد راون " Value="-1">
+      <Sentence ID="gr-4-1" Value="-1">رزولوشن صفحه اش پايينه در حالي که تبلت هاي 7 اينچي خوب مانند Ainol novo 7 venus و يا nexus 7 و .</Sentence>
+      <Sentence ID="gr-4-2" Value="0">از کيفيت بالاتري برخوردار اند.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="امين زنديه " Value="-1">
+      <Sentence ID="gr-5-1" Value="-1">به نظر مياد کيفيت صفحه نمايشش بقيه مزاياي اين تبلت تحت الشعاع قرار ميده به نظر من کيفيت صفحه نمايش خيلي مهمه اين عرض از من که تجربه کار با تبلت هاي گوناگون دارم بپذيريد کيفيت پايين صفحه نمايش در تبلتها غير قابل اغماض است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="امين زنديه " Value="-1">
+      <Sentence ID="gr-6-1" Value="0">با سلام.</Sentence>
+      <Sentence ID="gr-6-2" Value="-1">پلاستيکي بودن جنس بدنه و کيفيت پايين صفحه نمايش براي من قابل چشم پوشي نيست هر قدر هم که ارزون باشه تاثيري در نظر من نداره .</Sentence>
+      <Sentence ID="gr-6-3" Value="0">فلسفه به وجود آمدن تبلت کنار رفتن کيبرد فيزيکي کامپيوتر از طريق لمس يک صفحه با کيفيت است يادمون باشه براي چه منظوري مي خواهيم تبلت بخريم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="يعقوب نظري " Value="+1">
+      <Sentence ID="gr-7-1" Value="+1">به نظر مي رسه با توجه به امکاناتش قيمتش مناسبه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="کميل پرهيزکار " Value="0">
+      <Sentence ID="gr-8-1" Value="0">در جواب جناب عطاالله بيگ زاده در مورد اشکالي که گرفتن:
+
+توي نسخه شماره ۴ آندرويد،  شما با سيم کارت‌هاي ايران امکان استفاده از wifi رو نخواهيد داشت و اين تنظيم به دليل تحريم است و حتي اگر روي حالت پرواز هم بريد،  باز گوشي تشخيص مي‌ده که سيم کارت شما متعلق به ايران هست و اجازه استفاده از wifi رو نخواهد داد.</Sentence>
+      <Sentence ID="gr-8-2" Value="+1">شما مي‌تونيد با نصب يک اپ،  اين مشکل رو رفع کنيد و اين ربطي به فوجيستو يا اين ديوايس نداره.</Sentence>
+      <Sentence ID="gr-8-3" Value="0">البته نسخه‌هاي مختلف مثل سيانوژن مد،  اين تنظيم  و محدوديت رو برداشتن.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="سيد جواد مصطفوي " Value="+2">
+      <Sentence ID="gr-9-1" Value="+2">به نظر من که با توجه امکاناتش قيمتش خيلي مناسبه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="آرش رحيمي " Value="0">
+      <Sentence ID="gr-10-1" Value="0">در مورد hdmi بايد بگوييم فوجيتسو همراه با تبلت داک چند منظوره اي طراحي کرده که به شما خروجي hdmi و usb و ..</Sentence>
+      <Sentence ID="gr-10-2" Value="0">ميدهد.</Sentence>
+      <Sentence ID="gr-10-3" Value="0">براي اطلاعات بيشتر ميتونيد به وب سايت رسمي فوجيتسو سر بزنيد
+
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="منصورناصرپور " Value="-1">
+      <Sentence ID="gr-11-1" Value="-1">امکانات خوبي نسبت به قيمتش داره اما به دليل نداشتن درگاه HDMI و وجود رزولوشن پائين صفحه نمايش ،  ميشه گفت که اين برند کمي ضعيف عمل کرده .</Sentence>
+      <Sentence ID="gr-11-2" Value="-1">البته به غير از اينها فرم اين تبلت کمي بزرگ و ناجور به نظر مياد .</Sentence>
+      <Sentence ID="gr-11-3" Value="0">شما اگه خوب بهش نگاه کنيد متوجه ميشيد که بيشتر شبيه به يک کتابخوان هستش تا به يک تبلت .</Sentence>
+      <Sentence ID="gr-11-4" Value="-1">يه مسئله ديگه اي هم که منو در مورد اين دستگاه آزار ميده همون رزولوشن پائين نمايش اونه که واقعا قابل حس هست .</Sentence>
+      <Sentence ID="gr-11-5" Value="-1">اگر چه که سايت ديجي کالا اين نقاط ضعف رو ذکر کرده اما با يک نگاه هم متوجه ضعيف بودن کيفيت نمايش اون خواهيد شد .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="عطا اله بيگ زاده " Value="-1">
+      <Sentence ID="gr-12-1" Value="-1">بنده يه دو روزي با اين تبلت کار کردم اما با اين که تبلت خوش دستي هست اما مشکل اساسيش در عدم کار کردن wifi  سيم کارت با هم هست يعني اگر سيم کارت روي تبلت باشه و حتي اگه به حالت نمايه پرواز ببرين باز wifi شناسايي نميشه و تا زماني که سيم رو از روي تبلت در نيارين شبکه هاي wifi  مورد استفاده قرار نمي گيرن.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="علي حسن زاده " Value="0">
+      <Sentence ID="gr-13-1" Value="0">معمولا فوجيتسو  سعي ميکنه از بقيه برند ها ارزونتر باشه ولي بازم بايد صبر کنيم.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="36" />
+  <Performance Value="9.00" />
+  <Capability Value="9.00" />
+  <Production_Quality Value="8.50" />
+  <Ergonomics Value="8.90" />
+  <Purchase_Value Value="8.40" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID100125" Root="کيفيت صفحه نمايش" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1002" Root="مقاومت پلاستیک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="مقاومت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="لبه چپ دستگاه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="نمای پشتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10032" Root="عملکرد صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="رنگ صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="روشنایی صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10046" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="واکنش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="تغییر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="حساسیت صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="مرورگری اینترنت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100128" Root="رزولوشن" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="کیفیت تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10087" Root="نویز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10090" Root="کیفیت فیلم‌برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="تنوع مود" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="افکت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="دوربین مکالمه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100133" Root="رزولوشن صفحه" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100136" Root="کيفيت صفحه نمایش" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100139" Root="قيمت" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID100142" Root="قيمت" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID100145" Root="امکانات" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100148" Root="رزولوشن" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100151" Root="فرم" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100157" Root="کيفيت نمايش" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100160" Root="تبلت" Relation="gr-12" />
+    <Tag Type="Target(I)" ID="tagID100126" Coordinate="[gr-2-1,0,16]" Relation="elementID100125" Value="" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[gr-2-1,24,41]" Relation="tagID100126" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1003" Coordinate="[rev-6,33,39]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[rev-6,40,50]" Relation="tagID1003" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-10,4,9]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-10,33,44]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-10,70,78]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-10,79,84]" Relation="tagID1009" Value="+" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-10,87,90]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-11,11,15]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-11,0,6]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-31,28,32]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-31,33,49]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[rev-57,15,19]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[rev-57,20,37]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[rev-58,139,147]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[rev-58,132,138]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[rev-59,44,50]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[rev-59,51,64]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[rev-60,180,184]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[rev-60,185,193]" Relation="tagID100121" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100123" Coordinate="[rev-61,80,84]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID100124" Coordinate="[rev-61,67,75]" Relation="tagID100123" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-12,114,120]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-12,121,127]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-14,15,20]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-14,58,69]" Relation="tagID10018" Value="+" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-14,72,81]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-14,23,33]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-14,58,69]" Relation="tagID10022" Value="+" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-14,72,81]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100117" Coordinate="[rev-60,20,30]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[rev-60,31,45]" Relation="tagID100117" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-16,0,13]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-16,14,23]" Relation="tagID10026" Value="+" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-16,26,31]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-18,72,81]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-18,94,104]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-24,27,44]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-24,61,72]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-25,35,41]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-25,45,56]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-38,117,123]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-38,124,133]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-26,0,7]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-26,18,28]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-26,31,49]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-26,54,66]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-27,92,102]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-27,118,127]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[rev-29,27,33]" Relation="elementID10046" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-29,34,43]" Relation="tagID10047" Value="+" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-29,46,50]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-29,60,65]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-29,66,70]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-34,70,80]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-34,81,86]" Relation="tagID10056" Value="+" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-34,89,96]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-36,68,73]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-36,74,84]" Relation="tagID10060" Value="+" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-36,87,92]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-38,8,17]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-38,18,23]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100119" Coordinate="[rev-60,74,83]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[rev-60,84,97]" Relation="tagID100119" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-38,108,114]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-38,124,133]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-38,147,154]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-38,181,194]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-39,17,29]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-39,30,41]" Relation="tagID10075" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[gr-3-1,43,50]" Relation="elementID100128" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[gr-3-1,51,55]" Relation="tagID100129" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[rev-44,36,41]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[rev-44,42,59]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[rev-45,0,7]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-45,18,28]" Relation="tagID10084" Value="+" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[rev-45,31,36]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10088" Coordinate="[rev-45,44,48]" Relation="elementID10087" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[rev-45,60,62]" Relation="tagID10088" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10091" Coordinate="[rev-47,27,44]" Relation="elementID10090" Value="" />
+    <Tag Type="Opinion" ID="tagID10092" Coordinate="[rev-47,58,67]" Relation="tagID10091" Value="+" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[rev-47,70,79]" Relation="tagID10091" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[rev-48,60,67]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[rev-48,71,75]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[rev-49,0,11]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[rev-49,23,33]" Relation="tagID10098" Value="+" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[rev-49,36,43]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[rev-51,7,15]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[rev-51,16,26]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[rev-51,99,107]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[rev-51,108,113]" Relation="tagID100105" Value="" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[rev-52,12,18]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[rev-52,89,100]" Relation="tagID100108" Value="+" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[rev-52,103,111]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100134" Coordinate="[gr-4-1,0,15]" Relation="elementID100133" Value="" />
+    <Tag Type="Opinion" ID="tagID100135" Coordinate="[gr-4-1,16,22]" Relation="tagID100134" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100137" Coordinate="[gr-6-2,25,30]" Relation="elementID100136" Value="" />
+    <Tag Type="Opinion" ID="tagID100138" Coordinate="[gr-6-2,31,36]" Relation="tagID100137" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100140" Coordinate="[gr-7-1,34,39]" Relation="elementID100139" Value="" />
+    <Tag Type="Opinion" ID="tagID100141" Coordinate="[gr-7-1,40,46]" Relation="tagID100140" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100143" Coordinate="[gr-9-1,30,35]" Relation="elementID100142" Value="" />
+    <Tag Type="Opinion" ID="tagID100144" Coordinate="[gr-9-1,36,47]" Relation="tagID100143" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100146" Coordinate="[gr-11-1,0,7]" Relation="elementID100145" Value="" />
+    <Tag Type="Opinion" ID="tagID100147" Coordinate="[gr-11-1,8,12]" Relation="tagID100146" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100149" Coordinate="[gr-11-1,69,76]" Relation="elementID100148" Value="" />
+    <Tag Type="Opinion" ID="tagID100150" Coordinate="[gr-11-1,77,82]" Relation="tagID100149" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100155" Coordinate="[gr-11-4,61,68]" Relation="elementID100148" Value="" />
+    <Tag Type="Opinion" ID="tagID100156" Coordinate="[gr-11-4,69,74]" Relation="tagID100155" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100152" Coordinate="[gr-11-2,22,25]" Relation="elementID100151" Value="" />
+    <Tag Type="Opinion" ID="tagID100153" Coordinate="[gr-11-2,35,43]" Relation="tagID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100154" Coordinate="[gr-11-2,46,51]" Relation="tagID100152" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100158" Coordinate="[gr-11-5,84,95]" Relation="elementID100157" Value="" />
+    <Tag Type="Opinion" ID="tagID100159" Coordinate="[gr-11-5,74,78]" Relation="tagID100158" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100161" Coordinate="[gr-12-1,51,55]" Relation="elementID100160" Value="" />
+    <Tag Type="Opinion" ID="tagID100162" Coordinate="[gr-12-1,56,64]" Relation="tagID100161" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,66,76]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,79,83]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,84,87]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,4,10]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-3,65,72]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-6,40,50]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-6,124,128]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-6,167,173]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-7,9,14]" Value="-" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-7,57,63]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-7,67,76]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-8,34,44]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-10,33,44]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-10,45,48]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-10,79,84]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-10,87,90]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-11,37,41]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-11,42,45]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-11,0,6]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-12,121,127]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-12,128,132]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-13,44,49]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-13,50,53]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-13,56,63]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-14,0,5]" Value="" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-14,58,69]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-14,72,81]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-14,94,98]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-16,14,23]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-16,26,31]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-16,32,35]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-18,94,104]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-19,5,9]" Value="-" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-19,39,42]" Value="-" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-20,166,171]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-20,172,178]" Value="" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-20,188,196]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-22,57,66]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-22,67,71]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-22,74,77]" Value="" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-22,87,97]" Value="-" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-22,98,102]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-24,61,72]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-25,45,56]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-25,57,60]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-26,18,28]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-26,54,66]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-27,82,85]" Value="" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-27,86,91]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-27,118,127]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-27,128,135]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-29,34,43]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-29,46,50]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-29,66,70]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-30,36,40]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-31,33,49]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-31,110,120]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-31,121,124]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-32,118,125]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-32,152,158]" Value="" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-32,87,95]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-32,61,67]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-33,0,5]" Value="" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-33,49,58]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-33,36,40]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-33,101,105]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-34,81,86]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-34,89,96]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-34,105,112]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-36,74,84]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-36,87,92]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-36,98,101]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-36,61,67]" Value="" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-37,67,75]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-37,60,66]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-37,99,105]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-37,38,47]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-38,18,23]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-38,124,133]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-38,181,194]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-39,30,41]" Value="-" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-39,100,106]" Value="-" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-39,53,57]" Value="" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-39,131,133]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-41,236,243]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-41,244,249]" Value="" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-44,42,59]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-44,60,65]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-45,18,28]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-45,31,36]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-45,60,62]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-46,18,26]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-47,58,67]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-47,70,79]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-47,80,83]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-48,71,75]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-49,23,33]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-49,36,43]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-49,44,47]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-51,16,26]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-51,64,68]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-51,108,113]" Value="" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-52,66,70]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-52,89,100]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[rev-52,103,111]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[rev-52,112,115]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[rev-53,0,5]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[rev-53,74,77]" Value="" />
+    <Keyword ID="keywordID100108" Coordinate="[rev-53,194,198]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[rev-53,179,184]" Value="" />
+    <Keyword ID="keywordID100110" Coordinate="[rev-55,24,37]" Value="-" />
+    <Keyword ID="keywordID100111" Coordinate="[rev-55,45,48]" Value="" />
+    <Keyword ID="keywordID100112" Coordinate="[rev-55,97,101]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[rev-55,102,105]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[rev-55,163,174]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[rev-55,175,178]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[rev-56,90,93]" Value="" />
+    <Keyword ID="keywordID100117" Coordinate="[rev-56,66,75]" Value="-" />
+    <Keyword ID="keywordID100118" Coordinate="[rev-56,61,65]" Value="" />
+    <Keyword ID="keywordID100119" Coordinate="[rev-56,94,99]" Value="" />
+    <Keyword ID="keywordID100120" Coordinate="[rev-56,115,124]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[rev-56,125,128]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[rev-57,20,37]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[rev-58,110,113]" Value="" />
+    <Keyword ID="keywordID100124" Coordinate="[rev-58,114,121]" Value="" />
+    <Keyword ID="keywordID100125" Coordinate="[rev-58,132,138]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[rev-59,51,64]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[rev-60,31,45]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[rev-60,84,97]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[rev-60,121,129]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[rev-60,174,179]" Value="" />
+    <Keyword ID="keywordID100131" Coordinate="[rev-60,148,154]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[rev-60,185,193]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[rev-61,67,75]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[rev-61,16,24]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-1-1,37,42]" Value="-" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-2-1,24,41]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-2-1,76,87]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-2-1,175,183]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-2-1,200,205]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-2-1,185,191]" Value="" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-3-1,31,36]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-3-1,37,42]" Value="-" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-3-1,51,55]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-4-1,16,22]" Value="-" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-5-1,99,108]" Value="" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-5-1,175,180]" Value="-" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-5-1,51,61]" Value="" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-6-2,31,36]" Value="-" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-6-2,0,8]" Value="-" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-6-2,116,121]" Value="-" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-6-2,70,74]" Value="-" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-7-1,40,46]" Value="+" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-8-2,40,43]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-8-2,44,48]" Value="+" />
+    <Keyword ID="keywordID100155" Coordinate="[gr-8-2,4,12]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[gr-9-1,36,47]" Value="+" />
+    <Keyword ID="keywordID100157" Coordinate="[gr-11-1,8,12]" Value="+" />
+    <Keyword ID="keywordID100158" Coordinate="[gr-11-1,32,35]" Value="" />
+    <Keyword ID="keywordID100159" Coordinate="[gr-11-1,44,50]" Value="-" />
+    <Keyword ID="keywordID100160" Coordinate="[gr-11-1,77,82]" Value="-" />
+    <Keyword ID="keywordID100161" Coordinate="[gr-11-1,118,126]" Value="-" />
+    <Keyword ID="keywordID100162" Coordinate="[gr-11-2,35,43]" Value="" />
+    <Keyword ID="keywordID100163" Coordinate="[gr-11-2,46,51]" Value="-" />
+    <Keyword ID="keywordID100164" Coordinate="[gr-11-4,69,74]" Value="-" />
+    <Keyword ID="keywordID100165" Coordinate="[gr-11-4,89,94]" Value="" />
+    <Keyword ID="keywordID100166" Coordinate="[gr-11-5,74,78]" Value="-" />
+    <Keyword ID="keywordID100167" Coordinate="[gr-11-5,34,37]" Value="-" />
+    <Keyword ID="keywordID100168" Coordinate="[gr-11-5,50,53]" Value="" />
+    <Keyword ID="keywordID100169" Coordinate="[gr-12-1,56,64]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[gr-12-1,69,72]" Value="" />
+    <Keyword ID="keywordID100171" Coordinate="[gr-12-1,73,77]" Value="-" />
+    <Keyword ID="keywordID100172" Coordinate="[gr-12-1,88,91]" Value="-" />
+    <Keyword ID="keywordID100173" Coordinate="[gr-12-1,203,216]" Value="-" />
+    <Keyword ID="keywordID100174" Coordinate="[gr-12-1,293,301]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="175" />
+    <Tag_Index Value="163" />
+  </Index>
+</Product>

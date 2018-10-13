@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="HP LaserJet M1132" Type="Printer">
+  <Accessories>
+    <Accessory Name="کابل يواس بي پرينتر" Price="5000" />
+  </Accessories>
+  <Features>
+    <Feature Name="ابعاد ">415x265x250 میلیمتر</Feature>
+    <Feature Name="وزن ">7.0 کیلوگرم</Feature>
+    <Feature Name="تکنولوژی چاپ ">لیزری</Feature>
+    <Feature Name="نوع چاپ ">سیاه و سفید</Feature>
+    <Feature Name="کاربری ">3 کاره (پرینت، اسکن، کپی)</Feature>
+    <Feature Name="سایز چاپ ">A4</Feature>
+    <Feature Name="سایز کاغذ قابل استفاده ">A4; A5; ISO B5; ISO C5; ISO C5/6; ISO C6; ISO DL; 16K; European postcard</Feature>
+    <Feature Name="نوع کاغذ قابل استفاده ">Paper (plain, laser), envelopes, transparencies, labels, cardstock, postcards</Feature>
+    <Feature Name="ظرفیت سینی کاغذ ">250 برگ</Feature>
+    <Feature Name="قابلیت تغذیه حودکار ADF ">خیر</Feature>
+    <Feature Name="سرعت چاپ سیاه وسفید ">تا 18 صفحه در دقیقه</Feature>
+    <Feature Name="رزولوشن چاپ ">1200x600</Feature>
+    <Feature Name="حافظه پرینتر ">8 مگابایت</Feature>
+    <Feature Name="پردازنده ">400 مگاهرتز</Feature>
+    <Feature Name="توان کار ماهانه ">8000 صفحه</Feature>
+    <Feature Name="زبان چاپ ">Host-based</Feature>
+    <Feature Name="چاپ روی سی دی ">خیر</Feature>
+    <Feature Name="قابلیت چاپ دو رو ">خیر</Feature>
+    <Feature Name="اسکنر ">بلی</Feature>
+    <Feature Name="نوع اسکنر ">Flatbed</Feature>
+    <Feature Name="رزولوشن اپتیکال اسکنر ">1200x4800</Feature>
+    <Feature Name="رزولوشن دیجیتال اسکنر ">19200</Feature>
+    <Feature Name="کیفیت یا عمق اسکن رنگی ">24 بیت</Feature>
+    <Feature Name="سرعت اسکن ">1</Feature>
+    <Feature Name="سایز اسکن ">216x297 میلیمتر</Feature>
+    <Feature Name="کپی ">بلی</Feature>
+    <Feature Name="سرعت کپی سیاه و سفید ">تا 18 صفحه در دقیقه</Feature>
+    <Feature Name="رزولوشن کپی ">600x600</Feature>
+    <Feature Name="بزرگنمایی کپی ">30 تا 400 درصد</Feature>
+    <Feature Name="حداکثر تعداد کپی Multi Copy ">از 1 برگ تا 90 برگ</Feature>
+    <Feature Name="فکس ">خیر</Feature>
+    <Feature Name="گوشی تلفن ">خیر</Feature>
+    <Feature Name="شماره گیر خودکار ">خیر</Feature>
+    <Feature Name="نوع کارتریج ">تونر به شماره  85A</Feature>
+    <Feature Name="کارکرد کارتریج مشکی ">برای چاپ 1500 برگ</Feature>
+    <Feature Name="صفحه نمایش LCD ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">Dual digit numeric LED</Feature>
+    <Feature Name="نوع پورت ارتباط به کامپیوتر ">پورت USB 2.0</Feature>
+    <Feature Name="کارت خوان ">خیر</Feature>
+    <Feature Name="چاپ مستقیم PictBridge ">خیر</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wi-Fi ">خیر</Feature>
+    <Feature Name="اقلام همراه پرینتر ">HP LaserJet Pro M1132 MFP; power cord(s); output tray; starter HP LaserJet Black print cartridge (average cartridge yield 700 standard pages, declared yield value in accordance with ISO/IEC 19752); Readiris PRO 11 text recognition software; CD(s) with software and documentation; Installation Guide; support flyer; Errata sheet; Discovery Sheet; Warranty Guide (where applicable)</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">اینک قصد داریم پرینتر دیگری از پرینترهای لیزری کمپانی Hp را معرفی کنیم.</Sentence>
+    <Sentence ID="rev-2" Value="0">پرینتری چند کاره از رده‌ی Entry Level یا سطح مبتدی.</Sentence>
+    <Sentence ID="rev-3" Value="0">به هر صورت اکنون ما در دنیایی زندگی می‌کنیم،  که کاربران پرینترها انتظارات بالاتری علاوه بر گرفتن پرینت ساده از دستگاه خود دارند.</Sentence>
+    <Sentence ID="rev-4" Value="0">به صورتی که توانایی کپی کردن،  اسکن،  فکس،  پرینت عکس،  پرینت دورو،  قابلیت اتصال از طریق Bluetooth و WiFi را نیز باید داشته باشد.</Sentence>
+    <Sentence ID="rev-5" Value="+2">به هر صورت معمولا چیزی که بیشتر کاربران از پرینتری پر کار در این سطح قیمت برای خانه و یا دفتر کار انتظار دارند،  تولید پرینت های با کیفیت بالا،  با سرعت زیاد و البته هزینه‌ی نگهداری پایین است.</Sentence>
+    <Sentence ID="rev-6" Value="0">همچنین عمل اسکن را هم باید خیلی خوب انجام دهد.</Sentence>
+    <Sentence ID="rev-7" Value="+1">M1132 نیز پرینتری است که به نظر یکی از بهترین‌ها برای ایفای این نقش می‌باشد.</Sentence>
+    <Sentence ID="rev-8" Value="0">در ادامه بیشتر توضیح می‌دهیم.</Sentence>
+    <Sentence ID="rev-9" Value="0">همانطور که گفتیم،  M1132 پرینتری لیزری،  تک رنگ و چند کاره است.</Sentence>
+    <Sentence ID="rev-10" Value="+1">ابعاد آن 415 x 265 x 250 میلی متر می‌باشد و وزن آن نیز به حدود 7 کیلوگرم می‌رسد که وزنی نسبتا کم محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-11" Value="0">این پرینتر بدنه‌ی مشکی استایلیش و البته نه خیلی لوکس دارد و سعی شده که کنترل‌ها و اتصالات کمی هم داشته باشد.</Sentence>
+    <Sentence ID="rev-12" Value="0">سینی جلویی توانایی نگهداری 150 برگ کاغذ A4 را دارد و درست در بالای آن،  سینی خروجی قرار گرفته است که به صورت همزمان 100 کاغذ می‌توانند درون آن جای گیرند.</Sentence>
+    <Sentence ID="rev-13" Value="0">پرینت دورو باید به صورت دستی انجام شود.</Sentence>
+    <Sentence ID="rev-14" Value="0">همچنین USB Flash card یا شیار کارت حافظه هم وجود ندارد.</Sentence>
+    <Sentence ID="rev-15" Value="0">علاوه بر این ها،  اتصالات WiFi و Ethernet هم وجود ندارد.</Sentence>
+    <Sentence ID="rev-16" Value="0">بنابراین شما می‌مانید و یک پورت USB برای اتصال به رایانه.</Sentence>
+    <Sentence ID="rev-17" Value="+1">Hp زمان راه اندازی و Setup را با استفاده از فن آوری Smart Install Technology به طور چشمگیری کاهش داده است که به شما اجازه می‌دهد تا بدون احتیاج به یک CD جداگانه برای نصب،  فقط پرینتر را به رایانه متصل کنید تا سپس عمل نصب به صورت خودکار انجام گیرد.</Sentence>
+    <Sentence ID="rev-18" Value="0">پنل کنترل خیلی ساده است و فقط دو نمایشگر LED در کنار دکمه های بالا و پایین،  Start و Stop،  دکمه‌ی Setup،  دکمه‌ی Dark/Light tone و دکمه‌ی Copy Size قرار گرفته است.</Sentence>
+    <Sentence ID="rev-19" Value="+2">سرعت پرینت به نوعی فوق العاده می‌باشد،  به طوری که در تنظیمات استاندارد با رزولوشن 600،  این پرینتر توانایی چاپ 18 صفحه‌ی A4 در دقیقه را دارد.</Sentence>
+    <Sentence ID="rev-20" Value="+1">اگر در همین رزولوشن آن را بر روی Economic mode قرار دهید،  سرعت به 19 صفحه در دقیقه افزایش می‌یابد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">حتی اگر رزولوشن را به 1200 برسانید هم سرعت به 12 صفحه در دقیقه کاهش می‌یابد که باز هم سرعت خوبیست.</Sentence>
+    <Sentence ID="rev-22" Value="+2">کیفیت پرینت در هر دو رزولوشنی که گفتیم،  خیلی خوب است و رنگ مشکی کاملا مشخص و غلیظ می‌باشد.</Sentence>
+    <Sentence ID="rev-23" Value="0">رزولوشن اسکن می‌تواند به 1200dpi هم برسد.</Sentence>
+    <Sentence ID="rev-24" Value="0">ولی در نظر داشته باشید که با رزولوشن پیشفرض 150dpi،  سرعت اسکن به بیش از 4 صفحه در دقیقه نمی‌رسد.</Sentence>
+    <Sentence ID="rev-25" Value="+1">کاربرانی که به مصرف انرژی اهمیت می‌دهند حتما خوشحال می‌شوند که این پرینتر دارای ویژگی به نام Auto on/Auto off است که باعث می‌شود وقتی پرینتر احساس می‌کند که مورد استفاده قرار نمی‌گیرد به صورت خودکار به مود Sleep برود.</Sentence>
+    <Sentence ID="rev-26" Value="+2">به هر صورت همانطور که گفتیم،  Hp Laser Jet Pro M1132 MFP پرینتر لیزری سیاه و سفیدی (تک رنگ) است که سرعت و کیفیت بسیار بالایی را در عمل چاپ ارایه می‌دهد.</Sentence>
+    <Sentence ID="rev-27" Value="+1">توانایی عملیات اسکن و کپی هم باعث می‌شوند که بتوانید دست کم در سه مورد از این پرینتر استفاده کنید.</Sentence>
+    <Sentence ID="rev-28" Value="0">با این حال برای پایین نگه داشتن قیمت،  سعی شده که ظاهر،  کنترل پنل و کانکشن های آن ساده باشند.</Sentence>
+    <Sentence ID="rev-29" Value="+1">بنابراین اگر به دنبال پرینتری با این ویژگی‌ها هستید،  M1132 گزینه‌ی مناسبی است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>ارائه سرعت و کیفیت بسیار بالا در پرینت</Advantage>
+    <Advantage>توانایی پرینت، اسکن و کپی</Advantage>
+    <Advantage>ابعاد نسبتا جمع و جور و وزن نسبتا کم</Advantage>
+    <Advantage>بهره گیری از فن آوری Smart install technology برای نصب و راه اندازی سریع بدون نیاز به CD</Advantage>
+    <Advantage>ساختار ساده و وزن مناسب</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="عبدالرضا موذني " Value="+1">
+      <Sentence ID="gr-1-1" Value="0">من دو سال است که از اين پرينتر استفاده مي کنم.</Sentence>
+      <Sentence ID="gr-1-2" Value="+2">کار با آن بسيار راحت و ساده است.</Sentence>
+      <Sentence ID="gr-1-3" Value="-1">تنها عيبي که دارد در موقع  استفاده صداي نسبتا زيادي دارد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="امين محمدي بوئيني " Value="+1">
+      <Sentence ID="gr-2-1" Value="+1">با توجه به قيمتش پرينتر خوبيه.</Sentence>
+      <Sentence ID="gr-2-2" Value="0">سرعت پرينتش بد نيست و از کيفيت اسکنش هم راضيم اما موقع کپي کردن کيفيت کپي مطلوب نيست و کمي تيره کپي ميکنه که به نظر من بهتره اول يه اسکن از متن يا عکسي که ميخوايد کپي کنيد بگيريد بعد پرينت کنيد تا کيفيت مناسبي داشته باشه.</Sentence>
+      <Sentence ID="gr-2-3" Value="+1">در کل پرينتر خوبيه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="جلال داوديان " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">اين پرينتر فوق العاده است.</Sentence>
+      <Sentence ID="gr-3-2" Value="+1">من يک سالي شده که اين پرينتر خريدم ولي تا به حال هيچ مشکلي باهاش نداشتم.</Sentence>
+      <Sentence ID="gr-3-3" Value="+2">هم 3 کارست هم قيمتش با توجه با کاراييش خيلي مناسبه هم اندازه اش متناسبه و هم شيک و زيباست.</Sentence>
+      <Sentence ID="gr-3-4" Value="+2">در مورد کيفيت اسکن و پرينت و کپي مي تونين خودتون تغييرش بدين و در کل عاليه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="محمد جواد داوديان " Value="+1">
+      <Sentence ID="gr-4-1" Value="+2">خيلي کارش درسته من که تا حالا باهاش مشکلي نداشتم.</Sentence>
+      <Sentence ID="gr-4-2" Value="0">نسبت به کارايي اين دستگاه قيمتش خيلي مناسبه ولي يه چيزي يه کم صداش زيادي بلنده.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-5-1" Value="+2">فضاي کمي اشغال ميکند و به دليل سه کاره بودن خيلي از دست آن راضي خواهيد بود و سرعت خوبي هم دارد براي نصب هم نياز به سي دي نداريد و در مدت زمان کمي نصب ميشه.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="ميهمان" Score="14" Voters="20" Value="+1">
+      <Sentence ID="cr-1-1" Value="+1">دستگاه خوبي است سرعت و کنترلرهاي خوبي دارد کپي و اسکن خوب انجام ميدهد.</Sentence>
+      <Sentence ID="cr-1-2" Value="-1">هر از چند گاهي مثلن وقتي که برق قطع ميشود کاغذ که وسط دستگاه گير کرده براي در آوردنش ريسک بايد بکني بکشي در بياد يا نه مونده به شانس شما از روشهاي مختلف امتحان کردم خودش نميتونه در بياره.</Sentence>
+      <Sentence ID="cr-1-3" Value="+1">از ساير نظر خوب است انشالله که برق قطع نشود و يا آدم خوش شانسي باشيد.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">در مجموع نسبت به قيمت خوب است.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">تونرش ميتونست حجيم تر از اين باشد که هست.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="108" />
+  <Performance Value="6.30" />
+  <Capability Value="6.40" />
+  <Production_Quality Value="6.10" />
+  <Ergonomics Value="6.10" />
+  <Purchase_Value Value="6.30" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="سطح" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="کیفیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="سرعت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="هزینه‌ی نگهداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="اسکن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="زمان راه اندازی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="پنل کنترل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="ظاهر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10048" Root="کانکشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="انتخاب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="کار کردن" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="صدا" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="پرينتر" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10064" Root="سرعت پرينت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10067" Root="کيفيت اسکن" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10070" Root="کيفيت کپي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="پرينتر" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="قيمت" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="اندازه" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="قيمت" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10089" Root="صدا" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="فضای اشغالی" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="پرینتر" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="سرعت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="زمان نصب" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="پرینتر" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100106" Root="سرعت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100109" Root="کنترلر" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100112" Root="اسکن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100115" Root="کاغذ" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,41,44]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,45,50]" Relation="tagID1001" Value="" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-5,132,137]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-5,138,142]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-22,0,11]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-22,41,49]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-26,106,111]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-26,112,124]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-5,148,152]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-5,153,157]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-19,0,10]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-19,19,29]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-20,59,63]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-20,84,90]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-21,86,90]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-21,91,97]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-26,99,103]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-26,112,124]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-5,166,181]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-5,182,187]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-6,11,15]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-6,27,35]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-10,83,87]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-10,88,96]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-11,11,17]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-11,40,52]" Relation="tagID10019" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-17,3,18]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-17,77,96]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-18,0,9]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-18,10,19]" Relation="tagID10025" Value="" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-28,57,66]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-28,83,87]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-22,56,59]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-22,65,75]" Relation="tagID10036" Value="+" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-22,78,82]" Relation="tagID10036" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-28,50,54]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-28,83,87]" Relation="tagID10044" Value="" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[rev-28,69,79]" Relation="elementID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-28,83,87]" Relation="tagID10049" Value="" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[rev-29,60,67]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[rev-29,68,74]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[gr-1-2,0,3]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[gr-1-2,10,20]" Relation="tagID10055" Value="+" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[gr-1-2,23,27]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[gr-1-3,35,39]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[gr-1-3,40,51]" Relation="tagID10059" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[gr-2-1,17,23]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[gr-2-1,24,29]" Relation="tagID10062" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[gr-2-3,6,12]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[gr-2-3,13,18]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[gr-2-2,0,11]" Relation="elementID10064" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[gr-2-2,12,19]" Relation="tagID10065" Value="" />
+    <Tag Type="Target(I)" ID="tagID10068" Coordinate="[gr-2-2,25,36]" Relation="elementID10067" Value="" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[gr-2-2,40,45]" Relation="tagID10068" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10071" Coordinate="[gr-2-2,64,73]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[gr-2-2,74,84]" Relation="tagID10071" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[gr-2-2,96,99]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[gr-2-2,87,95]" Relation="tagID10073" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[gr-3-1,4,10]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[gr-3-1,11,21]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[gr-3-3,14,19]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[gr-3-3,39,50]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[gr-3-3,54,63]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[gr-3-3,64,71]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[gr-4-2,26,31]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[gr-4-2,32,43]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[gr-4-2,62,66]" Relation="elementID10089" Value="" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[gr-5-1,0,4]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[gr-5-1,5,8]" Relation="tagID10092" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-5-1,56,58]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-5-1,59,63]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[gr-5-1,77,81]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[gr-5-1,82,86]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[gr-5-1,133,141]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[gr-5-1,142,145]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[cr-1-1,0,6]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[cr-1-1,7,11]" Relation="tagID100104" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100107" Coordinate="[cr-1-1,16,20]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[cr-1-1,33,37]" Relation="tagID100107" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100110" Coordinate="[cr-1-1,23,32]" Relation="elementID100109" Value="" />
+    <Tag Type="Opinion" ID="tagID100111" Coordinate="[cr-1-1,33,37]" Relation="tagID100110" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[cr-1-1,49,53]" Relation="elementID100112" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[cr-1-1,54,57]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[cr-1-2,42,46]" Relation="elementID100115" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[cr-1-2,61,69]" Relation="tagID100116" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-5,138,142]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-5,153,157]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-5,182,187]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-6,27,35]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-7,39,48]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-10,88,96]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-11,40,52]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-17,77,96]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-19,19,29]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-20,84,90]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-21,91,97]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-22,41,49]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-22,65,75]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-22,78,82]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-25,45,51]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-25,192,198]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-26,112,124]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-27,0,7]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-28,83,87]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-29,68,74]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[gr-1-2,10,20]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[gr-1-2,23,27]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[gr-1-3,40,51]" Value="-" />
+    <Keyword ID="keywordID10023" Coordinate="[gr-1-3,5,9]" Value="-" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-2-1,24,29]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-2-2,40,45]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-2-2,74,84]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-2-2,87,95]" Value="-" />
+    <Keyword ID="keywordID10028" Coordinate="[gr-2-3,13,18]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-3-1,11,21]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[gr-3-2,49,58]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[gr-3-3,39,50]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[gr-3-3,64,71]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-3-3,77,80]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[gr-3-3,83,89]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[gr-3-4,69,74]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-4-1,0,15]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-4-1,36,48]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-4-2,32,43]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-4-2,67,78]" Value="-" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-5-1,5,8]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-5-1,59,63]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-5-1,82,86]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-5-1,142,145]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[cr-1-1,7,11]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[cr-1-1,33,37]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[cr-1-2,85,89]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[cr-1-1,54,57]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[cr-1-2,61,69]" Value="-" />
+    <Keyword ID="keywordID10050" Coordinate="[cr-1-2,170,177]" Value="-" />
+    <Keyword ID="keywordID10051" Coordinate="[cr-1-3,12,15]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[cr-1-4,22,25]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="53" />
+    <Tag_Index Value="118" />
+  </Index>
+</Product>
