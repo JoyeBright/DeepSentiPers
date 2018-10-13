@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="GoPro HD Helmet Hero" Type="Camcorder">
+  <Accessories>
+    <Accessory Name="کيف دوربين Benro Beyond S10" Price="38000" />
+    <Accessory Name="کيف دوربين Case Logic DCB-303" Price="29000" />
+    <Accessory Name="کيف دوربين Case Logic DCB-305" Price="36000" />
+    <Accessory Name="کيت تميز کننده Marshal Cleaning Fluid" Price="9500" />
+    <Accessory Name="تک پايه قدي Tristar MPI-254" Price="32000" />
+    <Accessory Name="کيت فيلمبرداري سه بعدي 3D Hero System" Price="150000" />
+    <Accessory Name="تبديل پايه GoPro به سه پايه معمولي" Price="18000" />
+    <Accessory Name="محفظه مخصوص ضد آب مچ بند GoPro" Price="75000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/08/12</Feature>
+    <Feature Name="نوع دوربین ">کارت حافظه ای Memory Card</Feature>
+    <Feature Name="نوع ذخیره سازی ">ذخیره سازی بر روی کارت های حافظه SDHC تا ظرفیت 32 گیگابایت</Feature>
+    <Feature Name="ابعاد ">60x42x30 mm</Feature>
+    <Feature Name="وزن ">167 گرم</Feature>
+    <Feature Name="رنگ ">نقره‌ای بژ</Feature>
+    <Feature Name="جنس بدنه ">پلاستیک</Feature>
+    <Feature Name="نوع حسگر ">CMOS</Feature>
+    <Feature Name="دقت حسگر ">5.0 مگاپیکسل</Feature>
+    <Feature Name="دقت مؤثر حسگر ">5.0 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1 به 2.3 اینچ اینچ</Feature>
+    <Feature Name="رزولوشن فیلم ">Full HD</Feature>
+    <Feature Name="نور فیلم برداری (پرژکتور) ">خیر</Feature>
+    <Feature Name="فرمت فیلم ">H.264 compression</Feature>
+    <Feature Name="صدا ">استریو</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">بلی</Feature>
+    <Feature Name="توضیحات فیلمبرداری سه بعدی ">با استفاده از کیت مخصوص 3D Hero System که به صورت جداگانه عرضه می شود.</Feature>
+    <Feature Name="قابلیت عکسبرداری ">بلی</Feature>
+    <Feature Name="رزولوشن عکس ">5.0 مگاپیکسل</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1 به 30 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1 به 500 ثانیه</Feature>
+    <Feature Name="حالت های تصویر برداری ">عکاسی به صورت دستیعکاسی به صورت متوالی هر 2، 5، 10، 30 یا 60 ثانیه یک عکسعکاسی پیاپی با سرعت 3 عکس در ثانیهتایمر</Feature>
+    <Feature Name="فاصله کانونی ">بسیار واید 170 درجه میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F2.8</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">0 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">0 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر تصویر ">الکترونیکی (Steady Shot)</Feature>
+    <Feature Name="فوکوس دستی ">خیر</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">ندارد</Feature>
+    <Feature Name="سایز صفحه نمایش ">1.5 اینچ</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="ورودی میکروفون ">خیر</Feature>
+    <Feature Name="خروجی هدفون ">خیر</Feature>
+    <Feature Name="خروجی HDMI ">خیر</Feature>
+    <Feature Name="خروجی USB ">خیر</Feature>
+    <Feature Name="خروجی تلویزیون ">خیر</Feature>
+    <Feature Name="فلاش ">خیر</Feature>
+    <Feature Name="فیلمبرداری در شب ">خیر</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="کارت حافظه ">SD</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="بلندگوی داخلی ">خیر</Feature>
+    <Feature Name="باتری ">Rechargeable 1100 mAh lithium-ion</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="سایر مشخصات ">Capture Modes: Single shot, photo every 2, 5, 10, 30 or 60 secs.; 3 photo burst; self-timerHD Video Resolution Modes: (subject to change, pending final firmware release)1080p = 1920×1080 pixels (16:9), 30 fps, 15 Mbit/s data rate960p = 1280×960 pixels (4:3), 30 fps, 12 Mbit/s data rate720p = 1280×720 pixels (16:9), 60 fps, 15 Mbit/s data rate720p = 1280×720 pixels (16:9), 30 fps, 8 Mbit/s data rateWVGA = 848×480 pixels (16:9), 60 fps, 8 Mbit/s data rateAngle of View: 170º ultra wide angle in WVGA, 720p, or 960p modeAngle of View: 127º wide angle in 1080p mode</Feature>
+    <Feature Name="اقلام همراه دوربین ">What’s Included:1 HD HERO Camera (5 megapixel)1 Rechargeable 1100 mAh Lithium-Ion Battery1 Waterproof Quick-Release Housing (180’/60 m)1 Headlamp-Style Head Strap1 Vented Helmet Strap2 Curved, 3M™ Adhesive Mounts2 Flat, 3M Adhesive Mounts1 Three-Way Pivoting Side Arm Assembly2 Quick-Release Buckles1 USB Cable1 Component Video (HDTV) Cable1 Composite Video + Audio Out Cable</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">به کدام ورزش علاقه مندید؟</Sentence>
+    <Sentence ID="rev-2" Value="0">آیا تا به حال اتفاق افتاده است که کاری خارق العاده انجام داده باشید،  اما امکان ثبت آن تصاویر عملا میسر نبوده باشد؟</Sentence>
+    <Sentence ID="rev-3" Value="0">آیا هیجان و ماجراجویی مرزی مشخص دارد؟</Sentence>
+    <Sentence ID="rev-4" Value="0">GoPro HD HERO نام دوربین فیلم برداری جدید شرکت آمریکایی GoPro است که اختصاصا برای ورزشکاران و ماجراجویی طراحی شده است.</Sentence>
+    <Sentence ID="rev-5" Value="+2">این دوربین مقام پرفروش ترین دوربین ورزشی جهان را در اختیار دارد.</Sentence>
+    <Sentence ID="rev-6" Value="+2">همچنین توسط بسیاری از موسسات و نشریات معتبر به عنوان برترین دوربین ورزشی موجود انتخاب و تحسین شده است.</Sentence>
+    <Sentence ID="rev-7" Value="+1">این دوربین با ظاهری نامتعارف،  اما کاملا حرفه ای،  شما را به دنیای ورزش و ماجراجویی دعوت می کند.</Sentence>
+    <Sentence ID="rev-8" Value="0">فریب ظاهر ساده و مکعبی شکل آن را نخورید.</Sentence>
+    <Sentence ID="rev-9" Value="+1">به شما قول می دهیم GO Pro Hero فقط یک دوربین نیست،  این وسیله همه آنچه را که برای ثبت لحظات ماجراجویانه و ورزشی به آن نیاز دارید فراهم می کند.</Sentence>
+    <Sentence ID="rev-10" Value="0">این دوربین با توجه به نوع کاربرد و فعالیتی که به آن می پردازید در سه مدل متفاوت عرضه می شود:1- مدل HD Helmet HERO که دارای تجهیزاتی تکمیلی برای اتصال به انواع کلاههای ورزشی می باشد.</Sentence>
+    <Sentence ID="rev-11" Value="+1">این دوربین ایده آل برای ورزشهای از قبیل پرواز، دوچرخه سواری،  اسکی و اسکیت،  سنگ نوردی،  کوه نوردی،  غار نوردی،  بانجی جامپینگ،  قایق رانی و دیگر ورزشهای از این دست می باشد. 2- مدل HD MotorSports HERO که مناسب برای علاقه مندان اتومبیل رانی،  موتور سواری،  دوچرخه سواری،  کارتینگ و جت اسکی می باشد.</Sentence>
+    <Sentence ID="rev-12" Value="0">این مدل دارای تجهیزاتی تکمیلی برای اتصال به فرمان،  داشبورد،  کلاه و بدنه خارجی انواع وسائط نقلیه از قبیل اتومبیل،  موتورسیکلت،  دوچرخه و جت اسکی است است.</Sentence>
+    <Sentence ID="rev-13" Value="0">3- مدل HD Surf HERO مدلی است که ویژه انواع ورزشهای آبی از جمله موج سواری است.</Sentence>
+    <Sentence ID="rev-14" Value="0">فراموش کنید که هر سه مدل Helmet،  MotorSports،  و Surf دارای دوربین هایی با مشخصات یکسان می باشد و تنها تفاوت آنها در متعلقات و تجهیزات تکمیلی اتصال موجود در جعبه می باشد.</Sentence>
+    <Sentence ID="rev-15" Value="0">به عنوان مثال در مدل MotorSport به غیر از خود دوربین،  بسته شما دارای اداواتی مخصوص برای اتصال دوربین به داشبورد،  سپر،  گلگیر،  فرمان،  کلاه،  و یا هر جایی که در ورزشهای مربوطه تصورش میسر باشد،  است.</Sentence>
+    <Sentence ID="rev-16" Value="0">و به همین ترتیب در مدلهای Helmet و Surf.</Sentence>
+    <Sentence ID="rev-17" Value="+2">این دوربین در هر سه مدل عرضه شده دارای یک محفظه ضد آب بسیار مقاوم و کاربردی از جنس پلی کربنات می باشد که قابلیت تحمل فشار و نفوذ آب تا عمق 60 متری را داراست.</Sentence>
+    <Sentence ID="rev-18" Value="+1">البته هر کسی که آشنایی با دوربین های ضد آب دارد می داند که تحمل فشار آب تا این عمق بسیار تحسین برانگیز است.</Sentence>
+    <Sentence ID="rev-19" Value="+1">این دوربین فیلم برداری به راحتی تقریبا در هر مکانی نصب شود تا لحظات پر هیجان ورزشی از زاویه ی دید ورزشکار ثبت شوند.</Sentence>
+    <Sentence ID="rev-20" Value="+2">این دوربین توانایی ضبط ویدیویی بسیار با کیفیت Full HD با سرعت 30 فریم بر ثانیه و  HD با سرعت 60 فریم بر ثانیه را دارد.</Sentence>
+    <Sentence ID="rev-21" Value="0">اما راز موفقیت این دوربین در ثبت لحظات ورزشی در چیست؟</Sentence>
+    <Sentence ID="rev-22" Value="+2">شاید بتوان گفت بزرگترین نقطه قوت و مزیت این دوربین به دیگر دوربین های رایج ورزشی و غیر ورزشی،  بهره گیری از یک لنز بسیار واید 170 درجه است که تصاویری بسیار عریض و خیره کننده ضبط می کند،  قابلیتی که نقش موثری در خلق تصاویر مهیج و زیبا در فعالیت های ورزشی و ماجرا جویانه دارد.</Sentence>
+    <Sentence ID="rev-23" Value="+1">یکی دیگر از قابلیت های کلیدی این مدل سرعت تصویر برداری 60 فریم بر ثانیه آن است،  به این معنا که می توان فیلمهای ورزشی و مهیج را به صورت کاملا نرم و آهسته و با سرعت 2/1 پخش کرد.</Sentence>
+    <Sentence ID="rev-24" Value="0">GOPRO به غیر از 3 مدل ذکر شده،  یک مدل اقتصادی تر را نیز عرضه کرده است که تمام ویژگی ها و قابلیت های ذکر شده را دارد و تنها تفاوت آن با سه مدل ذکر شده در فیلمبرداری با رزولوشن 960P به جای 1080P است.</Sentence>
+    <Sentence ID="rev-25" Value="0">تفاوتی که شاید تاثیر چشم گیری در کیفیت تصاویر ثبت شده ایجاد نمی کند.</Sentence>
+    <Sentence ID="rev-26" Value="0">یک دوربین ورزشی اصولا باید از چه ویژگی هایی بهره ببرد که آن را از دیگر دوربین های فیلم برداری متمایز کند؟</Sentence>
+    <Sentence ID="rev-27" Value="+1">خوب، Hero به طرز شگفت انگیزی کوچک و سبک وزن است.</Sentence>
+    <Sentence ID="rev-28" Value="+2">از نظر کیفیت ساخت و استحکام نیز به ممد استفاده از محفظه ضد آب و پوشش لاستیکی یا Robber Coat آن؛ واقعا درجه یک است.</Sentence>
+    <Sentence ID="rev-29" Value="+1">اما علاوه بر کوچک و سبک وزن بودن باید بتوان به راحتی آن را به همراه داشت.</Sentence>
+    <Sentence ID="rev-30" Value="0">مطمئنا برای یک ورزشکار بهترین راه حمل یک دوربین،  در دست گرفتن آن نیست،  بلکه GoPro HD را به طرق مختلف می توانید به همراه خود داشته باشید.</Sentence>
+    <Sentence ID="rev-31" Value="0">با این دوربین تجهیزاتی همراه شده اند که این نقش را بر عهده دارند.</Sentence>
+    <Sentence ID="rev-32" Value="+2">یکی از راه های به همراه داشتن این دوربین،  بستن آن به قسمت سر،  به وسیله ی سربندی است که درست شبیه به سر بند هدلایت ولی کاملا با کیفیت و قدرتمندتر می باشد.</Sentence>
+    <Sentence ID="rev-33" Value="0">پس حتی اگر کلاه ورزشی خاصی هم به سر نداشتید می توانید دوربین را به این سربند کشی و سپس به سر خود وصل کنید تا دوربین بر روی پیشانی شما قرار بگیرد.</Sentence>
+    <Sentence ID="rev-34" Value="0">یک راه دیگر استفاده از بند مخصوصی است که می توان دوربین را با آن به کلاه های ورزشی مخصوصی که معمولا دارای حفره های خالی تهویه هستند،  مثل کلاه دوچرخه سواری متصل کرد.</Sentence>
+    <Sentence ID="rev-35" Value="0">دو پد چسبنده ی قوس دار و دو پد مسطح نیز وجود دارد که به هر سطح صیقلی،  مانند سطح کلاه و حتی بدنه ی اتوموبیل می چسبند تا دوربین را بدین طریق به چنین سطوحی متصل کنید.</Sentence>
+    <Sentence ID="rev-36" Value="+1">مطمئن باشید هرگز از سطوحی که به آن متصل شده است،  جدا نخواهد شد.</Sentence>
+    <Sentence ID="rev-37" Value="0">علاوه بر تجهیزات استقراری که به هنگام خرید دستگاه،  درون جعبه وجود دارند،  به صورت جداگانه نیز می توانید تجهیزات جانبی را تهیه کنید تا بتوانید به طرق مختلف دوربین را به هرجایی که خواستید متصل نمایید.</Sentence>
+    <Sentence ID="rev-38" Value="+1">مثلا به راحتی می توانید بوسیله ی تجهیزات استقرار مختلف؛ دوربین را به دسته ی دوچرخه ی خود،  به سطح جلویی یک اسکیت برد،  به یک تخته ی موج سواری،  میله های کایت و یا حتی مچ و یا سینه ی خود متصل کنید.</Sentence>
+    <Sentence ID="rev-39" Value="0">به هر صورت در نصب این دوربین علاوه بر استفاده از استقرارهای موجود از خلاقیت خود نیز می توانید استفاده کنید.</Sentence>
+    <Sentence ID="rev-40" Value="+1">این دوربین با وزن تنها 167 گرم،  آن قدر کوچک و سبک است که می توان آن را برای پژوهش های علمی رفتار حیوانات بر روی بدن یک حیوان و یا برای فیلم برداری هوایی بر روی یک هلیکوپتر کنترل از راه دور و یا یک بالون هم نصب کرد!</Sentence>
+    <Sentence ID="rev-41" Value="+1">علاوه بر روش های مختلف اتصال دوربین به بدن ورزشکار که منجر به ثبت تصاویر از زوایای دید بسیار جذاب و طبیعی می شوند،  این دوربین باید از ویژگی های محافظتی خوبی هم بهره ببرد تا در صورت مواجه با خطرات مختلف از قبیل ورود ضربه یا خیس شدن دوام بیاورد.</Sentence>
+    <Sentence ID="rev-42" Value="+1">بنابراین طراحان،  این دوربین را با یک محافظ پلی کربناتی همراه کرده اند که ضد ضربه و ضد آب می باشد.</Sentence>
+    <Sentence ID="rev-43" Value="+1">حتی می تواند فشار آب تا عمق 60 متری را به راحتی دوام بیاورد.</Sentence>
+    <Sentence ID="rev-44" Value="+1">در ضمن در صورت برخورد دوربین با مکان های مختلف؛ که اصلا هم بعید نیست سالم می ماند.</Sentence>
+    <Sentence ID="rev-45" Value="0">در یک آزمایش که توسط یکی از کاربران این دوربین به عمل آمد،  دوربین به یک بالون هواشناسی کوچک متصل و در کنار یک گوشی آیفون به منظور رهگیری آن به فضا رها شد.</Sentence>
+    <Sentence ID="rev-46" Value="0">در این آزمایش دوربین و بالون تا ارتفاع 100 هزار پایی اوج گرفتند و در دمای 60 درجه زیر صفر و سرعتی معادل 150 مایل بر ساعت نیز دوربین همچنان به کار خود ادامه داد.</Sentence>
+    <Sentence ID="rev-47" Value="+1">این یک رکورد شگفت انگیز است.</Sentence>
+    <Sentence ID="rev-48" Value="0">همین کافی است تا به قابلیت های ورزشی این دوربین مطئمن شویم.</Sentence>
+    <Sentence ID="rev-49" Value="+1">پس از اینکه کوچک و سبک بودن،  آسانی نحوه ی اتصال،  حمل و نقل، خاصیت ضد آب و ضد ضربه ی این دوربین بوسیله ی محافظ پلی کربناتی برای ما ثابت شد،  به سراغ ویژگی های فیلم برداری و کیفیت آن می رویم.</Sentence>
+    <Sentence ID="rev-50" Value="+2">همانطور که گفتیم،  GoPro HD Hero توانایی ضبط ویدیویی بسیار با کیفیت و با رزولوشن بالای Full HD و رزولوشن 1080p در 30 فریم بر ثانیه را دارد.</Sentence>
+    <Sentence ID="rev-51" Value="+1">اگر به دنبال فیلم برداری با سرعت بالاتری هستید می توانید رزولوشن 720p HD را هم انتخاب کنید که بدین ترتیب عمل ضبط ویدیویی با سرعت 60 فریم بر ثانیه انجام می شود تا جزئیات در حرکت های سریع؛ خیلی دقیق تر ثبت بشوند.</Sentence>
+    <Sentence ID="rev-52" Value="+1">بعلاوه این دوربین مجهز به لرزش گیر تصویر هم می باشد که تکان های ناشی از حرکات تند را تا حد ممکن کاهش دهد.</Sentence>
+    <Sentence ID="rev-53" Value="0">حسگر به کار رفته درون این دوربین از نوع CMOS و با ابعاد 1/2.3 اینچی می باشد،  یعنی دقیقا همان ابعاد حسگر دوربین های کامپکت را دارد.</Sentence>
+    <Sentence ID="rev-54" Value="+1">با این حال این حسگر حساسیت فوق العاده بالایی نسبت به نور دارد تا در شرایط نوری ضعیف تر هم دوربین بتواند تصاویر با کیفیت بالایی را ضبط کند.</Sentence>
+    <Sentence ID="rev-55" Value="0">این دوربین از یک لنز با زوم و فوکوس ثابت بهره می برد که نسبت گشودگی دیافراگم آن 2.8 است.</Sentence>
+    <Sentence ID="rev-56" Value="+1">چنین نسبتی به معنی ثبت روشن تر تصاویر در شرایط نوری تاریک می باشد تا باز هم بر کیفیت فیلم های گرفته شده افزوده شود.</Sentence>
+    <Sentence ID="rev-57" Value="+1">این لنز فوق العاده واید است،  به طوری که در هنگام ضبط ویدیویی در رزولوشن های WVGA،  720p HD و 960p HD،  میدان دیدی در حد 170 درجه به صورت عرضی را پوشش می دهد.</Sentence>
+    <Sentence ID="rev-58" Value="+2">در ضبط ویدیویی Full HD نیز میدان دید 127 درجه پوشش داده می شود که فوق العاده است.</Sentence>
+    <Sentence ID="rev-59" Value="0">به هر صورت از آن جایی که کاربری این دوربین به صورت ثابت بر روی بدن و یا تجهیزات ورزشکار و در صحنه های مخاطره انگیز است،  سازنده دلیل خاصی را برای قرار دادن کنترل های دستی بر روی آن ندیده.</Sentence>
+    <Sentence ID="rev-60" Value="0">به طوری که فقط دو دکمه بر روی بدنه ی آن دیده می شود که یکی از آن ها دکمه ی شاتر و دیگری دکمه ی رفتن به آپشن های مختلف است.</Sentence>
+    <Sentence ID="rev-61" Value="0">با این دو دکمه و نمایشگر LCD کوچکی که جلوی دوربین قرار دارد می توانید میان آپشن های مختلف و منوی دوربین حرکت کنید.</Sentence>
+    <Sentence ID="rev-62" Value="+1">اصولا همه ی پارامترها از جمله نوردهی،  فوکوس،  تراز سفیدی و غیره به صورت خودکار انجام می شود.</Sentence>
+    <Sentence ID="rev-63" Value="0">فقط در مورد نورسنجی می توانید انتخاب هایی چون میانگین گیری،  نقطه ای یا دیگر آپشن ها را داشته باشید.</Sentence>
+    <Sentence ID="rev-64" Value="0">البته شرکت سازنده یک نمایشگر LCD مخصوص برای این مدل به صورت جداگانه در نظر گرفته است که از قسمت پشت دوربین به آن متصل می شود.</Sentence>
+    <Sentence ID="rev-65" Value="0">در صورت لزوم شما می توانید آن را نیز سفارش دهید.</Sentence>
+    <Sentence ID="rev-66" Value="+1">یکی دیگر از تجهیزات عرضه شده برای این دوربین کیت تصویر برداری سه بعدی آن است که این قابلیت را به شما می دهد تا با استفاده از دو دوربین GOPro مجزا تصاویری واقعا سه بعدی خلق کنید.</Sentence>
+    <Sentence ID="rev-67" Value="+1">قابلیتی منحصر به فرد در هرچه مهیج تر کردن فیلمهای ورزشی.</Sentence>
+    <Sentence ID="rev-68" Value="0">این را هم بگوییم که GoPro HD Hero علاوه بر توانایی ضبط ویدیویی قابلیت عکاسی در رزولوشن 5 مگاپیکسل را هم دارد.</Sentence>
+    <Sentence ID="rev-69" Value="0">شما می توانید به صورت دستی و با فشردن دکمه ی شاتر عکاسی کنید و یا اینکه برای دوربین تعیین کنید که هر 2،  5،  10،  30 یا 60 ثانیه یک عکس بگیرد.</Sentence>
+    <Sentence ID="rev-70" Value="0">همچنین تایمر و توانایی عکاسی پیاپی با سرعت 3 فریم بر ثانیه را هم دارد.</Sentence>
+    <Sentence ID="rev-71" Value="0">اما اصولا به همان دلیلی که سازنده بر روی این دوربین آپشن های کنترل دستی را قرار نداده،  ترجیح داده که هیچ راهی از قبیل وجود چشمی یا نمایشگر Live view برای کادر بندی وجود نداشته باشد.</Sentence>
+    <Sentence ID="rev-72" Value="0">دلیل دیگر را هم می توان در لنز بسیار واید دید که نزدیک به 180 درجه را پوشش می دهد و عملا نیازی به کادر بندی دقیق نیست.</Sentence>
+    <Sentence ID="rev-73" Value="+1">اما بوسیله ی پایه ای که در زیر دوربین قرار می گیرد و توانایی چرخش دارد،  می توانید جهت فیلم برداری دوربین را تغییر دهید و حتی به جای مناظر روبرو از چهره ی خود فیلم برداری کنید.</Sentence>
+    <Sentence ID="rev-74" Value="+2">به هر صورت ویدیوها و عکس های گرفته شده با این دوربین کیفیت بسیار بالایی دارند و صدا هم با کیفیتی بسیار خوب،  به صورت استریو و بهتر از مدل های پیشین ضبط می شود.</Sentence>
+    <Sentence ID="rev-75" Value="0">عکس ها و فیلم ها بر روی کارت حافظه ی نوع SDHC که این دوربین می تواند تا سقف 32 گیگابایت آن را پشتیبانی کند ضبط می شوند.</Sentence>
+    <Sentence ID="rev-76" Value="0">شارژ این دوربین از طریق باتری لیتیومی 1100 میلی آمپری تامین می شود که در یک بار شارژ کامل می تواند تا 2.5 ساعت برای فیلم برداری شارژدهی کند.</Sentence>
+    <Sentence ID="rev-77" Value="+1">از نظر پورت ها و اتصالات هم خروجی های خوبی بر روی این دوربین دیده می شود.</Sentence>
+    <Sentence ID="rev-78" Value="0">بر روی بدنه یک پورت USB 2.0 برای اتصال به رایانه به منظور انتقال فایل ها و شارژ باتری ، خروجی HDMI برای اتصال به تلوزیون های دیجیتال و جک 2.5 میلی متری صدا دیده می شود.</Sentence>
+    <Sentence ID="rev-79" Value="+2">به هر صورت همانطور که گفتیم،  دوربین ورزشی GoPro HD Hero یک وسیله ی ایده آل برای ثبت لحظات پر هیجان و خاطره انگیز ورزشکاران است.</Sentence>
+    <Sentence ID="rev-80" Value="0">به خصوص ورزش های پر مخاطره مثل قایق سواری آب های خروشان،  اسکی،  کایت سواری،  اسکی روی آب،  پاراگلایدر و حتی موتور،  ماشین سواری و یا پرش با بانجی!</Sentence>
+    <Sentence ID="rev-81" Value="+2">به هر ورزشی که قصد دارید بپردازید کافی است که بوسیله ی استقرار مناسب،  دوربین را به بدن یا وسیله ی خود متصل کنید و سپس فیلم برداری را شروع کنید تا تصاویر با کیفیت بسیار عالی Full HD بر روی کارت حافظه ی دوربین ثبت شوند و سپس بتوانید یا برای لذت بردن و یا بررسی علمی،  عملیات ورزشی خود را مشاهده کنید.</Sentence>
+    <Sentence ID="rev-82" Value="+2">در نهایت دیجی کالا GOPro HD Hero را بهترین دوربین ورزشی تجاری ارزیابی میکند و آن را به کلیه علاقه مندان و ورزشکاران پیشنهاد می کند.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="mohammad mohammadi " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">سلام دوستان ,  من از اين دوربين استفاده کردم و فوق العاده هست.</Sentence>
+      <Sentence ID="gr-1-2" Value="+1">به عنوان يک مصرف کننده پيشنهاد حتما استفاده کنيد.</Sentence>
+      <Sentence ID="gr-1-3" Value="0">موفق باشيد</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="18" />
+  <Performance Value="7.60" />
+  <Capability Value="6.60" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="6.90" />
+  <Purchase_Value Value="6.80" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="ظاهر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="محفظه ضد آب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="نصب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="ویدیو" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="استحکام" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10046" Root="سربند" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="زاویه دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10060" Root="رکورد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="نحوه اتصال" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="جزئیات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="تکان" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="حسگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10084" Root="کیفیت فیلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10089" Root="میدان دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="نمایشگر LCD" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100108" Root="خروجی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="دوربين" Relation="gr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-5,4,10]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-5,16,27]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1003" Coordinate="[rev-6,60,66]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[rev-6,53,59]" Relation="tagID1003" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-11,4,10]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-11,11,18]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-27,5,9]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-27,29,33]" Relation="tagID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-27,36,43]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-40,4,10]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-40,40,44]" Relation="tagID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-40,47,50]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[rev-42,22,28]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-42,74,81]" Relation="tagID10057" Value="+" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-42,84,89]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[rev-79,30,36]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[rev-79,68,75]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[rev-82,43,49]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[rev-82,36,42]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-7,14,19]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-7,20,28]" Relation="tagID1006" Value="-" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-7,35,48]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-8,5,9]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-8,10,14]" Relation="tagID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-8,17,22]" Relation="tagID1009" Value="" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-17,42,53]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-17,54,65]" Relation="tagID10015" Value="+" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-17,68,75]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-19,51,54]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-19,23,31]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-20,23,30]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-20,31,45]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[rev-50,45,52]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[rev-50,53,67]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[rev-74,11,18]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[rev-74,53,71]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-22,111,114]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-22,115,125]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[rev-57,4,7]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[rev-57,8,23]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10097" Coordinate="[rev-72,27,30]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[rev-72,31,41]" Relation="tagID10097" Value="" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-22,142,149]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-22,150,160]" Relation="tagID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-22,163,173]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-22,215,221]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-22,222,226]" Relation="tagID10031" Value="+" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-22,229,233]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-54,104,110]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-54,114,126]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10082" Coordinate="[rev-56,31,37]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[rev-56,23,30]" Relation="tagID10082" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[rev-66,146,153]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[rev-66,154,167]" Relation="tagID10095" Value="" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[rev-81,147,153]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[rev-81,157,173]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-28,7,17]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-28,96,109]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-28,20,27]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-28,96,109]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-29,24,27]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-29,20,23]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[rev-32,75,81]" Relation="elementID10046" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-32,120,134]" Relation="tagID10047" Value="+" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-32,137,146]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-41,76,86]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-41,87,97]" Relation="tagID10054" Value="+" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-41,100,105]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[rev-47,7,12]" Relation="elementID10060" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-47,13,23]" Relation="tagID10061" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-49,36,48]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-49,30,35]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-50,73,80]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-50,81,86]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-51,162,168]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-51,187,199]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-52,55,63]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-52,85,100]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[rev-54,15,19]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[rev-54,20,44]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10085" Coordinate="[rev-56,79,93]" Relation="elementID10084" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[rev-56,104,110]" Relation="tagID10085" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[rev-58,27,36]" Relation="elementID10089" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[rev-58,66,76]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-61,17,28]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-61,29,34]" Relation="tagID10093" Value="" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[rev-74,21,28]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[rev-74,53,71]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[rev-74,80,83]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[rev-74,97,106]" Relation="tagID100105" Value="+" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[rev-74,126,130]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[rev-77,28,37]" Relation="elementID100108" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[rev-77,38,42]" Relation="tagID100109" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[gr-1-1,25,31]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-1-1,47,57]" Relation="tagID100118" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-5,16,27]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-6,53,59]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-6,88,93]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-7,20,28]" Value="-" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-7,35,48]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-11,11,18]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-11,204,209]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-17,54,65]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-17,68,75]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-18,89,102]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-19,23,31]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-20,31,45]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-21,8,14]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-22,29,32]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-22,35,39]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-22,115,125]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-22,163,173]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-22,202,207]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-22,222,226]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-22,229,233]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-24,39,49]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-27,36,43]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-28,96,109]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-29,20,23]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-32,120,134]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-32,137,146]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-36,0,5]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-38,5,13]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-40,47,50]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-41,87,97]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-41,100,105]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-42,74,81]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-42,84,89]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-43,39,47]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-43,48,52]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-44,69,73]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-47,13,23]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-49,19,22]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-49,30,35]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-49,68,73]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-49,76,85]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-50,53,67]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-50,81,86]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-51,187,199]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-52,26,34]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-52,96,100]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-54,27,44]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-54,114,126]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-56,23,30]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-56,104,110]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-57,8,23]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-58,66,76]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-59,102,114]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-62,73,79]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-66,84,90]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-66,154,167]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-67,8,20]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-1-1,47,57]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-73,53,60]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-74,59,71]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-74,97,106]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-74,126,130]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-77,38,42]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-79,68,75]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-79,91,99]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-79,102,113]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-81,163,173]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-81,240,248]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-82,36,42]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-1-2,31,35]" Value="" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="71" />
+    <Tag_Index Value="120" />
+  </Index>
+</Product>

@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy S II Plus I9105 - 8GB" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2013/01/05</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">125.3 × 66.1 × 8.5 mm</Feature>
+    <Feature Name="وزن ">121 گرم</Feature>
+    <Feature Name="رنگ ">سفید ، سرمه ای</Feature>
+    <Feature Name="مدل پردازنده ">Dual-Core CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1.2GHz</Feature>
+    <Feature Name="حافظه داخلی ">8192 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">1024 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 64 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1900 / 2100 </Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 21 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">HSDPA, 21.1 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 a/b/g/n, dual band, Wi-Fi Direct, DLNA, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS به همراه GLONASS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="NFC ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.0 همراه با A2DP</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2.0</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع Super AMOLED </Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4.3 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">WVGA 800 × 480</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش مالتی تاچ با قابلیت دریافت چند لمس همزمان (Multi-Touch Input Method) - دارای حسگر ژیروسکوپ (Gyroscope Sensor) - دارای کنترل های لمسی (Touch Sensitive Controls) - دارای حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor for Auto Turn-Off) - دارای حسگر شتاب سنج برای چرخش خودکار تصویر  (Accelerometer Sensor For UI Auto-Rotate) ، تراکم پیکسلی 217ppi</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم (دوربین مکالمه ویدئویی) با کیفیت 2 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">1080p 1920 × 1080</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD 1080p در ابعاد 1080 × 1920 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">مجهز به لرزشگیر دست (Image Stabilization)قابلیت فوکوس لمسی (Touch Focus)مجهز به ردیاب خودکار چهره و لبخند (Face and Smile Detection)قابلیت ثبت موقعیت زمانی و مکانی عکس و فیلم گرفته شده بر روی آن (Geo-Tagging)</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3, WAV</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">v4.1.2  JellyBean</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML, Adobe Flash</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, OGG, AAC, AAC+, eAAC+, AMR-NB AMR-WB, WMA, WAV, MID, AC3, IMY, FLAC, XMF</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MPEG4, H.264, H.263, WMV, DivX, Xvid, VC-1</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM استریو با RDS</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر ژیروسکوپ (Gyro)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor For Auto Turn Off)حسگر شتاب سنج برای چرخش خودکار تصویر (Accelerometer Sensor For Auto Rotate)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">1,650 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">700 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">18 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">TouchWiz UI v4.0قابلیت حذف نویز و صداهای اضافی برای مکالمه‌ی بهتر و شفاف‌تر با استفاده از میکروفن اختصاصی (Active Noise Cancellation with Dedicated Mic)قابلیت پشتیبانی از فایل‌های آفیس مانند Word, Excel, PowerPointدارای خروجی تلویزیون ((TV-Out (via MHL A/V Link)ویرایشگر عکس و فیلم (Image/Video Editor)دارای سازمان دهنده (Organizer)SNS integrationGoogle Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integrationVoice memo/dial/commands(Predictive Text Input (Swype</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژرهندزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">از نظر طراحی،  این گوشی تغییرات زیادی نسبت به مدل پیشین خود نداشته است.</Sentence>
+    <Sentence ID="rev-2" Value="0">سامسونگ Galaxy S II دارای قطری در حدود 8.9 میلی متر است و در ضخیم‌ترین مکان هرگز این قطر از 1 سانتی متر تجاوز نمی‌کند.</Sentence>
+    <Sentence ID="rev-3" Value="+1">با در نظر گرفتن تجهیزات سخت افزاری قدرتمندی که درون بدنه جای گرفته،  بدنه‌ی باریک Galaxy S II در نوع خود یک شاهکار مهندسی محسوب می‌شد.</Sentence>
+    <Sentence ID="rev-4" Value="0">به همین دلیل سامسونگ به این طراحی دست نزده و مدل جدید خود را نیز با همان ابعاد ارائه نموده است.</Sentence>
+    <Sentence ID="rev-5" Value="0">از نظر باریکی؛ این گوشی را می‌توان با Sony Ericsson Xperia Arc مقایسه کرد.</Sentence>
+    <Sentence ID="rev-6" Value="+1">کاور پشتی این گوشی به نظر از نظر مقاومت در برابر خراش و آسیب‌های احتمالی مقاوم‌تر از کاور پشتی Galaxy S اصلی است.</Sentence>
+    <Sentence ID="rev-7" Value="-1">با این حال با توجه به ساختار پلاستیکی آن،  نباید استحکامی فوق‌العاده را از آن انتظار داشته باشیم.</Sentence>
+    <Sentence ID="rev-8" Value="0">فریم دور نمایشگر هم کاملا از پلاستیک ساخته شده و این بدنه‌ی پلاستیکی یکی از تفاوت‌های بارز بین این گوشی و گوشی‌های هوشمند ساخت HTC و یا آیفون است.</Sentence>
+    <Sentence ID="rev-9" Value="-1">موضوعی که از نظر بسیاری یکی از نقاط ضعف جدی این مدل به شمار می‌رود.</Sentence>
+    <Sentence ID="rev-10" Value="-1">وقتی این گوشی را برای اولین بار در دست می‌گیرید،  انتظار وزنی بیشتر و ساختاری فلزی و مستحکم‌تر را دارید،  و ممکن است در وهله اول کمی شما را مایوس کند.</Sentence>
+    <Sentence ID="rev-11" Value="+1">اما بعد از اینکه مدتی با آن کار می‌کنید،  می‌بینید که آن طور هم که قبلا به نظر می‌آمد نیست و حس خوبی با آن خواهید داشت.</Sentence>
+    <Sentence ID="rev-12" Value="+2">به قسمت جلوی گوشی که نگاه کنیم؛ با نمایشگر 4.3 اینچی فوق‌العاده‌ی Super AMOLED مواجه می‌شویم که سطح آن کاملا توسط شیشه‌ی ضد خش و بسیار مستحکم Gorilla Glass پوشیده شده است.</Sentence>
+    <Sentence ID="rev-13" Value="0">در قسمت بالای نمایشگر،  سنسور سنجش نور محیطی و دوربین جلویی،  و در قسمت زیر نمایشگر دو دکمه‌ی لمسی آندرویدی دیده می‌شود.</Sentence>
+    <Sentence ID="rev-14" Value="0">دکمه مکالمه یا Home تنها برآمدگی قسمت شیشه‌ای و صیقلی جلوی گوشی است.</Sentence>
+    <Sentence ID="rev-15" Value="+1">مقاومت آن در برابر جذب اثر انگشت و کثیف شدگی از استاندارد گوشی‌های هم رده بالاتر است.</Sentence>
+    <Sentence ID="rev-16" Value="0">دکمه کنترل صدا و دکمه‌ی Power هر کدام در طرفین گوشی قرار دارند.</Sentence>
+    <Sentence ID="rev-17" Value="0">جک 3.5 میلی متری هدفون  نیز در لبه‌ی بالا و پورت micro USB در لبه‌ی پایینی گوشی جایگذاری شده‌اند.</Sentence>
+    <Sentence ID="rev-18" Value="-1">بنابراین از نظر پورت‌ها و کنترل‌های فیزیکی خیلی خلوت است و حتی دکمه‌ی شاتر دوربین هم وجود ندارد.</Sentence>
+    <Sentence ID="rev-19" Value="+2">در عوض همه‌ی کنترل‌های لمسی و غیر لمسی ارگونومی بسیار خوبی دارند و عملکردشان کاملا راضی کننده است.</Sentence>
+    <Sentence ID="rev-20" Value="+2">حساسیت لمسی خود نمایشگر هم کاملا عالیست.</Sentence>
+    <Sentence ID="rev-21" Value="+1">شاید چنین آرایش دکمه‌ی فیزیکی در کنار دکمه‌ی لمسی در نگاه اول کمی عجیب به نظر برسد ولی پس از مدتی کار کردن با آن متوجه لذت بخشی چنین طراحی می‌شوید.</Sentence>
+    <Sentence ID="rev-22" Value="+1">برای توصیف نمایشگر 4.3 اینچی Galaxy S II از هیچ کلمه‌ای کمتر از شگفت انگیز نمی‌توانیم استفاده کنیم.</Sentence>
+    <Sentence ID="rev-23" Value="+1">رنگ مشکی کاملا عمیق است.</Sentence>
+    <Sentence ID="rev-24" Value="+1">رنگ‌ها شما را مسحور خود می‌کنند.</Sentence>
+    <Sentence ID="rev-25" Value="+2">عملکرد در زوایای مختلف نیز بسیار خوب است و در زیر نور مستقیم آفتاب نیز کاملا رضایت بخش ارزیابی می‌گردد.</Sentence>
+    <Sentence ID="rev-26" Value="0">رزولوشن این نمایشگر 480×800 پیکسل می‌باشد.</Sentence>
+    <Sentence ID="rev-27" Value="0">هرچند که اکنون نمایشگرهایی با رزولوشن 960×540 پیکسل با نام QHD هم در بازار موجود اند که به عنوان مثال یک نمونه از آن بر روی HTC Sensation استفاده شده،  ولی کیفیت نمایشگر آن اصلا به پای Galaxy S II نمی‌رسد.</Sentence>
+    <Sentence ID="rev-28" Value="0">در نمایشگری با چنین کیفیت؛ رزولوشن کمی بالاتر چندان نیاز نیست.</Sentence>
+    <Sentence ID="rev-29" Value="+2">همان طور که گفتیم کیفیت دید از زاویه‌ی آن فوق‌العاده است و با چرخاندن و نگاه کردن از زوایای تند تر هم کیفیت رنگ‌ها تغییر نمی‌کند.</Sentence>
+    <Sentence ID="rev-30" Value="0">تنها در تماشا از زاویه های بسیار تند تغییر رنگ مشاهده می‌گردد.</Sentence>
+    <Sentence ID="rev-31" Value="+1">چه با آن به تماشای فیلم بنشینید و چه به مرورگری وب بپردازید نمایشگر 4.3 اینچی Galaxy S II شما را به این فکر می‌اندازد که احتمالا بهترین نمایشگر موجود بر روی تلفن‌های همراه در این حد قیمت را در اختیار دارید.</Sentence>
+    <Sentence ID="rev-32" Value="+1">هرچند که رزولوشن آن پایین‌تر از نمایشگر Retinaی iPhone 4 است ولی با وجود بزرگ‌تر بودن،  کیفیتی تقریبا برابر را ارایه می‌دهد.</Sentence>
+    <Sentence ID="rev-33" Value="0">اما در مورد دقت لمسی آن،  به نظر ما با وجود بهبودهای رخ داده،  در مقایسه با iPhone 4 هنوز در رتبه دوم قرار دارد.</Sentence>
+    <Sentence ID="rev-34" Value="-1">یکی از بهبودهای رخ داده در این صفحه نمایش این است که در نمایشگر گوشی‌های پیشین،  رنگ‌ها غلظتی بیش از حد داشتند.</Sentence>
+    <Sentence ID="rev-35" Value="+1">در Galaxy S II و اینک Galaxy S II Plus برنامه‌ای وجود دارد که از طریق آن می‌توانید غلظت رنگ نمایشگر را به صورت دلخواه تنظیم کنید.</Sentence>
+    <Sentence ID="rev-36" Value="+1">روشنایی نمایشگر به وسیله‌ی سنسور سنجش نور محیطی می‌تواند به صورت خودکار تنظیم شود و این کار تا جایی که ما دیدیم کاملا درست انجام می‌گیرد.</Sentence>
+    <Sentence ID="rev-37" Value="-1">در قلب Galaxy S II یک پردازنده‌ی بسیار قدرتمند دو هسته ای با سرعت 1.2 گیگاهرتز قرار گرفته که در زمان ورود Galaxy S II به بازار در سال 2011 فوق‌العاده بود،  اما در حال حاضر و در بین دنیای چهار هسته ایها حرف خاصی برای گفتن ندارد.</Sentence>
+    <Sentence ID="rev-38" Value="+1">در حقیقت Galaxy S II جزو نخستین گوشی‌های هوشمند با پردازنده‌ی دو هسته‌ای بود و که غوغای فراوانی نمود.</Sentence>
+    <Sentence ID="rev-39" Value="0">این پردازنده با 1 گیگابایت حافظه‌ی RAM و پردازشگر گرافیکی مجزا همراه شده.</Sentence>
+    <Sentence ID="rev-40" Value="+1">این حافظه‌ی RAM،  جزو بالاترین  مقادیری است که تا کنون بر روی یک گوشی هوشمند قرار گرفته و پردازشگر گرافیکی هم توان تولید قدرت فراوانی دارد.</Sentence>
+    <Sentence ID="rev-41" Value="+1">چنین سخت افزارهایی باعث شده که ذره‌ای مکث و تاخیر در عملکردهای گوشی دیده نشود.</Sentence>
+    <Sentence ID="rev-42" Value="+1">اما بر خلاف Galaxy S II که در دو مدل 16 و 32 گیگابایتی تولید شده بود،  این گوشی فقط در یک مدل 8 گیگابایتی معرفی گردیده که در عوض قابلیت پشتیبانی از کارت حافظه تا 64 گیگابایت را داراست و خیال کاربر را از نظر حافظه برای ذخیره اطلاعات راحت می‌نماید.</Sentence>
+    <Sentence ID="rev-43" Value="+2">در کنار چنان سخت افزار قدرتمندی،  سیستم عامل کاملا حرفه‌ای و جذاب Android 4.1 با واسط کاربری TouchWiz 5.0 قرار دارد.</Sentence>
+    <Sentence ID="rev-44" Value="0">Android 4.1 کاملا با سیستم عامل iOS شرکت اپل در رقابت است.</Sentence>
+    <Sentence ID="rev-45" Value="+1">پاسخگویی عمومی گوشی واقعا مثال زدنی ست.</Sentence>
+    <Sentence ID="rev-46" Value="+1">در هنگام اسکرول و کار کردن با گوشی،  واقعا گویی در بین منوها،  صفحات خانگی و برنامه‌ها پرواز می‌کنید!</Sentence>
+    <Sentence ID="rev-47" Value="+1">سرعت این نسخه از اندروید به نسبت نسخه های پیشین بسیار بیشتر شده و در واقع،  اصلی‌ترین تفاوت این گوشی با مدل پیشین نیز در وجود همین نسخه از اندروید به صورت پیش فرض بر روی آن است.</Sentence>
+    <Sentence ID="rev-48" Value="0">این گوشی از باتری لیتیوم یونی 1650 میلی آمپر ساعتی بهره می‌برد.</Sentence>
+    <Sentence ID="rev-49" Value="+2">به طور مشخص سیستم مدیریت انرژی کار خود را بسیار عالی انجام می‌دهد.</Sentence>
+    <Sentence ID="rev-50" Value="0">در استفاده های معمولی تا دو روز می‌توانید با یک بار شارژ باتری از آن استفاده کنید.</Sentence>
+    <Sentence ID="rev-51" Value="0">از نظر شارژدهی بسیار شبیه به گوشی‌های HTC Incredible S و HTC Desire S می‌باشد.</Sentence>
+    <Sentence ID="rev-52" Value="0">همان طور که اشاره کردیم،  Galaxy S II Plus نیز همانند مدل پیشین،  مجهز به دوربین 8 مگاپیکسلی است.</Sentence>
+    <Sentence ID="rev-53" Value="0">در قسمت جلو نیز یک دوربین 2 مگاپیکسلی برای مکالمه‌ی تصویری دارد.</Sentence>
+    <Sentence ID="rev-54" Value="+1">از نظر کیفیت عکس‌های گرفته شده،  دوربین این گوشی یکی از بهترین دوربین‌هایی است که بر روی گوشی‌های تلفن همراه مشاهده کرده‌ایم.</Sentence>
+    <Sentence ID="rev-55" Value="+2">عکس‌های 8 مگاپیکسلی فوق‌العاده شارپ و با کیفیت هستند.</Sentence>
+    <Sentence ID="rev-56" Value="0">یک مود عکاسی ماکرو برای فوکوس کردن و گرفتن عکس سوژه های بسیار نزدیک بر روی این دوربین وجود دارد.</Sentence>
+    <Sentence ID="rev-57" Value="+2">فلاش LED این دوربین فوق‌العاده قدرتمند است.</Sentence>
+    <Sentence ID="rev-58" Value="+1">گاهی اوقات نیز می‌بینیم که برای فوکوس خودکار بر روی سوژه های مختلف این دوربین،  از فلاش برای پیدا کردن سوژه و کمک به فوکوس بهتر بهره می‌برد.</Sentence>
+    <Sentence ID="rev-59" Value="+2">از نظر ضبط ویدیویی،  فیلم‌های ضبط شده بسیار شارپ و با کیفیت هستند.</Sentence>
+    <Sentence ID="rev-60" Value="+1">حتی در فیلم برداری 1080p Full HD نیز فیلم برداری روان و بدون هرگونه مشکل انجام می‌شود.</Sentence>
+    <Sentence ID="rev-61" Value="+2">سرعت عکس برداری و فیلم برداری هم فوق‌العاده است.</Sentence>
+    <Sentence ID="rev-62" Value="+1">در واقع زمان خیلی کمی برای گرفتن یک عکس و سپس عکس بعدی،  ورود و خروج به برنامه‌ی دوربین و سویچ بین مود دوربین عکاسی و دوربین فیلم برداری لازم است.</Sentence>
+    <Sentence ID="rev-63" Value="0">همچنین یک برنامه نیز برای ویرایش عکس و فیلم بر روی آن وجود دارد.</Sentence>
+    <Sentence ID="rev-64" Value="+2">عملکرد مرورگر اینترنت موجود بر روی این دستگاه از نظر سرعت بسیار عالیست.</Sentence>
+    <Sentence ID="rev-65" Value="+1">عمل Pinch too Zoom که با دو انگشت صورت می‌گیرد،  کاملا بدون خطاست.</Sentence>
+    <Sentence ID="rev-66" Value="+1">همچنین تغییر جهت نمایشگر به حالت عمودی و افقی در یک چشم به هم زدن انجام می‌گیرد.</Sentence>
+    <Sentence ID="rev-67" Value="+2">این مرورگر از Adobe Flash هم پشتیبانی می‌کند و محتوای آن از قبیل ویدیو و گرافیک نیز کاملا عالی اجرا می‌شود.</Sentence>
+    <Sentence ID="rev-68" Value="+2">اما صفحه کلید لمسی یا همان صفحه کلید مجازی روی نمایشگر Galaxy S II فوق‌العاده است.</Sentence>
+    <Sentence ID="rev-69" Value="+1">بر روی این صفحه کلید یک کلید جدید Voice input وجود دارد که به محض فشردن آن می‌توانید صحبت کنید تا گوشی صحبت‌های شما را به صورت نوشته درآورد.</Sentence>
+    <Sentence ID="rev-70" Value="+1">این ویژگی Voice to Speech در جاهای دیگر گوشی مثل جستجو در گوگل یا در مرورگر برای نوشتن آدرس‌های اینترنتی هم کاربرد دارد.</Sentence>
+    <Sentence ID="rev-71" Value="+1">به عنوان یک گوشی تلفن همراه با چنین ویژگی‌ها و فن آوری های خیره کننده ای،  Galaxy S II Plus  گوشی آسانی برای جمع بندی و اظهار نظر است.</Sentence>
+    <Sentence ID="rev-72" Value="+1">به هر حال برای طرفداران گوشی‌های سری Galaxy S سامسونگ،  ورود این گوشی به بازار می‌تواند یک خبر خوشحال کننده باشد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>نسخه 4.1 از سیستم عامل اندروید به همراه رابط کاربری TouchWiz 5</Advantage>
+    <Advantage>صفحه نمایش Super AMOLED Plus فوق‌العاده با کیفیت</Advantage>
+    <Advantage>دوربین عالی با قابلیت ضبط ویدئوهای 1080p FullHD  با کیفیت بسیار بالا</Advantage>
+    <Advantage>پشتیبانی از کارت حافظه جانبی تا 64 گیگابایت</Advantage>
+    <Advantage>پردازنده و پردازشگر گرافیکی بسیار خوب</Advantage>
+    <Advantage>بدنه ای بسیار سبک و باریک</Advantage>
+    <Advantage>خروجی HDMI</Advantage>
+    <Advantage>امکانات ارتباطی متنوع</Advantage>
+    <Advantage>پشتیبانی از فرمت های مختلف ویدئویی</Advantage>
+    <Advantage>کیفیت مکالمه بسیار خوب</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>بدنه کاملا پلاستیکی</Disadvantage>
+    <Disadvantage>عدم وجود کلید اختصاصی دوربین</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="علي کريمي " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">تغيير زيادي نسبت به اس2 معمولي نداشته
+
+فقط يه اپديت نرم افزاري اندرويد 4.1 داره
+سامسونگ خواسته فروش گوشي اس2 رو همواره بالا نگه داره
+که اين گوشي رو معرفي کرده
+همون گوشي ولي با اسمي متفاوت و البته در حافظه ذخيره سازي متفاوت</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="AMIR@ " Value="+1">
+      <Sentence ID="gr-2-1" Value="0">نه خيرباتري اين گوشي هم 1750ميلي امپرشده.</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">سخت افزار کمي بهبود يافته و جنس بدنه ان براق ميباشد وداراي nfc هم هست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="ابراهيم عليزاده " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">به نظر خوب مياد!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="alirezase " Value="-1">
+      <Sentence ID="gr-4-1" Value="+1">اين گوشي هم يکي ديگر از شاهکارهاي سامسونگ است که اندازه ي ان نسبت به S2 هيچ فرقي نکرده .</Sentence>
+      <Sentence ID="gr-4-2" Value="0">وزن ان نسبت به S2  پنج گرم بيشتر شده است .</Sentence>
+      <Sentence ID="gr-4-3" Value="+1">از نظر cpu نيز فرق خاصي نکرده که داراي cpu دو هسته اي 1.2 GHz است  و اين که رم ان تا64 ساپورت مي کنه که S2 تا 32 ساپورت ميکنه و پيشرفت ديگر اين که S2  plus  داراي NFCنيز است.</Sentence>
+      <Sentence ID="gr-4-4" Value="-1">و از نظر دوربين و فيلمبرداري هيچ تغييري نسبت به مدل قبلي نداشته است.</Sentence>
+      <Sentence ID="gr-4-5" Value="-1">وداراي اندرويد 4.1 است وداراي gpu mail400 است ولي مقدار کارکرد ان نسبت به مدل قبلي ضعيف تر شده است .</Sentence>
+      <Sentence ID="gr-4-6" Value="-1">و در اخر بايد بگم که که کمپاني سامسونگ تکرار مکررات کرده است و به بازسازي مدل هاي قديمي خود کرده.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="جواد وحدتي" Score="7" Voters="31" Value="+1">
+      <Sentence ID="cr-1-1" Value="0">سامسونگ راه را براي آپديت نرم افزاري گلکسي اس 2 هموار کرد.</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">گلسي اس 2 پلاس راهي هموارتر و راحت تر از نسخه ي قبلي خود جهت آپديت هاي نرم افزاري در پيش خواهد داشت.</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">گوشي گلکسي اس 2 يکي از بهترين گوشي‌هاي نسل گلکسي به حساب مي‌آيد و در زمان معرفي خود فروش خيلي خوبي را نيز تجربه کرد.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">اکنون مانند گلکسي اس پلاس که در سال گذشته معرفي شد و نسخه بهبود يافته اولين نسل گلکسي بود،  امروز سامسونگ گوشي گلکسي اس 2 پلاس را که نسخه بهبود داده شده گلکسي اس 2 است و سيستم عامل جديد به همراه پردازشگر جديدي را بر روي خود دارد معرفي کرد.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">گوشي گلکسي اس 2 پلاس که کد I9105  را دارد داراي مشخصات زير است: اندرويد 4.1.2 آبنبات ژله‌اي پردازشگر 2 هسته‌اي با سرعت 1.2 گيگاهرتز رم 1 گيگابايتي صفحه نمايش 4.3 اينچي سوپر آمولد پلاس دوربين 8 مگاپيکسلي با قابليت ضبط ويدئويي 1080p حافظه داخلي 8 گيگابايتي مجهز به NFC باتري 1650 ميلي آمپري جنس بدنه مشابه جنس بدنه گوشي گلکسي اس 3 (پلاستيک لعاب کاري شده)</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="36" />
+  <Performance Value="4.80" />
+  <Capability Value="4.80" />
+  <Production_Quality Value="4.40" />
+  <Ergonomics Value="4.50" />
+  <Purchase_Value Value="4.30" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="تجهیزات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="کاور پشتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="ساختار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="شیشه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="عملکرد کنترل‌ها" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="حساسیت لمسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="کیفیت دید از زاویه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="غلظت رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="حافظه‌ی RAM" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="پاسخگویی عمومی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10057" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="فلاش LED" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10069" Root="فیلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10073" Root="فیلم برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10076" Root="سرعت عکس برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="عملکرد مرورگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="صفحه کلید لمسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="ویژگی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="فن آوری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="سخت افزار" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="جنس بدنه" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="گوشي" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="وزن" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="کارکرد" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100106" Root="گوشي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100111" Root="فروش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="سيستم عامل" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="پردازشگر" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-3,24,34]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-3,35,43]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-43,13,22]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-43,23,31]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-3,16,23]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-3,35,43]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-3,69,75]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-3,76,81]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-6,0,9]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-6,73,81]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-7,22,28]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-7,29,37]" Relation="tagID10013" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-12,35,42]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-12,53,65]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-22,11,18]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-22,64,74]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-31,136,143]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-31,129,135]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-12,114,120]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-12,121,126]" Relation="tagID10019" Value="+" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-12,129,141]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-19,67,76]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-19,77,93]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-20,0,11]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-20,27,39]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-29,18,38]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-29,42,52]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-32,9,16]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-32,20,28]" Relation="tagID10036" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-34,88,93]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-34,94,103]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-37,22,32]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-37,33,46]" Relation="tagID10042" Value="+" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[rev-37,139,149]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-40,4,15]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-40,22,30]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-43,34,44]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-43,45,58]" Relation="tagID10051" Value="+" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[rev-43,61,65]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[rev-45,0,14]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-45,20,35]" Relation="tagID10055" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[rev-54,63,74]" Relation="elementID10057" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-54,56,62]" Relation="tagID10058" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-54,33,39]" Relation="elementID10057" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-54,56,62]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-55,0,7]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-55,20,35]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-55,38,46]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-57,0,8]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-57,20,38]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-59,21,29]" Relation="elementID10069" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-59,38,48]" Relation="tagID10070" Value="+" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[rev-59,51,59]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10074" Coordinate="[rev-60,37,48]" Relation="elementID10073" Value="" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-60,49,53]" Relation="tagID10074" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-61,0,15]" Relation="elementID10076" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-61,33,43]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-64,0,13]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-64,58,70]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[rev-68,4,18]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-68,67,77]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-71,36,44]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-71,59,72]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[rev-71,47,58]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[rev-71,59,73]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[gr-2-2,0,9]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[gr-2-2,10,19]" Relation="tagID10092" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-2-2,28,36]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-2-2,40,44]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[gr-4-1,4,8]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[gr-4-1,24,33]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[gr-4-2,0,3]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[gr-4-2,27,32]" Relation="tagID100101" Value="" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[gr-4-5,56,62]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[gr-4-5,83,90]" Relation="tagID100104" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100107" Coordinate="[cr-1-3,30,38]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[cr-1-3,23,29]" Relation="tagID100107" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[cr-1-3,0,4]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[cr-1-3,23,29]" Relation="tagID100109" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100112" Coordinate="[cr-1-3,84,88]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[cr-1-3,89,98]" Relation="tagID100112" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[cr-1-4,170,180]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[cr-1-4,181,185]" Relation="tagID100115" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[cr-1-4,195,203]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[cr-1-4,204,209]" Relation="tagID100118" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-3,35,43]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-3,76,81]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-3,108,114]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-6,73,81]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-6,109,112]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-7,29,37]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-7,43,48]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-9,36,39]" Value="-" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-9,40,43]" Value="" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-10,140,145]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-10,108,112]" Value="" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-11,0,3]" Value="" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-11,96,100]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-12,53,65]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-12,121,126]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-12,129,141]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-12,121,123]" Value="-" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-12,124,126]" Value="-" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-15,0,6]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-15,74,80]" Value="" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-15,81,84]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-18,90,95]" Value="-" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-18,43,52]" Value="" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-19,48,58]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-19,77,93]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-19,94,97]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-20,27,39]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-21,62,70]" Value="" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-21,83,86]" Value="" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-21,119,127]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-22,64,74]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-23,9,19]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-23,20,23]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-24,14,19]" Value="" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-24,24,31]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-25,27,36]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-25,37,40]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-25,71,86]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-25,95,102]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-29,42,52]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-29,53,56]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-31,129,135]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-32,61,64]" Value="" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-32,102,107]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-32,73,80]" Value="" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-32,20,28]" Value="-" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-34,94,103]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-35,73,82]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-35,111,117]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-36,65,71]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-36,48,56]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-36,112,122]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-36,129,136]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-37,33,46]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-37,139,149]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-37,156,159]" Value="" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-37,221,226]" Value="-" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-38,82,87]" Value="" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-38,88,95]" Value="" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-40,121,125]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-40,126,133]" Value="" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-40,134,138]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-40,22,30]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-41,44,49]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-41,73,77]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-42,136,144]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-42,177,183]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-42,232,236]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-42,237,245]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-42,129,135]" Value="" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-43,23,31]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-43,45,58]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-43,61,65]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-45,20,35]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-46,37,42]" Value="" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-46,87,92]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-46,93,100]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-47,48,59]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-49,42,52]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-49,59,65]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-54,56,62]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-55,20,35]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-55,38,46]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-55,47,52]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-57,20,38]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-58,110,113]" Value="" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-58,128,132]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-58,133,139]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-59,38,48]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-59,51,59]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-59,60,65]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-60,49,53]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-60,56,60]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-60,68,72]" Value="-" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-60,79,85]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-61,33,43]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-61,44,47]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-62,13,21]" Value="" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-64,58,70]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-65,55,59]" Value="-" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-65,60,65]" Value="-" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-65,49,54]" Value="" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-66,52,65]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-66,72,79]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[rev-67,29,37]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[rev-67,38,44]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[rev-67,84,94]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[rev-67,100,106]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[rev-68,67,77]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[rev-68,78,81]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[rev-69,75,84]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[rev-70,108,114]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[rev-70,115,119]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[rev-71,59,72]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[rev-71,98,103]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[rev-71,130,133]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[rev-72,95,107]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[rev-72,79,87]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-1-1,31,37]" Value="-" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-2-2,10,19]" Value="-" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-2-2,40,44]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-2-2,66,69]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-3-1,7,10]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-4-1,24,33]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-4-2,27,32]" Value="" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-4-3,128,134]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-4-3,170,173]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-4-5,83,90]" Value="-" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-4-6,39,44]" Value="" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-4-4,57,63]" Value="-" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-4-3,24,29]" Value="-" />
+    <Keyword ID="keywordID100131" Coordinate="[cr-1-2,20,27]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[cr-1-2,30,37]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[cr-1-3,23,29]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[cr-1-3,89,98]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[cr-1-4,181,185]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[cr-1-4,204,209]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[cr-1-4,138,143]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="138" />
+    <Tag_Index Value="120" />
+  </Index>
+</Product>

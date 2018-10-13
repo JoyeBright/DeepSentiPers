@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="HTC Desire SV" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/11/3</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">دو  سیم کارته</Feature>
+    <Feature Name="ابعاد ">129.7 × 68 × 10.7 mm</Feature>
+    <Feature Name="وزن ">131 گرم</Feature>
+    <Feature Name="رنگ ">مشکی , زرد</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm Snapdragon Chipset - Dual-Core Cortex-A5 CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 203</Feature>
+    <Feature Name="حافظه داخلی ">4096 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">768 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 32 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 900 / 2100 </Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, HSUPA</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 b/g/n, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">همراه با پشتیبانی از A-GPS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 4 </Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع Super LCD 2</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4.3 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">480 × 800</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Multi-Touch Input Method) , تراکم پیکسلی 217ppi</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">خیر</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">WVGA 800 X 480</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت WVGA و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">فلاش LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">قابلیت ثبت موقعیتن مکانی و زمانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)قابلیت فوکوس لمسی ( Touch Focus )</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3, WAV</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">(v4.0 (Ice Cream Sandwich</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML5</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3/eAAC+/WMA/WAV</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4/H.263/H.264/WMV</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM </Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="حسگرها ">حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor For Auto Turn Off)حسگر شتاب سنج برای چرخش تصویر  (Accelerometer Sensor For UI Auto Rotate)حسگر نور سنجی برای تنظیم نور صفحه نمایش مطابق با نور محیط ( Ambient Light Sensor )</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">1620 میلی آمپر ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">قابلیت پشتیبانی از دو میکرو سیم کارت (MicroSIM card support only)مجهز به تکنولوژی صوتی Beats Audioرابط کاربری HTC Sense UIمجهز به مرورگر مستندات (Document Viewer)دارای سازمان دهنده (Organizer)Google Search, Maps, Gmail, YouTube, Google Talk, Picasa integrationSNS IntegrationVoice memo/dial/commandsPredictive text input</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژر باتریکابل USBدفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="+1">طراحی و ساخت گوشی Desire SV از جنس پلاستیک ساخته شده است و طراحی جمع و جور،  گوشه های انحنا دار و ابعاد مناسب این گوشی موجب می‌شود که استفاده از آن تنها با یک دست نیز امکان پذیر باشد.</Sentence>
+    <Sentence ID="rev-2" Value="0">در قسمت جلوی این گوشی صفحه نمایش 4.3  اینچی و در زیر آن سه دکمه لمسی قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-3" Value="0">پورت micro-USB در لبه پایینی این دستگاه قرار دارد و در لبه سمت راست آن نیز کلید کم و زیاد کردن صدا تعبیه شده است.</Sentence>
+    <Sentence ID="rev-4" Value="0">دکمه پاور و جک هدفون 3.5 میلی متری نیز فضای لبه بالایی گوشی را به خود اختصاص داده‌اند.</Sentence>
+    <Sentence ID="rev-5" Value="0">نهایتاً در قسمت پشت گوشی،  دوربین 8 مگاپیکسلی این گوشی به همراه فلاش LED خود نمایی می‌کند.</Sentence>
+    <Sentence ID="rev-6" Value="0">علاوه بر دوربین،  بلندگوی گوشی و لوگوی Beats Audio نیز در این قسمت قابل مشاهده هستند.</Sentence>
+    <Sentence ID="rev-7" Value="0">صفحه نمایش صفحه نمایش 4.3 اینچی HTC Desire SV یک صفحه نمایش لمسی خازنی از نوع Super LCD 2 می‌باشد که قادر است تصاویر را با رزولوشن 800×480 پیکسل به نمایش بگذارد.</Sentence>
+    <Sentence ID="rev-8" Value="0">تراکم پیکسلی این صفحه نمایش برابر با 217 پیکسل در هر اینچ است و از حرکات مالتی تاچ نیز پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-9" Value="0">همچنین این صفحه نمایش قادر است 16 میلیون رنگ را نمایش دهد.</Sentence>
+    <Sentence ID="rev-10" Value="+2">به طور کلی زمان پاسخ دهی صفحه نمایش این گوشی مناسب است و زوایای دید بسیار خوبی نیز دارد.</Sentence>
+    <Sentence ID="rev-11" Value="+2">همچنین رنگ‌ها بسیار زنده و طبیعی هستند و به سختی می‌توان پیکسل‌های تصویر را از یکدیگر تشخیص داد.</Sentence>
+    <Sentence ID="rev-12" Value="+1">سخت افزار HTC Desire SV  از نظر امکانات سخت افزاری در سطح خوبی قرار دارد.</Sentence>
+    <Sentence ID="rev-13" Value="0">پردازنده دو هسته ای Snapdragon  به کار رفته در این گوشی دارای قدرت پردازشی یک گیگاهرتز است و 768 مگابایت حافظه RAM نیز برای آن در نظر گرفته شده است.</Sentence>
+    <Sentence ID="rev-14" Value="-1">چیپ گرافیکی Adreno 203 نیز عملکرد متوسطی در هنگام اجرا و پردازش گرافیک‌ها و بازی‌ها دارد.</Sentence>
+    <Sentence ID="rev-15" Value="+2">این میزان قدرت سخت افزاری برای گوشی در این رده بسیار مناسب است و موجب عملکرد روان و سریع آن در حین انجام کار های مختلف می‌شود.</Sentence>
+    <Sentence ID="rev-16" Value="0">این گوشی دارای 4 گیگابایت حافظه داخلی است و امکان ارتقاء حافظه آن تا 32 گیگابایت از طریق کارت حافظه microSD نیز وجود دارد.</Sentence>
+    <Sentence ID="rev-17" Value="+1">با این میزان حافظه می‌توان تعداد مناسبی فایل نظیر عکس،  موسیقی و ویدیو را بر روی این گوشی ذخیره کرد.</Sentence>
+    <Sentence ID="rev-18" Value="0">HTC Desire SV  دو سیم کارته است و سیم کارت‌های قرار گرفته بر روی این گوشی می‌توانند باند های مختلف مخابراتی را در شبکه های 2G و 3G پشتیبانی کنند.</Sentence>
+    <Sentence ID="rev-19" Value="0">از جمله قابلیت‌های ارتباطی HTC Desire SV می‌توان به پشتیبانی از Wi-Fi،  GPRS،  3G اشاره کرد که برقراری ارتباط با اینترنت را به سهولت فراهم می‌کنند.</Sentence>
+    <Sentence ID="rev-20" Value="+1">همچنین بهره گیری از نسخه 4.0  فناوری بلوتوث به اشتراک گذاری فایل بین دستگاه های مختلف را با سرعت بالا ممکن می‌سازد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">نرم افزار یکی از نقاط قوت این گوشی دو سیم کارته،  بهره گیری آن از نسخه 4 یا Ice Cream Sandwich سیستم عامل اندروید است.</Sentence>
+    <Sentence ID="rev-22" Value="+1">همچنین نسخه 4.0 رابط کاربری زیبای HTC یعنی Sense نیز در کنار رابط کاربری استاندارد اندروید خودنمایی می‌کند و تجربه ای لذت بخشی را به کاربر می‌دهد.</Sentence>
+    <Sentence ID="rev-23" Value="0">رابط کاربری HTC Desire SV بسیار شبیه به رابط کاربری گوشی‌های خانواده One کمپانی HTC نظیر HTC One X و HTC One S است.</Sentence>
+    <Sentence ID="rev-24" Value="0">به لطف وجود سیستم عامل اندروید،  امکان شخصی سازی صفحات،  اضافه کردن ویجت ها،  تغییر تصاویر پس زمینه و.</Sentence>
+    <Sentence ID="rev-25" Value="0">به راحتی امکان پذیر است.</Sentence>
+    <Sentence ID="rev-26" Value="+1">همچنین برنامه های متنوعی از قبل بر روی این گوشی نصب شده‌اند که از جمله آن‌ها می‌توان به برنامه نقشه گوگل،  Dropbox،  ایمیل،  نمایشگر فایل‌های آفیس و .</Sentence>
+    <Sentence ID="rev-27" Value="0">اشاره کرد.</Sentence>
+    <Sentence ID="rev-28" Value="0">علاوه بر این امکان دریافت برنامه های دیگری نیز از طریق اینترنت وجود دارد.</Sentence>
+    <Sentence ID="rev-29" Value="+1">HTC Desire SV  قادر است فایل‌های صوتی را با فرمت های معروفی نظیر MP3،  eAAC+،  WMA،  WAV پخش نماید و به دلیل بهره‌گیری از فناوری صوتی Beats Audio می‌توان کیفیت صدای خوبی را از آن توقع داشت.</Sentence>
+    <Sentence ID="rev-30" Value="0">همچنین فایل‌های تصویری با فرمت هایی نظیر MP4، WMV ،  AVI بر روی این گوشی قابل پخش هستند.</Sentence>
+    <Sentence ID="rev-31" Value="0">مرورگر ارائه شده بر روی HTC Desire SV دسترسی به اینترنت و گشت و گذار در دنیای وب را با سرعت بالا ممکن می‌سازد.</Sentence>
+    <Sentence ID="rev-32" Value="+1">امکان باز کردن چندین تب و پشتیبانی از فناوری‌های Flash و HTML5 و قابلیت استفاده از حرکات مالتی تاچ،  مرور وب را بر روی صفحه 4 اینچی این دستگاه به تجربه ای لذت بخش بدل خواهد کرد.</Sentence>
+    <Sentence ID="rev-33" Value="0">دوربین دوربین 8 مگاپیکسلی این گوشی قادر است عکس‌هایی با رزولوشن 3264×2448 را ثبت نماید و همچنین می‌تواند با کیفیت 480p و با سرعت 30 فریم بر ثانیه فیلم برداری کند.</Sentence>
+    <Sentence ID="rev-34" Value="0">فوکوس خودکار،  ژئوتگینگ و همچنین حالت‌های مختلف تصویربرداری،  عکاسی و فیلم برداری با این گوشی را بسیار لذت بخش می‌کند.</Sentence>
+    <Sentence ID="rev-35" Value="0">کیفیت تصاویر ثبت شده خوب و قابل قبول هستند،  اما کیفیت فیلم برداری این دوربین می‌توانست بهتر باشد.</Sentence>
+    <Sentence ID="rev-36" Value="0">اما متأسفانه دوربین دوم جهت انجام مکالمات تصویری بر روی این گوشی قرار داده نشده است که البته قابل چشم پوشیست.</Sentence>
+    <Sentence ID="rev-37" Value="0">باتری انرژی مورد نیاز برای این دستگاه توسط یک باتری لیتیوم یونی تامین می‌شود که دارای ظرفیت 1650 میلی آمپر است.</Sentence>
+    <Sentence ID="rev-38" Value="0">جمع بندی به هر حال،  به نظر می‌رسد تجربه تولید اولین گوشی دو سیم کارته HTC برای این کمپانی نتایج قابل قبولی را در بر داشته است و این کمپانی می‌خواهد به راهی که شروع کرده،  ادامه دهد.</Sentence>
+    <Sentence ID="rev-39" Value="+1">بدون شک Desire V و برادر آن یعنی HTC Desire SV جزو بهترین گوشی‌های دو سیم کارته موجود در بازار هستند زیرا سایر آن‌ها اکثرا بسیار ساده و ابتدایی هستند.</Sentence>
+    <Sentence ID="rev-40" Value="+1">اما Desire SV با دارا بودن پردازنده یک گیگاهرتزی،  صفحه نمایش 4.3  اینچی،  دوربین 8 مگاپیکسلی و نسخه 4.0 سیستم عامل اندروید،  امکانات متنوع و مناسبی را در قالب یک گوشی هوشمند دو سیم کارته در اختیار کاربران قرار می‌دهد.</Sentence>
+    <Sentence ID="rev-41" Value="0">پس اگر شما هم به دنبال یک تلفن همراه دو سیم کارته هوشمند هستید،  HTC Desire SV را نیز جزو گزینه های خود قرار دهید.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>پشتیبانی از دو سیم کارت</Advantage>
+    <Advantage>صفحه نمایش 4.3 اینچی با کیفیت</Advantage>
+    <Advantage>ابعاد مناسب</Advantage>
+    <Advantage>دوربین 8 مگاپیکسلی</Advantage>
+    <Advantage>وزن مناسب</Advantage>
+    <Advantage>پردازنده دو هسته ای یک گیگاهرتزی</Advantage>
+    <Advantage>نسخه 4.0 سیستم عامل اندروید به طور پیش فرض</Advantage>
+    <Advantage>پشتیبانی از Wi-Fi</Advantage>
+    <Advantage>پشتیبانی از کارت حافظه جانبی</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>حافظه رم نسبتا پایین ( 768 مگابایت )</Disadvantage>
+    <Disadvantage>کیفیت پایین فیلم برداری</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="مجتبي نوروزي " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">بهترين دو سيم کارته </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="مهدي شاهي " Value="0">
+      <Sentence ID="gr-2-1" Value="0">با اين قيمت مي شه يه اکسپريا SL گرفت</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="محمد صفري " Value="-1">
+      <Sentence ID="gr-3-1" Value="-1">به صرفه نيست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="احسان مطري " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">سيستم عاملش خوبه
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="احمد انصاري نيا " Value="-1">
+      <Sentence ID="gr-5-1" Value="0">تو رده خودش بهترينه ولي به صرفه نيست.</Sentence>
+      <Sentence ID="gr-5-2" Value="0">آدم با پولش ميتونه دو تا گوشي هم سطح desire x بخره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="سجاد آتش بسته " Value="-1">
+      <Sentence ID="gr-6-1" Value="-1">به صرفه نيست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="علي اسلاميان  " Value="-1">
+      <Sentence ID="gr-7-1" Value="-1">به نظرم با اين امکانات به صرفه نيست
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="gholami " Value="0">
+      <Sentence ID="gr-8-1" Value="+1">گوشي خوبي به نظر ميرسه .</Sentence>
+      <Sentence ID="gr-8-2" Value="-1">اما بهتر ميشد اگر رم 1 گيگ به جاي 768 مگ استفاده شده بود و همينطور دوربين مکالمه واقعا کمبودي چشمگيره..</Sentence>
+      <Sentence ID="gr-8-3" Value="0">من فکر ميکنم اين نقص ها معمول هستند بين شرکتها براي اينکه تنوع محصولي اينطور ايجاب ميکنه و در اينده نزديک مدل ديگه اي با رفع اين نواقص عرضه خواهد شد .</Sentence>
+      <Sentence ID="gr-8-4" Value="+1">در کل به نظر من گزينه مناسبي براي دو سيم کارت هست مخصوصا  اينکه از رقيبايي مثل سامسونگ اس دو اس برتري قطعات و برندي خوبي داره .</Sentence>
+      <Sentence ID="gr-8-5" Value="0">با اينکه ميخواستم اس بگيرم الان منتظر اين گوشي ميمونم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="احمد انصاري نيا " Value="-1">
+      <Sentence ID="gr-9-1" Value="0">خيلي وقت بود اونايي که دو تا سيم کارت داشتن و دنبال يه گوشي خوب ميگشتن منتظر يه چيزي مثل اين بودن، ولي اگه طول بکشه آوردنش ديگه نميتونه بهترين تو رده خودش بمونه
+گوشي به اين خوبي چرا دوربين دوم نداره؟</Sentence>
+      <Sentence ID="gr-9-2" Value="-1">خيلي حيفه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="علي خورشيدي " Value="0">
+      <Sentence ID="gr-10-1" Value="-1">باطريش راضي کننده نيست.</Sentence>
+      <Sentence ID="gr-10-2" Value="-1">دوربين مکالمه ويديويي نداره.</Sentence>
+      <Sentence ID="gr-10-3" Value="+2">8 مگا پيکسل خوبه گذاشته
+دو سيمکارته عاليه
+4.3 عاليه براي صفحه
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="يونس فاضلي سنگاني " Value="+1">
+      <Sentence ID="gr-11-1" Value="+1">اميدوارم زودتر وارد عرصه رقابت بشه من ميخواستم tipo dual از شرکت سوني رو خريداري کنم حالا صبر مي کنم اين شاهکار رو دستم بگيرم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="اميرحسين ملکي " Value="+1">
+      <Sentence ID="gr-12-1" Value="+1">به نظر گوشي خوبي مياد ارتقا يافته ي  Desire C </Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="a.am " Value="0">
+      <Sentence ID="gr-13-1" Value="0">سلام!</Sentence>
+      <Sentence ID="gr-13-2" Value="+2">کمپاني HTC يکي از بهترين و معتبر ترين کمپاني هاي مطرح در عرصه اسمارت فون هستش.</Sentence>
+      <Sentence ID="gr-13-3" Value="-1">ولي همونطوري که همه ميدونيم چند وقته (ازموقع بالا گرفتن درگيري بين سامسونگ و اپل و بدست گرفتن بازار توسط اين دو شرکت) که در حال ضرر دادنه و نميتونه مثل اول توجهات رو بسمت خودش جلب کنه.</Sentence>
+      <Sentence ID="gr-13-4" Value="0">و کم کم داره سعي ميکنه که از راه هاي ديگه اي(مثل بازار دوسيمکارته ها و يا ويندوز فونها)وارد بازار بشه.</Sentence>
+      <Sentence ID="gr-13-5" Value="-1">معمولا گوشيهاي HTC هرکدومشون يه مشکل جزئي دارن(ولي بقيه کمپاني چند تا مشکل حاد!</Sentence>
+      <Sentence ID="gr-13-6" Value="0">)که اگه چند ساعت با گوشي کار کنيد متوجه ميشيد که خيلي راحت ميشه از مشکلش چشم پوشي کرد.</Sentence>
+      <Sentence ID="gr-13-7" Value="0">برخي دوستان از کم بودن باتري نگرانند که الان ديگه باتري زياد مهم نيست چون بالاخره زندگي امروز طوريکه هر جا بري ميتوني گوشي رو شارژکني.</Sentence>
+      <Sentence ID="gr-13-8" Value="0">و گوشيهايي با باتري ضعيفتر از اين هم خيلي موفق بودن.</Sentence>
+      <Sentence ID="gr-13-9" Value="0">مثل سونيP.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="امير باقري " Value="-1">
+      <Sentence ID="gr-14-1" Value="-1">در نگاه اول پايين بودن مقدار حافظه رم و فقدان دوربين دوم براي مکالمات ويدئويي به چشم ميخوره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="محمد گرجي " Value="0">
+      <Sentence ID="gr-15-1" Value="0">مشخصات خوبي داره ،  حالا باز بايد بياد که دربارش تصميم بگيريم ،  از نظر ظاهر و مشخصات که خوبه ،  بيشتر گوشي هاي اچ تي سي خوبن ،  ولي چون دو سيمکارتست بنظر باطريش کمي ضعيف باشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="سيد ايمان روحي پور " Value="+2">
+      <Sentence ID="gr-16-1" Value="+2">خيلي عالي هست.</Sentence>
+      <Sentence ID="gr-16-2" Value="0">من دارمش.</Sentence>
+      <Sentence ID="gr-16-3" Value="+2">خيلي خوبه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="مهدي گوراني " Value="0">
+      <Sentence ID="gr-17-1" Value="+1">ايول دقيقا اون چيزيه که مد نظر منه!</Sentence>
+      <Sentence ID="gr-17-2" Value="0">دو سيمکارت،  دو هسته اي،  صفحه نمايش 4.3.</Sentence>
+      <Sentence ID="gr-17-3" Value="0">فقط باطريش با توجه به دوسيم بودنش.</Sentence>
+      <Sentence ID="gr-17-4" Value="0">يه کم نگران کننده است!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="R.E.Y.E.S " Value="-1">
+      <Sentence ID="gr-18-1" Value="0">اگه زودتر ميومد خيلي بهتر بود.</Sentence>
+      <Sentence ID="gr-18-2" Value="0">فکر نکنم تو شرايط فعلي زياد استقبال بشه.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="بنيامين غلامي" Score="26" Voters="30" Value="0">
+      <Sentence ID="cr-1-1" Value="0">با سلام خدمت همه دوستداران تکنولوژي!</Sentence>
+      <Sentence ID="cr-1-2" Value="0">جديداً کمپاني تايواني HTC مدل جديدي از خانواده Desire به نام Desire SV را معرفي کرد.</Sentence>
+      <Sentence ID="cr-1-3" Value="0">بنده خودم وقتي مي بينم که تو گوشي ها يه مدل جديدتر از اون يکي اومده،  اولين فکري که ميکنم اينه که خب حتماً جديده بهتره ديگه!</Sentence>
+      <Sentence ID="cr-1-4" Value="0">اما الزاماً همچين قضيه اي همواره صادق نيست.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">نمونش همين دو گوشي: Desire X و Desire SV.</Sentence>
+      <Sentence ID="cr-1-6" Value="0">بنابراين برتري هاي هر کدوم نسبت به ديگري رو ذکر ميکنم تا شما هم به حرف من برسيد.</Sentence>
+      <Sentence ID="cr-1-7" Value="0">قبل از هرچيز بگم که اين دو گوشي از نظر سخت افزار (CPU, GPU, RAM) و حافظه داخلي و جانبي هيچ تفاوتي با هم ندارند.</Sentence>
+      <Sentence ID="cr-1-8" Value="0">***برتري هاي Desire SV نسبت به Desire X:***1- دو سيم کارته بودن2- دوربين 8 مگاپيکسلي با قابليت فوکوس لمسي.</Sentence>
+      <Sentence ID="cr-1-9" Value="0">اما فيلمبرداري ارتقاء نيافته (480p يا WVGA).</Sentence>
+      <Sentence ID="cr-1-10" Value="+1">3- ارتقاء فلاش LED دوربين (LED Flash) به فلاش LED هوشمند (Smart LED Flash) با قابليت تنظيم نور تا 5 سطح مختلف با استفاده از فاصله دوربين تا سوژه.4- صفحه نمايش از نوع Super LCD 2 (که امتحانش رو در One X پس داد) و سايز 4.3 اينچ؛ که هم نوع صفحه نمايش يک ورژن بهتر شده و هم سايزش 0.3 اينچ افزايش داشته.</Sentence>
+      <Sentence ID="cr-1-11" Value="-1">اما متأسفانه با همون رزولوشن 800*480 که چون بزرگتر شده تراکم پيکسلي متوسط 217ppi رو ايجاد ميکنه،  که البته اين تنزل با چشم قابل درک نيست!</Sentence>
+      <Sentence ID="cr-1-12" Value="0">5- ورژن جديدتر نسخه بستني نوني آندرويد يعني 4.0.4 (ورژن آندرويد Desire X ا: Ice Cream Sandwich 4.0.0)***برتري هاي Desire X نسبت به Desire SV:***1- داشتن تراکم پيکسلي بالاتر به علت کوچکتر بودن صفحه نمايش (با 233ppi،  در هر اينچ 16 پيکسل بيشتر داره)2- سرعت بلوتوث بالاتر به علت بهره بردن از A2DP.</Sentence>
+      <Sentence ID="cr-1-13" Value="0">(نسخه بلوتوث هر دو 4.0 است.</Sentence>
+      <Sentence ID="cr-1-14" Value="0">)3- باتري قوي تر به اندازه 30 ميلي آمپر ساعت (1650mAh) و به علت کوچکتر بودن صفحه نمايش مصرف باتري کاهش يافته در نتيجه مدت زمان شارژدهي افزايش مي يابد.</Sentence>
+      <Sentence ID="cr-1-15" Value="0">4- ضخامت کمتر (با 9.3mm ضخامت،  1.4mm باريک تر است) و وزن کمتر (با 114gr وزن،  17gr سبک تر است).5- دوربين با ديافراگم (Aperture) بهتر (ديافراگم f/2.0 که نور بيشتري را نسبت به ديافراگم f/2.2 وارد دوربين مي کند.</Sentence>
+      <Sentence ID="cr-1-16" Value="0">)6- ميدونم شايد اين مورد چندان براي اکثر افراد مهم نباشه،  ولي همه چيزو گفتم بذار اينم بگم:    راديو قوي تر: Stereo FM Radio with RDS.7- ظاهر به مراتب زيباتر به خاطر قاب پشتي که دور دوربين را تزئين مي کند.</Sentence>
+      <Sentence ID="cr-1-17" Value="0">(در رنگ سفيد و سورمه اي زيباتره!</Sentence>
+      <Sentence ID="cr-1-18" Value="0">)8- و اما مهمترين برتري: قيمت اين گوشي نصف HTC Desire SV است.</Sentence>
+      <Sentence ID="cr-1-19" Value="0">نکته: داشتن بلوتوث سريع نسخه 4.0،  قابليت عکاسي حين فيلمبرداري و البته بهره مندي از Beats Audio، سه برتري         نسبي به اين دو گوشي نسبت به رقباي هم ترازشون داده، ولي متأسفانه هر دوي اين گوشي ها فاقد دوربين جلو (دوربين مکالمه ويديويي) هستند.</Sentence>
+      <Sentence ID="cr-1-20" Value="0">درضمن،  تو هر منبعي گشتم،  جايي رو نديدم که گفته باشه رو صفحه نمايش،  محافظ گوريلا گلاس يا ضدخشي چيزي باشه!</Sentence>
+      <Sentence ID="cr-1-21" Value="0">يعني کساني که از اين گوشي ها ميخرن بايد  روشون برچسب محافظ بچسبونن!</Sentence>
+      <Sentence ID="cr-1-22" Value="+1">- به هرحال،  اگه يه گوشي دو سيمکارته با آندرويد به روز و سخت افزار قدرتمند،  به همراه دوربين نسبتاً عالي و صفحه نمايش بزرگ ميخواهيد و از باتري توقع بالايي نداريد و درضمن وزن و ضخامتش رو به مزاياش مي بخشيد،  HTC Desire SV را جزء برترين انتخاب هاي خود بدانيد.</Sentence>
+      <Sentence ID="cr-1-23" Value="0">(پرداخت دو برابر هزينه بيشتر رو يادتون نره!</Sentence>
+      <Sentence ID="cr-1-24" Value="0">)- و اگر نيازي به دو سيمکارت نداريد و يک گوشي جمع و جور با سخت افزار قدرتمند،  شيک و باريک،  با کيفيت نمايش و دوربين خوب به همراه شارژدهي بالا خواستاريد،  HTC Desire X شما را از انتخابتان نااميد نخواهد کرد.</Sentence>
+      <Sentence ID="cr-1-25" Value="0">با تشکر از ديجي کالا و شما که وقت گذاشتيد و نقد اين بنده حقير رو خونديد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="علي رخام" Score="1" Voters="1" Value="+1">
+      <Sentence ID="cr-2-1" Value="+2">سلام من اين گوشي رو  تازه خريدم  بسيار خوش دسته عملکرد  و سرعت خوبي داره تاجش هم راضي کننده است  دوربين دوم نداره کيفيت عکاسي اون وقتي فلاش روشنه راضي کننده نيست فقط حجم عکس بالاست و در حد 8 مگاپيکسل نيست  پخش موسيقي بسيار با کيفيت و عالي داره مشکل  اساسي من اينجاست که  با توجه به مشخصاتش تو سايت خود توليد کننده و سايتهاي ديگه حافظه 4 گيگ داخلي نداره 1 گيگابايت به عنوان فون مموري و 1 گيگابايت  به عنوان اينترنال مموري 2 گيگابايت مموري کجاست!</Sentence>
+      <Sentence ID="cr-2-2" Value="0">يک اس دي کارت 16 گيگ گذاشتم روش ولي نميدونم چرا برنامه ها رو نميتونم روي 16 گيگ نصب کنم با فايل منيجر هم فقط ميتونم عکس و موسيقي کپي کنم روي اين حافظه برنامه هاي نصب شده هم فقط بين دو حافظه يک گيگابايت جابجا ميشند </Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="34" />
+  <Performance Value="7.10" />
+  <Capability Value="6.80" />
+  <Production_Quality Value="7.20" />
+  <Ergonomics Value="6.80" />
+  <Purchase_Value Value="6.80" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="جنس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="زاویه دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="گرافیک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="ارتباط با اینترنت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="اشتراک گذاری فایل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="اندروید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="تجربه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="برنامه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="کیفیت صدا" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10060" Root="عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="فیلم برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="کیفیت تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10076" Root="سیستم عامل" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="فيلمبرداري" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="گوشي" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="قطعات" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="گوشي" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="دوربين دوم" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="باتري" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="صفحه نمایش" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="گوشي" Relation="gr-12" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="شرکت HTC" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100108" Root="گوشی" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID100111" Root="دوربين دوم" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100114" Root="حافظه رم" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100117" Root="مشخصات" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100120" Root="ظاهر" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100123" Root="باتري" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID100126" Root="باتری" Relation="gr-17" />
+    <Tag Type="Target(M)" ID="elementID100129" Root="صفحه نمايش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100132" Root="بلوتوث" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100135" Root="دوربين" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100140" Root="گوشی" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100143" Root="گوشي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100146" Root="عملکرد" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100149" Root="سرعت" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100152" Root="تاچ" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100155" Root="کيفيت عکاسي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100158" Root="حجم عکس" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100161" Root="پخش موسيقي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100165" Root="دوربين دوم" Relation="cr-2" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-1,31,34]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,35,42]" Relation="tagID1002" Value="" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-1,59,64]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-1,65,74]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-1,18,27]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-1,59,74]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-39,58,66]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-39,51,57]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-1,98,103]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-1,104,109]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-5,27,33]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-5,73,82]" Relation="tagID10014" Value="" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-10,57,67]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-10,68,78]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-11,7,13]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-11,14,24]" Relation="tagID10020" Value="+" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-11,27,32]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-12,40,50]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-12,58,62]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-15,15,25]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-15,47,58]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-14,4,11]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-14,34,40]" Relation="tagID10027" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-15,70,76]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-15,77,81]" Relation="tagID10030" Value="+" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-15,84,88]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-19,103,120]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-19,127,132]" Relation="tagID10036" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-20,47,64]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-20,92,101]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-21,106,113]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-21,17,25]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-22,61,72]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-22,73,82]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-22,16,27]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-22,28,33]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-22,109,117]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-22,118,126]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[rev-32,146,154]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-32,155,162]" Relation="tagID10058" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-26,7,17]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-26,18,24]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-29,154,164]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-29,165,169]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[rev-34,62,67]" Relation="elementID10060" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-34,97,110]" Relation="tagID10061" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-34,70,81]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-34,97,110]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-35,0,12]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-35,21,24]" Relation="tagID10067" Value="+" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[rev-35,27,36]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[rev-40,126,133]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-40,134,139]" Relation="tagID10073" Value="+" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-40,142,148]" Relation="tagID10073" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[gr-4-1,0,11]" Relation="elementID10076" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[gr-4-1,12,16]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[cr-1-9,4,14]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[cr-1-9,15,28]" Relation="tagID10080" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[gr-8-1,0,4]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[gr-8-1,5,9]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[gr-8-4,102,107]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[gr-8-4,96,101]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[gr-9-1,161,165]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[gr-9-1,173,177]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[gr-9-1,182,192]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[gr-9-1,193,198]" Relation="tagID10092" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-10-1,0,6]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-10-1,7,22]" Relation="tagID10095" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[gr-10-3,57,61]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[gr-10-3,46,51]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[gr-12-1,7,11]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[gr-12-1,12,16]" Relation="tagID100101" Value="+" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-12-1,22,35]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-13-2,0,10]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-13-2,18,24]" Relation="tagID100105" Value="+" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[gr-13-2,27,37]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100109" Coordinate="[gr-13-5,7,18]" Relation="elementID100108" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[gr-13-5,32,41]" Relation="tagID100109" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100112" Coordinate="[gr-14-1,46,56]" Relation="elementID100111" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[gr-14-1,40,45]" Relation="tagID100112" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100115" Coordinate="[gr-14-1,29,37]" Relation="elementID100114" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[gr-14-1,12,17]" Relation="tagID100115" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100118" Coordinate="[gr-15-1,0,6]" Relation="elementID100117" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-15-1,7,11]" Relation="tagID100118" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[gr-15-1,72,76]" Relation="elementID100120" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[gr-15-1,89,93]" Relation="tagID100121" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[gr-15-1,155,161]" Relation="elementID100123" Value="" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[gr-15-1,162,170]" Relation="tagID100124" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100127" Coordinate="[gr-17-3,4,10]" Relation="elementID100126" Value="" />
+    <Tag Type="Opinion" ID="tagID100128" Coordinate="[gr-17-4,6,17]" Relation="tagID100127" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100130" Coordinate="[cr-1-10,237,247]" Relation="elementID100129" Value="" />
+    <Tag Type="Opinion" ID="tagID100131" Coordinate="[cr-1-10,256,264]" Relation="tagID100130" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100138" Coordinate="[cr-1-22,107,117]" Relation="elementID100129" Value="" />
+    <Tag Type="Opinion" ID="tagID100139" Coordinate="[cr-1-22,118,122]" Relation="tagID100138" Value="" />
+    <Tag Type="Target(I)" ID="tagID100133" Coordinate="[cr-1-19,12,18]" Relation="elementID100132" Value="" />
+    <Tag Type="Opinion" ID="tagID100134" Coordinate="[cr-1-19,19,23]" Relation="tagID100133" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100136" Coordinate="[cr-1-22,86,92]" Relation="elementID100135" Value="" />
+    <Tag Type="Opinion" ID="tagID100137" Coordinate="[cr-1-22,93,104]" Relation="tagID100136" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100141" Coordinate="[cr-1-22,207,220]" Relation="elementID100140" Value="" />
+    <Tag Type="Opinion" ID="tagID100142" Coordinate="[cr-1-22,228,234]" Relation="tagID100141" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100144" Coordinate="[cr-2-1,12,16]" Relation="elementID100143" Value="" />
+    <Tag Type="Opinion" ID="tagID100145" Coordinate="[cr-2-1,33,47]" Relation="tagID100144" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100147" Coordinate="[cr-2-1,48,54]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100148" Coordinate="[cr-2-1,63,67]" Relation="tagID100147" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100150" Coordinate="[cr-2-1,58,62]" Relation="elementID100149" Value="" />
+    <Tag Type="Opinion" ID="tagID100151" Coordinate="[cr-2-1,63,67]" Relation="tagID100150" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100153" Coordinate="[cr-2-1,73,77]" Relation="elementID100152" Value="" />
+    <Tag Type="Opinion" ID="tagID100154" Coordinate="[cr-2-1,81,91]" Relation="tagID100153" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100156" Coordinate="[cr-2-1,114,125]" Relation="elementID100155" Value="" />
+    <Tag Type="Opinion" ID="tagID100157" Coordinate="[cr-2-1,146,161]" Relation="tagID100156" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100159" Coordinate="[cr-2-1,166,173]" Relation="elementID100158" Value="" />
+    <Tag Type="Opinion" ID="tagID100160" Coordinate="[cr-2-1,174,180]" Relation="tagID100159" Value="" />
+    <Tag Type="Target(I)" ID="tagID100162" Coordinate="[cr-2-1,206,216]" Relation="elementID100161" Value="" />
+    <Tag Type="Opinion" ID="tagID100163" Coordinate="[cr-2-1,217,231]" Relation="tagID100162" Value="+" />
+    <Tag Type="Opinion" ID="tagID100164" Coordinate="[cr-2-1,234,238]" Relation="tagID100162" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100166" Coordinate="[cr-2-1,97,107]" Relation="elementID100165" Value="" />
+    <Tag Type="Opinion" ID="tagID100167" Coordinate="[cr-2-1,108,113]" Relation="tagID100166" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,65,74]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-1,59,74]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-1,104,109]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-10,68,78]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-11,14,24]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-11,27,32]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-12,58,62]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-14,34,40]" Value="-" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-15,77,81]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-15,84,88]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-15,47,58]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-17,33,39]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-19,127,132]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-20,92,101]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-21,17,25]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-22,73,82]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-22,118,126]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-22,28,33]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-26,18,24]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-29,165,169]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-31,87,96]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-32,155,162]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-34,97,110]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-35,21,24]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-35,27,36]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-39,51,57]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-40,134,139]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-40,142,148]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-1-1,0,6]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[gr-4-1,12,16]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[cr-1-9,15,28]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[gr-3-1,0,12]" Value="-" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-5-1,12,19]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[gr-5-1,24,36]" Value="-" />
+    <Keyword ID="keywordID10035" Coordinate="[gr-6-1,0,12]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-7-1,23,35]" Value="-" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-8-1,5,9]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-8-2,87,93]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-8-4,96,101]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-9-1,173,177]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-9-1,193,198]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-9-2,0,9]" Value="-" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-10-1,7,22]" Value="-" />
+    <Keyword ID="keywordID10044" Coordinate="[gr-10-3,46,51]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[gr-10-3,36,41]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[gr-10-3,12,16]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[gr-11-1,105,111]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[gr-12-1,12,16]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[gr-12-1,22,35]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[gr-13-2,18,24]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[gr-13-2,27,37]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[gr-13-3,128,131]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[gr-13-5,32,41]" Value="-" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-14-1,40,45]" Value="-" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-14-1,12,17]" Value="-" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-15-1,7,11]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-15-1,89,93]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[gr-15-1,162,170]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-16-1,0,9]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-16-3,0,9]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-17-1,24,30]" Value="" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-17-1,5,10]" Value="" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-17-4,6,17]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[cr-1-10,256,264]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[cr-1-11,4,12]" Value="-" />
+    <Keyword ID="keywordID10066" Coordinate="[cr-1-19,19,23]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[cr-1-22,93,104]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[cr-1-22,118,122]" Value="" />
+    <Keyword ID="keywordID10069" Coordinate="[cr-1-22,228,234]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[cr-2-1,33,47]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[cr-2-1,63,67]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[cr-2-1,81,91]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[cr-2-1,146,161]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[cr-2-1,174,180]" Value="" />
+    <Keyword ID="keywordID10075" Coordinate="[cr-2-1,217,231]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[cr-2-1,234,238]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[cr-2-1,108,113]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="78" />
+    <Tag_Index Value="168" />
+  </Index>
+</Product>

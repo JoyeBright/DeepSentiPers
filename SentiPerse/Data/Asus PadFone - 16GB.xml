@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Asus PadFone - 16GB" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/01/01</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">گوشی 9.2 × 65.4 × 128 میلیمتر - داک گوشی 13.55 × 176.9 × 273 mm</Feature>
+    <Feature Name="وزن ">گوشی با باتری 129 گرم - داک گوشی 724 گرم</Feature>
+    <Feature Name="رنگ ">قهوه‌ای</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm Snapdragon S4 8260A Dual-Core</Feature>
+    <Feature Name="سرعت پردازنده ">1.5GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 225</Feature>
+    <Feature Name="حافظه داخلی ">16384 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">1024 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900</Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA</Feature>
+    <Feature Name="توضیحات 3G ">HSPA+ UL:5.76 Mbps/DL:21 Mbps</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 b/g/n, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">(Qualcomm GPS (AGPS Supported</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">Micro-USB</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع Super AMOLED</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">صفحه نمایش گوشی 4.3 اینچ و صفحه نمایش تبلت 10.1 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">qHD 960 × 540</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش گوشی: مجهز به پوشش ضدخش Corning Gorilla Glass with HCLR Film، مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Super AMOLED with Capacitive Multi touch panel Scratch Resistant Corning® Gorilla® Glass with HCLR Film)</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش دوم ">صفحه نمایش داک گوشی: مجهز به پوشش ضدخش Corning Gorilla Glass with HCLR Film، مالتی تاچ با قابلیت دریافت چندین لمس همزمان (TFT with Capacitive Multi touch panel Scratch Resistant Corning® Gorilla® Glass with HCLR Film)</Feature>
+    <Feature Name="اندازه صفحه نمایش دوم ">10.1 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش دوم ">WXGA 1280 × 800</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">8.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">2448 × 3264</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم با کیفیت 0.3 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="سرعت فیلمبرداری ">-</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">F2.2 Apertureقابلیت ثبت موقعیت مکانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)دوربین داک: 1.3 مگاپیکسل</Feature>
+    <Feature Name="مشخصات بلندگوها ">بلندگوهای بسیار با کیفیت سونیک مستر (High Quality Speakers, SonicMaster)</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">(v4.0 (Ice Cream Sandwich</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML5, Adobe Flash</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, AAC+, WMV, 3GP, AAC</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4, H.264, H.263</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="هندزفری ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">G-SensorE-CompassGyroscopeMotion Sensorحسگر نوری برای تنظیم نور صفحه نمایش مطابق با نور محیط (Light Sensor)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor)حسگر شتاب سنج برای چرخش خودکار رابط کاربری (Accelerometer Sensor)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">گوشی: 1520 میلی‌آمپر - داک: 6600 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">373 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">10:40 ساعت</Feature>
+    <Feature Name="اقلام همراه گوشی ">شارژردفترچه راهنماهنذزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="+1">• طراحی،  ساخت و صفحه‌ی نمایش طراحی گوشی پدفون در یک کلمه زیباست.</Sentence>
+    <Sentence ID="rev-2" Value="+2">جنس براق و کاملا صیقلی بدنه،  بسیار چشم نواز است.</Sentence>
+    <Sentence ID="rev-3" Value="0">ابعاد این گوشی 65×128 میلی متر است که 9.2 میلی متر نیز ضخامت دارد.</Sentence>
+    <Sentence ID="rev-4" Value="0">همچنین،  وزن آن 129 گرم می‌باشد.</Sentence>
+    <Sentence ID="rev-5" Value="+2">قاب پشتی آن نیز که از جنس پلاستیک بسیار با کیفیت می‌باشد،  با وجود بافت ریز موجود بر روی آن،  بسیار زیبا و مطمئن است،  طوری که احساس امنیت بسیار خوبی را به کاربر در حین کار با آن منتقل می‌نماید.</Sentence>
+    <Sentence ID="rev-6" Value="0">دور تا دور بدنه را یک لایه‌ی آلومینیومی در بر گرفته که کلید های کنترلی این گوشی را نیز در  خود جای داده است.</Sentence>
+    <Sentence ID="rev-7" Value="0">در سمت چپ گوشی،  درگاه micro-USB و micro-HDMI قرار دارند.</Sentence>
+    <Sentence ID="rev-8" Value="0">البته در همین سمت،  کانکتور مخصوص اتصال گوشی به داک نیز به چشم می‌خورد.</Sentence>
+    <Sentence ID="rev-9" Value="0">در سمت راست نیز کلید کنترل صدا وجود دارد.</Sentence>
+    <Sentence ID="rev-10" Value="0">اما کلید پاور و جک 3.5 میلی متری صدا،  در لبه‌ی بالایی این گوشی تعبیه شده‌اند.</Sentence>
+    <Sentence ID="rev-11" Value="0">نهایتا،  بر روی قاب پشتی گوشی نیز،  دوربین به همراه فلاش و یک بلندگو  به چشم می‌خورند.</Sentence>
+    <Sentence ID="rev-12" Value="0">صفحه‌ی نمایش این گوشی،  یک صفحه‌ی نمایش 4.3 اینچی از نوع SuperAMOLED می‌باشد.</Sentence>
+    <Sentence ID="rev-13" Value="+1">رزولوشن آن 960×540 و تراکم پیکسلی آن نیز 256ppi می‌باشد که کاملا مناسب است.</Sentence>
+    <Sentence ID="rev-14" Value="+2">مانند دیگر SuperAMOLED ها،  رنگ‌ها در این صفحه‌ی نمایش هم بسیار عمیق و زنده نمایش داده می‌شوند.</Sentence>
+    <Sentence ID="rev-15" Value="+2">همچنین دید در زوایای مختلف آن نیز بسیار خوب است.</Sentence>
+    <Sentence ID="rev-16" Value="0">در ضمن،  برای محافظت از این صفحه‌ی نمایش،  از شیشه‌ی Gorilla Glass استفاده شده است.</Sentence>
+    <Sentence ID="rev-17" Value="0">اما در مورد طراحی داک آن نیز می‌خواهیم بگوییم.</Sentence>
+    <Sentence ID="rev-18" Value="0">داک این گوشی که با نام PadFone Station شناخته می‌شود،  دارای یک صفحه‌ی نمایش 10.1 اینچی است که گوشی،  در قسمت پشتی آن جای می‌گیرد.</Sentence>
+    <Sentence ID="rev-19" Value="0">ابعاد آن نیز 177×273 میلی متر است که به تنهایی 595 گرم نیز وزن دارد.</Sentence>
+    <Sentence ID="rev-20" Value="-1">اما قطر 13.5 میلی متری آن،  باعث می‌شود که راحتی یک تبلت را در دستان شما نداشته باشد و از نظر ظرافت،  هیچ شباهتی به تبلت های رقیب مانند iPad های اپل و یا حتی تبلت های ساخت خود ایسوس نیز ندارد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">اما اگر وزن سنگین داک برای شما یک عیب محسوب نمی‌گردد،  می‌توان گفت که این Station برای شما کارایی‌های بسیاری خواهد داشت.</Sentence>
+    <Sentence ID="rev-22" Value="0">لازم به ذکر است که این داک به تنهایی کاربردی ندارد و فقط با وجود گوشی است که روشن شده آماده‌ی کار می‌شود.</Sentence>
+    <Sentence ID="rev-23" Value="0">برای قرار گرفتن گوشی در محل قرار گیری آن،  یک درب ضامن دار قرار دارد که به محض بسته شدن آن،  تصویر صفحه‌ی نمایش گوشی به داک منتقل شده و آماده‌ی انجام وظایف خود به عنوان تبلت می‌شود.</Sentence>
+    <Sentence ID="rev-24" Value="0">این صفحه‌ی نمایش 10.1 اینچی،  از نوع IPS LCD می‌باشد که رزولوشن آن نیز 800×1280 پیکسل است.</Sentence>
+    <Sentence ID="rev-25" Value="+1">کیفیت این صفحه‌ی نمایش در مقایسه با SuperAMOLED ها،  چندان چشم گیر نیست اما با این قیمت،  عملکرد آن کاملا مناسب ارزیابی می‌گردد.</Sentence>
+    <Sentence ID="rev-26" Value="+1">در ضمن،  با انتخاب حالت Outdoor،  کار کردن با آن در زیر نور آفتاب نیز به راحتی و بدون مشکل خاصی صورت می‌پذیرد.</Sentence>
+    <Sentence ID="rev-27" Value="0">بر روی بدنه‌ی داک این گوشی،  2 بلندگو به چشم می‌خورد که البته به نظر تزیینی می‌رسد!</Sentence>
+    <Sentence ID="rev-28" Value="0">همچنین یک دوربین 1.3 مگاپیکسلی در قسمت جلویی آن برای انجام مکالمات تصویری تعبیه شده است.</Sentence>
+    <Sentence ID="rev-29" Value="0">ولی در حالت تبلت،  برای عکاسی می‌توان از دوربین اصلی خود گوشی استفاده نمود.</Sentence>
+    <Sentence ID="rev-30" Value="0">• سخت افزار بر روی این گوشی جذاب،  یک پردازنده‌ی دو هسته ای با فرکانس 1.5 گیگاهرتز از نوع Krait به همراه چیپ Qualcomm Snapdragon S4 قرار دارد.</Sentence>
+    <Sentence ID="rev-31" Value="+1">همچنین یک پردازشگر گرافیکی Adreno 225 به همراه یک گیگابایت حافظه‌ی رم باعث می‌گردند که این گوشی جزو قوی‌ترین گوشی‌ها قرار گیرد.</Sentence>
+    <Sentence ID="rev-32" Value="+1">در تست‌های سخت افزاری،  عملکرد این گوشی در حد برترین گوشی‌های اندرویدی یعنی Galaxy S III و HTC One X قرار داشت که ما را متعجب نمود.</Sentence>
+    <Sentence ID="rev-33" Value="+1">عملکرد فوق‌العاده‌ی پردازنده،  این گوشی را در بین برترین‌ها قرار داد،  اما پردازشگر گرافیکی این دستگاه،  عملکردی خوب و البته  نه چندان فوق‌العاده دارد.</Sentence>
+    <Sentence ID="rev-34" Value="0">همچنین این گوشی در سه مدل 16،  32 و 64 گیگابایتی به بازار ارائه شده است که البته با قابلیت پشتیبانی آن از کارت حافظه‌ی جانبی،  می‌توان تا 32 گیگابایت دیگر به آن افزود.</Sentence>
+    <Sentence ID="rev-35" Value="0">• قلم در کنار داک تبلت این گوشی،  یک قلم بلوتوث نیز وجود دارد.</Sentence>
+    <Sentence ID="rev-36" Value="+1">این قلم علاوه بر کارایی اصلی خود در حین کار با تبلت،  یک کارایی شگفت انگیز دیگر نیز دارد.</Sentence>
+    <Sentence ID="rev-37" Value="0">تصور کنید که در حال کار با تبلت هستید و گوشی در داک قرار دارد،  در همین زمان یک تماس ورودی با شما انجام می‌پذیرد.</Sentence>
+    <Sentence ID="rev-38" Value="0">در این شرایط دو راه برای مکالمه متصور می‌شوید.</Sentence>
+    <Sentence ID="rev-39" Value="0">یکی اینکه گوشی را به سرعت از داخل داک در آورده به تلفن جواب دهید و یا اینکه به وسیله‌ی بلندگوی تبلت و میکروفون آن به تماس پاسخ دهید.</Sentence>
+    <Sentence ID="rev-40" Value="0">حالت اول سختی‌های خاص خودش را دارد،  و حالت دوم باعث می‌گردد که همه‌ی کسانی که در نزدیکی شما قرار دارند کل مکالمه شما را بشنوند.</Sentence>
+    <Sentence ID="rev-41" Value="0">حال قابلیت دوم قلم به کمک شما می‌آید و نقش یک میکروفن-هدفون را برای شما ایفا می‌نماید.</Sentence>
+    <Sentence ID="rev-42" Value="+1">بدین ترتیب به راحتی به کمک قلم آن که دارای یک میکروفون و بلندگو است،   به تماس خود پاسخ داده و در پایان به کارتان ادامه می‌دهید.</Sentence>
+    <Sentence ID="rev-43" Value="+1">البته لازم به ذکر است که کیفیت مکالمه با قلم به خوبی کیفیت مکالمه با گوشی نیست،  اما در چنین شرایطی مسلما بسیار کاربردی و رضایت بخش خواهد بود.</Sentence>
+    <Sentence ID="rev-44" Value="+1">• نرم افزار یکی از بهترین خصوصیات این تبلت،  قابلیت سوئیچ کردن پویای آن است.</Sentence>
+    <Sentence ID="rev-45" Value="+1">تصور کنید که دیدن یک فیلم را بر روی گوشی PadFone آغاز کرده‌اید،  پس از چند دقیقه احساس می‌کنید که دیدن آن فیلم در صفحه‌ی نمایش 10.1 اینچی لذتی مضاعف دارد،  فقط کافیست گوشی را در داک آن قرار دهید تا بقیه‌ی فیلم را بر روی تبلت مشاهده نمایید.</Sentence>
+    <Sentence ID="rev-46" Value="+1">این کار بدون مکث زیاد صورت می‌پذیرد.</Sentence>
+    <Sentence ID="rev-47" Value="-1">البته متاسفانه این عمل در همه‌ی برنامه‌ها صورت نمی‌گیرد و فقط در تعدادی از برنامه‌ها مانند مرورگر اینترنت،  تماس‌ها،  دفترچه تلفن و یا ایمیل صورت می‌پذیرد.</Sentence>
+    <Sentence ID="rev-48" Value="-1">اما در مورد اکثر برنامه های دیگر و همچنین بازی‌ها،  سوئیچ پویا صورت نمی‌پذیرد بلکه باید بعد از قرار دادن گوشی بر روی تبلت،  مجددا آن برنامه را اجرا نمایید.</Sentence>
+    <Sentence ID="rev-49" Value="0">از اینجا به بعد را در مورد قابلیت‌های نرم افزاری گوشی صحبت خواهیم کرد،  چرا که کارایی داک آن نیز به قابلیت‌های گوشی وابسته است.</Sentence>
+    <Sentence ID="rev-50" Value="0">ایسوس بر روی پدفون از نسخه‌ی 4.0 سیستم عامل اندروید استفاده نموده است.</Sentence>
+    <Sentence ID="rev-51" Value="+2">رابط کاربری استاندارد اندروید بر روی این گوشی با پوشش زیبای ایسوس،  ترکیب بسیار زیبایی را تشکیل داده‌اند.</Sentence>
+    <Sentence ID="rev-52" Value="+1">رنگ بندی زیبا و درخشان آن به راستی کاربر را هیجان زده می‌نماید.</Sentence>
+    <Sentence ID="rev-53" Value="+1">همچنین،  تعدادی ویجت کاربردی مانند باتری،  ایمیل و یا ساعت نیز بر روی این گوشی قرار دارد که ویجت آب و هوا بر روی این گوشی با طراحی بسیار خوب،  خود نمایی می‌کند.</Sentence>
+    <Sentence ID="rev-54" Value="+1">تعدادی برنامه نیز به صورت پیش فرض بر روی پدفون قرار دارد که البته با وجود نرم افزار به روز و سخت افزار قدرتمند،  کاربر می‌تواند بدون محدودیت از هزاران برنامه‌ی موجود برای سیستم عامل اندروید استفاده نماید.</Sentence>
+    <Sentence ID="rev-55" Value="+1">مرورگر موجود بر روی این گوشی نیز مرورگر استاندارد گوگل یعنی کروم می‌باشد که در کنار امکانات متنوع ارتباطی و سخت افزار مناسب این گوشی،  گشت و گذار در اینترنت با سرعت بالا را برای کاربر امکان پذیر می‌سازد.</Sentence>
+    <Sentence ID="rev-56" Value="0">اما یک نکته در مورد مدیا پلیر این گوشی لازم به ذکر است.</Sentence>
+    <Sentence ID="rev-57" Value="-1">این گوشی از فرمت DivX پشتیبانی نمی‌کند و برای اجرای فیلم‌های با فرمت DivX،  کاربر باید از برنامه های پخش کننده استفاده نماید.</Sentence>
+    <Sentence ID="rev-58" Value="-1">بدین ترتیب خود به خود قابلیت سوئیچ  کردن پویا برای فیلم‌هایی با فرمت DivX نیز منتفی می‌گردد.</Sentence>
+    <Sentence ID="rev-59" Value="0">• دوربین دوربین به کار رفته بر روی پدفون،  یک دوربین 8 مگاپیکسلی می‌باشد.</Sentence>
+    <Sentence ID="rev-60" Value="+1">دیافراگم f/2.2 این گوشی باعث می‌گردد که عملکرد این دوربین در شرایط نوری ضعیف بسیار خوب باشد.</Sentence>
+    <Sentence ID="rev-61" Value="+1">همچنین،  وجود فلاش LED نیز به ثبت عکس‌های با کیفیت‌تر کمک می‌نماید.</Sentence>
+    <Sentence ID="rev-62" Value="+1">در ضمن،  این دوربین قادر است با کیفیت Full HD و سرعت 30 فریم بر ثانیه فیلم برداری نماید.</Sentence>
+    <Sentence ID="rev-63" Value="-1">تنها نکته‌ی منفی دوربین این گوشی،  ثبت نسبتا با تاخیر عکس‌ها می‌باشد.</Sentence>
+    <Sentence ID="rev-64" Value="0">از قابلیت‌های این دوربین می‌توان به عکاسی HDR،  لرزش گیر دست،  تشخیص چهره و عکاسی پیاپی اشاره نمود.</Sentence>
+    <Sentence ID="rev-65" Value="+1">در نهایت،  همان‌طور که در توضیحات داک گفتیم،  دوربین 1.3 مگاپیکسلی موجود بر روی داک به کاربر در ایجاد مکالمات تصویری کمک می‌نماید.</Sentence>
+    <Sentence ID="rev-66" Value="+1">• باتری گوشی پدفون از یک باتری 1520 میلی آمپر-ساعتی بهره می‌برد که در کارکرد عادی،  به راحتی تا یک روز شارژدهی می‌کند.</Sentence>
+    <Sentence ID="rev-67" Value="0">اما شارژدهی پدفون فقط منحصر به باتری گوشی نمی‌شود،  بلکه داک تبلت آن نیز دارای یک باتری 6600 میلی آمپر-ساعتیست که با قرار دادن گوشی در داک،  این باتری نیز به باتری گوشی افزوده می‌شود.</Sentence>
+    <Sentence ID="rev-68" Value="+1">پس کاربران پدفون،  بابت شارژدهی نگرانی خاصی نخواهند داشت.</Sentence>
+    <Sentence ID="rev-69" Value="+1">• جمع بندی ایسوس با این ایده،  تحول جالبی را در دنیای گوشی‌ها و تبلت ها ایجاد نمود.</Sentence>
+    <Sentence ID="rev-70" Value="+1">صرف نظر از عملکرد این گوشی-تبلت،  باید بگوییم که ایده‌ی ایسوس بسیار خلاقانه و قابل احترام است.</Sentence>
+    <Sentence ID="rev-71" Value="+1">چرا که این ایده کاملا به سود مصرف کننده است که با خرید یک دستگاه،  صاحب دو دستگاه می‌شود و ایسوس با تولید این گوشی ثابت نمود که فقط به دنبال منافع اقتصادی نبوده است.</Sentence>
+    <Sentence ID="rev-72" Value="+2">این گوشی،  با وجود یک صفحه‌ی نمایش بسیار خوب،  سخت افزار قدرتمند،  سیستم عامل به روز و دوربین با کیفیت،  به خودی خود یک گوشی قابل اطمینان محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-73" Value="+1">حال به این مشخصات،  داک تبدیل این گوشی به تبلت را نیز که اضافه نمایید،  واقعا هیجان انگیز است.</Sentence>
+    <Sentence ID="rev-74" Value="+1">به هر حال،  هم گوشی و هم تبلت جزو وسایلی هستند که  طرفداران بسیاری دارند،  پس اگر خواهان داشتن هر دوی آن‌ها با حداکثر هماهنگی هستید،  پدفون بهترین گزینه برای شما محسوب می‌گردد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>طراحی بسیار خوب گوشی</Advantage>
+    <Advantage>قابلیت تبدیل به تبلت توسط داک مخصوص</Advantage>
+    <Advantage>سوئیچ پویا بین گوشی و تبلت</Advantage>
+    <Advantage>وجود قلم بسیار کاربردی</Advantage>
+    <Advantage>سخت افزار قدرتمند شامل پردازنده‌ی بسیار خوب و یک گیگابایت رم</Advantage>
+    <Advantage>صفحه‌ی نمایش 4.3 اینچی SuperAMOLED با تراکم پیکسلی 256ppi</Advantage>
+    <Advantage>دوربین 8 مگاپیکسلی با دیافراگم f/2.2 به همراه فلاش</Advantage>
+    <Advantage>قابلیت‌های متعدد اتصال به اینترنت</Advantage>
+    <Advantage>خروجی HDMI</Advantage>
+    <Advantage>سیستم عامل اندروید 4.0</Advantage>
+    <Advantage>شارژ دهی بسیار خوب به دلیل وجود دو باتری برای گوشی و تبلت</Advantage>
+    <Advantage>قابلیت پشتیبانی از کارت حافظه‌ی جانبی</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>ضخامت زیاد تبلت</Disadvantage>
+    <Disadvantage>عدم پشتیبانی از DivX به صورت پیش فرض</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="امين طالبي " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">يه وسيله ي بدرد بخور که باعث ايجاد يک دسته بندي جديد در دنياي فناوري شد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="M " Value="0">
+      <Sentence ID="gr-2-1" Value="0">خدا کنه بياد ايران !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="اميد فريماني " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">عاليه فقط خدا کنه مثل بقيه محصولات ايسوس قيمتش خيلي بالا نباشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="حامد زبرجدي " Value="+2">
+      <Sentence ID="gr-4-1" Value="+2">عالي عالي عالي هيچ گوشي جلوي اين حرفي واسه گفتن نداره من تو دبي تست کردم perfect</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="هادي برقيکار " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">سلام دوستان عزيز اين گوشي 2ماه هست که به بازار دنيا اومده-درجه 1 هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="پوريا مهرکي " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">به نظر خيلي خوب مياد
+مخصوصا داک هم داره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="علي خزاعي " Value="+1">
+      <Sentence ID="gr-7-1" Value="+1">به نظر من بي نظيره-فقط منتظرم بياد همون روز اول ميگيرمش</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="آرمين " Value="0">
+      <Sentence ID="gr-8-1" Value="0">موضوع اينجاس که فقط به اسمارت فون محدود نميشه يه وسيله ي همه کارس پس کي مياد ديگه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="محمد حسين فلاح " Value="+2">
+      <Sentence ID="gr-9-1" Value="+2">خيلي عاليه هر انتظاري که از يه اسمارت فون داري رو براورده ميکنه و نسبت به  galaxy note خيلي بهتره.</Sentence>
+      <Sentence ID="gr-9-2" Value="+1">اميدوارم که هر چه زودتر بياد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="عارف رستمي " Value="+1">
+      <Sentence ID="gr-10-1" Value="+2">خيلي خوب و زيباست.</Sentence>
+      <Sentence ID="gr-10-2" Value="+1">جديد هم هست</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="92" />
+  <Performance Value="7.10" />
+  <Capability Value="6.40" />
+  <Production_Quality Value="6.80" />
+  <Ergonomics Value="7.00" />
+  <Purchase_Value Value="7.50" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="جنس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="قاب پشتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="رنگ صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="عملکرد صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="عملکرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="عملکرد پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="پوشش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="رنگ بندی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10041" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="مرورگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="گشت و گذار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="ثبت عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="صفحه‌ی نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10063" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="دوربین" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-2,0,3]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-2,4,8]" Relation="tagID1001" Value="" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-5,0,8]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-5,34,48]" Relation="tagID1006" Value="+" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-5,94,104]" Relation="tagID1006" Value="+" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-5,107,112]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-13,21,33]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-13,59,70]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-14,28,34]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-14,58,68]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-14,71,75]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-25,90,96]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-25,100,111]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-31,91,95]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-31,100,108]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-33,35,39]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-33,50,59]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-32,24,30]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-32,46,52]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-33,0,6]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-33,7,19]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-51,0,11]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-51,12,21]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-51,49,53]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-51,54,59]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-52,0,8]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-52,9,13]" Relation="tagID10038" Value="+" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-52,16,22]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-53,125,130]" Relation="elementID10041" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-53,131,140]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-54,93,102]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-54,103,110]" Relation="tagID10045" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-55,108,117]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-55,118,123]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[rev-72,47,56]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-72,57,64]" Relation="tagID10061" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-55,33,39]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-55,40,49]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-55,135,145]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-55,160,169]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-63,35,38]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-63,39,53]" Relation="tagID10056" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-72,22,34]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-72,35,44]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[rev-72,67,77]" Relation="elementID10063" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-72,78,84]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-72,87,93]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-72,94,102]" Relation="tagID10067" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,58,64]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-2,4,8]" Value="" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-2,11,22]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-2,30,44]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-5,34,48]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,94,104]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-5,107,112]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-5,139,149]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-13,59,70]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-14,58,68]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-14,71,75]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-15,34,43]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-20,73,79]" Value="-" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-20,43,48]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-20,0,3]" Value="" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-21,91,101]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-21,102,108]" Value="" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-21,0,3]" Value="" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-21,4,7]" Value="" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-22,37,44]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-22,45,50]" Value="-" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-22,53,56]" Value="" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-25,59,66]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-25,67,71]" Value="-" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-25,72,75]" Value="" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-25,100,111]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-25,53,58]" Value="" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-26,73,78]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-26,81,85]" Value="-" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-26,86,90]" Value="-" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-31,100,108]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-32,46,52]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-32,120,125]" Value="" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-33,7,19]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-33,50,59]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-33,113,116]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-33,126,134]" Value="" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-33,135,145]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-33,119,124]" Value="" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-36,64,74]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-36,57,63]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-42,14,19]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-43,74,78]" Value="-" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-43,0,5]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-43,48,52]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-43,106,119]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-43,122,131]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-43,81,84]" Value="" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-43,100,105]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-44,19,25]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-44,45,51]" Value="" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-44,72,75]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-45,156,159]" Value="" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-45,160,166]" Value="" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-46,8,12]" Value="-" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-46,13,16]" Value="-" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-47,0,5]" Value="" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-47,6,14]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-47,47,55]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-47,58,61]" Value="" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-48,0,3]" Value="" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-48,68,77]" Value="-" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-48,78,82]" Value="" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-48,83,87]" Value="" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-48,124,129]" Value="" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-51,12,21]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-51,54,59]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-51,74,86]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-52,9,13]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-52,16,22]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-52,44,53]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-53,131,140]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-53,143,152]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-53,153,159]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-53,21,28]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-54,103,110]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-54,119,127]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-54,128,132]" Value="-" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-54,133,140]" Value="-" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-54,60,65]" Value="" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-55,40,49]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-55,92,97]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-55,118,123]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-55,165,169]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-55,184,194]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-57,22,30]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-57,31,38]" Value="-" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-57,82,86]" Value="" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-58,78,83]" Value="" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-60,77,86]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-60,61,66]" Value="" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-61,42,53]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-61,54,57]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-61,58,66]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-62,20,24]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-62,25,28]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-63,39,53]" Value="-" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-63,12,16]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-63,0,4]" Value="" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-65,117,120]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-65,121,129]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-66,87,92]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-67,52,56]" Value="" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-67,0,3]" Value="" />
+    <Keyword ID="keywordID100104" Coordinate="[rev-68,32,38]" Value="-" />
+    <Keyword ID="keywordID100105" Coordinate="[rev-68,44,51]" Value="-" />
+    <Keyword ID="keywordID100106" Coordinate="[rev-69,36,41]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[rev-69,31,35]" Value="" />
+    <Keyword ID="keywordID100108" Coordinate="[rev-70,62,75]" Value="+" />
+    <Keyword ID="keywordID100109" Coordinate="[rev-70,78,90]" Value="+" />
+    <Keyword ID="keywordID100110" Coordinate="[rev-71,16,21]" Value="" />
+    <Keyword ID="keywordID100111" Coordinate="[rev-71,115,119]" Value="" />
+    <Keyword ID="keywordID100112" Coordinate="[rev-71,25,28]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[rev-72,35,44]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[rev-72,57,64]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[rev-72,78,84]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[rev-72,94,102]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[rev-72,125,137]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[rev-73,72,89]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[rev-73,90,93]" Value="+" />
+    <Keyword ID="keywordID100120" Coordinate="[rev-74,60,66]" Value="" />
+    <Keyword ID="keywordID100121" Coordinate="[rev-74,140,146]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[rev-74,78,81]" Value="" />
+    <Keyword ID="keywordID100123" Coordinate="[rev-74,111,117]" Value="" />
+    <Keyword ID="keywordID100124" Coordinate="[rev-74,118,125]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-1-1,11,20]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-1-1,48,52]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-3-1,0,5]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-4-1,0,4]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-4-1,5,9]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-4-1,10,14]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-5-1,58,64]" Value="+" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-6-1,7,15]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-7-1,10,18]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-9-1,0,10]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-9-1,50,57]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-9-1,87,97]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-10-1,0,8]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-10-1,11,17]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-10-2,0,4]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-10-2,8,11]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="141" />
+    <Tag_Index Value="69" />
+  </Index>
+</Product>

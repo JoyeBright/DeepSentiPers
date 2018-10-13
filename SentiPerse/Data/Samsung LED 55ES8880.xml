@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung LED 55ES8880" Type="TV">
+  <Accessories>
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="هدست Axtrom XT-HS200" Price="25000" />
+    <Accessory Name="کابل HDMI تلويزيون" Price="14000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/10/16</Feature>
+    <Feature Name="نوع ">LED</Feature>
+    <Feature Name="اندازه صفحه نمایش ">55 اینچ</Feature>
+    <Feature Name="ابعاد ">بدون پایه 30.8 × 722 × 1230 میلیمتر و با پایه 210 × 761 × 1230 میلیمتر</Feature>
+    <Feature Name="وزن ">بدون پایه 16.6 کیلوگرم و با پایه 19.3 کیلوگرم</Feature>
+    <Feature Name="رنگ ">نقره‌ای</Feature>
+    <Feature Name="نوع پنل ">Ultra Clear Panel</Feature>
+    <Feature Name="تکنولوژی سه بعدی ">بلی</Feature>
+    <Feature Name="کیفیت صفحه نمایش ">Full HD</Feature>
+    <Feature Name="رزولوشن تصویر ">1080 × 1920</Feature>
+    <Feature Name="نسبت تصویر ">16:9</Feature>
+    <Feature Name="Fine Motion Advanced 100Hz/200Hz ">بلی</Feature>
+    <Feature Name="نسبت کنتراست ">1:30,000,000</Feature>
+    <Feature Name="تعداد بلندگو ">2 بلندگو</Feature>
+    <Feature Name="توان خروجی صدا ">2 عدد بلندگوی 10 وات</Feature>
+    <Feature Name="سیستم های صوتی ">Sound Effect System: DNSe</Feature>
+    <Feature Name="مشخصات تیونر ">ATSC/Clear QAM</Feature>
+    <Feature Name="قابلیت DVB-T ">بلی</Feature>
+    <Feature Name="تصویر در تصویر ">بلی</Feature>
+    <Feature Name="تعداد تیونر تصویر در تصویر ">1 تیونر</Feature>
+    <Feature Name="ورودی HDMI ">بلی</Feature>
+    <Feature Name="تعداد ورودی HDMI ">3 پورت</Feature>
+    <Feature Name="ورودی USB ">بلی</Feature>
+    <Feature Name="تعداد ورودی USB ">3 پورت</Feature>
+    <Feature Name="ورودی Component ">بلی</Feature>
+    <Feature Name="تعداد ورودی Component ">1 پورت</Feature>
+    <Feature Name="ورودی ویدئو Composite ">بلی</Feature>
+    <Feature Name="تعداد وروردی ویدئو Composite ">2 پورت</Feature>
+    <Feature Name="ورودی S-Video ">خیر</Feature>
+    <Feature Name="ورودی PC ">بلی</Feature>
+    <Feature Name="ورودی CI-Slot ">خیر</Feature>
+    <Feature Name="پورت LAN ">بلی</Feature>
+    <Feature Name="پورت RS-232C ">خیر</Feature>
+    <Feature Name="ورودی تیونر ">خیر</Feature>
+    <Feature Name="خروجی Video ">خیر</Feature>
+    <Feature Name="خروجی Audio ">بلی</Feature>
+    <Feature Name="خروجی هدفون ">بلی</Feature>
+    <Feature Name="OSD Language ">بلی</Feature>
+    <Feature Name="تله تکست ">بلی</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="بازی ">بلی</Feature>
+    <Feature Name="منبع تغذیه ">100V ~ 240V, 50/60 Hz</Feature>
+    <Feature Name="مقدار مصرف ">110 وات</Feature>
+    <Feature Name="امکانات دیگر ">حسگر اکوضبط ویدئوی شخصیهاب هوشمندSamsung AppsFamily StorySamsung SMART TVFitnessSearch AllKidsSkype on Samsung TVSocial TVWeb BrowserYour VideoWide Color Enhancer</Feature>
+    <Feature Name="اقلام همراه تلویزیون ">پایهریموت کنترلدفترچه راهنماسیم برق</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+1">تعامل هوشمندانه با کنترل صدا و حرکت فن‌آوری جدید و پیشرفته تعامل هوشمند به شما اجازه می‌دهد تا بدون نیاز به فشار دادن دکمه با تلویزیون خود کار کنید.</Sentence>
+    <Sentence ID="rev-2" Value="+1">شما می‌توانید عملکردهایی مانند روشن/خاموش کردن تلویزیون،  عوض کردن کانال،  دسترسی به برنامه‌های کاربردی و گشت و گذار در اینترنت را به راحتی و تنها با اتکا به فرمان‌های ساده صوتی و حرکتی کنترل نمایید.</Sentence>
+    <Sentence ID="rev-3" Value="0">دوربین داخلی با قابلیت تشخیص چهره به شما اجازه می‌دهد تا بدون نیاز به تایپ کردن شناسه یا اسم رمز وارد Smart Hub یا سایر اشتراک‌های شخصی خود شوید.</Sentence>
+    <Sentence ID="rev-4" Value="+1">شیوه کاملاً نوین تعامل با تلویزیون را تجربه کنید.</Sentence>
+    <Sentence ID="rev-5" Value="0">* توصیه می‌شود برای عملکرد کنترل صوتی از کنترل لمسی هوشمند استفاده شود.</Sentence>
+    <Sentence ID="rev-6" Value="0">* تعامل صوتی در تمام زبان‌ها،  گویش‌ها و مناطق موجود نمی‌باشد.</Sentence>
+    <Sentence ID="rev-7" Value="0">* عملکرد واقعی ممکن است بسته به زبانی که بدان صحبت می‌شود متفاوت باشد* برای بهره‌مندی از برخی قابلیت‌ها و ویژگی‌های تعامل هوشمند ممکن است نیاز به دسترسی اینترنتی باشد.</Sentence>
+    <Sentence ID="rev-8" Value="0">* تعامل هوشمند در تمام زبان ها/گویش‌ها و مناطق موجود نمی‌باشد.</Sentence>
+    <Sentence ID="rev-9" Value="-1">* سطح امنیت تشخیص چهره به اندازه ورود با شناسه و اسم رمز بالا نیست.</Sentence>
+    <Sentence ID="rev-10" Value="+1">با محتواها و قابلیت‌های بهبود یافته تجربه مشاهده هوشمندانه‌تری داشته باشید با سه سرویس انحصاری و جدید سامسونگ – برنامه‌های کاربردی برای سرگرمی کودکان - Kids،  برنامه‌های کاربردی برای تندرستی – Fitness و برنامه‌های کاربردی برای خانواده - Family Story – وارد دنیای سرگرمی‌های آنلاین شده و از محتواهای ارتقا یافته جدید آنها بهره‌مند شوید.</Sentence>
+    <Sentence ID="rev-11" Value="0">برنامه‌های کاربردی برای سرگرمی کودکان - Kids سامسونگ سرگرمی‌های خانگی را با برنامه‌های سرگرم کننده و مفید آموزشی ترکیب می‌کند.</Sentence>
+    <Sentence ID="rev-12" Value="+1">با برنامه‌های کاربردی برای تندرستی - Fitness سامسونگ می‌توانید برنامه‌های ورزشی و تمرینی خود را در منزل اجرا کنید و با قابلیت برنامه‌های کاربردی برای خانواده - Family Story سامسونگ می‌توانید مطمئن باشید که لحظات و خاطرات ارزشمند خانوادگی نه تنها ذخیره می‌شوند بلکه توسط تلویزیون هوشمند شما به اشتراک گذاشته خواهند شد.</Sentence>
+    <Sentence ID="rev-13" Value="+1">این قابلیت‌های جدید Smart Hub تلویزیون هوشمند سامسونگ بر غنای زندگی شما افزوده و شریک و مشاور سبک زندگی شما خواهند بود.</Sentence>
+    <Sentence ID="rev-14" Value="0">* برنامه‌ها و محتواهای ارائه شده از طریق Smart Hub ممکن است در طبقه‌بندی محصولات،  مدل‌ها و مناطق مختلف با هم تفاوت داشته باشند.</Sentence>
+    <Sentence ID="rev-15" Value="0">برای آگاهی بیشتر به Samsung.</Sentence>
+    <Sentence ID="rev-16" Value="0">com مراجعه نمایید.</Sentence>
+    <Sentence ID="rev-17" Value="0">* برای بهره‌مندی از برخی قابلیت‌ها و ویژگی‌های تلویزیون هوشمند ممکن است نیاز به ارتقای ثابت‌افزار باشد.</Sentence>
+    <Sentence ID="rev-18" Value="0">* خدمات تندرستی – Fitness ممکن است در تمام مناطق در دسترس نباشد.</Sentence>
+    <Sentence ID="rev-19" Value="0">هر سال،  یک تلویزیون جدیدبه روز نگاه داشتن تلویزیون با جدیدترین فن‌آوری‌ها اینک به یک واقعیت تبدیل شده است.</Sentence>
+    <Sentence ID="rev-20" Value="0">سیستم تکامل هوشمند - Smart Evolution سامسونگ ابعاد فنی و مهندسی تلویزیون شما را بطور کامل عوض می‌کند بدون اینکه نیاز به تعویض کل دستگاه باشد.</Sentence>
+    <Sentence ID="rev-21" Value="0">کافی است کیت تکامل هوشمند - Smart Evolution سامسونگ را در تلویزیون خود قرار دهید و بگذارید جادوی خود را اجرا کند.</Sentence>
+    <Sentence ID="rev-22" Value="0">پردازنده دو هسته‌ای تلویزیون خود را به نسل جدید و سریع‌تر فن‌آوری چهار هسته‌ای تغییر دهید.</Sentence>
+    <Sentence ID="rev-23" Value="+1">تجربه مشاهده خود را با بالا بردن دقت نمایش اچ دی VOD به کیفیت حیرت‌انگیز فول اچ دی ارتقا بخشید.</Sentence>
+    <Sentence ID="rev-24" Value="0">قابلیت‌های جدید اضافه کرده و تلویزیون خود را با محتواهای جدید از نو بسازید.</Sentence>
+    <Sentence ID="rev-25" Value="0">به دنیای جدیدی از برنامه‌های تعاملی و قابلیت‌های جدید گام بگذارید،  تلویزیون شما دیگر هرگز مانند گذشته نخواهد بود.</Sentence>
+    <Sentence ID="rev-26" Value="0">فن‌آوری تکامل هوشمند - Smart Evolution حقیقتاً هر سال تلویزیون جدیدی به شما خواهد داد.</Sentence>
+    <Sentence ID="rev-27" Value="0">* کیت تکامل هوشمند - Smart Evolution که به صورت جداگانه به فروش خواهد رسید در سال 2013 عرضه خواهد شد.</Sentence>
+    <Sentence ID="rev-28" Value="0">* کیفیت عملکرد واقعی ممکن است بسته به مشخصات فنی مدل‌ها و محدودیت‌های سخت‌افزاری متفاوت باشد.</Sentence>
+    <Sentence ID="rev-29" Value="0">* سطوح به‌سازی ارائه شده توسط کیت تکامل هوشمند - Smart Evolution به سال خرید آن بستگی دارد.</Sentence>
+    <Sentence ID="rev-30" Value="0">* ممکن است کیت تکامل هوشمند - Smart Evolution در زمان عرضه متفاوت باشد.</Sentence>
+    <Sentence ID="rev-31" Value="+1">تجربه مشاهده خود را با کیفیت برتر تصویر ارتقا بخشید لذت مشاهده را با کیفیت برتر تصویر ارتقا داده و تجربه بسیار واقعی‌تر و واضح‌تر و جذاب‌تری از سرگرمی‌ها داشته باشید.</Sentence>
+    <Sentence ID="rev-32" Value="+2">حرکت تصاویر با قابلیت 960Hz Clear Motion Rate بسیار نرم‌تر خواهد بود تا صحنه‌های پر تحرک و هیجانی را با نهایت وضوح تماشا کنید.</Sentence>
+    <Sentence ID="rev-33" Value="+2">با عینک‌های 3 بعدی سامسونگ می‌توانید تصاویر خارق‌العاده 3 بعدی را با دقت فول اچ دی تماشا 1080p نمایید.</Sentence>
+    <Sentence ID="rev-34" Value="+1">با الگوریتم پیچیده و برتر تنظیم دقیق نور که کنتراست،  رنگ و وضوح را بهبود می‌بخشد، کیفیت تصاویر پیش چشم خود را باور نخواهید کرد.</Sentence>
+    <Sentence ID="rev-35" Value="+1">طراحی انقلابی و چشم‌نواز تلویزیون که زندگی شما را متحول خواهد ساخت محیط زندگی خود را با این طراحی پیچیده و شیک متحول سازید.</Sentence>
+    <Sentence ID="rev-36" Value="+2">طراحی جذاب و زیبای منحصر به فرد سامسونگ از حاشیه باریک بدنه استفاده می‌کند تا تجربه فراگیرتر و گسترده‌تری داشته باشید.</Sentence>
+    <Sentence ID="rev-37" Value="+2">در این طراحی از نمای منحنی گون جذاب و یک پایه نوآورانه استفاده شده است که در کنار هم یک شاهکار کامل هنری محسوب می‌شوند.</Sentence>
+    <Sentence ID="rev-38" Value="+2">تلویزیونی را کشف کنید که در آن طراحی حیرت‌انگیز و امکانات برتر مشاهده با هم ادغام شده‌اند.</Sentence>
+    <Sentence ID="rev-39" Value="+1">فایل‌ها و برنامه‌های خود را به اشتراک گذاشته، ذخیره ساخته و از آن‌ها لذت ببرید – راحت‌تر از همیشه به یمن وجود قابلیت‌های ارتباطی هوشمند می‌توانید تجربه مشاهده لذت‌بخش‌تر و هوشمندانه‌تری داشته باشید.</Sentence>
+    <Sentence ID="rev-40" Value="+1">با AllShare Play می‌توانید فیلم،  عکس و موسیقی و سایر فایل‌های چندرسانه‌ای را مستقیماً در تلویزیون خود پخش کرده و از آنها روی صفحه نمایش بزرگ لذت ببرید.</Sentence>
+    <Sentence ID="rev-41" Value="0">قابلیت Wi-Fi داخلی به شما اجازه دسترسی یافتن به تجهیزات سازگار که در نزدیکی قرار دارند،  شامل تجهیزات همراه را می‌دهد.</Sentence>
+    <Sentence ID="rev-42" Value="+1">با فن‌آوری ابری می‌توانید در مواقعی که خانه نیستید نیز بیشترین بهره را از فایل‌ها و محتواهای خویش ببرید.</Sentence>
+    <Sentence ID="rev-43" Value="+1">با قابلیت‌های ارتباطی بهتر می‌توانید فایل‌ها و برنامه‌های چندرسانه‌ای خود را آسان‌تر به اشتراک گذاشته و از آنها لذت ببرید.</Sentence>
+    <Sentence ID="rev-44" Value="0">* استفاده از قابلیت ذخیره‌سازی در وب مستلزم ثبت نام جداگانه نزد یک ارائه کننده ثالث فضای ذخیره‌سازی می‌باشد.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="رضا ذاکر " Value="-1">
+      <Sentence ID="gr-1-1" Value="-1">درود
+اين محصول سامسونگ از جهات بسياري مطلوب و قابل قبول است اما بنده بعد از خريد اين محصول متوجه شدم که اولا فاقد امکان تصوير در تصوير ميباشد و همينطور بعد از استفاده از عينک سه بعدي آن توسط خودم و اعضا خانواده همگي دچار سردرد و تهوع شديم که در مقايسه با محصولات مشابه ال جي که داراي عينک پسيو هستند اين معضل بزرگيست.</Sentence>
+      <Sentence ID="gr-1-2" Value="-1">بدين معني که حداقل براي ما سه بعدي اين دستگاه غير قابل استفاده است.</Sentence>
+      <Sentence ID="gr-1-3" Value="0">اميدوارم کمک کرده باشم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="ارشيا آريايي " Value="+1">
+      <Sentence ID="gr-2-1" Value="0">با سلام من اين تلوزيون رو 3 هفته است که گرفته ام .</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">تلویزيون خوبي است بهترين قابليتي که خودم هم متعجب کرد دوربين واقعاً عالي است که روي هوا دست آدم رو تشخيص ميده و کيفيت خوبي داره که اين واقعا من رو متعجب کرد البته بايد بگم که توي نور زياد عملکرد عالي داره ولي چند نکته اي است که به عزيزاني که مي خواهند اين تلوزيون را بگيرند بگويم:
+1.اگر براي قابليت هاي اين تلوزيون مي خواهيد اون را بگيرد بايد بگويم که حتما بايد شبکه بي سيم اينترنت مثل: وايمکس و وايرلس داسته باشيد .</Sentence>
+      <Sentence ID="gr-2-3" Value="+1">اگر نداشته باشيد تلوزيون اصلا کاربرد نداره
+2.اين تلویزيون بسيار خوبي است ولي تو ايران زياد کارآمد نيست زيرا بيشتر برنامه هاي کاربرديش مثل برنامه اصلي ورزش تلوزيون فيلتر است و نمي تونيد از برنامه هاي کاربردي ان استفاده کنيد (البته ايران خودش چند تا برنامه و بازي عالي در سامسونگ اپس گذاشته است)
+در پايان بايد به مرورگر خود تلوزيون بپردازم که واقعاً عاليه و من از اون راضي بودم ولي اگر کاربران بتوانند براي راحتي خودشون يک کيبرد و موس بي سيم هم بگيرند راحت‌تر مي توانند از مرورگر استفاده کنند و
+کيفيت تلوزيون که براي شبکه هاي ايران کيفيت خوبي ندارد ولي براي فيلم هاي فول اچ دي عاليه 
+
+اميدوارم تونسته باشم راهنماييتون کرده باشم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="منصورناصرپور " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">با فيلم هاي بسيار جالبي که ديجي کالا از نحوه کار با اين دستگاه تهيه شده، ديگه هيچ شکي باقي نمي مونه که اين تلويزيون يکي از محبوب‌ترين کالاهاي صوتي و تصويري دنياست .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="بهمن معمارزاده " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">انصافاً حرف اول رو ميزنه، از هر لحاظ کامله
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="سيد محمدرضا طباطبايي " Value="+1">
+      <Sentence ID="gr-5-1" Value="0">آينده از آن سامسونگه!</Sentence>
+      <Sentence ID="gr-5-2" Value="0">من در منزل بيشتر دستگاههاي الکترونيکي رو از آخرين نمونه هاي سامسونگ انتخاب کردم و بيشترشون رو ميتونم با سيستم All Share Control در گوشي گالاکسي اس 3 خودم، کنترل کنم.</Sentence>
+      <Sentence ID="gr-5-3" Value="0">براي مثال تمام قابليتهاي اين تلويزيون رو ميشه با گوشيتون کنترل کنيد.</Sentence>
+      <Sentence ID="gr-5-4" Value="0">همچنين سيستم تهويه مطبوع و ماشين لباسشويي.</Sentence>
+      <Sentence ID="gr-5-5" Value="+1">در عين حال به تازگي شاهد ارائه سيستمهاي دربازکن تصويري هوشمند و قفلهاي درب منازل در ايران از سوي سامسونگ بوديم که شما ميتونيد با تکنولوژي NFC ارائه شده در گوشيهاي سامسونگ با بالاترين امنيت تمام منزل رو تحت کنترل داشته باشيد.</Sentence>
+      <Sentence ID="gr-5-6" Value="0">سامسونگ يعني آينده در حال</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="Mohammad Mahdi Mohseni " Value="+1">
+      <Sentence ID="gr-6-1" Value="0">به جز کيفيت .</Sentence>
+      <Sentence ID="gr-6-2" Value="+1">طراحيش هم حرفه‌ايه .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="mohammad " Value="+2">
+      <Sentence ID="gr-7-1" Value="+2">حرف نداره از کيفيت تصوير تا کيفيت ساخت و .</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="نورالله مجيديان" Score="3" Voters="13" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">اين مدل سامسونگ واقعاً جالبه و من ميتونم بگم به قول دوست عزيزمون آينده از آن سامسونگه و بهترين نمونه هاي ديجيتالي و مناسب‌ترين از لحاظ قيمت را ميشه تو محصولات سامسونگ جستجو کرد در حالي که ديگر مارکها به دنبال سود بيشتر و کيفيت کمتر هستند ولي سامسونگ بر عکس کيفيت بهتر و قيمت مناسب‌تر دارد سامسونگ در نمونه هاي فراوان از محصولات ديجيتالي که دارد مي تواند دامنه گسترده اي از خدمات را ارانته کند و اين خود تبليغاتي است براي آينده سامسونگ اين تلويزيون در مقايسه با مارک هاي مطرح مثل سوني قابليت‌هاي فراواني دارد در عين حال قيمت مناسبتري دارد ما به جاي اينکه هزينه بالايي براي تلويزيون سوني بدهيم مي توانيم با هزينه اي کمتر يک تلويزيون سامسونگ بخريم در حالي که امکانات فراواني دارد در عين حال که مزاياي اين تلويزيون ها را به خاطر مي آوريم نبايد فراموش کنيم که خدمات پس از فروش سامسونگ در ايران به خاطر دامنه سفارشات و تعدد نمايندگي ها ضعيف عمل مي کند</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="68" />
+  <Performance Value="6.40" />
+  <Capability Value="6.30" />
+  <Production_Quality Value="6.60" />
+  <Ergonomics Value="6.60" />
+  <Purchase_Value Value="5.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="فن‌آوری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="برنامه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="کیفیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="حرکت تصاویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="الگوریتم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="تلویزيون" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="دوربين" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="کيفيت دوربین" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10048" Root="عملکرد" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="بازي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="مرورگر" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="تلويزيون" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10064" Root="طراحي" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10067" Root="تلویزیون" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10070" Root="قيمت سامسونگ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10073" Root="کيفيت سامسونگ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10078" Root="قابليت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10081" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-1,36,43]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-1,44,48]" Relation="tagID1001" Value="+" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,51,58]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-10,203,213]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-10,214,221]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1008" Coordinate="[rev-23,56,61]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID1009" Coordinate="[rev-23,62,72]" Relation="tagID1008" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-31,23,28]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-31,29,33]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-31,69,74]" Relation="elementID1007" Value="" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-32,0,11]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-32,46,58]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-33,37,43]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-33,44,55]" Relation="tagID10017" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-34,3,11]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-34,21,25]" Relation="tagID10020" Value="+" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-34,12,18]" Relation="tagID10020" Value="" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-35,0,5]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10025" Coordinate="[rev-35,6,13]" Relation="tagID10024" Value="+" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-35,16,24]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-35,92,97]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[rev-35,98,104]" Relation="tagID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-35,107,110]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-36,0,5]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[rev-36,6,10]" Relation="tagID10030" Value="+" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[rev-36,13,18]" Relation="tagID10030" Value="+" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-36,19,31]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-38,31,36]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[rev-38,37,47]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-38,50,57]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-38,58,62]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[gr-2-2,0,8]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[gr-2-2,9,13]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[gr-2-3,49,57]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[gr-2-3,58,68]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[gr-2-2,54,60]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[gr-2-2,61,72]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[gr-2-2,112,117]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[gr-2-2,118,122]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[gr-2-2,188,194]" Relation="elementID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[gr-2-2,195,199]" Relation="tagID10049" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[gr-2-3,257,261]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[gr-2-3,262,266]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[gr-2-3,311,317]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[gr-2-3,341,353]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[gr-2-3,362,365]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[gr-2-3,366,370]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[gr-3-1,107,115]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[gr-3-1,123,133]" Relation="tagID10062" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[gr-6-2,0,6]" Relation="elementID10064" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[gr-6-2,10,18]" Relation="tagID10065" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10068" Coordinate="[cr-1-1,4,7]" Relation="elementID10067" Value="" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[cr-1-1,16,28]" Relation="tagID10068" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10071" Coordinate="[cr-1-1,135,139]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[cr-1-1,116,126]" Relation="tagID10071" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10076" Coordinate="[cr-1-1,270,274]" Relation="elementID10070" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[cr-1-1,275,283]" Relation="tagID10076" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10074" Coordinate="[cr-1-1,257,262]" Relation="elementID10073" Value="" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[cr-1-1,263,267]" Relation="tagID10074" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10079" Coordinate="[cr-1-1,484,494]" Relation="elementID10078" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[cr-1-1,495,502]" Relation="tagID10079" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10082" Coordinate="[cr-1-1,519,523]" Relation="elementID10081" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[cr-1-1,524,532]" Relation="tagID10082" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,6,15]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,44,48]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-1,51,58]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-2,134,139]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-2,4,13]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-4,5,16]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-9,62,66]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-10,321,329]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-10,311,315]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-10,214,221]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-10,24,29]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-12,191,196]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-12,221,228]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-13,57,61]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-13,72,78]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-23,62,72]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-23,23,27]" Value="" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-23,83,88]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-31,29,33]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-31,40,45]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-31,52,55]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-31,75,79]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-31,105,119]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-31,122,129]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-31,132,140]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-32,46,58]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-32,110,114]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-32,104,109]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-33,44,55]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-34,68,73]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-34,74,81]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-34,21,25]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-35,6,13]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-35,16,24]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-35,107,110]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-36,6,10]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-36,13,18]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-36,19,31]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-36,95,105]" Value="" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-36,84,92]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-37,31,35]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-37,46,54]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-37,88,94]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-37,95,99]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-38,37,47]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-38,58,62]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-39,69,72]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-39,81,88]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-39,159,169]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-39,172,185]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-40,142,145]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-40,17,26]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-41,56,62]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-42,55,62]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-42,63,67]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-43,22,26]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-43,77,84]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-43,27,36]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-43,112,115]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-1-1,38,43]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-1-1,46,55]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-1-1,109,113]" Value="-" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-1-1,221,226]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-1-1,229,233]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-1-1,304,308]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-1-1,309,316]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-1-2,46,62]" Value="-" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-2-2,9,13]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-2-2,18,24]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-2-2,61,72]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-2-2,118,122]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[gr-2-2,195,199]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[gr-2-3,30,36]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[gr-2-3,37,42]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[gr-2-3,58,68]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[gr-2-3,91,97]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[gr-2-3,98,102]" Value="-" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-2-3,262,266]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-2-3,341,353]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-2-3,366,370]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-2-3,450,457]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-2-3,541,546]" Value="-" />
+    <Keyword ID="keywordID10082" Coordinate="[gr-2-3,575,580]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-3-1,12,23]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-3-1,123,133]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-4-1,36,41]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-5-5,174,182]" Value="" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-5-5,183,188]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-6-2,10,18]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-7-1,0,9]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[cr-1-1,16,28]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[cr-1-1,88,94]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[cr-1-1,116,126]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[cr-1-1,263,267]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[cr-1-1,275,283]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[cr-1-1,495,502]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[cr-1-1,524,532]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[cr-1-1,830,834]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="98" />
+    <Tag_Index Value="84" />
+  </Index>
+</Product>

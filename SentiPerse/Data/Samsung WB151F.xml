@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung WB151F" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/11/02</Feature>
+    <Feature Name="نوع ">اولترازوم</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">106.5 × 59.9 × 23.4 mm</Feature>
+    <Feature Name="وزن ">بدون باتری و کارت حافظه 188 گرم</Feature>
+    <Feature Name="رنگ ">سفید، مشکی</Feature>
+    <Feature Name="نوع حسگر ">CCD</Feature>
+    <Feature Name="دقت حسگر ">16.4 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">14.2 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2.3 اینچ</Feature>
+    <Feature Name="رزولوشن عکس ">3,240 × 4,320 و 2,880 × 4,320 و 2,736 × 3,648 و 2,832 × 2,832 و 1,944 × 2,592 و 1,488 × 1,984 و 1,080 × 1,920 و 768 × 1,024</Feature>
+    <Feature Name="نسبت ابعاد عکس ">4:3, 3:2, 1:1</Feature>
+    <Feature Name="فرمت عکس ">JPEG (DCF), EXIF 2.21, DPOF 1.1, PictBridge 1.0</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">خیر</Feature>
+    <Feature Name="رزولوشن فیلم ">HD</Feature>
+    <Feature Name="فرمت فیلم ">(MP4 (Video Encoding: MPEG4, AVC/H.264</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌‌های 15 و 30 فریم بر ثانیه - قابلیت فیلمبرداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت‌‌های 15 و 30 فریم بر ثانیه - قابلیت فیلمبرداری با کیفیت QVGA در ابعاد 240 × 320 پیکسل و با سرعت‌‌های 15 و 30 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">ضبط صدا با فرمت AAC</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">24-432 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F3.2 تا F5.8</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">18 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">2 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر تصویر اپتیکال (Optical Image Stabilizer)</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">در حالت واید 80 سانتیمتر و در حالت تله 350 سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">در حالت واید 5 سانتیمتر و در حالت تله 80 سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">TTL auto focus (Multi AF, Center AF, Manual selection AF, face detection AF, Face Recognition AF, the AF tracking AF), Manual Focus</Feature>
+    <Feature Name="نورسنجی ">چندگانه، مرکزی، نقطه‌ای، ردیاب خودکار چهره</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/2000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">4 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 12 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">80</Feature>
+    <Feature Name="حداکثر حساسیت ">3200</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 80 و 100 و 200 و 400 و 800 و 1600 و 3200</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 5 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکاسی پیاپی ">دارد</Feature>
+    <Feature Name="فلاش ">دارای فلاش داخلی با برد 3.38 متر</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">رنگی از نوع TFT</Feature>
+    <Feature Name="سایز صفحه نمایش ">3 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">460,000 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">خیر</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">18 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">بلی</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی قابل شارژ مدل SLB-10A</Feature>
+    <Feature Name="اقلام همراه دوربین ">کابل USBباتری لیتیومیشارژر باتریبند دور دستدفترچه راهنماسی دی نرم افزاری همراه دوربین</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>مجهز بودن به لنز واید 24 میلی متر با توانایی زوم 18 برابر</Advantage>
+    <Advantage>بدنه‌ی بسیار کوچک و باریک با قطر تنها 23 میلی متر</Advantage>
+    <Advantage>توانایی ضبط ویدیویی 720p HD با سرعت 30 فریم بر ثانیه</Advantage>
+    <Advantage>نمایشگر  3 اینچی 460,000 پیکسلی</Advantage>
+    <Advantage>مجهز بودن به مودهای عکاسی Smart Auto و مودهای حرفه ای P,A,S,M</Advantage>
+    <Advantage>مجهز بودن به رادیو Wi-Fi برای انتقال عکس‌ها و فیلم‌ها به صورت بی‌سیم</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="بهنام آقايي " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">حدودا يک هفتست گرفتم ازش واقعاً راضيم اين دوربين نيمه حرفه ايه کيفيت عکس عالي حتي روي عکسهاي زوم شده باز ميشه زوم کرد بدون اينکه کيفيتش پايين بياد</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="3" />
+  <Performance Value="10.00" />
+  <Capability Value="10.00" />
+  <Production_Quality Value="10.00" />
+  <Ergonomics Value="10.00" />
+  <Purchase_Value Value="7.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="دوربین" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="کيفيت عکس" Relation="gr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[gr-1-1,21,24]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[gr-1-1,25,37]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[gr-1-1,63,72]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[gr-1-1,73,77]" Relation="tagID1004" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[gr-1-1,25,37]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,73,77]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="2" />
+    <Tag_Index Value="6" />
+  </Index>
+</Product>

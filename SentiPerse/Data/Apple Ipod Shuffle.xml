@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Apple Ipod Shuffle" Type="MusicPlayer">
+  <Accessories>
+    <Accessory Name="شارژر همراه  Energizer XP8000A" Price="470000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="کيت تميز کننده Soyntec Clean See 300" Price="17000" />
+    <Accessory Name="شارژر چند منظوره Energy Sistem K122" Price="21000" />
+    <Accessory Name="شارژر چند منظوره Energy Sistem K110" Price="17000" />
+    <Accessory Name="قاب محافظ Moshi iGlaze Touch G4 For iPod Touch Red" Price="42000" />
+    <Accessory Name="بند مچي آي پاد نانو فلوتر سرمه‌اي Dorsa iPod Nano 6G Wristband Flutter Dark Blue" Price="35000" />
+    <Accessory Name="بند مچي آي پاد نانو فلوتر قرمز Dorsa iPod Nano 6G Wristband Flutter Red" Price="35000" />
+    <Accessory Name="بند مچي آي پاد نانو فلوتر سبز Dorsa iPod Nano 6G Wristband Flutter Green" Price="35000" />
+    <Accessory Name="بند مچي آي پاد نانو مشکي Dorsa iPod Nano 6G Wristband Black" Price="35000" />
+    <Accessory Name="بند مچي آي پاد نانو فلوتر سفيد Dorsa iPod Nano 6G Wristband Flutter White" Price="35000" />
+    <Accessory Name="بند مچي آي پاد نانو فلوتر فيروزه‌اي Dorsa iPod Nano 6G Wristband Flutter Turquoise" Price="35000" />
+    <Accessory Name="محافظ صفحه نمايش آيفون رنگ مشکي Moshi iVisor AG for iPhone 4/4S Black" Price="35000" />
+    <Accessory Name="قاب محافظ شيشه‌اي Moshi iGlaze Touch G4 For iPod Touch Clear" Price="35000" />
+  </Accessories>
+  <Features>
+    <Feature Name="ابعاد ">29.0x31.6x8.7 mm</Feature>
+    <Feature Name="وزن ">12.5 گرم</Feature>
+    <Feature Name="نوع ">پخش کننده موسیقی MP3</Feature>
+    <Feature Name="رنگ ">مشکی - نقره ای - خاکستری - سبز - آبی - قرمز - صورتی - زرد - نارنجی</Feature>
+    <Feature Name="نوع حافظه ">حافظه داخلی فلش</Feature>
+    <Feature Name="ظرفیت حافظه داخلی ">2 گیگابایت</Feature>
+    <Feature Name="تعداد آهنگ ">500 عدد موزیک با فرمت AAC-128Kbps2000 عدد عکس</Feature>
+    <Feature Name="صفحه نمایش ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="فرمت آهنگ ها ">AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), MP3 (8 to 320 Kbps), MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, and WAV</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wi-Fi ">خیر</Feature>
+    <Feature Name="ضبط صدا ">خیر</Feature>
+    <Feature Name="ضبط از رادیو ">خیر</Feature>
+    <Feature Name="قابلیت نمایش متن ">خیر</Feature>
+    <Feature Name="پورت USB ">بلی</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="باتری ">لیتیوم قابل شارژ</Feature>
+    <Feature Name="کارکرد باتری ">15 ساعت برای پخش موزیک</Feature>
+    <Feature Name="مدت شارژ باتری ">3 ساعت برای شارژ کامل و 2 ساعت برای 80 درصد شارژ</Feature>
+    <Feature Name="سایر امکانات ">دارای سنسور شتاب سنج</Feature>
+    <Feature Name="اقلام همراه پخش کننده موسیقی ">iPod Shuffleهدفون اپل (Apple Earphones)کابل USb آی پاد شافل (45 میلیمتری) (iPod Shuffle USB Cable (45mmQuick Start Guide and Other Important Product Information</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="0">محصولی دیگر از اپل..</Sentence>
+    <Sentence ID="rev-2" Value="+1">همین کافیست تا برای بسیاری این پلیر مورد توجه قرار بگیرد.</Sentence>
+    <Sentence ID="rev-3" Value="+2">آنطور که اپل ادعا می کند آیپاد شافل دارای طراحی فوق العاده است،  که البته ادعایی غیر واقعی نیست.</Sentence>
+    <Sentence ID="rev-4" Value="+2">در نگاه اول،  بدنه آلومینیومی براق آن،  تنوع رنگ زیاد،  طراحی زیبا،  آرم اپل پشت آن و همچنین دکمه های ساده ای که به زیبایی روی آن قرار گرفته اند جلب نظر می کند.</Sentence>
+    <Sentence ID="rev-5" Value="+2">آنچه مسلم است طراحی زیبای آیپاد اپل چشمگیر است و با در دست گرفتن آن کیفیت ساخت اپل را احساس خواهید کرد.</Sentence>
+    <Sentence ID="rev-6" Value="+1">آیپاد شافل تنها یک پلیر قابل حمل نیست،  بلکه به راحتی می توانید آن را به لباستان یا کیفتان وصل کنید و از شنیدن موسیقی لذت ببرید.</Sentence>
+    <Sentence ID="rev-7" Value="+1">دکمه های آیپاد شافل به نوعی طراحی شده اند که شما بعد از مدتی استفاده دیگر نیاز ندارید که به دکمه ها نگاه کنید تا از آنها استفاده کنید.</Sentence>
+    <Sentence ID="rev-8" Value="+1">همچنین تنها با یک دکمه  که در کنار آیپاد شافل طراحی شده به راحتی می توانید پخش موسیقی را به حالت تصادفی (Shuffle)،  تکرار(Repeat) ،  و حالت پخش عادی تغییر دهید.</Sentence>
+    <Sentence ID="rev-9" Value="0">با زدن دکمه ی Voice Over که روی آیپاد شافل قرار دارد می توانید عنوان یا جزئیات آهنگی که در حال پخش است را بشنوید و همچنین زمانی که باتری شما در حال تمام شدن است؛ به شما اخطار می دهد.</Sentence>
+    <Sentence ID="rev-10" Value="-1">ظرفیت در دسترس برای ذخیره موسیقی در آیپاد شافل،  2GB است که ممکن است برای بعضی کاربران ظرفیت کمی باشد.</Sentence>
+    <Sentence ID="rev-11" Value="+1">با باتری لیتیومی قابل شارژ آیپاد شافل؛ می توانید تا 15 ساعت موسیقی گوش کنید.</Sentence>
+    <Sentence ID="rev-12" Value="+1">و همچنین با کابل USB و اتصال به کامپیوتر آن را شارژ نمایید.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>طراحی کلاسیک و زیبا</Advantage>
+    <Advantage>بدنه آلومینیومی مقاوم و براق</Advantage>
+    <Advantage>باتری قدرتمند که تا 15 ساعت میتوان با آن موسیقی شنید</Advantage>
+    <Advantage>راحتی حمل نقل و امکان وصل شدن به لباس و کیف</Advantage>
+    <Advantage>قابلیت Voice Over به 29 زبان دنیا</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>حافظه محدود و نسبتا کم (2GB)</Disadvantage>
+    <Disadvantage>اندازه کوچک که می تواند عامل گم شدن Ipod Shuffle به راحتی باشد</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="حسين غفراني " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">من يکي دارم و خيلي هم شيک و بادوام هستش و يه راهنمايي:حتما از برنامه iTunes استفاده کنيد و آهنگ هاتون رو همينجوري داخل خود آي پاد شافل کپي نکنيد که کار نميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="پوريا بابايي " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">خيلي خوب بود</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="امين طالبي " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">بجز اين هيچ mp3 player اي نخرين چون اپل بهترينه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="معين عليمراديان " Value="+2">
+      <Sentence ID="gr-4-1" Value="+1">راستش با چيزايي که شنيده بودم داشتم منصرف ميشدم از خريدنش
+اما حالا که خريدم واقعا بيش از اندازه راضي هستم
+دوستاني که ميگن کيفيت خوبي نداره بايد بگم که بهتره اين انتقاد رو از هدفونش کنيد !</Sentence>
+      <Sentence ID="gr-4-2" Value="+2">من هدفون Beats دارم که وقتي به اين ipod وصل کردم فقط ميتونم بگم عالي !</Sentence>
+      <Sentence ID="gr-4-3" Value="+1">جالب اينجاس که Beats رو به هر سيستم ديگه اي وصل کرده بودم شاهد همچين کيفيتي نبودم
+Volume اين کوچولو معلوم نيست تا چه حدي زياد ميشه اصلا حاضر نيست کم بياره !</Sentence>
+      <Sentence ID="gr-4-4" Value="+1">مطمئن باشيد از خريد اين ipod پشيمون نميشيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="آريا " Value="+2">
+      <Sentence ID="gr-5-1" Value="+2">وسيله اي کوچک خوب و کارآمد که چون شرکت سازنده اپل هست بايد دوام و کيفيت بالايي داشته باشه.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="ali" Score="51" Voters="111" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">يک پلير بي نظير که واقعا ارزش خريدشو داره.</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">من خريدمش!</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">باتريش که زود شارژ ميشه و حداقل 4 روز کار ميکنه که با اون ابعاد واقعا فوق العاده است.</Sentence>
+      <Sentence ID="cr-1-4" Value="+2">کيفيتش هم اصلا پايين نيست که بيشتر سايت ها نوشتن کيفيت مورد قبولي نداره که در اشتباهند.</Sentence>
+      <Sentence ID="cr-1-5" Value="+2">اگه ميخواين بخرينش اصلا شک نکنيد!</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="کاوياني" Score="22" Voters="30" Value="+2">
+      <Sentence ID="cr-2-1" Value="+1">من چند روزه خريدمش قبلا پلير سوني داشتم اون کيفيتش خوب بود اما اين کيفيت صداش محشره کسايي که به جزئيات آهنگ اهميت ميدن من اين پليرو پيشنهاد ميکنم  فقط تنها عيبي که ميشه گرفت ازش اينه که صفحه نمايش نداره که فکر ميکنم عادت ميکنيد به کار باهاش البته يه دکمه داره که با فشار اون دونه دونه پوشه ها رو اسم ميبره ميتونيد پوشه مورد علاقتونو اين جوري انتخاب کنيد.</Sentence>
+      <Sentence ID="cr-2-2" Value="+2">هدفونش خيلي خوب از پس صداي بلندش بر مياد اصلا صداش با بالا رفتن کيفيتش کم نميشه.</Sentence>
+      <Sentence ID="cr-2-3" Value="0">بايد بگم هدفونش 60% قيمت خود دستگاه .</Sentence>
+      <Sentence ID="cr-2-4" Value="+1">اگه مرددين که چي بخرين که بعدا پشميون نشين اين خيلي بعيده که پشميون بشين از خريدنش حتما از استفاده ازش لذت ميبرين هميشه بهترينو بگيرين تفاوت قيمتش با مارکاي معروف ديگه خيلي کمه قول ميدم پشيمون نميشيد از خريدنش.</Sentence>
+      <Sentence ID="cr-2-5" Value="+2">براي ريختن آهنگ به دستگاه يه برنامه داره که خيلي راحت نصب ميشه آهنگاي مورد علاقتونو اونجا انتخاب ميکنين و به محظ اينکه دستگاه به رايانه وصل ميکنيد خودکار شروع به انتقال ميکنه خيلي برنامه جالبيه.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="114" />
+  <Performance Value="3.60" />
+  <Capability Value="3.90" />
+  <Production_Quality Value="3.90" />
+  <Ergonomics Value="3.50" />
+  <Purchase_Value Value="3.20" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1002" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="دکمه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="گوشی" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="پلير" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="باتری" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="کیفیت صدا" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="هدفون" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="استفاده" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10096" Root="موزیک پلیر" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="دوام" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="کيفيت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="ارزش خريد" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="صفحه نمايش" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100113" Root="صدا" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100116" Root="ظرفیت ذخیره‌سازی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100119" Root="شارژ باتری" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100122" Root="برنامه" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100125" Root="نصب برنامه" Relation="cr-2" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-3,42,47]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-3,48,58]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-4,56,61]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-4,62,66]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-5,14,19]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-5,20,25]" Relation="tagID10029" Value="+" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-5,36,42]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-4,14,18]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-4,30,34]" Relation="tagID10030" Value="" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-4,93,101]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-4,102,109]" Relation="tagID10031" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-4,116,122]" Relation="tagID10031" Value="+" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-4,145,152]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-11,3,8]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-11,17,26]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[gr-3-1,36,39]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[gr-3-1,40,47]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[cr-1-1,3,7]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[cr-1-1,8,15]" Relation="tagID10039" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[cr-1-3,0,6]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[cr-1-3,64,80]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[cr-2-1,67,77]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[cr-2-1,78,83]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[cr-2-2,0,6]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[cr-2-2,22,32]" Relation="tagID10047" Value="+" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[cr-2-2,7,15]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[cr-2-4,91,98]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[cr-2-4,103,106]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10097" Coordinate="[gr-5-1,0,8]" Relation="elementID10096" Value="" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[gr-5-1,9,13]" Relation="tagID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[gr-5-1,14,17]" Relation="tagID10097" Value="+" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[gr-5-1,20,26]" Relation="tagID10097" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-5-1,59,63]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-5-1,72,78]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-5-1,66,71]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-5-1,72,78]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[cr-1-1,25,36]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[cr-1-1,37,41]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[cr-2-1,186,196]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[cr-2-1,197,202]" Relation="tagID100111" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100114" Coordinate="[cr-2-2,22,26]" Relation="elementID100113" Value="" />
+    <Tag Type="Opinion" ID="tagID100115" Coordinate="[cr-2-2,27,32]" Relation="tagID100114" Value="" />
+    <Tag Type="Target(I)" ID="tagID100117" Coordinate="[rev-10,87,92]" Relation="elementID100116" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[rev-10,93,96]" Relation="tagID100117" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100120" Coordinate="[cr-1-3,14,18]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100121" Coordinate="[cr-1-3,10,13]" Relation="tagID100120" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100123" Coordinate="[cr-2-5,180,186]" Relation="elementID100122" Value="" />
+    <Tag Type="Opinion" ID="tagID100124" Coordinate="[cr-2-5,187,193]" Relation="tagID100123" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100126" Coordinate="[cr-2-5,54,57]" Relation="elementID100125" Value="" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[cr-2-5,44,53]" Relation="tagID100126" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-4-1,96,100]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-4,62,66]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-4,116,122]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-4,102,106]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-4,145,152]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-3,48,58]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[cr-2-1,78,83]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[cr-1-1,8,15]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[cr-2-2,7,15]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[cr-2-4,103,106]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[gr-1-1,28,34]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[gr-1-1,22,25]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[gr-2-1,0,8]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-3-1,40,47]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-4-2,64,68]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-5-1,9,13]" Value="" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-5-1,14,17]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[gr-5-1,20,26]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-5-1,72,78]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[cr-1-1,37,41]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[cr-1-4,15,20]" Value="-" />
+    <Keyword ID="keywordID10033" Coordinate="[cr-1-4,21,25]" Value="-" />
+    <Keyword ID="keywordID10034" Coordinate="[cr-2-1,156,160]" Value="-" />
+    <Keyword ID="keywordID10035" Coordinate="[cr-2-1,197,202]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[cr-2-2,27,32]" Value="" />
+    <Keyword ID="keywordID10037" Coordinate="[cr-2-2,71,73]" Value="-" />
+    <Keyword ID="keywordID10038" Coordinate="[cr-2-2,74,79]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[cr-2-4,186,192]" Value="-" />
+    <Keyword ID="keywordID10040" Coordinate="[cr-2-4,193,199]" Value="" />
+    <Keyword ID="keywordID10041" Coordinate="[cr-2-5,44,53]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-2,41,45]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-2,5,11]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-3,81,84]" Value="-" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-3,85,90]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-3,91,95]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-4,30,34]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-5,5,9]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-6,48,53]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-6,118,121]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-7,74,78]" Value="-" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-7,79,85]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-8,59,64]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-8,65,74]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-10,93,96]" Value="-" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-11,39,48]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-12,0,1]" Value="" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-1-1,14,18]" Value="" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-4-1,36,41]" Value="-" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-4-1,58,61]" Value="" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-4-1,76,81]" Value="" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-4-1,161,167]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-4-3,0,4]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-4-4,0,5]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-4-4,29,35]" Value="-" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-4-4,36,42]" Value="-" />
+    <Keyword ID="keywordID10068" Coordinate="[cr-1-1,19,24]" Value="" />
+    <Keyword ID="keywordID10069" Coordinate="[cr-1-3,10,13]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[cr-1-3,64,80]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[cr-1-4,10,14]" Value="" />
+    <Keyword ID="keywordID10072" Coordinate="[cr-1-4,66,71]" Value="-" />
+    <Keyword ID="keywordID10073" Coordinate="[cr-1-4,78,86]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[cr-1-5,24,26]" Value="" />
+    <Keyword ID="keywordID10075" Coordinate="[cr-1-5,27,32]" Value="-" />
+    <Keyword ID="keywordID10076" Coordinate="[cr-1-5,19,23]" Value="" />
+    <Keyword ID="keywordID10077" Coordinate="[cr-2-1,132,139]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[cr-2-1,147,150]" Value="" />
+    <Keyword ID="keywordID10079" Coordinate="[cr-2-4,83,87]" Value="" />
+    <Keyword ID="keywordID10080" Coordinate="[cr-2-5,175,179]" Value="" />
+    <Keyword ID="keywordID10081" Coordinate="[cr-2-5,187,193]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="82" />
+    <Tag_Index Value="128" />
+  </Index>
+</Product>

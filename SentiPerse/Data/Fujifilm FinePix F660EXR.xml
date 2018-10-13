@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Fujifilm FinePix F660EXR" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="سه پايه انعطاف‌پذير Unomat FT-2" Price="9000" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="محافظ صفحه نمايش دوربين" Price="4500" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کيف ضربه گير مارک دار" Price="8500" />
+    <Accessory Name="کيف دوربين Vanguard Bahamas 6C-Blue" Price="19000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+    <Accessory Name="کيف دوربين عکاسي Case Logic DCB-302 Black" Price="39000" />
+    <Accessory Name="کيف دوربين عکاسي Case Logic SLDC-202" Price="64000" />
+    <Accessory Name="کيف دوربين عکاسي Case Logic QPB-202" Price="45000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/05/02</Feature>
+    <Feature Name="نوع ">اولترازوم</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">104 × 59 × 33 mm</Feature>
+    <Feature Name="وزن ">217 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، طلایی، قرمز</Feature>
+    <Feature Name="نوع حسگر ">EXR CMOS</Feature>
+    <Feature Name="دقت حسگر ">16 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">16 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2 اینچ - 4.8 × 6.4 میلی‌متر</Feature>
+    <Feature Name="رزولوشن عکس ">3456 × 4608 و 3072 × 4608 و 2592 × 4608 و 2736 × 3648 و 1944 × 2592 و 1488 × 1984 و 1080 × 1920</Feature>
+    <Feature Name="نسبت ابعاد عکس ">4:3, 3:2, 16:9</Feature>
+    <Feature Name="فرمت عکس ">JPEG (Exif Ver 2.3), RAW (RAF Format), RAW+JPEG</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">بلی</Feature>
+    <Feature Name="پردازشگر تصویر ">EXR</Feature>
+    <Feature Name="رزولوشن فیلم ">Full HD</Feature>
+    <Feature Name="فرمت فیلم ">(MOV (H.264</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت FullHD در ابعاد 1080 × 1920 پیکسل و با سرعت‌ 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌ 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت‌ 30 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">قابلیت ضبط صدا به صورت استریو (Stereo)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">24-360 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F3.5 تا F5.3</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">15 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">2 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر حسگر (CCD Shift Type)</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">45 سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">خیر</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">5 سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">نوع فوکوس TTL contrast AF, AF assist illuminator available - مودهای فوکوس (Single AF/Continuous AF (EXR AUTO, Movie</Feature>
+    <Feature Name="نورسنجی ">TLT 256 منطقه‌ای - چندگانه، مرکزی، نقطه‌ای</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/2000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">8 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">100</Feature>
+    <Feature Name="حداکثر حساسیت ">12800</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 100 و 200 و 400 و 800 و 1600 و 3200 - 6400 در مود M یا مودهای پایین‌تر و 12800 در مود S</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 7 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="فلاش ">فلاش داخلی بالا جهنده (Pgr-Up) با برد 3.2 متر</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">خیر</Feature>
+    <Feature Name="عکاسی سه بعدی ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش رنگی از نوع TFT با قابلیت پوشش‌دهی میدان دید تا 100%</Feature>
+    <Feature Name="سایز صفحه نمایش ">3 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">460,000 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">25 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی قابل شارژ مدل NP-50A</Feature>
+    <Feature Name="اقلام همراه دوربین ">کابل USBبند دور دستدفترچه راهنماسی‌دی نرم‌افزاری همراه دوربین</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">همان‌طور که گفتیم،  به جز سه تفاوتی که در لنز،  عدم عکاسی در فرمت خام RAW و عدم تجهیز به GPS که بین F660 و F770 وجود دارد،  و همچنین مقداری اختلاف جزئی در طراحی بدنه و وزن دوربین،  این دو کاملا شبیه به یکدیگر می‌باشند.</Sentence>
+    <Sentence ID="rev-2" Value="0">بنابراین بسیاری از نظراتی که درباره‌ی F770 داده بودیم در مورد این یکی هم صادق است.</Sentence>
+    <Sentence ID="rev-3" Value="+2">همانند F770،  این دوربین هم طراحی بسیار شکیل و زیبایی دارد که هم از نظر زیبایی شناختی و هم ارگونومی از مدل‌های پیشین بهتر است.</Sentence>
+    <Sentence ID="rev-4" Value="+1">در قسمت سمت راست آن دستگیره‌ی نصفه و نیمه ای ساخته شده که باعث می‌شود در دست گرفتن دوربین خیلی فراتر از حد انتظار آسان شود.</Sentence>
+    <Sentence ID="rev-5" Value="+2">بدنه از ماده ای لاستیک اندود شده ساخته شده که در هنگام لمس احساس خیلی خوبی را منتقل می‌کند.</Sentence>
+    <Sentence ID="rev-6" Value="+1">به خصوص اینکه باعث می‌شود که احتمال لیز خوردن دوربین در دست کمتر گردد و اثری از لکه و اثر انگشت هم بر روی آن باقی نماند.</Sentence>
+    <Sentence ID="rev-7" Value="0">به دلیل لنز کوچک‌تری که F660 نسبت به لنز F770 به آن مجهز است،  قطر بدنه‌ی آن نیز کمتر از برادر خود می‌باشد.</Sentence>
+    <Sentence ID="rev-8" Value="0">در ضمن به دلیل عدم تجهیز به GPS؛ آن برآمدگی قسمت بالای دوربین دیگر دیده نمی‌شود.</Sentence>
+    <Sentence ID="rev-9" Value="0">طراحی قسمت لبه‌ی بالایی و چینش دکمه‌ها هم کمی نسبت به F770 تفاوت دارد.</Sentence>
+    <Sentence ID="rev-10" Value="+2">چینش دکمه‌ها و کنترل‌های دوربین واقعا عالیست.</Sentence>
+    <Sentence ID="rev-11" Value="+1">وقتی دوربین را با یک دست نگه داشته‌اید،  انگشت شست دست راست شما به راحتی می‌تواند به بیشتر کنترل‌های مهم دسترسی پیدا کند.</Sentence>
+    <Sentence ID="rev-12" Value="+1">پیچ تنظیم شوتینگ مودها هم مثل مدل‌های پیشین رو به عقب ساخته شده ولی طراحی آن خیلی تمیز تر می‌باشد و احساس نمی‌کنیم که گویی آن قسمت از دوربین بر اثر گرما ذوب شده باشد.</Sentence>
+    <Sentence ID="rev-13" Value="0">F660 از بیشتر دوربین‌های کامپکت point to shoot بزرگ‌تر می‌باشد.</Sentence>
+    <Sentence ID="rev-14" Value="+1">ولی این بزرگ‌تر بودن باعث نشده که در دست گیری آن سخت شود.</Sentence>
+    <Sentence ID="rev-15" Value="0">ابعاد دقیقا آن نیز 104 x 59 x 33 میلی متر است که تا حدودی از F770 هم باریک‌تر و هم کوچک‌تر می‌باشد.</Sentence>
+    <Sentence ID="rev-16" Value="+1">مودهای عکاسی که از طریق پیچ تنظیم می‌توانند انتخاب شوند واقعا متنوع هستند.</Sentence>
+    <Sentence ID="rev-17" Value="0">همانند مدل‌های پیشین،  F660 نیز دوربینی است که می‌تواند علاوه بر عکاسان مبتدی یا کسانی که فقط با فشردن دکمه‌ی شاتر قصد عکاسی دارند،  مورد استفاده‌ی عکاسان حرفه ای هم قرار گیرد.</Sentence>
+    <Sentence ID="rev-18" Value="+1">به خصوص اینکه مجهز به مودهای عکاسی حرفه ای تر P,A,S,M هم می‌باشد.</Sentence>
+    <Sentence ID="rev-19" Value="-1">ولی برخلاف F770 نمی‌توان در فرمت حرفه ای تر و خام RAW با آن عکاسی کرد.</Sentence>
+    <Sentence ID="rev-20" Value="0">بدین ترتیب با این دوربین فقط می‌توانید در فرمت JPEG عکاسی نمایید.</Sentence>
+    <Sentence ID="rev-21" Value="0">مود EXR این دوربین درست مانند مود عکاسی intelligent Auto و Smart Auto بر روی دوربین‌های دیگر عمل می‌کند.</Sentence>
+    <Sentence ID="rev-22" Value="+1">با گذاشتن دوربین بر روی این مود،  کافیست که برای گرفتن عکس آن را به سوی سوژه نشانه بروید و دکمه‌ی شاتر را بفشارید تا دوربین خود نوع صحنه،  شرایط نوری و دیگر موارد را بسنجد و تنظیمات را بر روی بهترین حالت قرار دهد تا با کیفیت‌ترین عکس بدست آید.</Sentence>
+    <Sentence ID="rev-23" Value="+1">مود Adv (Advanced) قابلیت‌های خیلی خوبی مثل اینکه چند عکس در کنار هم برای عکاسی پانوراما تهیه کنید را به شما می‌دهد.</Sentence>
+    <Sentence ID="rev-24" Value="+1">این دوربین توانایی ضبط ویدیویی 1080p Full HD را نیز دارد.</Sentence>
+    <Sentence ID="rev-25" Value="0">این فیلم برداری می‌تواند با سرعت 30 فریم انجام شود و امکان استفاده از زوم کامل اپتیکال و ضبط صدای استریو نیز با آن وجود دارد.</Sentence>
+    <Sentence ID="rev-26" Value="+1">به نظر می‌رسد که F660 واقعا فیلم بردار خوبی باشد.</Sentence>
+    <Sentence ID="rev-27" Value="+1">بعلاوه اینکه این دوربین توانایی ضبط ویدیویی با سرعت خیلی زیاد بعلاوه اینکه این دوربین توانایی ضبط ویدیویی با سرعت خیلی زیاد 320 فریم بر ثانیه را نیز دارد تا بعدا وقتی آن را با سرعت 30 فریم بر ثانیه مشاهده می‌کنید یک فیلم اسلوموشن را شاهد باشید.</Sentence>
+    <Sentence ID="rev-28" Value="+1">همچنین این دوربین توانایی عکاسی پیاپی با سرعت 8 فریم بر ثانیه در رزولوشن کامل را نیز دارد.</Sentence>
+    <Sentence ID="rev-29" Value="-1">عکاسی پیاپی با سرعت 11 فریم بر ثانیه هم می‌تواند انجام گیرد ولی رزولوشن به 8 مگاپیکسل کاهش می‌یابد.</Sentence>
+    <Sentence ID="rev-30" Value="+1">همان‌طور که گفتیم،  این دوربین مجهز به لنز فوجینون 24-360 میلی متر با توانایی زوم 15 برابر است که تا کنون برای یک دوربین کامپکت در این ابعاد کوچک بی سابقه بوده است.</Sentence>
+    <Sentence ID="rev-31" Value="+1">این لنز در حالت واید 24 میلی متر به راحتی می‌تواند میدان دیدی کاملا گسترده را پوشش دهد تا در یک عکس بتوانید تصویر یک چشم انداز طبیعی پهناور را ثبت کنید.</Sentence>
+    <Sentence ID="rev-32" Value="+1">همچنین برای عکاسی از محیط‌های داخلی و یا جمع بزرگ دوستان هم مناسب است.</Sentence>
+    <Sentence ID="rev-33" Value="+1">هرچند که این دوربین از داشتن لنز با توانایی زوم 20 برابر F770 محروم است،  اما توانایی زوم 15 برابر آن نیز باعث می‌شود تا بتوانید سوژه‌هایی کاملا دوردست را هم با کیفیتی کاملا بالا ثبت کنید.</Sentence>
+    <Sentence ID="rev-34" Value="+2">بعلاوه‌ی اینکه چنین لنزی بر روی این دوربین کامپکت واقعا کم نظیر است.</Sentence>
+    <Sentence ID="rev-35" Value="-1">به دلیل توانایی تولید چنین بزرگنمایی زیادی،  لرزش دست می‌تواند در عکس گرفته شده تاثیر زیادی داشته باشد و به راحتی مقدار کمی از آن باعث به طور کلی تار شدگی عکس شود.</Sentence>
+    <Sentence ID="rev-36" Value="+2">به همین دلیل نیز F660 از لرزش گیر ترکیبی تصویر مکانیکی پیشرفته و الکترونیکی بهره می‌برد تا بتوانید با خیال آسوده و حتی در سرعت‌های شاتر پایین و بزرگنمایی های بالا نیز عکس‌های خیلی شارپ و با کیفیتی تولید کنید.</Sentence>
+    <Sentence ID="rev-37" Value="+1">اما کمینه‌ی نسبت کانونی آن در حالت واید و زوم،  f/3.5-5.6 می‌باشد که عالی نیست ولی خوب است تا در عکاسی شرایط نوری ضعیف هم مشکل زیادی نداشته باشید.</Sentence>
+    <Sentence ID="rev-38" Value="+1">طبق ادعای فوجی فیلم این دوربین می‌تواند در مدت زمان 0.16 ثانیه بر روی سوژه فوکوس کند تا یکی از سریع‌ترین مکانیسم‌های فوکوس خودکار را هم به خود اختصاص داده باشد.</Sentence>
+    <Sentence ID="rev-39" Value="0">سنسور تصویر 16 مگاپیکسلی CMOS این دوربین دقیقا همانی است که بر روی دوربین F600 سال گذشته و دوربین همزمان معرفی شده‌ی F770 هم وجود دارد و از این لحاظ هیچ تغییری بین این سه به چشم نمی‌خورد.</Sentence>
+    <Sentence ID="rev-40" Value="+2">نمایشگر 3 اینچی هم رزولوشن 460,000 پیکسل را ارایه می‌دهد که رزولوشن بسیار بالا و خوبیست.</Sentence>
+    <Sentence ID="rev-41" Value="+1">این دوربین مجهز به یک فلاش Pgr-up قدرتمند با برد موثر 3.7 متر نیز هست.</Sentence>
+    <Sentence ID="rev-42" Value="0">در قسمت لبه‌ی سمت راست دوربین کاوری لاستیکی دیده می‌شوند که پورت‌های این دوربین زیر آن قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-43" Value="0">در زیر آن می‌توانیم شاهد یک پورت استاندارد HDMI و یک پورت AV/USB هم دیده می‌شود.</Sentence>
+    <Sentence ID="rev-44" Value="+1">F660 مجهز به باتری لیتیوم-یونی قابل شارژ NP-50A می‌باشد که در هر بار شارژ کامل توانایی شارژ دهی به اندازه‌ی گرفتن 300 عکس را دارد.</Sentence>
+    <Sentence ID="rev-45" Value="0">عکس‌های گرفته شده نیز بر روی کارت حافظه‌ی SD/SDHC/SDXC ذخیره می‌شوند.</Sentence>
+    <Sentence ID="rev-46" Value="+2">به هر صورت همان‌طور که گفتیم،  F660 دوربین کامپکت سوپر زوم بسیار خوبیست که از ویژگی‌ها و فن آوری های خیلی پیشرفته و خوبی بهره می‌برد.</Sentence>
+    <Sentence ID="rev-47" Value="+2">از این جمله می‌توان به طراحی و ساخت بسیار با کیفیت و ارگونومیک،  مودهای عکاسی حرفه ای،  توانایی ضبط ویدیویی 1080p Full HD،  سنسور بسیار پیشرفته و با کیفیت،  نمایشگر خیلی خوب و از همه بهتر لنز با توانایی زوم 15 برابر اشاره کرد.</Sentence>
+    <Sentence ID="rev-48" Value="0">در آینده و با ورود این محصول به بازار سعی می‌کنیم اطلاعات بیشتری را از آن ارایه کنیم.</Sentence>
+    <Sentence ID="rev-49" Value="+2">به روز رسانی: از نظر مقدار نویز،  در حساسیت‌های پایین عکس‌های این دوربین وضعیت خیلی خوبی دارند.</Sentence>
+    <Sentence ID="rev-50" Value="0">در ایزو 100 نویزی مشاهده نمی‌شود ولی در ایزو 200 در هنگامی که بزرگنمایی را 100 درصد می‌کنید مقداری نویز مشاهده می‌گردد.</Sentence>
+    <Sentence ID="rev-51" Value="-1">این وضعیت تا ایزو 800 به مراتب بدتر می‌گردد.</Sentence>
+    <Sentence ID="rev-52" Value="-1">پس از آن گویی سیستم کاهش نویز درونی دوربین به یکباره به کار می‌افتد که البته مقداری افراط می‌کند و در حساسیت 1600 شاهد کاسته شدن از غلظت رنگ‌ها و مقدار جزئیات هستیم.</Sentence>
+    <Sentence ID="rev-53" Value="0">در حساسیت‌های 6400 و 12800 نیز برای اینکه نویز نمود کمتری داشته باشد از رزولوشن عکس کاسته می‌شود.</Sentence>
+    <Sentence ID="rev-54" Value="+2">با این حال در کل عکس‌ها از نظر نور دهی و رنگ‌ها خیلی خوب هستند.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>مجهز بودن به لنز واید و قدرتمند با توانایی زوم 15 برابر</Advantage>
+    <Advantage>توانایی ضبط ویدیویی 1080p Full HD</Advantage>
+    <Advantage>توانایی عکاسی پیاپی با سرعت 11 فریم بر ثانیه</Advantage>
+    <Advantage>بهره گیری از سنسور با رزولوشن بالای 16 مگاپیکسلی</Advantage>
+    <Advantage>بهره گیری از جدیدترین و پیشرفته‌ترین فن آوری های دوربین‌های دیجیتال</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="عبدالله حرداني " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">دوربين خوبيه عکس هاي که باهاش گرفتم خيلي خوبه اما در فيلم برداري سوژه رو چند لحظه گم مي کنه و بعد از چند ثانيه فوکس مي کنه اما در عکس گرفتن مي تونم بگم بي نظيره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="اسماعيلي " Value="+2">
+      <Sentence ID="gr-2-1" Value="+2">هم عکسش عاليه هم فيلم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="مهدي بهرامي " Value="-2">
+      <Sentence ID="gr-3-1" Value="-2">سلام  سه چهار روزي ميشه که اين به اصطلاح دوربينو گرفتم اصلا  از کيفيت عکساش راضي نيستم در حد 5 يا 6 مگا پيکسله  فيلمي هم که باهاش ميگيري هي گير ميکنه صداشم قطع و وصل ميشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="آرمين حسني  " Value="+2">
+      <Sentence ID="gr-4-1" Value="0">با سلام خدمت دوستان بعد از شش ماه تحقيق راجع به دوربين به طور ناخواسته اينو خريدم و امروز به دستم رسيد.</Sentence>
+      <Sentence ID="gr-4-2" Value="+2">بعد از آشنا شدن با تنظيمات دوربين و عکسهايي که گرفتم ميتونم بگم با کمي دقت و يادگيري فنون عکاسي ميشه عکسهاي فوق العاده اي انداخت کيفيت فيلمش هم عالي بود برخلاف انتظار باطريش هم خوب بود دو ساعت باهاش کار کردم ولي باطريش هنوز تموم نشده دوربين جمع و جوريه و هيچ ايرادي نداره و پيشنهاد ميکنم در خريدش شک نکنيد.</Sentence>
+      <Sentence ID="gr-4-3" Value="0">قبل از خريد فنون عکاسي رو ياد بگيريد.</Sentence>
+      <Sentence ID="gr-4-4" Value="-1">تنها عيبش به نظر من اين بود که باطريش دير شارژ شد.</Sentence>
+      <Sentence ID="gr-4-5" Value="0">موفق باشيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="حسين شريفي " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">سلام خدمت همه علاقمندان به عکاسي خوب من مدل f500 اين دوربين رو داشتم که بعد از کلي تحقيق با توجه به قيمت مناسبش خريداري کردم البته اين مدل با مدل قبلي هيچ تفاوتي نداره کيفت عکسهاي تو نور روز تا حدي مي تونه راضي کننده باشه کيفيت فيلم برداريش اصلا خوب نيست صداي زوم لنز خيلي آزار دهنده هست کيفيت بدنه هم اصلا جالب نيست ولي خوب براي ثبت لحظه هاي آماتوري تو نور روز ميشه گفت خوبه تو اين رنج قيمت</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="پيمان کاشاني نيا " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">دوربين بسيار قوي با حسگر فوق العاده.</Sentence>
+      <Sentence ID="gr-6-2" Value="0">به جرات ميگم با سوني قابل مقايسه نيست!</Sentence>
+      <Sentence ID="gr-6-3" Value="+1">رنگ هاي زنده.</Sentence>
+      <Sentence ID="gr-6-4" Value="+1">براي کاهش نويز هم ميشه سرعت شاتر رو با زاويه نور تنظيم کرد.</Sentence>
+      <Sentence ID="gr-6-5" Value="+2">فيلم برداري 320 فريم بر ثانيه اش فوق العادس!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="ابوالفضل خلج اسکندري " Value="-1">
+      <Sentence ID="gr-7-1" Value="0">من نميدونم فوجي فيلم چي رو داره تغيير ميده.</Sentence>
+      <Sentence ID="gr-7-2" Value="0">همشون شبيه f500 هستن.</Sentence>
+      <Sentence ID="gr-7-3" Value="0">شايد فوق فوقش تغييرات خيلي جزئي تو مدلهاي جديد بدن.</Sentence>
+      <Sentence ID="gr-7-4" Value="-1">وگرنه اگه f550 رو بگيرين و مدلهاي ديگش مقايسه کنين،  به تغييرات خيلي زيادي نميرسين.</Sentence>
+      <Sentence ID="gr-7-5" Value="0">به نظرم از همشون بهتر همون f550 هستش.</Sentence>
+      <Sentence ID="gr-7-6" Value="-1">تازه اينم که GPS نداره.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="6" />
+  <Performance Value="6.90" />
+  <Capability Value="6.90" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="6.90" />
+  <Purchase_Value Value="6.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="لیز خوردن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="چینش دکمه‌ها" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="کنترل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="طراحی پیچ تنظیم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="مودهای عکاسی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="فیلم بردار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="ضبط ویدیویی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="ابعاد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="میدان دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="بزرگنمایی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="لرزش گیر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10049" Root="فوکوس خودکار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="فلاش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="ویژگی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10066" Root="فن آوری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10073" Root="ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10079" Root="سنسور" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="نمایشگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="دوربين" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10091" Root="عکس" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10094" Root="عکس گرفتن" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="عکس" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="فيلم" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="صدا" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID100106" Root="عکس" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100109" Root="کيفيت فيلم" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100112" Root="باطري" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100115" Root="دوربين" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100118" Root="شارژ" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID100121" Root="قيمت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100124" Root="کيفت عکس" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100127" Root="صداي زوم لنز" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100130" Root="دوربين" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100133" Root="حسگر" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100136" Root="رنگ" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID100139" Root="فيلم برداري" Relation="gr-6" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-3,28,33]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-3,34,44]" Relation="tagID1002" Value="+" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[rev-3,47,53]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-47,23,28]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-47,36,50]" Relation="tagID10070" Value="+" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[rev-47,53,62]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-6,36,45]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-6,60,64]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-10,0,12]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-10,32,44]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-10,15,24]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-10,32,44]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-12,68,73]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-12,77,89]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-16,0,12]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-16,56,67]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-18,22,34]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[rev-18,35,45]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10077" Coordinate="[rev-47,65,77]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-47,78,85]" Relation="tagID10077" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-22,230,233]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-22,216,229]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-36,167,174]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-36,175,184]" Relation="tagID10046" Value="+" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-36,187,196]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-54,17,23]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-54,48,56]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-26,28,38]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-26,39,43]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-27,32,43]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-27,47,61]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-30,135,140]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-30,141,145]" Relation="tagID10032" Value="" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-31,51,61]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-31,62,74]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-34,20,24]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[rev-34,50,63]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-35,27,36]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-35,37,42]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-36,25,33]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-36,55,62]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-38,117,129]" Relation="elementID10049" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-38,95,104]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-40,60,67]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-40,68,78]" Relation="tagID10053" Value="+" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-40,81,87]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[rev-41,22,26]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-41,34,41]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[rev-46,36,42]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-46,65,71]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[rev-46,78,86]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-46,101,113]" Relation="tagID10063" Value="+" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-46,116,120]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[rev-46,89,100]" Relation="elementID10066" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[rev-46,101,113]" Relation="tagID10067" Value="+" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[rev-46,116,120]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10074" Coordinate="[rev-47,31,35]" Relation="elementID10073" Value="" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-47,36,50]" Relation="tagID10074" Value="+" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-47,53,62]" Relation="tagID10074" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-47,124,129]" Relation="elementID10079" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-47,130,143]" Relation="tagID10080" Value="+" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[rev-47,146,154]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[rev-47,157,164]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-47,165,173]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[gr-1-1,0,6]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[gr-1-1,7,12]" Relation="tagID10089" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10092" Coordinate="[gr-1-1,13,20]" Relation="elementID10091" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[gr-1-1,36,45]" Relation="tagID10092" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10095" Coordinate="[gr-1-1,130,139]" Relation="elementID10094" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[gr-1-1,152,160]" Relation="tagID10095" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[gr-2-1,3,7]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[gr-2-1,8,13]" Relation="tagID10098" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[gr-2-1,17,21]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[gr-2-1,8,13]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[gr-3-1,150,155]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[gr-3-1,156,165]" Relation="tagID100104" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100107" Coordinate="[gr-4-2,101,107]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[gr-4-2,108,121]" Relation="tagID100107" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100110" Coordinate="[gr-4-2,129,140]" Relation="elementID100109" Value="" />
+    <Tag Type="Opinion" ID="tagID100111" Coordinate="[gr-4-2,144,148]" Relation="tagID100110" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[gr-4-2,167,173]" Relation="elementID100112" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[gr-4-2,177,180]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[gr-4-2,234,240]" Relation="elementID100115" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[gr-4-2,241,252]" Relation="tagID100116" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100119" Coordinate="[gr-4-4,42,46]" Relation="elementID100118" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[gr-4-4,38,41]" Relation="tagID100119" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100122" Coordinate="[gr-5-1,100,104]" Relation="elementID100121" Value="" />
+    <Tag Type="Opinion" ID="tagID100123" Coordinate="[gr-5-1,105,111]" Relation="tagID100122" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100125" Coordinate="[gr-5-1,168,179]" Relation="elementID100124" Value="" />
+    <Tag Type="Opinion" ID="tagID100126" Coordinate="[gr-5-1,206,216]" Relation="tagID100125" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100128" Coordinate="[gr-5-1,255,267]" Relation="elementID100127" Value="" />
+    <Tag Type="Opinion" ID="tagID100129" Coordinate="[gr-5-1,268,283]" Relation="tagID100128" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100131" Coordinate="[gr-6-1,0,6]" Relation="elementID100130" Value="" />
+    <Tag Type="Opinion" ID="tagID100132" Coordinate="[gr-6-1,7,16]" Relation="tagID100131" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100134" Coordinate="[gr-6-1,20,24]" Relation="elementID100133" Value="" />
+    <Tag Type="Opinion" ID="tagID100135" Coordinate="[gr-6-1,25,35]" Relation="tagID100134" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100137" Coordinate="[gr-6-3,0,7]" Relation="elementID100136" Value="" />
+    <Tag Type="Opinion" ID="tagID100138" Coordinate="[gr-6-3,8,12]" Relation="tagID100137" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100140" Coordinate="[gr-6-5,0,11]" Relation="elementID100139" Value="" />
+    <Tag Type="Opinion" ID="tagID100141" Coordinate="[gr-6-5,33,43]" Relation="tagID100140" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-3,34,44]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-3,47,53]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,117,121]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-4,90,100]" Value="" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-4,114,118]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-5,65,74]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-6,60,64]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-10,32,44]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-11,67,72]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-11,73,81]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-12,77,89]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-12,64,67]" Value="" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-14,26,30]" Value="-" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-14,49,52]" Value="-" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-14,0,3]" Value="" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-16,56,67]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-16,68,73]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-18,35,45]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-18,14,18]" Value="" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-19,0,3]" Value="" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-19,16,24]" Value="-" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-22,192,198]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-22,216,229]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-23,30,39]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-24,11,18]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-24,52,56]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-26,39,43]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-26,22,27]" Value="" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-27,52,61]" Value="" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-27,24,31]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-28,85,89]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-28,18,25]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-28,0,6]" Value="" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-29,60,63]" Value="" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-29,86,90]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-30,146,154]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-30,141,145]" Value="" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-31,36,41]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-31,42,50]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-31,62,74]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-32,60,65]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-32,66,69]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-32,0,6]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-33,62,67]" Value="-" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-33,68,71]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-33,74,77]" Value="" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-33,168,178]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-33,121,128]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-34,50,63]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-34,64,67]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-35,37,42]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-35,146,154]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-35,45,49]" Value="" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-35,86,91]" Value="" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-35,108,113]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-36,107,112]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-36,55,62]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-36,76,80]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-36,81,87]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-36,175,184]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-36,187,196]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-37,0,3]" Value="" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-37,69,73]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-37,74,78]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-37,79,82]" Value="" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-37,83,86]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-37,87,90]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-37,122,126]" Value="-" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-37,133,139]" Value="-" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-38,95,104]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-40,68,78]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-40,81,87]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-41,34,41]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-41,66,69]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-44,125,129]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-44,79,86]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-46,65,71]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-46,101,113]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-46,116,120]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-46,121,125]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-46,126,132]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-47,36,50]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-47,53,62]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-47,78,85]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-47,130,143]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-47,146,154]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-47,165,173]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-47,183,187]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-49,79,88]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-52,119,128]" Value="-" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-51,31,35]" Value="-" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-51,36,43]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-52,84,89]" Value="-" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-54,48,56]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-54,11,16]" Value="" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-54,57,62]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-1-1,7,12]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-1-1,36,45]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-1-1,46,49]" Value="" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-1-1,152,160]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-1-1,82,84]" Value="-" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-1-1,85,91]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-2-1,8,13]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-2-1,14,16]" Value="" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-3-1,76,80]" Value="+" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-3-1,81,86]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-3-1,55,59]" Value="" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-3-1,140,143]" Value="-" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-3-1,144,149]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-3-1,156,165]" Value="-" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-4-2,96,100]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-4-2,108,121]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-4-2,144,148]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-4-2,177,180]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-4-2,241,252]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-4-2,259,265]" Value="-" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-4-2,266,271]" Value="-" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-4-2,297,299]" Value="-" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-4-2,300,305]" Value="-" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-4-4,5,9]" Value="-" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-4-4,0,4]" Value="" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-4-4,38,41]" Value="-" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-5-1,105,111]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-5-1,206,216]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-5-1,246,249]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-5-1,250,254]" Value="-" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-5-1,241,245]" Value="" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-5-1,268,283]" Value="-" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-5-1,307,311]" Value="+" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-5-1,312,316]" Value="-" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-5-1,302,306]" Value="" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-5-1,317,320]" Value="" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-5-1,371,375]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-6-1,7,16]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-6-1,25,35]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-6-3,8,12]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-6-4,18,22]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-6-5,33,43]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-7-3,0,4]" Value="" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-7-4,75,82]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-7-6,17,22]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="143" />
+    <Tag_Index Value="142" />
+  </Index>
+</Product>

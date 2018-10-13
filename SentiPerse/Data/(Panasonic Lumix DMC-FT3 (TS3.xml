@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="(Panasonic Lumix DMC-FT3 (TS3" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="قاب عکس ديجيتال Marshal ME-8017" Price="75000" />
+    <Accessory Name="کارت حافظه SD Card FujiFilm 4GB Class 6" Price="8000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 32GB Class 10" Price="48000" />
+    <Accessory Name="محافظ صفحه نمايش دوربين" Price="3500" />
+    <Accessory Name="کيف ضربه گير مارک دار" Price="7500" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کيف دوربين عکاسي Lowepro D-Wrap Grey" Price="15000" />
+    <Accessory Name="کيت تميز کننده Marshal Cleaning Fluid" Price="9500" />
+    <Accessory Name="کيف دوربين عکاسي Case Logic UNZB-2" Price="19000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/10/07</Feature>
+    <Feature Name="نوع ">فشرده و کوچک</Feature>
+    <Feature Name="ضد آب ">بلی</Feature>
+    <Feature Name="ابعاد ">103.5 × 64 × 26.5 mm</Feature>
+    <Feature Name="وزن ">بدون باتری و کارت حافظه 175 گرم و با باتری و کارت حافظه 197 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، نقره‌ای، قرمز، آبی، سفید</Feature>
+    <Feature Name="نوع حسگر ">CCD</Feature>
+    <Feature Name="دقت حسگر ">12.5 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">12.1 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2.33 اینچ - 4.51 × 6.12 میلی‌متر</Feature>
+    <Feature Name="اندازه تصویر ">3000 × 4000 و 2672 × 4000 و 2248 × 4000 و 2992 × 2992 و 2112 × 2816 و 1880 × 2816 و 1584 × 2816 و 2112 × 2112 و 1200 × 1600 و 1064 × 1600 و 1080 × 1600 و 1200 × 1200 و 480 × 640 و 424 × 640 و 360 × 640 و 480 × 480</Feature>
+    <Feature Name="نسبت ابعاد تصویر ">1:1, 4:3, 3:2, 16:9</Feature>
+    <Feature Name="فرمت عکس ">JPEG (DCF/Exif2.3), 3D Image: MPO</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">خیر</Feature>
+    <Feature Name="پردازشگر تصویر ">Venus Engine FHD</Feature>
+    <Feature Name="ابعاد فیلم ">Full HD</Feature>
+    <Feature Name="حداکثر سرعت فیلم ">30 فریم بر ثانیه</Feature>
+    <Feature Name="فرمت فیلم ">AVCHD, QuickTime Motion JPEG</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت Full HD در ابعاد 1080 × 1920 پیکسل و با سرعت 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌ 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت VGA در ابعاد 480 × 640 پیکسل و با سرعت‌ 30 فریم بر ثانیه - قابلیت فیلم‌برداری با کیفیت QVGA در ابعاد 240 × 320 پیکسل و با سرعت‌ 30 فریم بر ثانیه</Feature>
+    <Feature Name="ضبط صدا ">قابلیت ضبط صدا به صورت استریو (Stereo)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">28-128 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F3.3 تا F5.9</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">4.6 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">4 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر اپتیکال POWER O.I.S</Feature>
+    <Feature Name="حداقل فاصله فوکوس نرمال ">30 سانتیمتر</Feature>
+    <Feature Name="فوکوس دستی ">خیر</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">5 سانتیمتر</Feature>
+    <Feature Name="توضیحات فوکوس ">تعداد نقاط فوکوس: 11 نقطه‌ - فوکوس: (Normal / AF Macro, Zoom Macro, Quick AF, AF Tracking / Continuous AF (only for motion picture</Feature>
+    <Feature Name="نورسنجی ">چندگانه هوشمند</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/1300 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">60 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه</Feature>
+    <Feature Name="حداقل حساسیت ">100</Feature>
+    <Feature Name="حداکثر حساسیت ">6400</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 100 و 200 و 400 و 800 و 1600 و در حالت حساسیت بالا (6400-1600)</Feature>
+    <Feature Name="تنظیم تراز سفیدی ">اتوماتیک، 1 حالت دستی و 4 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکسبرداری پی در پی ">قابلیت عکاسی پی در پی با سرعت 3.7 فریم بر ثانیه حداکثر تا 7 عکس</Feature>
+    <Feature Name="فلاش ">فلاش داخلی با برد 5.6 متر</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">بلی</Feature>
+    <Feature Name="توضیحات عکاسی سه بعدی ">دارای مود عکاسی سه بعدی (3D Photo Mode)</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش رنگی از نوع TFT و مجهز به پوشش ضد انعکاس نور</Feature>
+    <Feature Name="سایز صفحه نمایش ">2.7 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">230,000 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">19 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">بلی</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی استاندارد قابل شارژ</Feature>
+    <Feature Name="سایر قابلیت ها ">ضد آب تا عمق 12 متری (Waterproof 12m)مقاوم در برابر ضربه‌های وارده از ارتفاع 2 متری (Shockproof 2m)مقاوم در برابر سرما تا دمای منفی 10 درجه سانتی‌گراد (Freeze-proof -10℃)ضد گرد و غبار (Dust-Proof)قابلیت اندازه‌گیری و نشان دادن شاخص اطلاعات منطقه‌ای که در آن هستید با استفاده از ارتفاع سنج، قطب نما، فشار سنج (Location Information Indicator with Altimeter, Compass, Barometer)</Feature>
+    <Feature Name="اقلام همراه دوربین ">کابل USBکابل تلویزیونباتری یون لیتیومی استاندارد قابل شارژشارژر باتریبند دور دستدفترچه راهنماسی دی نرم افزاری همراه دوربین</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="+2">چند سالی است که بازار دوربین‌های دیجیتال کامپکت؛ تنوع بسیار زیادی را به خود دیده است.</Sentence>
+    <Sentence ID="rev-2" Value="+1">دوربین‌هایی با اشکال،  ابعاد و توانایی‌های مختلف که همگی برای یک هدف،  و آن هم عکاسی هرچه آسان‌تر و سریع‌تر ساخته شده‌اند.</Sentence>
+    <Sentence ID="rev-3" Value="0">اما در این میان،  دوربین‌های کامپکتی نیز وجود دارند که با هدف سالم ماندن و عکاسی کردن در شرایط سخت ساخته شده‌اند.</Sentence>
+    <Sentence ID="rev-4" Value="0">شرایط سختی که معمولا ماجراجویان و ورزشکاران در آن‌ها قرار می‌گیرند و البته نیاز به ثبت لحظات پر مخاطره‌ی خود را نیز دارند.</Sentence>
+    <Sentence ID="rev-5" Value="+1">FT3،  نسل سوم از دوربین‌های کامپکت مقاوم شرکت پاناسونیک می‌باشد که پس از دوربین‌های FT1 و FT2 به بازار آمده است.</Sentence>
+    <Sentence ID="rev-6" Value="0">در حالی که دو سال پیش دوربین FT1 معرفی شد،  رزولوشن سنسور همان 12.1 مگاپیکسل باقی مانده،  بدین معنی که طراحان تمرکز بیشتری را فقط بر روی ویژگی مقاومت آن گذاشته‌اند.</Sentence>
+    <Sentence ID="rev-7" Value="+2">در حالی که FT1 توانایی تحمل فشار آب،  فقط تا عمق 3 متری را داشت،  FT3 می‌تواند فشار آب تا عمق 12 متری را تحمل آورد،  تا حتی اگر یک غواص و یا علاقه‌مند به عکاسی زیر آب هستید،  بدون هیچ مشکلی بتوانید صحنه های بسیار زیبای بستر نزدیک به ساحل یک خلیج را عکاسی کنید.</Sentence>
+    <Sentence ID="rev-8" Value="+1">بعلاوه،  FT3 اگر از ارتفاع 2 متری،  یعنی به احتمال زیاد ارتفاعی بیشتر از قد شما سقوط کند و به زمین سخت بخورد هم هیچ آسیبی نمی‌بیند.</Sentence>
+    <Sentence ID="rev-9" Value="0">این عدد برای FT1 حدود 1.5 متر بود.</Sentence>
+    <Sentence ID="rev-10" Value="+1">در حالی که باتری بسیاری از دوربین‌ها،  در دماهای زیر صفر دیگر رمقی برای شارژ دهی ندارد،  باتری FT3 به راحتی تا دمای منفی 10 درجه‌ی سانتی‌گراد پشتیبانی و شارژ دهی می‌کند.</Sentence>
+    <Sentence ID="rev-11" Value="+1">در ضمن این دوربین ضد نفوذ ذرات ریز مثل گرد و خاک هم می‌باشد.</Sentence>
+    <Sentence ID="rev-12" Value="0">البته مطمئنا رقبایی نیز برای FT3 در بازار وجود دارند که از سرسخت‌ترین آن‌ها می‌توان به دوربین‌های سری Tough کمپانی المپوس و البته مدل TG-810 آن‌ها اشاره کرد که حتی تحمل وارد آمدن فشار 100 کیلوگرمی را هم دارد.</Sentence>
+    <Sentence ID="rev-13" Value="+2">اما یک ویژگی بسیار خوب که بین آن‌ها مشترک می‌باشد،  گیرنده‌ی داخلی GPS است.</Sentence>
+    <Sentence ID="rev-14" Value="+2">GPS داخلی ویژگی بسیار خوبی است که بر روی FT3 وجود دارد.</Sentence>
+    <Sentence ID="rev-15" Value="0">با استفاده از GPS در هنگامی که در حال عکاسی هستید،  می‌توانید نام منطقه یا محلی را که در آن قرار دارید را،  به همراه عرض و طول جغرافیایی در هنگام عکاسی در قسمت زیرین تصویر نمایشگر ببینید.</Sentence>
+    <Sentence ID="rev-16" Value="+1">شاید استفاده‌ی روزمره‌ی آن چندان معنی دار نباشد،  ولی به هر صورت برای افرادی که مثلا به کوهنوردی می‌روند و قصد دارند مختصات دقیق خود یا مکان با نام خود را بدانند حتما مناسب است.</Sentence>
+    <Sentence ID="rev-17" Value="+1">در ضمن وقتی عکس می‌گیرید،  اطلاعات دقیق جغرافیایی محل به همراه عکسی شما به صورت یک فایل Extif ثبت می‌شود که باز هم به نوبه‌ی خود کاملا می‌تواند کاربردی باشد.</Sentence>
+    <Sentence ID="rev-18" Value="0">همانند تقریبا همه‌ی دوربین‌های مقاوم،  لنز FT3 از نوع پریسکوپی می‌باشد.</Sentence>
+    <Sentence ID="rev-19" Value="0">بدین صورت که لنز در قسمت بالا و سمت راست قرار گرفته و عمل زوم کاملا داخلی صورت می‌گیرد.</Sentence>
+    <Sentence ID="rev-20" Value="0">سنسور نیز دقیقا در قسمت پشت لنز نیز و در پایین قرار گرفته است.</Sentence>
+    <Sentence ID="rev-21" Value="0">لنز این دوربین یک لنز معادل 28-128 میلی متر با توانایی زوم 4.6 برابر می‌باشد.</Sentence>
+    <Sentence ID="rev-22" Value="-1">توانایی زوم آن کاملا معمولی است و حال واید 28 میلی متر هم نه خیلی خوب است و نه خیلی بد.</Sentence>
+    <Sentence ID="rev-23" Value="0">مثل این است که یک لنز 18 میلی متر را بر روی یک دوربین DSLR غیر فول فریم گذاشته باشید.</Sentence>
+    <Sentence ID="rev-24" Value="-2">همانند مدل‌های پیشین،  FT3 هم ظاهری کاملا نا ظریف دارد که در کف دست کاملا محکم احساس می‌شود.</Sentence>
+    <Sentence ID="rev-25" Value="-1">ظاهر آن با آن پیچ‌های کاملا واضح در گوشه‌ها کاملا صنعتی می‌باشد و پنل جلویی و پشتی از فلز برس شده ساخته شده است.</Sentence>
+    <Sentence ID="rev-26" Value="+1">بدون باتری و کارت حافظه نیز حدود 175 گرم وزن دارد که کاملا چگال است و بر احساس استحکامی که به شما می‌دهد می‌افزاید.</Sentence>
+    <Sentence ID="rev-27" Value="+1">البته به نظر می‌آید که اگر آن را محکم به جایی بکوبید و یا در استفاده های نا ملایم ورزشی حتما جای ضربات وارده بر روی آن بماند،  ولی هیچ گاه خراب نمی‌شود.</Sentence>
+    <Sentence ID="rev-28" Value="+1">در ضمن در ساخت این دوربین از لاستیک،  شیشه‌ی مقاوم و صمغ کربن هم استفاده شده است.</Sentence>
+    <Sentence ID="rev-29" Value="0">در لبه‌ی سمت چپ دوربین قفل بزرگی قرار دارد که برای درب این قسمت است.</Sentence>
+    <Sentence ID="rev-30" Value="0">درب را که باز کنید به قسمت باتری و کارت حافظه دسترسی می‌یابید.</Sentence>
+    <Sentence ID="rev-31" Value="+1">این قفل به شما اطمینان می‌دهد که در صورت ورود ضربه درب باتری هیچ گاه باز نمی‌شود.</Sentence>
+    <Sentence ID="rev-32" Value="-1">متاسفانه لنز فاقد کاور فلزی می‌باشد که بر روی بعضی دوربین‌های دیگر دیده بودیم.</Sentence>
+    <Sentence ID="rev-33" Value="0">در عوض لنز دوربین همواره در معرض قرار دارد.</Sentence>
+    <Sentence ID="rev-34" Value="0">هرچند که از جنس شیشه‌ی مقاوم ساخته شده،  ولی اگر حواستان نباشد می‌تواند اثر انگشت را به خود جذب کند.</Sentence>
+    <Sentence ID="rev-35" Value="0">پس بهتر است در این مورد حواستان جمع باشد.</Sentence>
+    <Sentence ID="rev-36" Value="-1">همچنین می‌توان گفت که کار کردن با این دوربین،  در حالی که دستکش به دست دارید نسبتا مشکل است.</Sentence>
+    <Sentence ID="rev-37" Value="+1">در این میان فقط دکمه‌ی شاتر را می‌توان استثناء دانست چرا که کاملا بزرگ ساخته شده است.</Sentence>
+    <Sentence ID="rev-38" Value="-1">در مدل‌های پیشین هم به این مسئله اعتراض داشتیم ولی ظاهرا که پاناسونیک اقدامی برای حل آن نکرده است.</Sentence>
+    <Sentence ID="rev-39" Value="0">دست کم می‌توانست از ویژگی Tap Control دوربین‌های المپوس بهره ببرد تا با زدن ضربه به دوربین می‌توانستیم بعضی عملکردهای آن را کنترل کنیم.</Sentence>
+    <Sentence ID="rev-40" Value="0">توانایی عکاسی را که کنار بگذاریم،  این دوربین قابلیت فیلم برداری 1920X1080p Full HD در فرمت AVHCD و Motion JPEG را نیز دارد.</Sentence>
+    <Sentence ID="rev-41" Value="+1">فرمت نخست برای تماشا بر روی سینمای خانگی مناسب است و فرمت دوم فرمت مناسب‌تری برای استفاده بر روی رایانه می‌باشد.</Sentence>
+    <Sentence ID="rev-42" Value="+1">این دوربین از میکروفون کاهش نویز محیط نیز بهره می‌برد.</Sentence>
+    <Sentence ID="rev-43" Value="0">از دیگر ویژگی‌ها نیز می‌توان به توانایی فوکوس ماکرو از فاصله‌ی 5 سانتی متر،  نمایشگر 2.7 اینچی با رزولوشن 230,000 پیکسل و گستره‌ی حساسیت سنسور یا ایزو از 100 تا 6400 اشاره کرد.</Sentence>
+    <Sentence ID="rev-44" Value="+1">این دوربین شوتینگ مودهای مختلفی دارد که از طریق منوها قابل دسترسی هستند.</Sentence>
+    <Sentence ID="rev-45" Value="0">ولی به هر صورت از آن جایی که یک دوربین Point to Shoot می‌باشد،  مجهز به مود عکاسی intelligent Auto نیز می‌باشد.</Sentence>
+    <Sentence ID="rev-46" Value="+1">احتمالا این مود عکاسی است که بیشتر علاقه دارید دوربین را بر روی آن بگذارید و عکاسی کنید.</Sentence>
+    <Sentence ID="rev-47" Value="+2">وقتی دوربین بر روی این مود است،  کافی است که آن را به سوی سوژه نشانه بروید و دکمه‌ی شاتر را بفشارید تا تنظیمات بر روی بهترین حالت قرار گیرند و با کیفیت‌ترین عکس گرفته شود.</Sentence>
+    <Sentence ID="rev-48" Value="0">علاوه بر آن مود Program هم وجود دارد که بیشترین اختیار در تنظیمات نور دهی را در این دوربین به شما می‌دهد.</Sentence>
+    <Sentence ID="rev-49" Value="0">همچنین اگر بر روی مود عکاسی 3D بروید می‌توانید عکس‌های سه بعدی تهیه کنید.</Sentence>
+    <Sentence ID="rev-50" Value="0">عکس‌های سه بعدی را سپس می‌توانید بر روی سینمای خانگی سه بعدی خود مشاهده نمایید.</Sentence>
+    <Sentence ID="rev-51" Value="0">به محض فشردن دکمه‌ی پاور در قسمت بالای دوربین،  دوربین در عرض یک ثانیه روشن و آماده‌ی عکاسی می‌شود.</Sentence>
+    <Sentence ID="rev-52" Value="+1">سپس وقتی دکمه‌ی شاتر را بفشارید به سرعت فوکوس خودکار انجام و عکس گرفته می‌شود.</Sentence>
+    <Sentence ID="rev-53" Value="0">هر عکس JPEG برای ذخیره شدن بر روی کارت حافظه به 2 تا 3 ثانیه زمان احتیاج دارد.</Sentence>
+    <Sentence ID="rev-54" Value="0">طبق ادعایی که خود پاناسونیک کرده،  سرعت فوکوس خودکار این دوربین حدود 28 درصد بیشتر از مدل پیشین می‌باشد.</Sentence>
+    <Sentence ID="rev-55" Value="-1">در مورد نمایشگر هم بگوییم که دقیقا همان نمایشگری است که بر روی FT1 هم دیده بودیم و نه سایز و نه کیفیت آن ارتقائی نداشته.</Sentence>
+    <Sentence ID="rev-56" Value="0">این دوربین مجهز به پورت HDMI برای اتصال به HDTV هم می‌باشد.</Sentence>
+    <Sentence ID="rev-57" Value="0">شارژ دهی باتری لیتیومی شارژی این دوربین با GPS روشن حدود 310 عکس می‌باشد که از 340 عکس دوربین FT1 کمتر است.</Sentence>
+    <Sentence ID="rev-58" Value="0">مطمئنا GPS در مصرف باتری نقش زیادی را ایفا کرده است.</Sentence>
+    <Sentence ID="rev-59" Value="+2">از نظر کیفیت عکس‌های گرفته شده باید گفت که،  عکس‌هایی که با FT3 گرفتیم کاملا شارپ هستند و در بیشتر مناطق جزئیات خیلی خوب نمایش داده می‌شود.</Sentence>
+    <Sentence ID="rev-60" Value="+2">نورسنجی هم خیلی خوب صورت می‌گیرد.</Sentence>
+    <Sentence ID="rev-61" Value="+1">رنگ‌ها نیز کاملا طبیعی هستند هرچند که مقداری به سمت رنگ‌های گرم می‌روند.</Sentence>
+    <Sentence ID="rev-62" Value="-1">از نظر عملکرد در حساسیت‌های مختلف هم باید گفت که،  نویز تنها از ایزو 800 می‌تواند مقداری مشکل ساز باشد.</Sentence>
+    <Sentence ID="rev-63" Value="0">از ایزو 1600 نیز جزئیات شروع به ناپدید شدن می‌کنند که این به دلیل کار کردن سیستم کاهش نویز است.</Sentence>
+    <Sentence ID="rev-64" Value="+2">بنابراین از کیفیت عکس‌های FT3 بسیار راضی هستیم.</Sentence>
+    <Sentence ID="rev-65" Value="0">به هر صورت همان‌طور که گفتیم،  FT3 دوربینی است مناسب ماجراجویان،  ورزشکاران یا همه‌ی کاربرانی که در شرایط مخاطره آمیزی برای وسایل الکترونیکی قصد عکاسی دارند.</Sentence>
+    <Sentence ID="rev-66" Value="+1">با FT3 دیگر در کوهستان،  جنگل و یا کنار دریا،  نگران خیس شدن،  زمین خوردن و یا یخ‌زدگی دوربین خود نخواهید بود.</Sentence>
+    <Sentence ID="rev-67" Value="+1">همچنان که با آن به راحتی می‌توانید به عکاسی زیر آب نیز بپردازید.</Sentence>
+    <Sentence ID="rev-68" Value="0">از رقبای اصلی این دوربین می‌توان به Canon Powershot D10،  Casio EX-G1،  Fujifilm Finepix XP10،  Olympus Mju Tough 6010،  Olympus Mju Tough 8000،  Pentax Optio W90 و Sony Cybershot DSC-TX5 اشاره کرد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>ارایه ی امکانات فوق‌العاده‌ی مقاومتی از قبیل ضد آب بودن تا عمق 12 متری و ضد ضربه بودن</Advantage>
+    <Advantage>کیفیت بسیار خوب عکس‌های گرفته شده</Advantage>
+    <Advantage>بدنه‌ی بسیار مستحکم، مهر و موم و شکیل</Advantage>
+    <Advantage>توانایی ضبط ویدیویی 1080p Full HD</Advantage>
+    <Advantage>توانایی عکاسی سه بعدی</Advantage>
+    <Advantage>مجهز بودن به GPS داخلی</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>نمایشگر می‌توانست با کیفیت‌تر باشد</Disadvantage>
+    <Disadvantage>دکمه‌ها و کنترل‌ها اگر بزرگ‌تر بودند بهتر بود</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="homayoon " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">من خريدم خيلي هم راضيم.</Sentence>
+      <Sentence ID="gr-1-2" Value="+1">تو آبم هيچ مشکلي براش پيش نمي ياد</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="2" />
+  <Performance Value="8.50" />
+  <Capability Value="7.50" />
+  <Production_Quality Value="9.00" />
+  <Ergonomics Value="8.00" />
+  <Purchase_Value Value="7.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="تنوع" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="GPS داخلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="زوم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="ظاهر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="پیچ‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="شیشه‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="قفل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="کار کردن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10038" Root="دکمه‌ی شاتر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10044" Root="شوتینگ مود" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10047" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="فوکوس خودکار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="جزئیات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="نورسنجی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10069" Root="کیفیت عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="شارژ دهی" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[rev-1,49,53]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,54,65]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[rev-11,11,17]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[rev-11,18,25]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10011" Coordinate="[rev-14,0,9]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-14,16,26]" Relation="tagID10011" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-22,8,11]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-22,15,27]" Relation="tagID10014" Value="" />
+    <Tag Type="Target(I)" ID="tagID10017" Coordinate="[rev-24,30,35]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[rev-24,36,49]" Relation="tagID10017" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-25,14,21]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-25,22,32]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-28,38,44]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-28,45,50]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-34,16,22]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10034" Coordinate="[rev-34,23,28]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-29,23,26]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[rev-29,27,32]" Relation="tagID10028" Value="" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-36,22,30]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID10037" Coordinate="[rev-36,77,87]" Relation="tagID10036" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-37,16,27]" Relation="elementID10038" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-37,60,70]" Relation="tagID10039" Value="" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-44,11,24]" Relation="elementID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-44,25,31]" Relation="tagID10045" Value="" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-47,157,160]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-47,143,156]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-59,45,53]" Relation="elementID10047" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-59,71,81]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-52,40,52]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-52,32,39]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-59,105,111]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-59,112,120]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-60,0,7]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-60,11,19]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[rev-61,0,6]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-61,11,22]" Relation="tagID10062" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[rev-64,12,25]" Relation="elementID10069" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[rev-64,30,40]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[rev-10,153,161]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-10,99,107]" Relation="tagID10073" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,54,65]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-11,18,25]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-13,13,22]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-14,16,26]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-16,167,172]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-17,144,151]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-17,35,39]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-22,21,27]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-24,36,49]" Value="-" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-24,68,78]" Value="-" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-25,22,32]" Value="-" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-26,79,87]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-26,53,63]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-28,45,50]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-32,13,17]" Value="-" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-32,0,8]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-34,23,28]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-36,77,87]" Value="-" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-41,41,46]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-47,143,156]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-47,118,124]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-52,32,39]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-59,71,81]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-59,112,120]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-60,11,19]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-61,11,22]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-62,89,97]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-64,30,40]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-1-1,17,22]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-8,116,121]" Value="-" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-8,122,130]" Value="-" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-27,139,143]" Value="-" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-27,144,151]" Value="-" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-42,23,27]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-42,28,32]" Value="-" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-55,105,112]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-55,113,119]" Value="-" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-2,90,97]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-2,100,107]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-5,35,40]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-7,207,218]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-7,184,189]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-7,175,179]" Value="-" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-10,99,107]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-27,127,130]" Value="" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-31,15,22]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-31,23,29]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-34,41,44]" Value="" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-38,33,39]" Value="-" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-41,67,76]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-46,35,40]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-62,51,55]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-66,47,52]" Value="-" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-66,98,105]" Value="-" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-67,16,24]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-1-2,11,16]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-1-2,7,10]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-22,58,60]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-22,61,69]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-22,76,78]" Value="-" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-22,79,86]" Value="-" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-66,106,109]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-1-1,9,13]" Value="" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="70" />
+    <Tag_Index Value="75" />
+  </Index>
+</Product>

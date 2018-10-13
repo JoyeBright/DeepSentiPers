@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Canon Vixia HF M50" Type="Camcorder">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/11/01</Feature>
+    <Feature Name="نوع دوربین ">کارت حافظه ای Memory Card</Feature>
+    <Feature Name="نوع ذخیره سازی ">حافظه‌ی داخلی 8 گیگابایتی و کارت حافظه</Feature>
+    <Feature Name="ابعاد ">121 × 64 × 68 mm</Feature>
+    <Feature Name="وزن ">بدون باتری و کارت حافظه 310 گرم و با باتری و کارت حافظه 365 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="نوع حسگر ">CMOS</Feature>
+    <Feature Name="دقت حسگر ">2.37 مگاپیکسل</Feature>
+    <Feature Name="دقت مؤثر حسگر ">2.07 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/3 اینچ</Feature>
+    <Feature Name="تنظیم سفیدی ">اتوماتیک و 6 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="کیفیت فیلم ">Full HD</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت FullHD در ابعاد 1080 × 1920 پیکسل</Feature>
+    <Feature Name="نور فیلم برداری (پرژکتور) ">خیر</Feature>
+    <Feature Name="فرمت فیلم ">AVCHD, MPEG-4</Feature>
+    <Feature Name="صدا ">دالبی دیجیتال 2 کاناله ((AVCHD: Dolby Digital AC3 (2 Channel)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="قابلیت عکسبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/2000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1/2 ثانیه</Feature>
+    <Feature Name="حالت های تصویر برداری ">(اتوماتیک) Auto(ساحل) Beach(برنامه ریزی) P(سینمایی) CINE(ورزشی) Sports(تاریکی شب) Night(نور کم) Low light(برفی) Snow(غروب آفتاب) Sunset(نور متمرکز (نورافکن)) Spotlight(آتش بازی) Fireworks(زیر آب) Underwater</Feature>
+    <Feature Name="شرکت سازنده لنز ">کانن</Feature>
+    <Feature Name="فاصله کانونی ">6.1 تا 61 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">f/1.8-3.0</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">10 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">200 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر تصویر ">لرزشگیر اپتیکال لنز (Optical System (Lens-Shift system))</Feature>
+    <Feature Name="سایز فیلتر ">43 میلیمتر</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش لمسی و عریض </Feature>
+    <Feature Name="سایز صفحه نمایش ">3.0 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">230,000 پیکسل</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="ورودی میکروفون ">خیر</Feature>
+    <Feature Name="خروجی هدفون ">خیر</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">خیر</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="فیلمبرداری در شب ">خیر</Feature>
+    <Feature Name="حداقل نور ">1.2lx لوکس</Feature>
+    <Feature Name="کارت حافظه ">SD</Feature>
+    <Feature Name="حافظه داخلی دوربین ">8 گیگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="بلندگوی داخلی ">خیر</Feature>
+    <Feature Name="باتری ">یون لیتیوم قابل شارژ مدل BP-718</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری لیتیوم قابل شارژشارژر باتریریموت کنترلکابل شارژرکابل تلویزیونکابل USBدفترچه راهنماسی دی نرم افزاری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">M50 در رده‌ی دوربین‌های خانگی یا سطح مبتدی کانن است.</Sentence>
+    <Sentence ID="rev-2" Value="+1">این دوربین مجهز به سنسور تصویر 2.37 مگاپیکسلی می‌باشد که توانایی ضبط ویدیویی Full HD را به آن داده است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">ویدیوها در دو فرمت AVCHD و MPEG4 ضبط می‌شوند که دومی برای کار کردن بر روی کامپیوتر و وب آسان تر است.</Sentence>
+    <Sentence ID="rev-4" Value="0">همانطور که گفتیم تفاوت M50 با M500 در این است که M50 دارای 8 گیگابایت حافظه‌ی خشک داخلی می‌باشد که تا حدود 3 ساعت فیلم را می‌توانید بر روی آن ضبط کنید.</Sentence>
+    <Sentence ID="rev-5" Value="0">پس از پر شدن ظرفیت حافظه‌ی داخلی می‌توانید بر روی کارت حافظه‌ی SD/SDHC/SDXC فیلم برداری را ادامه دهید.</Sentence>
+    <Sentence ID="rev-6" Value="+2">خوشبختانه سنسور تصویر حساسیت بسیار زیادی به نور دارد و کمینه‌ی نوری 0.1 لوکس را می‌تواند ثبت کند.</Sentence>
+    <Sentence ID="rev-7" Value="0">صدا نیز به صورت Dolby Digital AC-3 ضبط می‌گردد.</Sentence>
+    <Sentence ID="rev-8" Value="+2">این دوربین از مودهای فیلم برداری خیلی خوبی بهره می‌برد.</Sentence>
+    <Sentence ID="rev-9" Value="+1">از آن جایی که یک دوربین فیلم برداری آماتوری است،  بنابراین مجهز به مود فیلم برداری اتوماتیک هوشمند یا همان Smart Auto می‌باشد.</Sentence>
+    <Sentence ID="rev-10" Value="+1">وقتی دوربین را بر روی این مود قرار می‌دهید،  دوربین شما به یک دستگاه کاملا خودکار تبدیل می‌شود.</Sentence>
+    <Sentence ID="rev-11" Value="+2">سپس برای فیلم برداری کافیست که دکمه‌ی Rec را بفشارید و آن را به سوی سوژه نشانه بروید تا بهترین و با کیفیت ترین فیلم‌ها گرفته شوند.</Sentence>
+    <Sentence ID="rev-12" Value="+1">در ضمن قابلیت تغییر سرعت شاتر و گشودگی دیافراگم نیز وجود دارد که این برای فیلم برداری خلاقانه تر و حرفه‌ای تر می‌باشد.</Sentence>
+    <Sentence ID="rev-13" Value="0">همچنین عمل فوکوس را نیز می‌توانید به صورت دستی بر عهده بگیرید.</Sentence>
+    <Sentence ID="rev-14" Value="0">در ضمن شما می‌توانید فیلم هایی که گرفته اید را از طریق پورت و کابل HDMI بر روی HDTV مشاهده کنید.</Sentence>
+    <Sentence ID="rev-15" Value="0">M50 مجهز به لنز با توانایی زوم 10 برابر است.</Sentence>
+    <Sentence ID="rev-16" Value="0">کمینه‌ی نسبت کانونی آن نیز f/1.8 می‌باشد.</Sentence>
+    <Sentence ID="rev-17" Value="-1">این لنز فواصل کانونی معادل 43.6-436 میلی متر را پوشش می‌دهد که البته باعث می‌شود در 43.6 میلی متر چندان لنز وایدی نباشد و میدان دید محدودی را در بر گیرد.</Sentence>
+    <Sentence ID="rev-18" Value="0">این دوربین مجهز به فن آوری لرزش گیر اپتیکال intelligent O.</Sentence>
+    <Sentence ID="rev-19" Value="0">I.</Sentence>
+    <Sentence ID="rev-20" Value="+1">S می‌باشد که از تاثیر زیاد اثر لرزش دست شما در فیلمی که می‌گیرید جلوگیری می‌کند.</Sentence>
+    <Sentence ID="rev-21" Value="0">همچنین مجهز به نمایشگر 3 اینچی لمسی با رزولوشن 230,000 پیکسل است و بیشتر کنترل‌های دوربین را می‌بایست از طریق همین نمایشگر بر عهده بگیرید.</Sentence>
+    <Sentence ID="rev-22" Value="+2">در کل همانطور که گفتیم،  M50 دوربین فیلم برداری بسیار خوب دیگری از کانن است که کاملا کوچک و سبک ساخته شده و در ضمن از امکانات و فن آوری‌های پیشرفته و خوبی بهره می‌برد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>توانایی ضبط ویدیویی Full HD در دو فرمت AVCHD و MPEG4</Advantage>
+    <Advantage>مجهز بودن به مود اتوماتیک Smart Auto و مودهای فیلم برداری دستی و حرفه‌ای تر</Advantage>
+    <Advantage>بهره گیری از لنز با توانایی زوم 10 برابر و لرزش گیر اپتیکال تصویر هوشمند</Advantage>
+    <Advantage>بهره گیری از 8 گیگابایت حافظه‌ی خشک داخلی</Advantage>
+    <Advantage>نمایشگر 3 اینچی لمسی 230,000 پیکسلی</Advantage>
+    <Advantage>کمینه‌ی حساسیت سنسور به نور 0.1 لوکس</Advantage>
+  </Advantages>
+  <Voters Value="31" />
+  <Performance Value="7.60" />
+  <Capability Value="7.60" />
+  <Production_Quality Value="8.40" />
+  <Ergonomics Value="7.60" />
+  <Purchase_Value Value="7.60" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="حساسیت سنسور" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="مودهای فیلم برداری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="میدان دید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="فن آوری" Relation="review" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-6,22,28]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-6,29,40]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-8,14,32]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-8,33,42]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-17,122,131]" Relation="elementID1006" Value="" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-22,29,35]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-22,48,57]" Relation="tagID1009" Value="+" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-22,79,89]" Relation="tagID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10012" Coordinate="[rev-22,92,95]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10014" Coordinate="[rev-22,118,125]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10015" Coordinate="[rev-22,140,147]" Relation="tagID10014" Value="+" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-22,150,154]" Relation="tagID10014" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-22,128,139]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-22,140,147]" Relation="tagID10018" Value="+" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-22,150,154]" Relation="tagID10018" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-6,0,9]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-6,29,40]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-8,33,42]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-8,43,47]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-10,69,81]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-11,88,94]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-11,97,110]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-17,132,138]" Value="-" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-17,98,103]" Value="" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-17,114,119]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-22,48,57]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-22,79,89]" Value="" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-22,92,95]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-22,140,147]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-22,150,154]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-2,57,64]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-3,88,95]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-9,59,63]" Value="" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-9,92,98]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-12,86,96]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-12,99,109]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-20,31,35]" Value="-" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-20,65,72]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="23" />
+    <Tag_Index Value="21" />
+  </Index>
+</Product>

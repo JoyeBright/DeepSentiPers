@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Nokia Lumia 620" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/12/05</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">115.4 × 61.1 × 11 mm</Feature>
+    <Feature Name="وزن ">127 گرم</Feature>
+    <Feature Name="رنگ ">نارنجی ، سرخابی ، لیمویی، سفید، آبی، مشکی ، لیمویی</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm Snapdragon S4 Chipset, Dual-Core Krait</Feature>
+    <Feature Name="سرعت پردازنده ">1GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 305</Feature>
+    <Feature Name="حافظه داخلی ">8192 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">512 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی microSD تا 64 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1900 / 2100 </Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 21 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class B</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 a/b/g/n, dual-band</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS support and GLONASS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class B</Feature>
+    <Feature Name="NFC ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 3.1 همراه با A2DP و EDR</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2.0 با پشتیبانی از USB On-the-go</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع TFT</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">3.8 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">800 × 480</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش مجهز به تکنولوژی ClearBlack ، تراکم پیکسلی 246ppi ، قابلیت دریافت چندین لمس همزمان</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">5.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">1936 × 2592</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم با کیفیت VGA</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">HD 1280 × 720</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت HD 720p در ابعاد 720×1280 پیکسل و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">دارای فوکوس خودکار (Autofocus)قابلیت ثبت موقعیت زمانی و مکانی عکس گرفته شده بر روی آن (Geo-Tagging)دارای دیافراگم F/2.4قابلیت فوکوس لمسی ( Touch to Focus )</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3 و WAV</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Microsoft Windows Phone</Feature>
+    <Feature Name="ورژن سیستم عامل ">8</Feature>
+    <Feature Name="جاوا ">خیر</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML5</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, WAV, eAAC+, WMA</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4, H.264, H.263, WMV</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر شتاب سنج برای چرخش خودکار رابط کاربری (Accelerometer Sensor For UI Auto-Rotate)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">1300 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">330 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">14 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">تنها از سیم کارت های میکرو پشتیبانی می کند.SNS Integrationقابلیت حذف نویز و سر و صدا با استفاده از میکروفن اختصاصی برای مکالمه بهتر (Active Noise Cancellation with Dedicated Mic)دارای نمایشگر و ویرایشگر اسناد (Document Viewer/Editor)دارای ویرایشگر عکس و ویدئو (Video/Photo Editor)دارای 7 گیگابایت حافظه مجازی SkyDriveVoice Memo/DialPredictive Text Input</Feature>
+    <Feature Name="اقلام همراه گوشی ">شارژردفترچه راهنماهنذزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">طراحی و ساخت طراحی این گوشی کمی متفاوت‌تر از گوشی‌های دیگر خانواده لومیا است به طوری که لبه‌ها کمی انحنا داشته و صفحه نمایش آن کاملا تخت است.</Sentence>
+    <Sentence ID="rev-2" Value="0">این گوشی حتی نسبت به لومیا 820 نیز لبه های گرد تری دارد که به نظر می‌رسد ظاهر آنرا جوانانه تر نماید.</Sentence>
+    <Sentence ID="rev-3" Value="+1">به هر حال،  قیمت بالای لومیا 920 و 820 مانعی برای بسیاری از افراد جهت خرید آن‌ها ایجاد می‌نماید که با تولید و عرضه لومیا 620،  امکان داشتن مدل ارزان قیمت آن‌ها نیز برای آن‌ها فراهم گشته است.</Sentence>
+    <Sentence ID="rev-4" Value="0">در سمت راست این گوشی کلید های پاور،  کنترل صدا و شاتر قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-5" Value="0">همچنین درگاه microUSB نیز در قسمت زیرین گوشی قرار دارد.</Sentence>
+    <Sentence ID="rev-6" Value="0">جک 3.5 میلی متری هدفون نیز در لبه بالایی گوشی تعبیه شده است.</Sentence>
+    <Sentence ID="rev-7" Value="0">نهایتا،  دوربین به همراه فلاش و بلندگو نیز بر روی قاب پشتی گوشی به چشم می‌خورند.</Sentence>
+    <Sentence ID="rev-8" Value="+1">یکی از نکات جالب بدنه این گوشی،  جنس دو لایه قاب پشتی آن است که از دو رنگ متفاوت تولید گردیده و به گوشی جلوه جالبی بخشیده است.</Sentence>
+    <Sentence ID="rev-9" Value="+1">ضمنا،  با توجه به اینکه قاب پشتی گوشی به راحتی و توسط کاربر قابل تعویض می‌باشد،  کاربر قادر خواهد بود به سلیقه خود از رنگ‌های مختلف استفاده نماید.</Sentence>
+    <Sentence ID="rev-10" Value="0">صفحه نمایش صفحه نمایش به کار رفته بر روی این گوشی،  یک صفحه نمایش 3.8 اینچی لمسی خازنی از نوع TFT است که تصاویر را با رزولوشن 800×480 پیکسل به نمایش می‌گذارد.</Sentence>
+    <Sentence ID="rev-11" Value="+2">این صفحه نمایش قادر است 16 میلیون رنگ را تولید نماید و  همانند لومیا 920 مجهز به تکنولوژی ClearBlack می‌باشد که  باعث می‌گردد متون در آن بسیار خوانا تر باشند و عملکرد آن زیر نور آفتاب بسیار خوب باشد.</Sentence>
+    <Sentence ID="rev-12" Value="+1">قابلیت دریافت چندین لمس همزمان نیز،  کار با آن را برای کاربر راحت‌تر می‌نماید.</Sentence>
+    <Sentence ID="rev-13" Value="+1">اما با وجود ابعاد و رزولوشن تصویر این صفحه نمایش،  تراکم پیکسلی به دست آمده معادل 246ppi می‌باشد که بسیار قابل قبول است.</Sentence>
+    <Sentence ID="rev-14" Value="+2">در کل،  می‌توان گفت که صفحه نمایش لومیا 620 به دلیل عملکرد بسیار خوب یکی از مزایای آن محسوب می‌گردد.</Sentence>
+    <Sentence ID="rev-15" Value="0">سخت افزار از لحاظ سخت افزار داخلی تفاوت‌هایی بین لومیا 620 با مدل‌های بالاتر خود وجود دارد.</Sentence>
+    <Sentence ID="rev-16" Value="0">یعنی مغز متفکر  این گوشی چیپ Snapdragon S4 است که پردازنده دو هسته ای 1  گیگاهرتزی Krait و پردازشگر گرافیکی Adreno 305 را پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-17" Value="0">همچنین حافظه رم این دستگاه نیز 512 مگابایت است.</Sentence>
+    <Sentence ID="rev-18" Value="+1">این سخت افزار عملکرد روان ویندوز 8 را بر روی لومیا 620 تضمین می‌نماید.</Sentence>
+    <Sentence ID="rev-19" Value="+1">با اینکه قدرت این گوشی به اندازه برادران بزرگ‌تر خود یعنی لومیا 920 و 820 نیست،  اما به راحتی از پس اجرای اکثر دستورات بر می‌آید.</Sentence>
+    <Sentence ID="rev-20" Value="0">در ضمن،  لومیا 620 دارای 8 گیگابایت حافظه داخلی است که با توجه به پشتیبانی این گوشی از کارت حافظه جانبی،  تا 32 گیگابایت دیگر نیز می‌توان به آن اضافه نمود.</Sentence>
+    <Sentence ID="rev-21" Value="+1">با پشتیبانی این گوشی از راه های مختلف ارتباط با شبکه جهانی اینترنت  از جمله 3G،  GPRS،  Edge و سرآمد همه آن‌ها Wi-Fi،  امکان مرورگری اینترنت نیز بر روی این گوشی با سرعت بالا فراهم است.</Sentence>
+    <Sentence ID="rev-22" Value="+1">همچنین به کمک فناوری‌های بلوتوث،  NFC و درگاه USB نیز می‌توان به راحتی با دیگر دستگاه‌ها تبادل اطلاعات نمود.</Sentence>
+    <Sentence ID="rev-23" Value="0">نرم افزار Lumia 820  جزو اولین گوشی‌های عرضه شده به بازار است که از سیستم عامل Windows Phone 8 بهره می‌برد.</Sentence>
+    <Sentence ID="rev-24" Value="0">مایکروسافت تبلیغات زیادی برای این سیستم عامل انجام داده بود و کاربران انتظار زیادی از نسخه‌ی جدید سیستم عامل موبایل کمپانی مایکروسافت داشتند.</Sentence>
+    <Sentence ID="rev-25" Value="0">در عمل باید گفت که  اگر پیش‌تر کاربر گوشی‌های مبتنی بر ویندوز فون 7.0 و 7.5 بوده‌اید،  تغییرات زیادی در محیط سیستم عامل احساس نخواهید کرد.</Sentence>
+    <Sentence ID="rev-26" Value="+1">اصلی‌ترین تغییر ایجاد شده در سیستم عامل ویندوز فون 8 نسبت به نسخه های پیشین،  منوی Start است که قابلیت‌های شخصی سازی جدیدی به آن اضافه شده است.</Sentence>
+    <Sentence ID="rev-27" Value="0">برای مثال شما می‌توانید ابعاد کاشی‌های متحرک (Live Tiles) را تغییر داده و چیدمان آن‌ها را بنا به سلیقه‌ی خود تغییر دهید.</Sentence>
+    <Sentence ID="rev-28" Value="0">تغییر اصلی ایجاد شده در صفحه‌ی قفل گوشی (Lockscreen) می‌باشد.</Sentence>
+    <Sentence ID="rev-29" Value="0">تعداد زیادی از پیغام‌ها و هشدارها به صورت بسیار کامل و جامع در این صفحه نمایش داده می‌شوند که کاربر می‌تواند نوع پیغام‌های نشان داده شده در این صفحه را بنا به نیاز و سلیقه‌ی خود،  از منوی تنظیمات دستگاه تغییر دهد.</Sentence>
+    <Sentence ID="rev-30" Value="+1">یکی از قابلیت‌های جالب اضافه شده به Windows Phone 8،  امکان "اتاق" یا "Room" است.</Sentence>
+    <Sentence ID="rev-31" Value="0">این قابلیت به کاربر امکان می‌دهد که بتواند با تعدادی از مخاطبین مورد نظر را انتخاب کرده و با آن‌ها تصاویر و اطلاعات خود را به اشتراک بگذارید.</Sentence>
+    <Sentence ID="rev-32" Value="0">از قابلیت‌های کاربردی این سیستم عامل می‌توان به منوی مالتی تسکینگ اشاره کرد که کاربر می‌تواند با نگه داشتن کلید Back بر روی گوشی وارد این منو شود.</Sentence>
+    <Sentence ID="rev-33" Value="0">ویندوز فون 8 به طور پیش فرض از مرورگر اینترنت Internet Explorer 10 استفاده می‌کند.</Sentence>
+    <Sentence ID="rev-34" Value="+2">این مرورگر بسیار روان است و با سرعت بالایی می‌تواند صفحات اینترنتی را نشان دهد.</Sentence>
+    <Sentence ID="rev-35" Value="0">به علاوه این مرورگر اینترنت به کاربر این امکان را می‌دهد که صفحات اینترنتی مورد نظر را با دوستان خود از طریق SMS و شبکه های اجتماعی به اشتراک بگذارد.</Sentence>
+    <Sentence ID="rev-36" Value="0">به جز این امکانات،  نمی‌توان گفت که ویندوز فون 8 تغییر چشمگیری نسبت به ویندوز فون منگو (نسخه‌ی 7.5) داشته است.</Sentence>
+    <Sentence ID="rev-37" Value="+1">مایکروسافت طراحی ویندوز فون 8 را به بهترین نحو انجام داده است.</Sentence>
+    <Sentence ID="rev-38" Value="+1">محیط سیستم عامل کاملا روان است و کاربران کوچک‌ترین کاهش سرعتی هنگام کار کردن و سوئیچ کردن بین برنامه های مختلف مشاهده نخواهند کرد.</Sentence>
+    <Sentence ID="rev-39" Value="0">در ضمن،  برنامه نقشه‌ها و مکان یابی نوکیا یعنی Here نیز همراه با Nokia Drive بر روی این گوشی قرار داده شده است.</Sentence>
+    <Sentence ID="rev-40" Value="0">دوربین دوربین این گوشی یک دوربین 5 مگاپیکسلی است که عکس‌ها را با رزولوشن 1936×2592  پیکسل ثبت می‌نماید.</Sentence>
+    <Sentence ID="rev-41" Value="+1">از قابلیت‌های این دوربین می‌توان به فوکوس خودکار و ثبت موقعیت مکانی و زمانی اشاره نمود.</Sentence>
+    <Sentence ID="rev-42" Value="+1">همچنین یک فلاش LED نیز به آن کمک می‌نماید که در شرایط نوری نامساعد،  عکس‌های بهتری به ثبت برسند.</Sentence>
+    <Sentence ID="rev-43" Value="0">کیفیت فیلم برداری این دوربین نیز HD و با سرعت 30 فریم بر ثانیه می‌باشد.</Sentence>
+    <Sentence ID="rev-44" Value="0">نهایتا،  یک دوربین VGA نیز برای انجام مکالمات تصویری در قسمت جلویی گوشی تعبیه گردیده است.</Sentence>
+    <Sentence ID="rev-45" Value="-1">باتری این گوشی یک باتری 1300 میلی متری آمپر ساعتیست که از باتری مدل‌های 820 و 920 بسیار ضعیف‌تر است،  با این حال بیش از 14 ساعت مکالمه ممتد را پشتیبانی می‌نماید.</Sentence>
+    <Sentence ID="rev-46" Value="0">همچنین،  در حالت آماده باش نیز این گوشی تا 300 ساعت روشن می‌ماند که عملکرد مناسبی برای یک باتری 1300 میلی آمپری محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-47" Value="-1">جمع بندی یکی از معایب گوشی‌های ویندوز فون 8 نوکیا یعنی لومیا 920 و 820،  قیمت بالای آن‌ها بود که امکان خریدشان را از بسیاری از کاربران سلب نموده بود.</Sentence>
+    <Sentence ID="rev-48" Value="+1">حال با معرفی نوکیا لومیا 620 به بازار،  خیلی از طرفداران ویندوز فون 8 می‌توانند با قیمتی بسیار کمتر،  یک گوشی مبتنی بر سیستم عامل دوست داشتنی ویندوز فون را داشته باشند و از تجربه کار با آن لذت ببرند.</Sentence>
+    <Sentence ID="rev-49" Value="+2">این گوشی،  با سخت افزار مناسب،  صفحه نمایش بسیار خوب و طراحی زیبای خود،  هر کاربر علاقمند به سیستم عامل ویندوز فون را وسوسه می‌نماید که یکی از آن خریداری کند.</Sentence>
+    <Sentence ID="rev-50" Value="0">پس اگر شما هم به دنبال یک گوشی ویندوزی هستید و نمی‌خواهید هزینه زیادی برای داشتن یکی از آن‌ها مانند لومیا 920 یا HTC Windows Phone 8X انجام دهید، حتما این گوشی را مورد بررسی خود قرار دهید.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>طراحی جالب و رنگ بندی متنوع قاب</Advantage>
+    <Advantage>سخت افزار مناسب</Advantage>
+    <Advantage>قابلیت پشتیبانی از کارت حافظه جانبی</Advantage>
+    <Advantage>پشتیبانی از Wi-Fi، 3G، GPRS و Edge</Advantage>
+    <Advantage>قابلیت NFC</Advantage>
+    <Advantage>صفحه نمایش 3.8 اینچی با تراکم پیکسلی 246ppi</Advantage>
+    <Advantage>سیستم عامل ویندوز فون 8</Advantage>
+    <Advantage>دارای 7 گیگابایت حافظه مجازی SkyDrive</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="آناهيتا  " Value="0">
+      <Sentence ID="gr-1-1" Value="0">تجربه نشان مي دهد وقتي يک گوشي با برند نوکيا مي خري آنقدر با کيفيت است که مي ماند تا ازش خسته بشي
+من دو سال ان 8 داشتم که ديگر خودم ازش خسته شدم و به قيمتي که خريده بودم فروختم </Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="مهدي خواجه باشي " Value="+1">
+      <Sentence ID="gr-2-1" Value="+1">اگه پول دستم بياد حتما ميخرمش .</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">با مشخصات خوبي که داره ،  قيمت مناسبي داره ( البته توي اين گروني !</Sentence>
+      <Sentence ID="gr-2-3" Value="0">)</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="شاهين پورعباس  " Value="+2">
+      <Sentence ID="gr-3-1" Value="+2">گوشيه فوق العاده ايه،  نرم افزارهاي متنوع و درخور هر نوع سليقه اي ،  قدرت تاچ و لمسگر فوق العاده بالا،  عينشو نديدم،  کيفيت صفحه بسيار بالا،  خلاصه ميشه گفت آخرشه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="محمد بداقي اصل " Value="+2">
+      <Sentence ID="gr-4-1" Value="+2">خيلي خوشگل و جذابه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="زيبا خسروي " Value="0">
+      <Sentence ID="gr-5-1" Value="0">اميدوارم نوکيا طلسم غرورش رو بشکنه و به خاطر طرفداراش هم که شده با گوگل براي گوشي هاي اندرويدي همکاري کنه..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="سپهر محمدي " Value="+1">
+      <Sentence ID="gr-6-1" Value="+1">حتي شرکت بزرگ مايکروسافت هم در صفحه آغازين سايت ويندوز فون خود اين سايت رو با تصاويري از سري لومياي نوکيا زيباتر کرده و قابل توجه کساني که اعلام مي کنند براي اين سيستم عامل نرم افزار نيست بايد گفت که فقط 126000 نرم افزار در سايت ويندوزفون وجود داره و اين گوشي هم از هر لحاظ کامل و بدون نقصه چرا که سيستم عامل ويندوز فون بر عکس اندرويد و آي اٌ اِس نيازي به رم خيلي بالا نداره و کاملاً روان و راحت کار مي کنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="کامران احمدي " Value="+2">
+      <Sentence ID="gr-7-1" Value="+2">گوشي فوق العاده ايه با توجه به قيمت جهاني.</Sentence>
+      <Sentence ID="gr-7-2" Value="+2">خيلي سرعتش از رقباي اندرويدي بيشتره
+اين گوشي از معماري بهينه شده krait  استفاده ميکنه که خيلي در مصرف و سرعت  cpu موثره </Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="سينا آريازاده " Value="0">
+      <Sentence ID="gr-8-1" Value="-1">نوکيا ديگه نميتونه با ساير کمپاني ها رقابت کنه چون ديگه دير شده.</Sentence>
+      <Sentence ID="gr-8-2" Value="0">هر چند اين گوشيش بد نيست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="محمد حق شناس مهرآبادي " Value="+2">
+      <Sentence ID="gr-9-1" Value="0">نوکيا دوباره برگشت..</Sentence>
+      <Sentence ID="gr-9-2" Value="+2">بزودي بازار برميگرده به سمت نوکيا 
+اين گوشي هم از هر نظر عاليه 
+هم سخت افزار 
+نرم افزار 
+زيبايي 
+منتظرشم بياد، خيلي دوست دارم بخرمش</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="saber azimi " Value="+1">
+      <Sentence ID="gr-10-1" Value="+1">گوشي خوبيه با توجه به امکاناتش توانايي اين رو داره با ساير گوشي رقابت کنه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="اميررضا آگاه " Value="0">
+      <Sentence ID="gr-11-1" Value="0">نوکيا داره برميگرده.</Sentence>
+      <Sentence ID="gr-11-2" Value="+1">سهامش تو اين 2 هفته مداوم داره بالا و بالاتر ميره و با عرضه اسمارت فون هاي ميان قيمت ويندوزفون بسيار سريعتر رشد ميکنه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="روزبه فرخ زاد " Value="0">
+      <Sentence ID="gr-12-1" Value="0">تجربه ي کاري من با ويندوز 7 و 7.5 ميگه که :
+يک سيستم عامل کند و خسته کننده با محيط کاربري يکنواخت و تعداد محدود نرم افزار ارائه شده هست هرچند شرکت مايکروسافت ويندوز هشت رو رقيب آي اُ اس اپل و گوگل اندرويد دونسته اما بايد به انتظار نشست و ديد ايا اين چنين هست يا .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="وحيدظفري " Value="+2">
+      <Sentence ID="gr-13-1" Value="+2">هم از لحاظ طراحي وهم از لحاظ سخت افزاري و نرم افزاري عاليه </Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="امين طالبي " Value="+1">
+      <Sentence ID="gr-14-1" Value="+1">ارزان ترين گوشي با سيستم عامل ويندوزفون8..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="محمد شرفي " Value="+2">
+      <Sentence ID="gr-15-1" Value="+2">واي عجب گوشي هستش من ازش خوشم اومده حتما يکي ازش ميخرم هم ارزونه هم اينکه همه جور امکاناتي داره خيلي هم خوشگله</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="کاوه ش" Score="52" Voters="54" Value="+1">
+      <Sentence ID="cr-1-1" Value="+1">لوميا ۶۲۰ اگر چه ارزون ترين لوميا در ميان سري جديد گوشي هاي نوکيا با ويندوز فون ۸ به حساب مياد اما تعداد زيادي از سايت ها اين گوشي رو با توجه به قيمت و امکاناتش متوازن ترين لوميا و بهترين خريد در ميان گوشي هاي هوشمند ارزون قيمت به حساب ميارن.</Sentence>
+      <Sentence ID="cr-1-2" Value="0">البته نه فقط در بين گوشي هاي ارزون قيمت ويندوز فون،  که بين تمام سيستم عامل هاي موجود.</Sentence>
+      <Sentence ID="cr-1-3" Value="+1">سايت اکسپرت ريويوز به اين گوشي ۵ ستاره داده و اون رو بهترين گوشي با توجه به قيمت معرفي کرده.</Sentence>
+      <Sentence ID="cr-1-4" Value="0">تنها ايرادي که بهش گرفتن باتري معمولي ش بوده که البته سايت انگجت باتري رو جزء نقاط قوتش گذاشته و گفته يک تا يک روز و نيم دووم مياره که براي اسمارت فون ها چيز خوبيه.</Sentence>
+      <Sentence ID="cr-1-5" Value="+2">اگه از هنگ هاي اندرويد خسته شديد و هوس کرديد يه گوشي خوش قيافه،  پر دوام و بسيار خوش دست رو همراه داشته باشيد که کاراي اساسي اسمارت فون ها رو انجام مي ده - و البته برنامه هاي کمتري نسبت به اندرويد داره - اين لومياي جذاب رو بخريد.</Sentence>
+      <Sentence ID="cr-1-6" Value="0">خودم گلکسي نوت ۱ دارم و با اينکه گوشي رو روت کردم و روش رام عالي سيانوژن نصبه اما هم سايز و هم هنگ هاي فراوون باعث شده که تصميم بگيرم بفروشمش و اين لوميا رو بخرم.</Sentence>
+      <Sentence ID="cr-1-7" Value="+1">دوستمون در نقد بالايي نوشته سقوط نوکيا،  اما تعداد زيادي از سايت ها اين گوشي رو نجات دهنده ويندوز فون و نوکيا مي دونن با اين قيمت پايينش.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="مهيار قوامي" Score="22" Voters="22" Value="+1">
+      <Sentence ID="cr-2-1" Value="+2">تجربه من بعد از داشته يک هفته اي اين گوشي وقتي که براي بار اول گوشي در دست ميگيريد کاملا متوجه کيفيت ساخت عالي و خوش دست بودن اون ميشيد.</Sentence>
+      <Sentence ID="cr-2-2" Value="0">اولين مشکلي که شايد با اون مواجه بشيد باز شدن مشکل پشت گوشي براي قرار دادن ميکرو سيم کارته که با کمي حوصله اين موضوع حل ميشه.</Sentence>
+      <Sentence ID="cr-2-3" Value="+2">صفحه نمايش اين گوشي کيفيت بسيار خوب و راضي کننده اي داره که هيچ مشکلي حتي در زير نور افتاب احساس نمي کنيد.</Sentence>
+      <Sentence ID="cr-2-4" Value="+1">دوربين و کيفيت صدا در حد خوبي بود و همون قدري بود که انتظار داشتم و اما ..</Sentence>
+      <Sentence ID="cr-2-5" Value="0">ويندوزفون 8 يک سيستم عامل ساده و روان بدون هرگونه پيچيدگيه مزايايي که داره: باز بودن استور ويندوز فون براي دانلود برنامه فقط 1 نکته هست وقتي ميخواين اکانت hotmail يا live بسازين, بايد تو اون قسمتي که ميگه در چه کشور يا region هستيد, نبايد ايران بزنيد قابليت نصب برنامه از طريق استور از روي کامپيوتر بر روي گوشي بر طرف شدن مشکل انتقال فايل ها از طريق بلوتوث معايب: تعريف نشدن vpn conection در ويندوزفون (که قراره در آپديت بعدي اين مشکل حل بشه) نصب برنامه ها بر روي حافظه داخلي گوشي (حدود 5 گيگ از 8 گيگ حافظه داخلي آزاد که ميتونه براي نصب برنامه کافي باشه) نداشتن راديو مشخصا سيستم عامل ويندوز فون با گذشت زمان  و ارائه نسخه هاي جديدتر بهتر ميشه و طرفداراي خودشو پيدا ميکند در آخر اگه قصد تجربه يک گوشي خوب با سيستم عامل ويندوز فون رو داريد انتخاب درستي کرديد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="مهدي پارسا" Score="6" Voters="6" Value="+1">
+      <Sentence ID="cr-3-1" Value="0">چند روزي هست که اين گوشي را خريده ام و قبلا گوشيهاي مختلف آندرويدي داشته ام.</Sentence>
+      <Sentence ID="cr-3-2" Value="+2">بعد از بازکردن بسته اين گوشي،  اولين چيزي که جلب توجه کرد،  کيفيت ساخت اين گوشي بود که بسيار فراتر از حد انتظار بود.</Sentence>
+      <Sentence ID="cr-3-3" Value="+2">کيفيت صفحه نمايش در حد باور نکردني و غير عادي بالاست و  از نوعيست که اثر  انگشت روي آن نمي ماند.</Sentence>
+      <Sentence ID="cr-3-4" Value="+2">طراحي اين گوشي بسيار زيبا و دوست داشتنيست.</Sentence>
+      <Sentence ID="cr-3-5" Value="+1">به قدري ظرافت در طراحي اين گوشي به کار رفته که تصور ميکنم نوکيا در ساخت اين گوشي نهايت تجربه و تخصصش را به کار گرفته تا مشتري را از اين خريد راضي نگهدارد.</Sentence>
+      <Sentence ID="cr-3-6" Value="0">(با  توجه به قيمت در فروردين 92).</Sentence>
+      <Sentence ID="cr-3-7" Value="0">مثلا فيش خروجي هندز فري که معمولا استهلاک بالايي دارد به شکلي طراحي شده که قابل تعويض است و امکان نفوذ گرد و خاک از آن وجود ندارد و .</Sentence>
+      <Sentence ID="cr-3-8" Value="+1">در کل بلافاصله بعد از بازکردن بسته ي اين گوشي احساس يک خريد متفاوت و لذت بخش را تجربه خواهيد کرد.</Sentence>
+      <Sentence ID="cr-3-9" Value="+1">محاسن:ـ استفاده از ويندوز فون هشت يک تجربه عالي و لذت بخش است و به نظر مي رسد که باعث خلاص شدن از دست بسياري از مشکلات آندرويد است.</Sentence>
+      <Sentence ID="cr-3-10" Value="+1">برنامه هاي موجود براي ویندوز فون از تنوع مناسبي برخوردار است.</Sentence>
+      <Sentence ID="cr-3-11" Value="0">(اگر چه به اندازه تنوع نرم افزارهاي اندرويد نيست اما در حال حاضر رشد بسيار سريعي در آن ديده مي شود و حتا ممکن است در آينده از اندرويد هم پيشي بگيرد.</Sentence>
+      <Sentence ID="cr-3-12" Value="0">)ـ برخلاف گوگل پلي،  استور ويندوز فون در ايران در دسترس است.</Sentence>
+      <Sentence ID="cr-3-13" Value="+1">ـ برنامه آفيس روي گوشي کارايي مناسبي دارد.</Sentence>
+      <Sentence ID="cr-3-14" Value="+1">ـ برنامه نوکيا مپ روي گوشي موجود است و مي  توانيد به راحتي از خود سايت نوکيا نقشه هاي مورد نياز را دانلود کنيد و به صورت آفلاين استفاده بکنيد.</Sentence>
+      <Sentence ID="cr-3-15" Value="-1">معايب:ـ کيفيت دوربين آن،  اگر چه نسبت به اکثر دوربينهاي 5 مگا پيکسلي،  بهتر است اما در کل به نظر چندان رضايت بخش نمي آيد و داراي کيفيت متوسط است.</Sentence>
+      <Sentence ID="cr-3-16" Value="-1">ـ برخي برنامه هاي پيش فرض روي گوشي کارا نيستند و بايد دنبال جايگزين براي آنها بگرديد.</Sentence>
+      <Sentence ID="cr-3-17" Value="0">ـ براي استفاده کردن از بسياري از قابليتهاي گوشي نياز به اينترنت وجود دارد.</Sentence>
+      <Sentence ID="cr-3-18" Value="0">ـ براي مقايسه ي قدرت واقعي ويندوز فون 8 با اندرويد بايد منتظر ارايه رامهاي جيلبرک شده بود که احتمالا تا اوايل تابستان 92 طول خواهد کشيد.</Sentence>
+      <Sentence ID="cr-3-19" Value="-1">چون فايل منيجر بر روي گوشي وجود ندارد و نصب برنامه هاي جديد به صورت صد در صد آفلاين امکان پذير نيست و همچنين امکان نصب برنامه هاي کرک شده  وجود ندارد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="فرهاد کروندي" Score="178" Voters="300" Value="-1">
+      <Sentence ID="cr-4-1" Value="-1">متاسفانه يکي از برند هاي معروف جهان که نوکيا بود در حال سقوط است.</Sentence>
+      <Sentence ID="cr-4-2" Value="0">شايد عامل اين سقوط قبول نکردن اندرويد توسط نوکيا است.</Sentence>
+      <Sentence ID="cr-4-3" Value="0">و همچنين نوکيا مجتمع اصلي خود را در فلاند به فروش گذاشته است و ميخواهد آن مجتمع را پس از فروش از خريدار اجاره يا رهن کند اما شايد بتواند با نسل گوشي هاي جديد خود و ارائه ي سيستم عامل ويندوز 8 و يا قرار دادن دوربين هاي قوي و ديگر تکنولوژي ها دوباره به بازار راه پيدا کند و برند نوکيا دوباره زبانزد مردم شود و بتواند از محبوبيت قبلي خود برخوردار بشود.</Sentence>
+      <Sentence ID="cr-4-4" Value="-1">اي کاش نوکيا از اندرويد استفاده ميکرد و اين سقوط بزرگ را تجربه نميکرد.</Sentence>
+      <Sentence ID="cr-4-5" Value="0">اما تا بحال کسي درباره ي قبول نکردن اندرويد توسط نوکيا سخن نگفته و يک مسئله ي خصوصي است نزد نوکيا.</Sentence>
+      <Sentence ID="cr-4-6" Value="0">من منتظرم نوکيا خلاقيت خود را بروز دهد و خودم يکي از خريداران آن باشم.</Sentence>
+      <Sentence ID="cr-4-7" Value="+1">اين گوشي هم از گوشي هاي عالي نوکيا است و خود من در حدود يک هفته است که تجربه ي استفاده از آن را دارم.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="63" />
+  <Performance Value="6.80" />
+  <Capability Value="6.30" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="7.00" />
+  <Purchase_Value Value="6.30" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="گوشي" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="مشخصات" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="قيمت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="گوشي" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="نرم افزار" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="لمسگر" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="کيفيت صفحه" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="گوشي" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="کارکرد" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="گوشي" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="سرعت" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="گوشي" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="سخت افزار" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="نرم افزار" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10048" Root="زيبايي" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="گوشي" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="رشد" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="طراحي" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="سخت افزاري" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10065" Root="نرم افزاري" Relation="gr-13" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="گوشي" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="گوشی" Relation="gr-15" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="ظاهر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="قیمت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="متون" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="کار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10098" Root="تراکم پیکسل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="مرورگری اینترنت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="تبادل اطلاعات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100113" Root="قابلیت‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100119" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100122" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100125" Root="عکس‌" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100128" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100146" Root="گوشی" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100143" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID100156" Root="باتري" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100172" Root="گوشي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100177" Root="صفحه نمايش" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100181" Root="دوربين" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100184" Root="کيفيت صدا" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100187" Root="سيستم عامل" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100193" Root="گوشي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100196" Root="کيفيت ساخت" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100199" Root="کیفیت صفحه نمايش" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100203" Root="طراحي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100209" Root="خريد" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100213" Root="ويندوز فون" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100217" Root="برنامه آفيس" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100220" Root="کيفيت دوربين" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100225" Root="برنامه" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100228" Root="نوکيا" Relation="cr-4" />
+    <Tag Type="Target(M)" ID="elementID100233" Root="گوشي" Relation="cr-4" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-1-1,26,30]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-1-1,58,66]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[gr-1-1,132,135]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[gr-1-1,136,144]" Relation="tagID1004" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[gr-2-2,3,9]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[gr-2-2,10,14]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[gr-2-2,26,30]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[gr-2-2,31,37]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[gr-3-1,0,5]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[gr-3-1,6,20]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[gr-3-1,23,35]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[gr-3-1,36,41]" Relation="tagID10016" Value="+" />
+    <Tag Type="Opinion" ID="tagID10018" Coordinate="[gr-3-1,44,49]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[gr-3-1,80,85]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID10021" Coordinate="[gr-3-1,86,101]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[gr-3-1,118,128]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[gr-3-1,129,139]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[gr-6-1,255,259]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[gr-6-1,274,278]" Relation="tagID10026" Value="+" />
+    <Tag Type="Opinion" ID="tagID10028" Coordinate="[gr-6-1,281,290]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[gr-6-1,396,399]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID10031" Coordinate="[gr-6-1,377,388]" Relation="tagID10030" Value="+" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[gr-6-1,391,395]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[gr-7-1,0,4]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[gr-7-1,5,19]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[gr-7-2,5,10]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[gr-7-2,29,35]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[gr-9-2,39,43]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[gr-9-2,57,62]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[gr-9-2,67,76]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[gr-9-2,57,62]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[gr-9-2,78,87]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[gr-9-2,57,62]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[gr-9-2,89,95]" Relation="elementID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[gr-9-2,57,62]" Relation="tagID10049" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[gr-10-1,0,4]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[gr-10-1,5,10]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[gr-11-2,108,111]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[gr-11-2,95,107]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[gr-13-1,11,16]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[gr-13-1,53,58]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[gr-13-1,29,39]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[gr-13-1,53,58]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[gr-13-1,42,52]" Relation="elementID10065" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[gr-13-1,53,58]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[gr-14-1,11,15]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[gr-14-1,0,10]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[gr-15-1,21,24]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[gr-15-1,25,35]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10074" Coordinate="[gr-15-1,8,12]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[gr-15-1,58,64]" Relation="tagID10074" Value="+" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[gr-15-1,104,110]" Relation="tagID10074" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[rev-1,23,27]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[rev-1,32,41]" Relation="tagID10078" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[rev-3,143,153]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[rev-8,99,103]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[rev-8,104,114]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[rev-1,113,123]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[rev-1,127,136]" Relation="tagID10081" Value="" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[rev-14,23,33]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[rev-14,52,68]" Relation="tagID100101" Value="+" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[rev-14,76,82]" Relation="tagID100101" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100141" Coordinate="[rev-49,32,42]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID100142" Coordinate="[rev-49,43,52]" Relation="tagID100141" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[rev-2,73,77]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-2,83,93]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[rev-3,149,153]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[rev-3,143,148]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100131" Coordinate="[rev-48,83,88]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID100132" Coordinate="[rev-48,89,99]" Relation="tagID100131" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-11,126,130]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-11,137,151]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[rev-12,37,40]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[rev-12,61,68]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100135" Coordinate="[rev-48,179,182]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID100136" Coordinate="[rev-48,189,192]" Relation="tagID100135" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[rev-13,51,63]" Relation="elementID10098" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[rev-13,100,115]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[rev-18,4,13]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[rev-18,14,25]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100137" Coordinate="[rev-49,14,23]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100138" Coordinate="[rev-49,24,29]" Relation="tagID100137" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[rev-21,125,140]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[rev-21,164,173]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[rev-34,4,10]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[rev-34,11,21]" Relation="tagID100116" Value="+" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[rev-34,31,42]" Relation="tagID100116" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[rev-22,89,102]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[rev-22,62,70]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100114" Coordinate="[rev-30,7,17]" Relation="elementID100113" Value="" />
+    <Tag Type="Opinion" ID="tagID100115" Coordinate="[rev-30,18,22]" Relation="tagID100114" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100120" Coordinate="[rev-38,5,15]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100121" Coordinate="[rev-38,16,26]" Relation="tagID100120" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100133" Coordinate="[rev-48,119,129]" Relation="elementID100119" Value="" />
+    <Tag Type="Opinion" ID="tagID100134" Coordinate="[rev-48,130,141]" Relation="tagID100133" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100123" Coordinate="[rev-41,18,24]" Relation="elementID100122" Value="" />
+    <Tag Type="Opinion" ID="tagID100124" Coordinate="[rev-41,36,48]" Relation="tagID100123" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100126" Coordinate="[rev-42,69,76]" Relation="elementID100125" Value="" />
+    <Tag Type="Opinion" ID="tagID100127" Coordinate="[rev-42,77,82]" Relation="tagID100126" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100129" Coordinate="[rev-45,0,5]" Relation="elementID100128" Value="" />
+    <Tag Type="Opinion" ID="tagID100130" Coordinate="[rev-45,82,95]" Relation="tagID100129" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100147" Coordinate="[cr-1-1,0,9]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100148" Coordinate="[cr-1-1,17,27]" Relation="tagID100147" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100149" Coordinate="[cr-1-1,173,178]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100150" Coordinate="[cr-1-1,161,172]" Relation="tagID100149" Value="+" />
+    <Tag Type="Opinion" ID="tagID100151" Coordinate="[cr-1-1,181,187]" Relation="tagID100149" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100152" Coordinate="[cr-1-1,201,205]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100153" Coordinate="[cr-1-1,217,227]" Relation="tagID100152" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100154" Coordinate="[cr-1-3,60,64]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100155" Coordinate="[cr-1-3,53,59]" Relation="tagID100154" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100161" Coordinate="[cr-1-5,48,52]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100162" Coordinate="[cr-1-5,53,62]" Relation="tagID100161" Value="+" />
+    <Tag Type="Opinion" ID="tagID100163" Coordinate="[cr-1-5,65,72]" Relation="tagID100161" Value="+" />
+    <Tag Type="Opinion" ID="tagID100164" Coordinate="[cr-1-5,75,88]" Relation="tagID100161" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[cr-1-5,208,214]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[cr-1-5,215,219]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100170" Coordinate="[cr-1-7,72,76]" Relation="elementID100146" Value="" />
+    <Tag Type="Opinion" ID="tagID100171" Coordinate="[cr-1-7,80,90]" Relation="tagID100170" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100144" Coordinate="[rev-49,55,60]" Relation="elementID100143" Value="" />
+    <Tag Type="Opinion" ID="tagID100145" Coordinate="[rev-49,61,66]" Relation="tagID100144" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100157" Coordinate="[cr-1-4,25,30]" Relation="elementID100156" Value="" />
+    <Tag Type="Opinion" ID="tagID100158" Coordinate="[cr-1-4,31,37]" Relation="tagID100157" Value="-" />
+    <Tag Type="Opinion" ID="tagID100159" Coordinate="[cr-1-4,78,87]" Relation="tagID100157" Value="+" />
+    <Tag Type="Opinion" ID="tagID100160" Coordinate="[cr-1-4,158,163]" Relation="tagID100157" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[cr-1-7,125,129]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[cr-1-7,130,136]" Relation="tagID100168" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100173" Coordinate="[cr-2-1,63,67]" Relation="elementID100172" Value="" />
+    <Tag Type="Opinion" ID="tagID100174" Coordinate="[cr-2-1,95,110]" Relation="tagID100173" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100175" Coordinate="[cr-2-1,126,129]" Relation="elementID100172" Value="" />
+    <Tag Type="Opinion" ID="tagID100176" Coordinate="[cr-2-1,113,120]" Relation="tagID100175" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100191" Coordinate="[cr-2-5,697,701]" Relation="elementID100172" Value="" />
+    <Tag Type="Opinion" ID="tagID100192" Coordinate="[cr-2-5,702,705]" Relation="tagID100191" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100178" Coordinate="[cr-2-3,0,10]" Relation="elementID100177" Value="" />
+    <Tag Type="Opinion" ID="tagID100179" Coordinate="[cr-2-3,20,35]" Relation="tagID100178" Value="+" />
+    <Tag Type="Opinion" ID="tagID100180" Coordinate="[cr-2-3,38,51]" Relation="tagID100178" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100182" Coordinate="[cr-2-4,0,6]" Relation="elementID100181" Value="" />
+    <Tag Type="Opinion" ID="tagID100183" Coordinate="[cr-2-4,25,29]" Relation="tagID100182" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100185" Coordinate="[cr-2-4,9,18]" Relation="elementID100184" Value="" />
+    <Tag Type="Opinion" ID="tagID100186" Coordinate="[cr-2-4,25,29]" Relation="tagID100185" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100188" Coordinate="[cr-2-5,15,25]" Relation="elementID100187" Value="" />
+    <Tag Type="Opinion" ID="tagID100189" Coordinate="[cr-2-5,26,30]" Relation="tagID100188" Value="+" />
+    <Tag Type="Opinion" ID="tagID100190" Coordinate="[cr-2-5,33,37]" Relation="tagID100188" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100194" Coordinate="[cr-3-2,75,79]" Relation="elementID100193" Value="" />
+    <Tag Type="Opinion" ID="tagID100195" Coordinate="[cr-3-2,60,70]" Relation="tagID100194" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100197" Coordinate="[cr-3-2,60,70]" Relation="elementID100196" Value="" />
+    <Tag Type="Opinion" ID="tagID100198" Coordinate="[cr-3-2,87,111]" Relation="tagID100197" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100200" Coordinate="[cr-3-3,0,16]" Relation="elementID100199" Value="" />
+    <Tag Type="Opinion" ID="tagID100201" Coordinate="[cr-3-3,23,34]" Relation="tagID100200" Value="+" />
+    <Tag Type="Opinion" ID="tagID100202" Coordinate="[cr-3-3,37,52]" Relation="tagID100200" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100204" Coordinate="[cr-3-4,0,5]" Relation="elementID100203" Value="" />
+    <Tag Type="Opinion" ID="tagID100205" Coordinate="[cr-3-4,15,25]" Relation="tagID100204" Value="+" />
+    <Tag Type="Opinion" ID="tagID100206" Coordinate="[cr-3-4,28,41]" Relation="tagID100204" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100207" Coordinate="[cr-3-5,17,22]" Relation="elementID100203" Value="" />
+    <Tag Type="Opinion" ID="tagID100208" Coordinate="[cr-3-5,8,13]" Relation="tagID100207" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100210" Coordinate="[cr-3-8,55,59]" Relation="elementID100209" Value="" />
+    <Tag Type="Opinion" ID="tagID100211" Coordinate="[cr-3-8,60,66]" Relation="tagID100210" Value="+" />
+    <Tag Type="Opinion" ID="tagID100212" Coordinate="[cr-3-8,69,76]" Relation="tagID100210" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100214" Coordinate="[cr-3-9,19,29]" Relation="elementID100213" Value="" />
+    <Tag Type="Opinion" ID="tagID100215" Coordinate="[cr-3-9,37,47]" Relation="tagID100214" Value="+" />
+    <Tag Type="Opinion" ID="tagID100216" Coordinate="[cr-3-9,50,57]" Relation="tagID100214" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100218" Coordinate="[cr-3-13,2,13]" Relation="elementID100217" Value="" />
+    <Tag Type="Opinion" ID="tagID100219" Coordinate="[cr-3-13,23,36]" Relation="tagID100218" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100221" Coordinate="[cr-3-15,8,20]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100222" Coordinate="[cr-3-15,97,120]" Relation="tagID100221" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100223" Coordinate="[cr-3-15,129,134]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100224" Coordinate="[cr-3-15,135,140]" Relation="tagID100223" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100226" Coordinate="[cr-3-16,7,17]" Relation="elementID100225" Value="" />
+    <Tag Type="Opinion" ID="tagID100227" Coordinate="[cr-3-16,35,46]" Relation="tagID100226" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100229" Coordinate="[cr-4-1,39,44]" Relation="elementID100228" Value="" />
+    <Tag Type="Opinion" ID="tagID100230" Coordinate="[cr-4-1,49,60]" Relation="tagID100229" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100231" Coordinate="[cr-4-4,7,12]" Relation="elementID100228" Value="" />
+    <Tag Type="Opinion" ID="tagID100232" Coordinate="[cr-4-4,44,53]" Relation="tagID100231" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100234" Coordinate="[cr-4-7,15,23]" Relation="elementID100233" Value="" />
+    <Tag Type="Opinion" ID="tagID100235" Coordinate="[cr-4-7,24,28]" Relation="tagID100234" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,58,66]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-1-1,136,144]" Value="-" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-2-2,10,14]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-2-2,31,37]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-3-1,6,20]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-3-1,36,41]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-3-1,44,49]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-3-1,86,101]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-3-1,129,139]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[gr-3-1,157,162]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[gr-4-1,13,18]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[gr-4-1,0,10]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[gr-6-1,274,278]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[gr-6-1,281,290]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[gr-6-1,377,388]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[gr-6-1,391,395]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[gr-7-1,5,19]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[gr-7-2,29,35]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[gr-9-2,57,62]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[gr-10-1,5,10]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[gr-10-1,31,38]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[gr-11-2,95,107]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[gr-13-1,53,58]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-14-1,0,10]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-15-1,25,35]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-15-1,104,110]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-15-1,58,64]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-2,83,93]" Value="" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-3,143,148]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-3,143,153]" Value="+" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-8,104,114]" Value="+" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-9,38,46]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-11,137,151]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-11,184,193]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-12,61,68]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-13,100,115]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-14,52,68]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-14,76,82]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-18,14,25]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-19,85,93]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-21,164,173]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-22,62,70]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-26,117,122]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-30,18,22]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-34,11,21]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-34,31,42]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-37,36,42]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-38,16,26]" Value="+" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-41,36,48]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-42,77,82]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-45,82,95]" Value="-" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-47,16,21]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-48,89,99]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-48,130,141]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-48,189,192]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-49,24,29]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-49,43,52]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-49,61,66]" Value="+" />
+    <Keyword ID="keywordID10059" Coordinate="[cr-1-1,17,27]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[cr-1-1,161,172]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[cr-1-1,181,187]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[cr-1-1,217,227]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[cr-1-3,53,59]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[cr-1-4,31,37]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[cr-1-4,158,163]" Value="+" />
+    <Keyword ID="keywordID10066" Coordinate="[cr-1-4,78,87]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[cr-1-5,53,62]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[cr-1-5,65,72]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[cr-1-5,75,88]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[cr-1-5,215,219]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[cr-1-7,130,136]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[cr-1-7,80,90]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[cr-2-1,113,120]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[cr-2-1,106,110]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[cr-2-3,26,35]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[cr-2-3,38,51]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[cr-2-4,25,29]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[cr-2-5,26,30]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[cr-2-5,33,37]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[cr-2-5,702,705]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[cr-3-2,60,70]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[cr-3-2,87,111]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[cr-3-3,23,34]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[cr-3-3,37,52]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[cr-3-4,15,25]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[cr-3-4,28,41]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[cr-3-5,8,13]" Value="+" />
+    <Keyword ID="keywordID10088" Coordinate="[cr-3-5,141,145]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[cr-3-8,60,66]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[cr-3-8,69,76]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[cr-3-9,37,47]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[cr-3-9,50,57]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[cr-3-10,41,47]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[cr-3-13,23,36]" Value="+" />
+    <Keyword ID="keywordID10095" Coordinate="[cr-3-14,50,58]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[cr-3-15,129,140]" Value="-" />
+    <Keyword ID="keywordID10097" Coordinate="[cr-3-16,35,46]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[cr-4-1,49,60]" Value="-" />
+    <Keyword ID="keywordID10099" Coordinate="[cr-4-4,44,53]" Value="-" />
+    <Keyword ID="keywordID100100" Coordinate="[cr-4-7,24,28]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="101" />
+    <Tag_Index Value="236" />
+  </Index>
+</Product>

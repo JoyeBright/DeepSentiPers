@@ -1,0 +1,1060 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Huawei Ascend Y300" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2013/02/26</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">124.5 × 63.8 × 11.2 mm</Feature>
+    <Feature Name="وزن ">130 گرم</Feature>
+    <Feature Name="رنگ ">مشکی ، سفید</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm MSM8225 Snapdragon Chipset - Dual-Core Cortex-A5 CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 203</Feature>
+    <Feature Name="حافظه داخلی ">4096 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">512 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">Micro SD</Feature>
+    <Feature Name="توضیحات کارت حافظه ">قابلیت پشتیبانی از کارت حافظه‌ی MicroSD تا 32 گیگابایت</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 900 / 2100</Feature>
+    <Feature Name="توضیحات 3G ">HSDPA, 7.2 Mbps; HSUPA, 5.76 Mbps</Feature>
+    <Feature Name="4G ">خیر</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 b/g/n, Wi-Fi hotspot, DLNA</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">همراه با پشتیبانی از A-GPS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 2.1 همراه با A2DP و EDR</Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">MicroUSB نسخه‌ی 2</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع IPS LCD</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">480 × 800</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Multi-Touch Input Method) ، تراکم پیکسلی 233ppi ، صفحه نمایش ضد خش</Feature>
+    <Feature Name="صفحه نمایش دوم ">خیر</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">5.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">1944 × 2592</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم با کیفیت VGA</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">640 × 480</Feature>
+    <Feature Name="سرعت فیلمبرداری ">30 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت 480p و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">ثبت موقعیت مکانی و زمانی</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">v4.1 JellyBean</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">AAC, HE-AACv1, HE-AACv2, AMR-NB, AMR-WB, FLAC, Vorbis, PCM/WAVE, MP3</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">H.263, H.264, MPEG-4, VP8</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="بازی ">دارد; با قابلیت دانلود</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="توضیحات رادیو ">رادیو FM</Feature>
+    <Feature Name="هندزفری ">بلی</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="حسگرها ">حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor)حسگر شتاب سنج برای چرخش خودکار رابط کاربری (Accelerometer Sensor For UI Auto-Rotate)</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">1730 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">320 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">5 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها ">قابلیت نمایش و ویرایش عکس (Photo Viewer &amp; Editor)قابلیت مرور مستندات (Document Viewer)دارای سازمان دهنده (Organizer)SNS integrationGoogle Search, Maps, Gmail, TalkVoice memo/dial/commandsPredictive text input</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژردفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="دانيل رمضاني " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">من همين امروز گوشي رو خريدم گوشي واقعا عاليه دوربين با کيفيت بالا و اينکه نسبت به قيمتش اندوريدش 
+خيلي بالاست ولي بديش اينه که منو نداره نمي خوام به خاطر همين يک ايراد ازش امتياز کم کنم ولي گوشي اي
+که اين همه امکانات داره نسبت به قيمتش واقعا مناسبه توصيه ميکنم اين گوشي رو بگيرين</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="يوسف شفيعي " Value="+2">
+      <Sentence ID="gr-2-1" Value="0">من امروز اين گوشي بدستم رسيد .</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">کيفيت عالي داره خوش‌دسته.</Sentence>
+      <Sentence ID="gr-2-3" Value="+1">دوربينش اونقدر که ميگن ضعيف نيست به نظر من خوبه خلاصه سرعت بالايي داره در خريدش شک نکنيد .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="يحيي باقري " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">سلام چند روزيه اين گوشي رو خريدم از گرگان
+تاچش عاليه، قيمت خوب در برابر امکاناتي که داره، اما باتري خوبي نداره دوربينشم راضي کننده نيست ولي خوبه
+در کل راضي هستم و با اين قيمت گوشي در اين حد پيدا نميکنيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="امين زماني راد " Value="+1">
+      <Sentence ID="gr-4-1" Value="0">امروز ٢ تا از ديجي کالا خريدم ..</Sentence>
+      <Sentence ID="gr-4-2" Value="0">کادو هم شده بود و کارت تبريک هم بود ..</Sentence>
+      <Sentence ID="gr-4-3" Value="+2">شايد کار ساده اي به نظر بياد اما فوق‌العاده من و دوستمو خوشحال کرد .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="نجف هدک " Value="0">
+      <Sentence ID="gr-5-1" Value="+1">گوشي خوبيه.</Sentence>
+      <Sentence ID="gr-5-2" Value="0">.البته بايد باهاش کار کرد..</Sentence>
+      <Sentence ID="gr-5-3" Value="0">بايد از لحاظ پشتيباني زبان فارسي کاملا چک بشه.</Sentence>
+      <Sentence ID="gr-5-4" Value="-1">ولي از همه مهمتر اينه که بيشتر از اين نمي‌ارزه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="امين منجزي " Value="+1">
+      <Sentence ID="gr-6-1" Value="+1">سلام دوستان 
+من اين گوشي رو 2-3 روزي هست که ميشه گرفتم حافظه بالايي رو داره صفحه تاچش قوي هست باتريش واسه من که خوب جواب داده دوربين انتظارات رو تا حدودي برآورده ميکنه بازي hd رو راحت اجرا کرده تنها عيبي که به نظرم داره کيفيت صداش هست.</Sentence>
+      <Sentence ID="gr-6-2" Value="0">کيفيت صدا  از نرمال پايينتره که البته صداش واسه من مهم نيست چون هميشه گوشيم رو سايلنته در کل با اين قيمت نسبت به کاراييش واقعا به‌صرفه هست 
+راستي در مورد گارانتيش هم بايد بگم که شرکت مايکروتل (شرکتي که گوشي هاي سامسونگ رو گارانتي ميکنه ) گارانتي اين برند رو برعهده گرفته که از اين بابت در مورد تامين قطعاتش يک مقدار خيالم راحت‌تر شد به هر حال چون برند جديدي هست بين مردم هنوز جا نيافتاده </Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="سيد جواد جعفري " Value="+2">
+      <Sentence ID="gr-7-1" Value="+2">من چند روزيه اين گوشي رو خريدم و به نظر من که در ماه شايد 2-3 تا گوشي عوض ميکنم با اين قيمت ميشه گفت فوق‌العادست
+براي خريدش شک نکنيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="سينا مرزباني " Value="+1">
+      <Sentence ID="gr-8-1" Value="+1">هر کي نخره ضرر کرده بازي هاي hd رو بدون کوچکترين مشکلي اجرا ميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder=" مسلم هادي " Value="+1">
+      <Sentence ID="gr-9-1" Value="0">در خريد اين گوشي شک نکنيد.</Sentence>
+      <Sentence ID="gr-9-2" Value="+1">هواوي يک برند شناخته شده و معتبره.</Sentence>
+      <Sentence ID="gr-9-3" Value="0">محصولاتش هم از نظر کيفيت واقعا حرفي براي گفتن دارن.</Sentence>
+      <Sentence ID="gr-9-4" Value="0">اما در مورد Y300.</Sentence>
+      <Sentence ID="gr-9-5" Value="0">يه گوشي پيدا کنيد که با اين مشخصات در اين رنج قيمت باشه!</Sentence>
+      <Sentence ID="gr-9-6" Value="+2">مشخصات سخت افزاريش مناسبه و کاراييش هم عاليه.</Sentence>
+      <Sentence ID="gr-9-7" Value="+2">خيلي خوش دسته.</Sentence>
+      <Sentence ID="gr-9-8" Value="+2">کيفيت ساخت خيلي خوبي داره.</Sentence>
+      <Sentence ID="gr-9-9" Value="+2">رزولوشن خيلي خوبه.</Sentence>
+      <Sentence ID="gr-9-10" Value="+2">سرعت خيلي خوبه و کم نمياره.</Sentence>
+      <Sentence ID="gr-9-11" Value="+1">باتريش هم خوبه.</Sentence>
+      <Sentence ID="gr-9-12" Value="-1">از معايبش، صداي کم بلندگوي خارجي و کيفيت پايين صفحه نمايش زير نور آفتابه.</Sentence>
+      <Sentence ID="gr-9-13" Value="0">(واقعا چيزي ديده نميشه!</Sentence>
+      <Sentence ID="gr-9-14" Value="-1">)
+عيب ديگه اي که داره اينه که هنوز لوازم جانبي براي هواوي (مثل گارد و برچسب) تو بازار ايران کم پيدا ميشه.</Sentence>
+      <Sentence ID="gr-9-15" Value="0">در کل صحبتم اينه که اين گوشي رو بخريد که مطمئناً گرون ميشه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="عزيز صديقي نيا " Value="0">
+      <Sentence ID="gr-10-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-10-2" Value="0">بنده چند روزيه که اين گوشيرو گرفتم.</Sentence>
+      <Sentence ID="gr-10-3" Value="+1">بعضي از مزايا و معايبشو ميگم :
+مزايا:
+قيمت ارزان در مقابل امکاناتي که داره.</Sentence>
+      <Sentence ID="gr-10-4" Value="+2">صفحه نمايش با کيفيت 
+آنتن‌دهي بالا
+نرم‌افزار‌هاي بسيار عالي که در خود گوشي نصب هستن.</Sentence>
+      <Sentence ID="gr-10-5" Value="+2">از همه بهتر باتري فوق‌العاده قوي اين گوشيه .</Sentence>
+      <Sentence ID="gr-10-6" Value="+1">سرعت بالاي cpu
+دوربين مکالمه ويدئويي خوب
+نصب مستقيم برنامه ها و بازي هاي بر روي SD کارت
+بازي هاي HD رو هم راحت اجرا ميکنه
+اما معايب:
+دوربين گوشي با اينکه 5 مگاپيکسله اما زياد چنگي به دل نميزنه.</Sentence>
+      <Sentence ID="gr-10-7" Value="-1">وضوع تصاوير يکم پايينه.</Sentence>
+      <Sentence ID="gr-10-8" Value="-1">وقتي چند گيگ بازي و برنامه تو مموري بريزيد يکم سرعت منو برنامه هاي مياد پايين.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="moein " Value="+1">
+      <Sentence ID="gr-11-1" Value="+1">من اين گوشي رو از زمان ارائه به ايران خريدم دوربينش از 8 hd هم بهتره و واقعا رابط کاربري رواني داره و تمامي بازي ها و برنامه هاي ديتا دار تا 1گيگ رو ساپورت ميکنه و کلا خيلي خوش‌دست و مقرون به‌صرفه است ولي مشکلي که داره اين است که نه محافظ صفحه داره نه محافظ ژله اي درست ضد خش است ولي حتما روزي خش مي افته صداش متوسطه فلاشش همانند اس2 است و شايد بهتر
+توصيه ميکنم بودجه کمي داشتيد حتما بخريد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="علي محمدي " Value="+1">
+      <Sentence ID="gr-12-1" Value="+1">بي‌نظير و عالي باورم نشده يه گوشي ميتونه با اين قيمت اين کيفيت رو داشته باشه فقط لوازم جانبيش گير نمياد مثل قاب از هر نظر عالي </Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="سيدهاشم پورشفيعي " Value="-1">
+      <Sentence ID="gr-13-1" Value="-1">فقط مواظب باشين از بازار علادين تهران نخريد، براتون خيلي گرونتر درمياد.</Sentence>
+      <Sentence ID="gr-13-2" Value="0">قيمت اوليه رو کمتر ميگن بعد که سيمکارتو ميگيرن ميگن بايد مبلغي بدي برات برنامه بريزيم وگرنه نميتوني با جايي تماس بگيري.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="حجت اميدي " Value="-2">
+      <Sentence ID="gr-14-1" Value="-2">دوستان به اين نکته دقت کنيد
+که اين مدل گوشي خدمات پس از فروش خيلي ضعيفي داره 
+و قطعات اين برندها هنوز وارد بازار نشده 
+به همين علت ارزونتر از مدل هاي مشابه مثل سامسونگ و نوکيا و غيره  هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="سعيد شيخ اولي " Value="-1">
+      <Sentence ID="gr-15-1" Value="-1">دوستان توجه کنيد معماري پردازشگر A5 هست که ضعيف هست و شخصا تو اين گوشي يک بازي با حجم 40 مگ رو با اندکي لگ اجرا کردم.</Sentence>
+      <Sentence ID="gr-15-2" Value="-1">نور صفحه هم خيلي خوب نيست زير آفتاب </Sentence>
+    </General_Review>
+    <General_Review ID="gr-16" Holder="مهدي شريفي " Value="0">
+      <Sentence ID="gr-16-1" Value="0">اين گوشي امکاناتش دقيقا برابري ميکنه با samsung galaxy s advance.</Sentence>
+      <Sentence ID="gr-16-2" Value="0">اين گوشي چون مارک نامداري نيست خيلي ارزونتره
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-17" Holder="بهزاد ملازهي " Value="+1">
+      <Sentence ID="gr-17-1" Value="0">با عرض سلام و خسته نباشي به دست اندرکاران ديجي کالا.</Sentence>
+      <Sentence ID="gr-17-2" Value="+1">من اين گوشي رو تازه سفارش دادم با اين مشخصات موجود درسايت و نظرات دوستان مطمئنم گوشي خوبي باشه به محض دريافت نکته و نظرات خودمو براي دوستان ميذارم ولي مطمئنم ميشه به ديجي کالا اعتماد کرد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-18" Holder="محسن قائدي " Value="0">
+      <Sentence ID="gr-18-1" Value="+2">توضيح در مورد اين گوشي 
+مزايا 
+سي پي يو قوي 
+اسکرين با رزولوشن بالا 
+اندرويد 4.1
+جي پي اس سريع (واقعا تعجب کردم وقتي ديدم با چه سرعتي مکانو نشون داد !</Sentence>
+      <Sentence ID="gr-18-2" Value="+1">)
+روان بدون هنگ
+نرم‌افزار دوربين حرفه‌اي!</Sentence>
+      <Sentence ID="gr-18-3" Value="+2">قابليت تنظيم نور دهي در محيط هاي کم نور
+باتري فوق‌العاده 
+اجراي روان بازي هاي اچ دي
+قابليت بک آپ گيري توسط خود گوشي از مخاطبين،  پيامها و برنامه ها ..</Sentence>
+      <Sentence ID="gr-18-4" Value="0">معايب!</Sentence>
+      <Sentence ID="gr-18-5" Value="-1">صداي کم اسپيکر و خروجي هدفون !</Sentence>
+      <Sentence ID="gr-18-6" Value="+1">لانچر که عوض ميشه مشکلي نداره!</Sentence>
+      <Sentence ID="gr-18-7" Value="0">حافظه در دسترس کاربر يه گيگا بايت هست !</Sentence>
+      <Sentence ID="gr-18-8" Value="0">هنوز تا اين تاريخ روت نشده!</Sentence>
+      <Sentence ID="gr-18-9" Value="-1">فيلم برداري تعريفي نداره!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-19" Holder="AliReza Mohammadi " Value="+1">
+      <Sentence ID="gr-19-1" Value="0">سلام خدمت همه عزيزان
+منم به پيشنهاد يکي از دوستانم اين گوشي را خريدم.</Sentence>
+      <Sentence ID="gr-19-2" Value="+1">واقعا نسبت به قيمتش خيلي ارزش خريد داره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-20" Holder="ashkan zare karizak " Value="+1">
+      <Sentence ID="gr-20-1" Value="0">امروز به دستم رسيد چون قبلا آرک اس داشتم سريع با نرم افزار هاي حرفه اي تستش کردم!</Sentence>
+      <Sentence ID="gr-20-2" Value="0">فقط مي تونم بگم از همش نمره قبولي رو گرفت فقط در اجراي فيلم هاي اچ دي کمي کند عمل مي کنه ولي اگه تنظيمات پلير رو دست کاري کنين درست ميشه!</Sentence>
+      <Sentence ID="gr-20-3" Value="+1">در اجراي انواع بازي عملکرد رضايت‌بخشي داره نکته اينجاست که مثه آرک اس داغ نمي کنه و اما به نظر من يکي از مهم ترين خصوصيات يک اسمارت فون مصرف باتري اون هست که در مدت 6 ساعتي که باهاش بازي کردم فيلم با نور و صداي بلند گوش کردم با واي فاي از بازار دانلود کردم تا باتري اوليش خالي بشه کلا رضايت‌بخش مي شه اگه بهتون بگم که وقتي واسه اولين بار روشن کردم گوشي رو 46% بود باتري اين يعني عملکرد باتري اميد‌بخشي در آينده مي شه ازش انتظار داشت 
+خوش‌دسته ولي از فيلم برداري اين گوشي نميشه انتظار زيادي داشت
+با اين قيمت فقط ميشه گفت کامل</Sentence>
+    </General_Review>
+    <General_Review ID="gr-21" Holder="علي عباس نيا تهراني " Value="-1">
+      <Sentence ID="gr-21-1" Value="-1">سلام دوستان خسته نباشين
+من اومدم اينجا تا خيالتون رو در مورد اين گوشي راحت کنم اومدم تا اين گوشي را زير ذره بين بذارم و يک بررسي مختصري از اين گوشي براتون بذارم
+قبل از بررسي بگم که اين اطلاعات کاملا از تجربه چند روزه خودم با اين گوشي است يعني اينکه اين اطلاعات از سايتهاي ديگه يا از کسي بازگو نشده پس هر آنچه که مي خوانيد هماني است که اين گوشي است
+خوب بريم سراغ بررسي
+
+وسايل جانبي داخل کارتن
+يک دونه هدست بي‌کيفيت و شارژر و کابل usb
+
+مشخصات
+کلا مشخصات گوشيهاي هواوي توي هر سايتي متفاوت است و هر جا يک چيزي گفتند توي سايتهاي داخلي يک چيز و توي سايتها خارجي يک چيز ديگر .</Sentence>
+      <Sentence ID="gr-21-2" Value="-1">دوربين: 
+اصلا بهش دل نبندين که اصلا نميشه بهش گفت دوربين يعني از يک جهت خوب و از يک جهت بد 
+در بخش عکسبرداري:
+در اين بخش ميشه گفت که y300 مسئوليتي که بر دوشش بوده را به خوبي انجام داده ولي از نظر حرفه اي ها همچنين چيزي نيست.</Sentence>
+      <Sentence ID="gr-21-3" Value="-1">در حالت اتوماتيک عکسهاي گرفته شده تا حدي پايين‌تر از حد متوسط است يعني عکسها تار هستند .</Sentence>
+      <Sentence ID="gr-21-4" Value="-1">اگر در روز باشد عکسها تا حدي واضح است ولي در شب اصلا خوب نيست.</Sentence>
+      <Sentence ID="gr-21-5" Value="+1">ولي بازم جاي اميد است که با يک کم دستکاري در تنظيمات گوشي مي‌توانيد عکسهاي بهتري بگيريد مثلا خود من براي اينکه عکسهاي واضح‌تري داشته باشم iso را روي 800 قرار دادم و روشنايي عکسها را يک درجه زياد کردم که اينجوري وضوح عکسها زيادتر شد .</Sentence>
+      <Sentence ID="gr-21-6" Value="-1">ولي بازم تا حد يک گوشي ۵ مگاپيکسلي نيست.</Sentence>
+      <Sentence ID="gr-21-7" Value="-1">در بخش فيلم برداري:
+اصلا خوب نيست.</Sentence>
+      <Sentence ID="gr-21-8" Value="-1">در صورتي که گوشي در يک جاي ثابت قرار بگيره و هيچ لرزشي نداشته باشه فيلهايي با روزولوشن 480×640 را مي تونيد ثبت کنيد که آدم رو ياد گوشهاي 2 مگاپيکسلي مي اندازد ولي اگر در حال حرکت فيلم برداري کنيد اونوقت اوضاع تغيير مي کند و فيلهاي گرفته شده تار مي شوند که قابل ديدن نيست.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-22" Holder="احمد مهبدنيا " Value="0">
+      <Sentence ID="gr-22-1" Value="0">گوشي خوبيه ولي نسبت به کارايي به‌صرفه نيست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-23" Holder="مهدي رضايي " Value="+1">
+      <Sentence ID="gr-23-1" Value="+1">سلام اول از ارسال سريع و خدمات خوبتون تشکر ميکنم و دوم اينکه با توجه به اين قيمت گوشي فوق‌العاده‌اي هست البته من که دو روز پيش اين گوشي رو خريدم اين قيمت نبود گوشي هاي ديگه افت قيمت داشتن ولي اين افزايش که اين خودش يکي از دلايل کيفيت و استقبال مردم ميتونه باشه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-24" Holder="محمد مهدي حقي " Value="+1">
+      <Sentence ID="gr-24-1" Value="0">من از بازار موبايل اصفهان گرفتم.</Sentence>
+      <Sentence ID="gr-24-2" Value="+2">خيلي روونه.</Sentence>
+      <Sentence ID="gr-24-3" Value="+2">شفافه و تاچشم عاليه.</Sentence>
+      <Sentence ID="gr-24-4" Value="+1">بازي اچ دي هم نصب کردم خوب بود.</Sentence>
+      <Sentence ID="gr-24-5" Value="-1">رمش کمه و بايد حواست باشه.</Sentence>
+      <Sentence ID="gr-24-6" Value="+1">صداي اسپيکرشم کمه ولي هدفن صداش فوق‌العادست.</Sentence>
+      <Sentence ID="gr-24-7" Value="-1">تنها موردي که يکم خوشم نيومد اين بود که تمام برنامه هات روي همون صفحه هاي اصلي (home) مياند و مثل بقيه گوشيا نيست که بري تو منو ليست برنامه هات.</Sentence>
+      <Sentence ID="gr-24-8" Value="0">کلا شبيه ديزاير ايکسه ولي خيلي ارزونتره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-25" Holder="فرشيد کلهر " Value="0">
+      <Sentence ID="gr-25-1" Value="0">سلام من سفارش دادم بياد جزيياتشو بهتون ميگم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-26" Holder="صادق کارشکي " Value="+2">
+      <Sentence ID="gr-26-1" Value="+2">من اين گوشي رو يک هفته است گرفتم محشره
+صفحه بزرگ با کيفيت 
+سي پي يو قوي 
+بدون هنگ و گير کاملاً روان
+فقط صداش کمه
+والا بقيه امکاناتش عاليه
+نسخه اندرويدشم 4.1.1
+و .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-27" Holder="صادق کارشکي " Value="0">
+      <Sentence ID="gr-27-1" Value="0">من اين گوشي رو يک هفته است گرفتم محشره
+صفحه بزرگ با کيفيت 
+سي پي يو قوي 
+بدون هنگ و گير - کاملا روان
+فقط صداش کمه
+و بقيه امکاناتش عاليه
+نسخه اندرويدشم 4.1.1
+و .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-28" Holder="عليرضا احمدزاده " Value="+2">
+      <Sentence ID="gr-28-1" Value="+2">سلام و با تشکر از ديجي کالا به خاطر ارسال سريع کالا
+امروز اين گوشي بدستم رسيد فوق‌العاده برازنده اين گوشي هست</Sentence>
+    </General_Review>
+    <General_Review ID="gr-29" Holder="سعيد عباسي " Value="+2">
+      <Sentence ID="gr-29-1" Value="+2">سلام
+من اين گوشي رو 4 روزه که خريدم، در يک کلام بايد بگم با توجه به پولي که ميديد محشره، صفحه نمايش 4 اينچي با کيفيت فوق‌العاده بالا IPS LCD 480*800 ، سي پي يو دو هسته اي يک گيگا هرتزي، اندرويد 4.1 و از همه مهمتر باتري قدرتمند 1730 ميلي آمپري جاي هيچ شکي براي خريد اين گوشي نميذاره.</Sentence>
+      <Sentence ID="gr-29-2" Value="+2">تاچش کيفيت خيلي خوبي داره و منوهاش هم خيلي روون و شکيله،  چند تا بازي و برنامه ريختم روش بدون هيچ مشکلي اجراشون کرد.</Sentence>
+      <Sentence ID="gr-29-3" Value="+2">گوشي خيلي شيک و خوش‌دستي هست و از کار کردن باهاش لذت ميبريد.</Sentence>
+      <Sentence ID="gr-29-4" Value="0">دوربين 5 مگاپيکسلي خوبي هم داره اما خيلي ايده‌آل نيست.</Sentence>
+      <Sentence ID="gr-29-5" Value="+1">به نظر من هوآوي يه انقلابه تو گوشي ها، به نظر من اين گوشي با توجه به گارانتي يک سالش بيشتر از اينا مي‌ارزه.</Sentence>
+      <Sentence ID="gr-29-6" Value="0">من مطمئنم در آينده نه چندان دور هوآوي تمام بازار دنيا رو قبضه ميکنه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-30" Holder="علي عباس نيا تهراني " Value="+1">
+      <Sentence ID="gr-30-1" Value="0">امروز اين گوشي به دستم رسيد.</Sentence>
+      <Sentence ID="gr-30-2" Value="+1">کيفيت بدنش متوسط رو به خوب.</Sentence>
+      <Sentence ID="gr-30-3" Value="0">دوربينش در روشنايي خوب عمل ميکنه و در نور کم مطلوب نيست.</Sentence>
+      <Sentence ID="gr-30-4" Value="+1">تاچش خوب عمل ميکنه و کندي نداره.</Sentence>
+      <Sentence ID="gr-30-5" Value="+1">کيفيت صدا و پخش اون خوبه.</Sentence>
+      <Sentence ID="gr-30-6" Value="0">صفحه نمايش آنچنان شفافي نداره ولي کيفيتش خوبه.</Sentence>
+      <Sentence ID="gr-30-7" Value="-1">صفحه نمايش زير نور خورشيد تعريفي نداره و کار کردن باهاش سخت ميشه.</Sentence>
+      <Sentence ID="gr-30-8" Value="+1">به نظر ميرسه باتري نسبتاً خوبي داشته باشه.</Sentence>
+      <Sentence ID="gr-30-9" Value="+1">فارسي هم هيچ مشکلي نداره.</Sentence>
+      <Sentence ID="gr-30-10" Value="+1">تا اينجاي کار به نظرم نسبت به قيمتش مي‌ارزه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-31" Holder="افشين " Value="0">
+      <Sentence ID="gr-31-1" Value="+1">سلام به همگي اين گوشي رو من 2 روزه گرفتم نسبت به امکانات و مشخصاتي که داره گوشي خوبيه با اين قيمت و امکانات يک گوشي از LG  هستش که گرونتره .</Sentence>
+      <Sentence ID="gr-31-2" Value="-1">تنها اشکالي که فعلا وجود داره اسپيکرهاي ضعيف اين گوشي هست که چنگي به دل نميزنه.</Sentence>
+      <Sentence ID="gr-31-3" Value="0">موفق باشيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-32" Holder="سيد مهدي نوربخش " Value="+2">
+      <Sentence ID="gr-32-1" Value="+2">من اين گوشي را امروز از همين سايت دي جي کالا خريدم ،  گوشي بسيار زيبا و خوش‌دستيه ، جنس کاور پشتش بسيار لطيف و دوست‌داشتنيه ، تاچ بسيار خوب و پشتيباني عالي و کامل از زبان فارسي داره ،  به همه افرادي که دنبال يک گوشي خوب هستند اما هزينه هم براشون مهمه ،  اين گوشي زيبا را توصيه مي کنم ،  تنها موردي که جاي مطرح کردن داره اينه که اثر انگشت خيلي سريع روي صفحش جا مي گذاره ،  که فکر مي کنم اون هم حتماً چاره داره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-33" Holder="علي عباس نيا تهراني " Value="+1">
+      <Sentence ID="gr-33-1" Value="+1">با اين امکاناتي که اين گوشي داره، اين قيمت خيلي مناسبه
+بنچ مارکي که با نرم افزار antutu benchmark گرفتم رو براتون مينويسم.</Sentence>
+      <Sentence ID="gr-33-2" Value="0">cpu= dual-core armv7 
+cpu frequency= 196 .</Sentence>
+      <Sentence ID="gr-33-3" Value="0">1008 MHz
+screen resolation= 480 * 800
+gpu render=dreno 203
+open gl=open gl ES 2.0
+memory available=816 MB
+camera=5MP
+ndroid=4.1.1</Sentence>
+    </General_Review>
+    <General_Review ID="gr-34" Holder="shahraki " Value="+1">
+      <Sentence ID="gr-34-1" Value="0">باسلام.</Sentence>
+      <Sentence ID="gr-34-2" Value="+2">بنده اين گوشي رو خريداري کردم بسيار گوشي خوب و خوش‌دستي است مشخصات خوبي رو هم داره سي پي يو 2هسته اي .</Sentence>
+      <Sentence ID="gr-34-3" Value="+1">گرافيک خوب .</Sentence>
+      <Sentence ID="gr-34-4" Value="+1">رم قابل‌قبول و ديگر امکاناتش .</Sentence>
+      <Sentence ID="gr-34-5" Value="+1">صفحه نمايش باکيفيتي هم داره جالب‌تر از اين ها اين که من بازي اسفالت hd 6 رو ريختم و بدون هيچ مشکلي بازي رواجرا کرد حتي خودم هم باورم نشد.</Sentence>
+      <Sentence ID="gr-34-6" Value="+1">درکل گوشي خوبيه پيشنهاد ميکنم از دست ندينش.</Sentence>
+      <Sentence ID="gr-34-7" Value="0">پيروز باشيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-35" Holder="heydar naghizadeh " Value="+2">
+      <Sentence ID="gr-35-1" Value="0">سلام.</Sentence>
+      <Sentence ID="gr-35-2" Value="0">من اين گوشي رو امروز خريدم.</Sentence>
+      <Sentence ID="gr-35-3" Value="0">همتون مشخصات اين گوشي رو ميتونين بخونين.</Sentence>
+      <Sentence ID="gr-35-4" Value="0">فقط ميخام تجربه ام رو بگم.</Sentence>
+      <Sentence ID="gr-35-5" Value="+2">تاچ عالي نسبت به بقيه حتي htc.</Sentence>
+      <Sentence ID="gr-35-6" Value="0">(من با گوشي آيفون 5 هم کار کردم.</Sentence>
+      <Sentence ID="gr-35-7" Value="+2">)
+سرعت عالي با  dual core 1ghz.</Sentence>
+      <Sentence ID="gr-35-8" Value="+1">رم خوب.</Sentence>
+      <Sentence ID="gr-35-9" Value="+2">دوربين خوب با فلش بی‌نظير.</Sentence>
+      <Sentence ID="gr-35-10" Value="0">صفحه بزرگ 4 اينچي.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-36" Holder="آرين ظاهري  " Value="+1">
+      <Sentence ID="gr-36-1" Value="+1">نسبت به قيمتش گوشيه خوبيه گوشي اوليم واي 200 بود بعد از اون ميخوام اينو بگيرم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-37" Holder="تهمينه سليمي " Value="+1">
+      <Sentence ID="gr-37-1" Value="0">با سلام.</Sentence>
+      <Sentence ID="gr-37-2" Value="0">اين گوشي رو چند روز هست که خريدم.</Sentence>
+      <Sentence ID="gr-37-3" Value="+2">واقعاً عاليه.</Sentence>
+      <Sentence ID="gr-37-4" Value="+1">در حد گوشي هاي سامسونگ با قيمت بالاتر، قابليت داره.</Sentence>
+      <Sentence ID="gr-37-5" Value="0">تو خريدش شک نکنيد</Sentence>
+    </General_Review>
+    <General_Review ID="gr-38" Holder="علي ميرعزيزي " Value="+2">
+      <Sentence ID="gr-38-1" Value="+2">گوشي خيلي خوبي به نظر مي رسه.</Sentence>
+      <Sentence ID="gr-38-2" Value="+1">يک پک خوب و ارزان قيمت.</Sentence>
+      <Sentence ID="gr-38-3" Value="0">با اين مشخصات اصلي و البته کمي قابليت بيشتر ديزاير ايکس است که دوربين جلو هم نداره و دوبرابر اين قيمت داره.</Sentence>
+      <Sentence ID="gr-38-4" Value="+2">سري گوشي‌هاي جديد هواوي واقعاً خوب و جالب‌اند صفحه نمايش بزرگ،  امکانات خوب،  باتري خوب،  طراحي بهتر،  قيمت مناسب و آندرويد 4.1 مثل همين گوشي يا اسند جي 350.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-39" Holder="رحيم اميدي " Value="+1">
+      <Sentence ID="gr-39-1" Value="+1">با وجود پردازنده دو هسته اي که داره قيمتش مناسبه فقط بايد امتحانشا تو ايران پس بده  چون گوشي جديده</Sentence>
+    </General_Review>
+    <General_Review ID="gr-40" Holder="هوشنگ ابراهيمي " Value="+2">
+      <Sentence ID="gr-40-1" Value="+2">به نظر من با اين مشخصات و قيمت گوشي عالي به نظر ميرسه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="علي عباس نيا تهراني" Score="117" Voters="339" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">کيبوردش عاليه.</Sentence>
+      <Sentence ID="cr-1-2" Value="+2">فارسيش هم عاليه اين گوشي تازه اومده.</Sentence>
+      <Sentence ID="cr-1-3" Value="0">به همين جهت هنوز ذکر نکردن.</Sentence>
+      <Sentence ID="cr-1-4" Value="+1">با فارسي هم مشکل نداره.</Sentence>
+      <Sentence ID="cr-1-5" Value="-1">يکي از ايرادهاي گوشي اينه که صداي اسپيکر از نرمال يکم کمتره.</Sentence>
+      <Sentence ID="cr-1-6" Value="-1">بله براي من هم صدا کمه که براي من مهم نيست.</Sentence>
+      <Sentence ID="cr-1-7" Value="+2">مزايا: 1-صفحه بزرگ و با‌کيفيت 2-تاچ خوب و روان 3-سي پي يو دو هسته اي 4- آندروييد 4.1.15- باتري قوي 17306-زيبا 7-اجراي روان بازي ها (اچ دي هنوز نصب نکردم) 8-قيمت بسيار مناسب 9-جي پي اس قوي و..</Sentence>
+      <Sentence ID="cr-1-8" Value="+1">گوشيه خوبيه با نرم افزار Antutu benchmark تست گرفتم امتياز 6100 داد تازه چيپست qualcomm msm8225 snapdragon رو تو سايت خود کوالکام پيدا کردم سي پي يو رو زده بود 1 تا 1.2 گيگاهرتز dual core cortex A5 و جي پي يو هم adreno 203 و اينکه رو جعبه اش هم زده بود دوهسته اي.</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="316" />
+  <Performance Value="1.60" />
+  <Capability Value="1.50" />
+  <Production_Quality Value="2.00" />
+  <Ergonomics Value="1.10" />
+  <Purchase_Value Value="1.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="گوشي" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="دوربين" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="کيفيت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="دوربين" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="سرعت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="تاچ" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="قيمت" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID100135" Root="گوشي" Relation="gr-17" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="دوربين" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="گوشي" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="حافظه" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="صفحه تاچ" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10037" Root="باتري" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10040" Root="اجرا" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10043" Root="کيفيت صدا" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10046" Root="گوشي" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10049" Root="Huawei" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="سخت افزار" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10056" Root="کارایی" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10059" Root="کيفيت ساخت" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10062" Root="رزولوشن" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10065" Root="سرعت" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="باتري" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="صداي بلندگو" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="کيفيت صفحه نمایش" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="لوازم جانبي" Relation="gr-9" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="قيمت" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="صفحه نمايش" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="آنتن‌دهي" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10089" Root="نرم‌افزار‌" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="باتري" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="سرعت CPU" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID10098" Root="دوربين مکالمه" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="اجرا" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="وضوع تصویر" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="سرعت منو" Relation="gr-10" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="دوربين" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100113" Root="رابط کاربري" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100116" Root="گوشي" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100120" Root="صدا" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100123" Root="فلاش" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID100126" Root="خدمات پس از فروش" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100129" Root="گوشي" Relation="gr-14" />
+    <Tag Type="Target(M)" ID="elementID100132" Root="گوشي" Relation="gr-16" />
+    <Tag Type="Target(M)" ID="elementID100138" Root="پردازنده" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100141" Root="رزولوشن" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100144" Root="GPS" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100147" Root="نرم‌افزار" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100150" Root="باتري" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100153" Root="اجرا" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100156" Root="صدا" Relation="gr-18" />
+    <Tag Type="Target(M)" ID="elementID100159" Root="ارزش خريد" Relation="gr-19" />
+    <Tag Type="Target(M)" ID="elementID100162" Root="اجرا" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100167" Root="عملکرد باتري" Relation="gr-20" />
+    <Tag Type="Target(M)" ID="elementID100170" Root="هدست" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100173" Root="عکس" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100180" Root="وضوح" Relation="gr-21" />
+    <Tag Type="Target(M)" ID="elementID100183" Root="گوشي" Relation="gr-22" />
+    <Tag Type="Target(M)" ID="elementID100186" Root="گوشي" Relation="gr-23" />
+    <Tag Type="Target(M)" ID="elementID100189" Root="تاچ" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100192" Root="رم" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100195" Root="صداي اسپيکر" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100198" Root="صدای هدفن" Relation="gr-24" />
+    <Tag Type="Target(M)" ID="elementID100201" Root="گوشي" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100204" Root="صفحه" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100208" Root="پردازنده" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100211" Root="صدا" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100214" Root="امکانات" Relation="gr-26" />
+    <Tag Type="Target(M)" ID="elementID100217" Root="ارسال" Relation="gr-28" />
+    <Tag Type="Target(M)" ID="elementID100220" Root="گوشي" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100226" Root="کيفيت صفحه" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100229" Root="باتري" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100232" Root="کيفيت تاچ" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100238" Root="دوربين" Relation="gr-29" />
+    <Tag Type="Target(M)" ID="elementID100243" Root="کيفيت بدنه" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100247" Root="دوربين" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100250" Root="تاچ" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100253" Root="کيفيت صدا" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100256" Root="پخش صدا" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100259" Root="کيفيت صفحه نمایش" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100262" Root="کار کردن" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100265" Root="باتري" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100268" Root="قيمت" Relation="gr-30" />
+    <Tag Type="Target(M)" ID="elementID100271" Root="گوشي" Relation="gr-31" />
+    <Tag Type="Target(M)" ID="elementID100274" Root="اسپيکر" Relation="gr-31" />
+    <Tag Type="Target(M)" ID="elementID100277" Root="گوشي" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100281" Root="جنس کاور" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100285" Root="تاچ" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100288" Root="پشتيباني" Relation="gr-32" />
+    <Tag Type="Target(M)" ID="elementID100294" Root="قيمت" Relation="gr-33" />
+    <Tag Type="Target(M)" ID="elementID100297" Root="گوشي" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100301" Root="مشخصات" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100304" Root="گرافيک" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100307" Root="رم" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100310" Root="صفحه نمايش" Relation="gr-34" />
+    <Tag Type="Target(M)" ID="elementID100315" Root="تاچ" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100318" Root="سرعت" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100321" Root="رم" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100324" Root="دوربين" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100327" Root="فلش" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100330" Root="صفحه" Relation="gr-35" />
+    <Tag Type="Target(M)" ID="elementID100333" Root="گوشي" Relation="gr-36" />
+    <Tag Type="Target(M)" ID="elementID100336" Root="گوشي" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100339" Root="پک" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100342" Root="قيمت" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100345" Root="صفحه نمايش" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100348" Root="امکانات" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100351" Root="باتري" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100354" Root="طراحي" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100357" Root="قيمت" Relation="gr-38" />
+    <Tag Type="Target(M)" ID="elementID100363" Root="قيمت" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100366" Root="گوشي" Relation="gr-39" />
+    <Tag Type="Target(M)" ID="elementID100369" Root="گوشي" Relation="gr-40" />
+    <Tag Type="Target(M)" ID="elementID100372" Root="کيبورد" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100375" Root="فارسي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100378" Root="صداي اسپيکر" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100383" Root="صفحه" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100387" Root="تاچ" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100391" Root="باتري" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100394" Root="اجرا" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100397" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100400" Root="GPS" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100403" Root="گوشي" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[gr-1-1,28,32]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[gr-1-1,39,44]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[gr-1-1,190,194]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[gr-1-1,242,248]" Relation="tagID1006" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[gr-1-1,45,51]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[gr-1-1,55,65]" Relation="tagID1004" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[gr-2-2,0,5]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[gr-2-2,6,10]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[gr-2-3,0,7]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[gr-2-3,43,47]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[gr-2-3,54,58]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[gr-2-3,59,65]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[gr-3-1,42,46]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[gr-3-1,47,52]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[gr-3-1,54,58]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[gr-3-1,59,62]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100136" Coordinate="[gr-17-2,80,84]" Relation="elementID100135" Value="" />
+    <Tag Type="Opinion" ID="tagID100137" Coordinate="[gr-17-2,85,89]" Relation="tagID100136" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[gr-3-1,111,119]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[gr-3-1,140,144]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[gr-5-1,0,4]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[gr-5-1,5,10]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[gr-6-1,55,60]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[gr-6-1,61,67]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[gr-6-1,76,85]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[gr-6-1,86,89]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[gr-6-1,94,100]" Relation="elementID10037" Value="" />
+    <Tag Type="Opinion" ID="tagID10039" Coordinate="[gr-6-1,112,115]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[gr-6-1,184,188]" Relation="elementID10040" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[gr-6-1,179,183]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[gr-6-2,0,9]" Relation="elementID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[gr-6-2,20,28]" Relation="tagID10044" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[gr-7-1,17,21]" Relation="elementID10046" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[gr-7-1,101,112]" Relation="tagID10047" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[gr-9-2,9,13]" Relation="elementID10049" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[gr-9-2,27,33]" Relation="tagID10050" Value="+" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[gr-9-2,14,24]" Relation="tagID10050" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[gr-9-6,7,18]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[gr-9-6,19,25]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[gr-9-6,28,35]" Relation="elementID10056" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[gr-9-6,39,44]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[gr-9-8,0,10]" Relation="elementID10059" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[gr-9-8,11,20]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[gr-9-9,0,7]" Relation="elementID10062" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[gr-9-9,8,17]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[gr-9-10,0,4]" Relation="elementID10065" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[gr-9-10,5,14]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[gr-9-11,0,6]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[gr-9-11,10,14]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[gr-9-12,11,15]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[gr-9-12,16,18]" Relation="tagID10072" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[gr-9-12,35,40]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[gr-9-12,41,46]" Relation="tagID10075" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[gr-9-14,35,46]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[gr-9-14,92,94]" Relation="tagID10078" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[gr-10-3,38,42]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[gr-10-3,43,48]" Relation="tagID10081" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[gr-10-4,0,10]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[gr-10-4,11,19]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[gr-10-4,21,29]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[gr-10-4,30,34]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[gr-10-4,35,48]" Relation="elementID10089" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[gr-10-4,49,59]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[gr-10-5,12,17]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[gr-10-5,18,32]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[gr-10-6,0,4]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[gr-10-6,5,10]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[gr-10-6,15,28]" Relation="elementID10098" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[gr-10-6,37,40]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-10-6,111,115]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-10-6,106,110]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-10-7,0,11]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-10-7,16,22]" Relation="tagID100105" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[gr-10-8,47,55]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[gr-10-8,72,77]" Relation="tagID100108" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[gr-11-1,44,51]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[gr-11-1,63,68]" Relation="tagID100111" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100114" Coordinate="[gr-11-1,77,88]" Relation="elementID100113" Value="" />
+    <Tag Type="Opinion" ID="tagID100115" Coordinate="[gr-11-1,89,94]" Relation="tagID100114" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100117" Coordinate="[gr-11-1,7,11]" Relation="elementID100116" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[gr-11-1,168,180]" Relation="tagID100117" Value="+" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[gr-11-1,183,196]" Relation="tagID100117" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100121" Coordinate="[gr-11-1,305,309]" Relation="elementID100120" Value="" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[gr-11-1,310,316]" Relation="tagID100121" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[gr-11-1,317,322]" Relation="elementID100123" Value="" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[gr-11-1,345,349]" Relation="tagID100124" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100127" Coordinate="[gr-14-1,44,60]" Relation="elementID100126" Value="" />
+    <Tag Type="Opinion" ID="tagID100128" Coordinate="[gr-14-1,61,71]" Relation="tagID100127" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100130" Coordinate="[gr-14-1,39,43]" Relation="elementID100129" Value="" />
+    <Tag Type="Opinion" ID="tagID100131" Coordinate="[gr-14-1,131,138]" Relation="tagID100130" Value="" />
+    <Tag Type="Target(I)" ID="tagID100133" Coordinate="[gr-16-2,4,8]" Relation="elementID100132" Value="" />
+    <Tag Type="Opinion" ID="tagID100134" Coordinate="[gr-16-2,31,44]" Relation="tagID100133" Value="" />
+    <Tag Type="Target(I)" ID="tagID100139" Coordinate="[gr-18-1,31,39]" Relation="elementID100138" Value="" />
+    <Tag Type="Opinion" ID="tagID100140" Coordinate="[gr-18-1,40,43]" Relation="tagID100139" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100142" Coordinate="[gr-18-1,55,62]" Relation="elementID100141" Value="" />
+    <Tag Type="Opinion" ID="tagID100143" Coordinate="[gr-18-1,63,67]" Relation="tagID100142" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100145" Coordinate="[gr-18-1,81,89]" Relation="elementID100144" Value="" />
+    <Tag Type="Opinion" ID="tagID100146" Coordinate="[gr-18-1,90,94]" Relation="tagID100145" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100148" Coordinate="[gr-18-2,16,25]" Relation="elementID100147" Value="" />
+    <Tag Type="Opinion" ID="tagID100149" Coordinate="[gr-18-2,33,40]" Relation="tagID100148" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100151" Coordinate="[gr-18-3,40,45]" Relation="elementID100150" Value="" />
+    <Tag Type="Opinion" ID="tagID100152" Coordinate="[gr-18-3,46,56]" Relation="tagID100151" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100154" Coordinate="[gr-18-3,58,63]" Relation="elementID100153" Value="" />
+    <Tag Type="Opinion" ID="tagID100155" Coordinate="[gr-18-3,64,68]" Relation="tagID100154" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100157" Coordinate="[gr-18-5,0,4]" Relation="elementID100156" Value="" />
+    <Tag Type="Opinion" ID="tagID100158" Coordinate="[gr-18-5,5,7]" Relation="tagID100157" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100160" Coordinate="[gr-19-2,25,34]" Relation="elementID100159" Value="" />
+    <Tag Type="Opinion" ID="tagID100161" Coordinate="[gr-19-2,35,39]" Relation="tagID100160" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100163" Coordinate="[gr-20-2,49,54]" Relation="elementID100162" Value="" />
+    <Tag Type="Opinion" ID="tagID100164" Coordinate="[gr-20-2,70,77]" Relation="tagID100163" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100165" Coordinate="[gr-20-3,3,8]" Relation="elementID100162" Value="" />
+    <Tag Type="Opinion" ID="tagID100166" Coordinate="[gr-20-3,27,37]" Relation="tagID100165" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100168" Coordinate="[gr-20-3,379,391]" Relation="elementID100167" Value="" />
+    <Tag Type="Opinion" ID="tagID100169" Coordinate="[gr-20-3,392,401]" Relation="tagID100168" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100171" Coordinate="[gr-21-1,400,404]" Relation="elementID100170" Value="" />
+    <Tag Type="Opinion" ID="tagID100172" Coordinate="[gr-21-1,405,413]" Relation="tagID100171" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100174" Coordinate="[gr-21-3,71,76]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100175" Coordinate="[gr-21-3,77,80]" Relation="tagID100174" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100176" Coordinate="[gr-21-4,16,21]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100177" Coordinate="[gr-21-4,22,33]" Relation="tagID100176" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100178" Coordinate="[gr-21-5,68,74]" Relation="elementID100173" Value="" />
+    <Tag Type="Opinion" ID="tagID100179" Coordinate="[gr-21-5,75,80]" Relation="tagID100178" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100181" Coordinate="[gr-21-5,211,215]" Relation="elementID100180" Value="" />
+    <Tag Type="Opinion" ID="tagID100182" Coordinate="[gr-21-5,222,228]" Relation="tagID100181" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100184" Coordinate="[gr-22-1,0,4]" Relation="elementID100183" Value="" />
+    <Tag Type="Opinion" ID="tagID100185" Coordinate="[gr-22-1,5,10]" Relation="tagID100184" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100187" Coordinate="[gr-23-1,81,85]" Relation="elementID100186" Value="" />
+    <Tag Type="Opinion" ID="tagID100188" Coordinate="[gr-23-1,86,99]" Relation="tagID100187" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100190" Coordinate="[gr-24-3,8,13]" Relation="elementID100189" Value="" />
+    <Tag Type="Opinion" ID="tagID100191" Coordinate="[gr-24-3,14,19]" Relation="tagID100190" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100193" Coordinate="[gr-24-5,0,3]" Relation="elementID100192" Value="" />
+    <Tag Type="Opinion" ID="tagID100194" Coordinate="[gr-24-5,4,7]" Relation="tagID100193" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100196" Coordinate="[gr-24-6,0,13]" Relation="elementID100195" Value="" />
+    <Tag Type="Opinion" ID="tagID100197" Coordinate="[gr-24-6,14,17]" Relation="tagID100196" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100199" Coordinate="[gr-24-6,27,31]" Relation="elementID100198" Value="" />
+    <Tag Type="Opinion" ID="tagID100200" Coordinate="[gr-24-6,32,43]" Relation="tagID100199" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100202" Coordinate="[gr-26-1,7,11]" Relation="elementID100201" Value="" />
+    <Tag Type="Opinion" ID="tagID100203" Coordinate="[gr-26-1,33,38]" Relation="tagID100202" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100205" Coordinate="[gr-26-1,39,43]" Relation="elementID100204" Value="" />
+    <Tag Type="Opinion" ID="tagID100206" Coordinate="[gr-26-1,44,48]" Relation="tagID100205" Value="" />
+    <Tag Type="Opinion" ID="tagID100207" Coordinate="[gr-26-1,49,57]" Relation="tagID100205" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100209" Coordinate="[gr-26-1,59,67]" Relation="elementID100208" Value="" />
+    <Tag Type="Opinion" ID="tagID100210" Coordinate="[gr-26-1,68,71]" Relation="tagID100209" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100212" Coordinate="[gr-26-1,104,108]" Relation="elementID100211" Value="" />
+    <Tag Type="Opinion" ID="tagID100213" Coordinate="[gr-26-1,109,112]" Relation="tagID100212" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100215" Coordinate="[gr-26-1,123,131]" Relation="elementID100214" Value="" />
+    <Tag Type="Opinion" ID="tagID100216" Coordinate="[gr-26-1,132,137]" Relation="tagID100215" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100218" Coordinate="[gr-28-1,36,41]" Relation="elementID100217" Value="" />
+    <Tag Type="Opinion" ID="tagID100219" Coordinate="[gr-28-1,42,46]" Relation="tagID100218" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100221" Coordinate="[gr-29-1,12,16]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100222" Coordinate="[gr-29-1,82,87]" Relation="tagID100221" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100235" Coordinate="[gr-29-3,0,4]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100236" Coordinate="[gr-29-3,5,13]" Relation="tagID100235" Value="+" />
+    <Tag Type="Opinion" ID="tagID100237" Coordinate="[gr-29-3,16,24]" Relation="tagID100235" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100241" Coordinate="[gr-29-5,53,57]" Relation="elementID100220" Value="" />
+    <Tag Type="Opinion" ID="tagID100242" Coordinate="[gr-29-5,99,106]" Relation="tagID100241" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100227" Coordinate="[gr-29-1,111,116]" Relation="elementID100226" Value="" />
+    <Tag Type="Opinion" ID="tagID100228" Coordinate="[gr-29-1,117,132]" Relation="tagID100227" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100230" Coordinate="[gr-29-1,213,218]" Relation="elementID100229" Value="" />
+    <Tag Type="Opinion" ID="tagID100231" Coordinate="[gr-29-1,219,226]" Relation="tagID100230" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100233" Coordinate="[gr-29-2,5,10]" Relation="elementID100232" Value="" />
+    <Tag Type="Opinion" ID="tagID100234" Coordinate="[gr-29-2,11,20]" Relation="tagID100233" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100239" Coordinate="[gr-29-4,0,6]" Relation="elementID100238" Value="" />
+    <Tag Type="Opinion" ID="tagID100240" Coordinate="[gr-29-4,19,23]" Relation="tagID100239" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100244" Coordinate="[gr-30-2,0,10]" Relation="elementID100243" Value="" />
+    <Tag Type="Opinion" ID="tagID100245" Coordinate="[gr-30-2,11,16]" Relation="tagID100244" Value="" />
+    <Tag Type="Opinion" ID="tagID100246" Coordinate="[gr-30-2,23,26]" Relation="tagID100244" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100248" Coordinate="[gr-30-3,0,7]" Relation="elementID100247" Value="" />
+    <Tag Type="Opinion" ID="tagID100249" Coordinate="[gr-30-3,19,22]" Relation="tagID100248" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100251" Coordinate="[gr-30-4,0,4]" Relation="elementID100250" Value="" />
+    <Tag Type="Opinion" ID="tagID100252" Coordinate="[gr-30-4,5,8]" Relation="tagID100251" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100254" Coordinate="[gr-30-5,0,9]" Relation="elementID100253" Value="" />
+    <Tag Type="Opinion" ID="tagID100255" Coordinate="[gr-30-5,20,24]" Relation="tagID100254" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100257" Coordinate="[gr-30-5,12,15]" Relation="elementID100256" Value="" />
+    <Tag Type="Opinion" ID="tagID100258" Coordinate="[gr-30-5,20,24]" Relation="tagID100257" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100260" Coordinate="[gr-30-6,34,40]" Relation="elementID100259" Value="" />
+    <Tag Type="Opinion" ID="tagID100261" Coordinate="[gr-30-6,41,45]" Relation="tagID100260" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100263" Coordinate="[gr-30-7,41,49]" Relation="elementID100262" Value="" />
+    <Tag Type="Opinion" ID="tagID100264" Coordinate="[gr-30-7,56,59]" Relation="tagID100263" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100266" Coordinate="[gr-30-8,13,18]" Relation="elementID100265" Value="" />
+    <Tag Type="Opinion" ID="tagID100267" Coordinate="[gr-30-8,19,30]" Relation="tagID100266" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100269" Coordinate="[gr-30-10,30,35]" Relation="elementID100268" Value="" />
+    <Tag Type="Opinion" ID="tagID100270" Coordinate="[gr-30-10,36,43]" Relation="tagID100269" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100272" Coordinate="[gr-31-1,75,79]" Relation="elementID100271" Value="" />
+    <Tag Type="Opinion" ID="tagID100273" Coordinate="[gr-31-1,80,85]" Relation="tagID100272" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100275" Coordinate="[gr-31-2,30,39]" Relation="elementID100274" Value="" />
+    <Tag Type="Opinion" ID="tagID100276" Coordinate="[gr-31-2,40,44]" Relation="tagID100275" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100278" Coordinate="[gr-32-1,54,58]" Relation="elementID100277" Value="" />
+    <Tag Type="Opinion" ID="tagID100279" Coordinate="[gr-32-1,59,69]" Relation="tagID100278" Value="+" />
+    <Tag Type="Opinion" ID="tagID100280" Coordinate="[gr-32-1,72,81]" Relation="tagID100278" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100292" Coordinate="[gr-32-1,258,262]" Relation="elementID100277" Value="" />
+    <Tag Type="Opinion" ID="tagID100293" Coordinate="[gr-32-1,263,267]" Relation="tagID100292" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100282" Coordinate="[gr-32-1,84,92]" Relation="elementID100281" Value="" />
+    <Tag Type="Opinion" ID="tagID100283" Coordinate="[gr-32-1,98,108]" Relation="tagID100282" Value="+" />
+    <Tag Type="Opinion" ID="tagID100284" Coordinate="[gr-32-1,111,123]" Relation="tagID100282" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100286" Coordinate="[gr-32-1,126,129]" Relation="elementID100285" Value="" />
+    <Tag Type="Opinion" ID="tagID100287" Coordinate="[gr-32-1,130,139]" Relation="tagID100286" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100289" Coordinate="[gr-32-1,142,150]" Relation="elementID100288" Value="" />
+    <Tag Type="Opinion" ID="tagID100290" Coordinate="[gr-32-1,151,155]" Relation="tagID100289" Value="+" />
+    <Tag Type="Opinion" ID="tagID100291" Coordinate="[gr-32-1,158,162]" Relation="tagID100289" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100295" Coordinate="[gr-33-1,38,42]" Relation="elementID100294" Value="" />
+    <Tag Type="Opinion" ID="tagID100296" Coordinate="[gr-33-1,43,54]" Relation="tagID100295" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100298" Coordinate="[gr-34-2,36,40]" Relation="elementID100297" Value="" />
+    <Tag Type="Opinion" ID="tagID100299" Coordinate="[gr-34-2,41,44]" Relation="tagID100298" Value="+" />
+    <Tag Type="Opinion" ID="tagID100300" Coordinate="[gr-34-2,47,55]" Relation="tagID100298" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100313" Coordinate="[gr-34-6,5,9]" Relation="elementID100297" Value="" />
+    <Tag Type="Opinion" ID="tagID100314" Coordinate="[gr-34-6,10,15]" Relation="tagID100313" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100302" Coordinate="[gr-34-2,60,66]" Relation="elementID100301" Value="" />
+    <Tag Type="Opinion" ID="tagID100303" Coordinate="[gr-34-2,67,71]" Relation="tagID100302" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100305" Coordinate="[gr-34-3,0,6]" Relation="elementID100304" Value="" />
+    <Tag Type="Opinion" ID="tagID100306" Coordinate="[gr-34-3,7,10]" Relation="tagID100305" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100308" Coordinate="[gr-34-4,0,2]" Relation="elementID100307" Value="" />
+    <Tag Type="Opinion" ID="tagID100309" Coordinate="[gr-34-4,3,12]" Relation="tagID100308" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100311" Coordinate="[gr-34-5,0,10]" Relation="elementID100310" Value="" />
+    <Tag Type="Opinion" ID="tagID100312" Coordinate="[gr-34-5,11,19]" Relation="tagID100311" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100316" Coordinate="[gr-35-5,0,3]" Relation="elementID100315" Value="" />
+    <Tag Type="Opinion" ID="tagID100317" Coordinate="[gr-35-5,4,8]" Relation="tagID100316" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100319" Coordinate="[gr-35-7,2,6]" Relation="elementID100318" Value="" />
+    <Tag Type="Opinion" ID="tagID100320" Coordinate="[gr-35-7,7,11]" Relation="tagID100319" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100322" Coordinate="[gr-35-8,0,2]" Relation="elementID100321" Value="" />
+    <Tag Type="Opinion" ID="tagID100323" Coordinate="[gr-35-8,3,6]" Relation="tagID100322" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100325" Coordinate="[gr-35-9,0,6]" Relation="elementID100324" Value="" />
+    <Tag Type="Opinion" ID="tagID100326" Coordinate="[gr-35-9,7,10]" Relation="tagID100325" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100328" Coordinate="[gr-35-9,14,17]" Relation="elementID100327" Value="" />
+    <Tag Type="Opinion" ID="tagID100329" Coordinate="[gr-35-9,18,25]" Relation="tagID100328" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100331" Coordinate="[gr-35-10,0,4]" Relation="elementID100330" Value="" />
+    <Tag Type="Opinion" ID="tagID100332" Coordinate="[gr-35-10,5,9]" Relation="tagID100331" Value="" />
+    <Tag Type="Target(I)" ID="tagID100334" Coordinate="[gr-36-1,14,19]" Relation="elementID100333" Value="" />
+    <Tag Type="Opinion" ID="tagID100335" Coordinate="[gr-36-1,20,25]" Relation="tagID100334" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100337" Coordinate="[gr-38-1,0,4]" Relation="elementID100336" Value="" />
+    <Tag Type="Opinion" ID="tagID100338" Coordinate="[gr-38-1,5,14]" Relation="tagID100337" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100360" Coordinate="[gr-38-4,4,12]" Relation="elementID100336" Value="" />
+    <Tag Type="Opinion" ID="tagID100361" Coordinate="[gr-38-4,24,34]" Relation="tagID100360" Value="+" />
+    <Tag Type="Opinion" ID="tagID100362" Coordinate="[gr-38-4,37,45]" Relation="tagID100360" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100340" Coordinate="[gr-38-2,3,5]" Relation="elementID100339" Value="" />
+    <Tag Type="Opinion" ID="tagID100341" Coordinate="[gr-38-2,6,9]" Relation="tagID100340" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100343" Coordinate="[gr-38-2,18,22]" Relation="elementID100342" Value="" />
+    <Tag Type="Opinion" ID="tagID100344" Coordinate="[gr-38-2,12,17]" Relation="tagID100343" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100346" Coordinate="[gr-38-4,46,56]" Relation="elementID100345" Value="" />
+    <Tag Type="Opinion" ID="tagID100347" Coordinate="[gr-38-4,57,61]" Relation="tagID100346" Value="" />
+    <Tag Type="Target(I)" ID="tagID100349" Coordinate="[gr-38-4,64,71]" Relation="elementID100348" Value="" />
+    <Tag Type="Opinion" ID="tagID100350" Coordinate="[gr-38-4,72,75]" Relation="tagID100349" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100352" Coordinate="[gr-38-4,78,83]" Relation="elementID100351" Value="" />
+    <Tag Type="Opinion" ID="tagID100353" Coordinate="[gr-38-4,84,87]" Relation="tagID100352" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100355" Coordinate="[gr-38-4,90,95]" Relation="elementID100354" Value="" />
+    <Tag Type="Opinion" ID="tagID100356" Coordinate="[gr-38-4,96,100]" Relation="tagID100355" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100358" Coordinate="[gr-38-4,103,107]" Relation="elementID100357" Value="" />
+    <Tag Type="Opinion" ID="tagID100359" Coordinate="[gr-38-4,108,113]" Relation="tagID100358" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100364" Coordinate="[gr-39-1,36,41]" Relation="elementID100363" Value="" />
+    <Tag Type="Opinion" ID="tagID100365" Coordinate="[gr-39-1,42,48]" Relation="tagID100364" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100367" Coordinate="[gr-39-1,88,92]" Relation="elementID100366" Value="" />
+    <Tag Type="Opinion" ID="tagID100368" Coordinate="[gr-39-1,93,98]" Relation="tagID100367" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100370" Coordinate="[gr-40-1,31,35]" Relation="elementID100369" Value="" />
+    <Tag Type="Opinion" ID="tagID100371" Coordinate="[gr-40-1,36,40]" Relation="tagID100370" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100373" Coordinate="[cr-1-1,0,7]" Relation="elementID100372" Value="" />
+    <Tag Type="Opinion" ID="tagID100374" Coordinate="[cr-1-1,8,13]" Relation="tagID100373" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100376" Coordinate="[cr-1-2,0,6]" Relation="elementID100375" Value="" />
+    <Tag Type="Opinion" ID="tagID100377" Coordinate="[cr-1-2,10,15]" Relation="tagID100376" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100379" Coordinate="[cr-1-5,29,40]" Relation="elementID100378" Value="" />
+    <Tag Type="Opinion" ID="tagID100380" Coordinate="[cr-1-5,54,59]" Relation="tagID100379" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100381" Coordinate="[cr-1-6,15,18]" Relation="elementID100378" Value="" />
+    <Tag Type="Opinion" ID="tagID100382" Coordinate="[cr-1-6,19,22]" Relation="tagID100381" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100384" Coordinate="[cr-1-7,9,13]" Relation="elementID100383" Value="" />
+    <Tag Type="Opinion" ID="tagID100385" Coordinate="[cr-1-7,14,18]" Relation="tagID100384" Value="+" />
+    <Tag Type="Opinion" ID="tagID100386" Coordinate="[cr-1-7,21,29]" Relation="tagID100384" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100388" Coordinate="[cr-1-7,32,35]" Relation="elementID100387" Value="" />
+    <Tag Type="Opinion" ID="tagID100389" Coordinate="[cr-1-7,36,39]" Relation="tagID100388" Value="+" />
+    <Tag Type="Opinion" ID="tagID100390" Coordinate="[cr-1-7,42,46]" Relation="tagID100388" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100392" Coordinate="[cr-1-7,89,94]" Relation="elementID100391" Value="" />
+    <Tag Type="Opinion" ID="tagID100393" Coordinate="[cr-1-7,95,98]" Relation="tagID100392" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100395" Coordinate="[cr-1-7,112,117]" Relation="elementID100394" Value="" />
+    <Tag Type="Opinion" ID="tagID100396" Coordinate="[cr-1-7,118,122]" Relation="tagID100395" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100398" Coordinate="[cr-1-7,156,160]" Relation="elementID100397" Value="" />
+    <Tag Type="Opinion" ID="tagID100399" Coordinate="[cr-1-7,161,172]" Relation="tagID100398" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100401" Coordinate="[cr-1-7,175,183]" Relation="elementID100400" Value="" />
+    <Tag Type="Opinion" ID="tagID100402" Coordinate="[cr-1-7,184,187]" Relation="tagID100401" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100404" Coordinate="[cr-1-8,0,5]" Relation="elementID100403" Value="" />
+    <Tag Type="Opinion" ID="tagID100405" Coordinate="[cr-1-8,6,11]" Relation="tagID100404" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[gr-1-1,39,44]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,55,60]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-1-1,61,65]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-1-1,114,118]" Value="-" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-1-1,131,136]" Value="-" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-1-1,162,167]" Value="-" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-1-1,242,248]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-2-2,6,10]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-2-2,16,24]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-2-3,23,27]" Value="-" />
+    <Keyword ID="keywordID10010" Coordinate="[gr-2-3,28,32]" Value="-" />
+    <Keyword ID="keywordID10011" Coordinate="[gr-2-3,43,47]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[gr-2-3,59,65]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[gr-3-1,47,52]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[gr-3-1,59,62]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[gr-3-1,120,130]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[gr-3-1,131,135]" Value="-" />
+    <Keyword ID="keywordID10017" Coordinate="[gr-3-1,151,155]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[gr-3-1,156,160]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[gr-3-1,100,104]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[gr-3-1,105,110]" Value="-" />
+    <Keyword ID="keywordID10021" Coordinate="[gr-3-1,140,144]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[gr-4-3,33,43]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[gr-4-3,56,62]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-5-1,5,10]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-5-4,38,46]" Value="-" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-6-1,61,67]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-6-1,86,89]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[gr-6-1,112,115]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-6-1,179,183]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[gr-6-1,199,203]" Value="-" />
+    <Keyword ID="keywordID10031" Coordinate="[gr-6-2,20,28]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[gr-6-2,127,134]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-6-2,322,329]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[gr-7-1,101,112]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[gr-9-2,27,33]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-9-2,14,24]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-9-6,19,25]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-9-6,39,44]" Value="+" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-9-7,0,13]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-9-8,11,20]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-9-9,8,17]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-9-10,5,14]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-9-11,10,14]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[gr-9-12,16,18]" Value="-" />
+    <Keyword ID="keywordID10045" Coordinate="[gr-9-12,41,46]" Value="-" />
+    <Keyword ID="keywordID10046" Coordinate="[gr-9-12,3,9]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[gr-9-14,92,94]" Value="-" />
+    <Keyword ID="keywordID10048" Coordinate="[gr-10-3,43,48]" Value="-" />
+    <Keyword ID="keywordID10049" Coordinate="[gr-10-4,11,19]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[gr-10-4,30,34]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[gr-10-4,49,59]" Value="+" />
+    <Keyword ID="keywordID10052" Coordinate="[gr-10-5,18,32]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[gr-10-6,5,10]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-10-6,37,40]" Value="+" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-10-6,106,110]" Value="+" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-10-6,175,192]" Value="-" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-10-7,16,22]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[gr-10-8,72,77]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-11-1,63,68]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-11-1,89,94]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-11-1,168,180]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-11-1,183,196]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-11-1,205,210]" Value="-" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-11-1,294,296]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-11-1,310,316]" Value="-" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-11-1,345,349]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-12-1,0,7]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-12-1,10,14]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-12-1,122,126]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-13-1,52,63]" Value="-" />
+    <Keyword ID="keywordID10071" Coordinate="[gr-14-1,61,71]" Value="-" />
+    <Keyword ID="keywordID10072" Coordinate="[gr-15-1,43,47]" Value="-" />
+    <Keyword ID="keywordID10073" Coordinate="[gr-15-1,48,51]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[gr-15-1,104,106]" Value="-" />
+    <Keyword ID="keywordID10075" Coordinate="[gr-15-2,17,20]" Value="+" />
+    <Keyword ID="keywordID10076" Coordinate="[gr-15-2,21,25]" Value="-" />
+    <Keyword ID="keywordID10077" Coordinate="[gr-16-2,31,44]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[gr-17-2,85,89]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[gr-17-2,176,182]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[gr-17-2,183,186]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[gr-18-1,40,43]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[gr-18-1,63,67]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[gr-18-1,90,94]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[gr-18-2,2,6]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[gr-18-2,33,40]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[gr-18-2,7,11]" Value="-" />
+    <Keyword ID="keywordID10087" Coordinate="[gr-18-2,12,15]" Value="-" />
+    <Keyword ID="keywordID10088" Coordinate="[gr-18-3,46,56]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[gr-18-3,64,68]" Value="+" />
+    <Keyword ID="keywordID10090" Coordinate="[gr-18-5,5,7]" Value="-" />
+    <Keyword ID="keywordID10091" Coordinate="[gr-18-6,18,23]" Value="-" />
+    <Keyword ID="keywordID10092" Coordinate="[gr-18-6,24,29]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[gr-18-9,12,18]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[gr-18-9,19,24]" Value="-" />
+    <Keyword ID="keywordID10097" Coordinate="[gr-20-2,127,131]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[gr-20-2,70,77]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[gr-20-2,132,136]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[gr-20-3,27,37]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[gr-20-3,70,73]" Value="-" />
+    <Keyword ID="keywordID100101" Coordinate="[gr-20-3,74,81]" Value="-" />
+    <Keyword ID="keywordID100102" Coordinate="[gr-20-3,285,294]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[gr-20-3,392,401]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[gr-20-3,434,442]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[gr-20-3,520,524]" Value="+" />
+    <Keyword ID="keywordID100106" Coordinate="[gr-20-3,471,476]" Value="-" />
+    <Keyword ID="keywordID100107" Coordinate="[gr-21-1,70,74]" Value="+" />
+    <Keyword ID="keywordID100108" Coordinate="[gr-21-1,405,413]" Value="-" />
+    <Keyword ID="keywordID100109" Coordinate="[gr-21-2,36,41]" Value="-" />
+    <Keyword ID="keywordID100110" Coordinate="[gr-21-2,169,173]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[gr-21-2,219,223]" Value="-" />
+    <Keyword ID="keywordID100112" Coordinate="[gr-21-2,88,90]" Value="-" />
+    <Keyword ID="keywordID100113" Coordinate="[gr-21-2,72,75]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[gr-21-3,77,80]" Value="-" />
+    <Keyword ID="keywordID100115" Coordinate="[gr-21-3,41,49]" Value="-" />
+    <Keyword ID="keywordID100116" Coordinate="[gr-21-4,22,33]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[gr-21-4,53,56]" Value="+" />
+    <Keyword ID="keywordID100118" Coordinate="[gr-21-4,57,61]" Value="-" />
+    <Keyword ID="keywordID100119" Coordinate="[gr-21-5,75,80]" Value="+" />
+    <Keyword ID="keywordID100120" Coordinate="[gr-21-5,13,17]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[gr-21-5,58,67]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[gr-21-5,222,228]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[gr-21-6,35,39]" Value="-" />
+    <Keyword ID="keywordID100124" Coordinate="[gr-21-7,25,28]" Value="+" />
+    <Keyword ID="keywordID100125" Coordinate="[gr-21-7,29,33]" Value="-" />
+    <Keyword ID="keywordID100126" Coordinate="[gr-21-8,241,244]" Value="-" />
+    <Keyword ID="keywordID100127" Coordinate="[gr-21-8,266,270]" Value="-" />
+    <Keyword ID="keywordID100128" Coordinate="[gr-22-1,5,10]" Value="+" />
+    <Keyword ID="keywordID100129" Coordinate="[gr-22-1,30,37]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[gr-22-1,38,42]" Value="-" />
+    <Keyword ID="keywordID100131" Coordinate="[gr-22-1,11,14]" Value="-" />
+    <Keyword ID="keywordID100132" Coordinate="[gr-23-1,31,37]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[gr-23-1,86,99]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[gr-23-1,228,233]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[gr-23-1,236,243]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[gr-24-2,0,10]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[gr-24-3,0,5]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[gr-24-3,14,19]" Value="+" />
+    <Keyword ID="keywordID100139" Coordinate="[gr-24-4,23,26]" Value="+" />
+    <Keyword ID="keywordID100140" Coordinate="[gr-24-4,27,30]" Value="+" />
+    <Keyword ID="keywordID100141" Coordinate="[gr-24-5,4,7]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[gr-24-6,14,17]" Value="-" />
+    <Keyword ID="keywordID100143" Coordinate="[gr-24-6,32,43]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[gr-24-7,18,22]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[gr-24-7,23,28]" Value="-" />
+    <Keyword ID="keywordID100146" Coordinate="[gr-24-7,109,113]" Value="-" />
+    <Keyword ID="keywordID100147" Coordinate="[gr-24-8,26,39]" Value="" />
+    <Keyword ID="keywordID100148" Coordinate="[gr-26-1,33,38]" Value="+" />
+    <Keyword ID="keywordID100149" Coordinate="[gr-26-1,49,57]" Value="+" />
+    <Keyword ID="keywordID100150" Coordinate="[gr-26-1,68,71]" Value="+" />
+    <Keyword ID="keywordID100151" Coordinate="[gr-26-1,78,81]" Value="-" />
+    <Keyword ID="keywordID100152" Coordinate="[gr-26-1,73,77]" Value="-" />
+    <Keyword ID="keywordID100153" Coordinate="[gr-26-1,88,99]" Value="+" />
+    <Keyword ID="keywordID100154" Coordinate="[gr-26-1,109,112]" Value="-" />
+    <Keyword ID="keywordID100155" Coordinate="[gr-26-1,132,137]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[gr-28-1,42,46]" Value="+" />
+    <Keyword ID="keywordID100157" Coordinate="[gr-28-1,89,96]" Value="+" />
+    <Keyword ID="keywordID100158" Coordinate="[gr-28-1,78,88]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[gr-29-1,82,87]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[gr-29-1,108,116]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[gr-29-1,117,132]" Value="+" />
+    <Keyword ID="keywordID100162" Coordinate="[gr-29-1,219,226]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[gr-29-2,11,20]" Value="+" />
+    <Keyword ID="keywordID100164" Coordinate="[gr-29-2,21,25]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[gr-29-2,38,47]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[gr-29-2,50,55]" Value="+" />
+    <Keyword ID="keywordID100167" Coordinate="[gr-29-3,5,13]" Value="+" />
+    <Keyword ID="keywordID100168" Coordinate="[gr-29-3,16,24]" Value="+" />
+    <Keyword ID="keywordID100169" Coordinate="[gr-29-3,49,52]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[gr-29-4,19,23]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[gr-29-4,41,48]" Value="+" />
+    <Keyword ID="keywordID100172" Coordinate="[gr-29-4,49,53]" Value="-" />
+    <Keyword ID="keywordID100173" Coordinate="[gr-29-5,19,26]" Value="+" />
+    <Keyword ID="keywordID100174" Coordinate="[gr-29-5,99,106]" Value="+" />
+    <Keyword ID="keywordID100175" Coordinate="[gr-30-2,23,26]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[gr-30-3,19,22]" Value="+" />
+    <Keyword ID="keywordID100177" Coordinate="[gr-30-3,45,50]" Value="+" />
+    <Keyword ID="keywordID100178" Coordinate="[gr-30-3,51,55]" Value="-" />
+    <Keyword ID="keywordID100179" Coordinate="[gr-30-4,5,8]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[gr-30-4,21,25]" Value="-" />
+    <Keyword ID="keywordID100181" Coordinate="[gr-30-4,26,31]" Value="-" />
+    <Keyword ID="keywordID100182" Coordinate="[gr-30-5,20,24]" Value="+" />
+    <Keyword ID="keywordID100183" Coordinate="[gr-30-6,41,45]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[gr-30-6,24,29]" Value="-" />
+    <Keyword ID="keywordID100185" Coordinate="[gr-30-7,33,38]" Value="-" />
+    <Keyword ID="keywordID100186" Coordinate="[gr-30-7,56,59]" Value="-" />
+    <Keyword ID="keywordID100187" Coordinate="[gr-30-8,19,30]" Value="+" />
+    <Keyword ID="keywordID100188" Coordinate="[gr-30-9,13,18]" Value="-" />
+    <Keyword ID="keywordID100189" Coordinate="[gr-30-9,19,24]" Value="-" />
+    <Keyword ID="keywordID100190" Coordinate="[gr-30-10,36,43]" Value="+" />
+    <Keyword ID="keywordID100191" Coordinate="[gr-31-1,80,85]" Value="+" />
+    <Keyword ID="keywordID100192" Coordinate="[gr-31-2,5,11]" Value="-" />
+    <Keyword ID="keywordID100193" Coordinate="[gr-31-2,40,44]" Value="-" />
+    <Keyword ID="keywordID100194" Coordinate="[gr-31-2,61,78]" Value="-" />
+    <Keyword ID="keywordID100195" Coordinate="[gr-32-1,59,69]" Value="+" />
+    <Keyword ID="keywordID100196" Coordinate="[gr-32-1,72,81]" Value="+" />
+    <Keyword ID="keywordID100197" Coordinate="[gr-32-1,98,108]" Value="+" />
+    <Keyword ID="keywordID100198" Coordinate="[gr-32-1,111,123]" Value="+" />
+    <Keyword ID="keywordID100199" Coordinate="[gr-32-1,130,139]" Value="+" />
+    <Keyword ID="keywordID100200" Coordinate="[gr-32-1,151,155]" Value="+" />
+    <Keyword ID="keywordID100201" Coordinate="[gr-32-1,158,162]" Value="+" />
+    <Keyword ID="keywordID100202" Coordinate="[gr-32-1,263,267]" Value="+" />
+    <Keyword ID="keywordID100203" Coordinate="[gr-33-1,43,54]" Value="+" />
+    <Keyword ID="keywordID100204" Coordinate="[gr-34-2,41,44]" Value="+" />
+    <Keyword ID="keywordID100205" Coordinate="[gr-34-2,47,55]" Value="+" />
+    <Keyword ID="keywordID100206" Coordinate="[gr-34-2,67,71]" Value="+" />
+    <Keyword ID="keywordID100207" Coordinate="[gr-34-3,7,10]" Value="+" />
+    <Keyword ID="keywordID100208" Coordinate="[gr-34-4,3,12]" Value="+" />
+    <Keyword ID="keywordID100209" Coordinate="[gr-34-5,11,19]" Value="+" />
+    <Keyword ID="keywordID100210" Coordinate="[gr-34-5,28,35]" Value="+" />
+    <Keyword ID="keywordID100211" Coordinate="[gr-34-6,10,15]" Value="+" />
+    <Keyword ID="keywordID100212" Coordinate="[gr-35-5,4,8]" Value="+" />
+    <Keyword ID="keywordID100213" Coordinate="[gr-35-7,7,11]" Value="+" />
+    <Keyword ID="keywordID100214" Coordinate="[gr-35-8,3,6]" Value="+" />
+    <Keyword ID="keywordID100215" Coordinate="[gr-35-9,7,10]" Value="+" />
+    <Keyword ID="keywordID100216" Coordinate="[gr-35-9,18,25]" Value="+" />
+    <Keyword ID="keywordID100217" Coordinate="[gr-36-1,20,25]" Value="+" />
+    <Keyword ID="keywordID100218" Coordinate="[gr-37-3,0,12]" Value="+" />
+    <Keyword ID="keywordID100219" Coordinate="[gr-37-4,39,45]" Value="+" />
+    <Keyword ID="keywordID100220" Coordinate="[gr-37-4,46,50]" Value="+" />
+    <Keyword ID="keywordID100221" Coordinate="[gr-38-1,5,14]" Value="+" />
+    <Keyword ID="keywordID100222" Coordinate="[gr-38-2,6,9]" Value="+" />
+    <Keyword ID="keywordID100223" Coordinate="[gr-38-2,12,17]" Value="+" />
+    <Keyword ID="keywordID100224" Coordinate="[gr-38-4,72,75]" Value="+" />
+    <Keyword ID="keywordID100225" Coordinate="[gr-38-4,84,87]" Value="+" />
+    <Keyword ID="keywordID100226" Coordinate="[gr-38-4,96,100]" Value="+" />
+    <Keyword ID="keywordID100227" Coordinate="[gr-38-4,108,113]" Value="+" />
+    <Keyword ID="keywordID100228" Coordinate="[gr-38-4,24,34]" Value="+" />
+    <Keyword ID="keywordID100229" Coordinate="[gr-38-4,37,45]" Value="+" />
+    <Keyword ID="keywordID100230" Coordinate="[gr-39-1,42,48]" Value="+" />
+    <Keyword ID="keywordID100231" Coordinate="[gr-39-1,93,98]" Value="+" />
+    <Keyword ID="keywordID100232" Coordinate="[gr-40-1,36,40]" Value="+" />
+    <Keyword ID="keywordID100233" Coordinate="[cr-1-1,8,13]" Value="+" />
+    <Keyword ID="keywordID100234" Coordinate="[cr-1-2,10,15]" Value="+" />
+    <Keyword ID="keywordID100235" Coordinate="[cr-1-4,12,16]" Value="-" />
+    <Keyword ID="keywordID100236" Coordinate="[cr-1-4,17,22]" Value="+" />
+    <Keyword ID="keywordID100237" Coordinate="[cr-1-5,7,15]" Value="-" />
+    <Keyword ID="keywordID100238" Coordinate="[cr-1-5,54,59]" Value="-" />
+    <Keyword ID="keywordID100239" Coordinate="[cr-1-6,19,22]" Value="-" />
+    <Keyword ID="keywordID100240" Coordinate="[cr-1-7,14,18]" Value="+" />
+    <Keyword ID="keywordID100241" Coordinate="[cr-1-7,21,29]" Value="+" />
+    <Keyword ID="keywordID100242" Coordinate="[cr-1-7,36,39]" Value="+" />
+    <Keyword ID="keywordID100243" Coordinate="[cr-1-7,42,46]" Value="+" />
+    <Keyword ID="keywordID100244" Coordinate="[cr-1-7,95,98]" Value="+" />
+    <Keyword ID="keywordID100245" Coordinate="[cr-1-7,105,109]" Value="+" />
+    <Keyword ID="keywordID100246" Coordinate="[cr-1-7,118,122]" Value="+" />
+    <Keyword ID="keywordID100247" Coordinate="[cr-1-7,161,172]" Value="+" />
+    <Keyword ID="keywordID100248" Coordinate="[cr-1-7,184,187]" Value="+" />
+    <Keyword ID="keywordID100249" Coordinate="[cr-1-8,6,11]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="250" />
+    <Tag_Index Value="406" />
+  </Index>
+</Product>

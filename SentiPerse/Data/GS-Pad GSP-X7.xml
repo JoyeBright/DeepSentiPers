@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="GS-Pad GSP-X7" Type="Tablet">
+  <Features>
+    <Feature Name="ابعاد ">190.5 × 115 × 10.5 mm</Feature>
+    <Feature Name="وزن ">330 گرم</Feature>
+    <Feature Name="رنگ ">سفید</Feature>
+    <Feature Name="سازنده پردازنده ">ARM</Feature>
+    <Feature Name="مدل پردازنده ">All Winner A13</Feature>
+    <Feature Name="سرعت پردازنده ">1.0GHz</Feature>
+    <Feature Name="حافظه رم ">512 MB</Feature>
+    <Feature Name="نوع حافظه رم ">DDR3</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">8 GB</Feature>
+    <Feature Name="مدل پردازنده گرافیک ">Cortex A8</Feature>
+    <Feature Name="حافظه گرافیکی ">1.0GHz MB</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">7 اینچ</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">صفحه نمایش لمسی خازنی از نوع TFT</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">480 × 800 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">قابلیت دریافت 5 لمس به صورت همزمان</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">خیر</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">خیر</Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">802.11</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="Edge ">خیر</Feature>
+    <Feature Name="بلوتوث ">خیر</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="DLNA ">خیر</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">کارت حافظه‌ی MicroSD با قابلیت افزایش تا 32 گیگابایت</Feature>
+    <Feature Name="دوربین ">خیر</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">دوربین جلویی با کیفیت VGA</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکر داخلی</Feature>
+    <Feature Name="پخش موسیقی ">MP3, WMA, WAV, Flac, 3GP</Feature>
+    <Feature Name="پخش فیلم ">AVI, MOV, MPEG, VOB, RM/RMVB, FLV, DAT, MKV, Supports H.264code, PMP</Feature>
+    <Feature Name="پورت USB ">خیر</Feature>
+    <Feature Name="نسخه USB ">به وسیله رابط OTG</Feature>
+    <Feature Name="پورت microUSB ">خیر</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">v4.0.4 Ice Cream Sandwich</Feature>
+    <Feature Name="باتری ">باتری لیتیوم یونی 3,000 میلی‌آمپر ساعتی قابل شارژ</Feature>
+    <Feature Name="کارکرد باتری ">7 الی 8 ساعت ساعت</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">SkypeViberFile ManagerQuick Office Proمرورگر Choromeمرورگر FireFoxOpera miniGtalkYahoo MassengerInetBooksبازار (AI)جستجوی صوتیسرویس  TalkBackYouTubeTwitterGmailMapsتقویمماشین حسابساعتناوبریموسیقیLatitudeایمیلAppinstallerTranslateHi-Q MP3 Recorderویکی پدیاFlash PlayeraTorentAcrobat ReaderDocument to GoPersian DicSmart KeyBoard Pro(بازیAngery Birds Seasons  (AI(بازیAngery Birds Space Premium  (AI(بازیAngery Birds Happy 2nd Birthday  (AI(بازی Air-Control  (AI(بازیRio Angery Birds (AI</Feature>
+    <Feature Name="امکانات دیگر ">قابلیت نصب سیم کارت با استفاده از دانگلزبان پیش‌فرض : فارسیقابلیت پشتیبانی از فرمت‌های عکسی مانند JPG, BMP, GIF, PNGقابلیت پشتیبانی از فرمت‌های کتاب الکترونیکی مانند PDF, TXT, EPUB</Feature>
+    <Feature Name="اقلام همراه تبلت ">شارژر 2,000 میلی آمپرییک عدد فلش مموری 8 گیگابایتکابل رابط USBکابل رابط OTGهدفون استریودفترچه راهنما</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="0">
+    <Sentence ID="rev-1" Value="0">نمایشگر کیفیت تصویر در صفحه نمایش به دو مشخصه رزولوشن و کنتراست بستگی دارد.</Sentence>
+    <Sentence ID="rev-2" Value="0">هرچه رزولوشن بالاتر باشد تعداد پیکسل‌های مورد استفاده در صفحه نمایشگر تبلت بیشتر بوده و در نتیجه تصویر واضح‌تر دیده می‌شود.</Sentence>
+    <Sentence ID="rev-3" Value="0">به عبارت دیگر در نمایشگرهای با رزولوشن کم تصاویر به صورت شطرنجی دیده می‌شوند.</Sentence>
+    <Sentence ID="rev-4" Value="0">کنتراست تصویر بیانگر تفاوت تاریک‌ترین و روشن‌ترین رنگ‌ها می‌باشد.</Sentence>
+    <Sentence ID="rev-5" Value="0">هرچه کنتراست بیشتر باشد رنگ مشکی تاریک‌تر و رنگ سفید روشن‌تری خواهیم داشت،  بنابراین تصویر با کیفیت بالا نمایش داده خواهد شد.</Sentence>
+    <Sentence ID="rev-6" Value="+1">تبلت GS-Pad مدل GSP-X7 با صفحه نمایش 7 اینچ و رزولوشن 480 × 800 پیکسل،  دارای تصویری شفاف و واقعی می‌باشد.</Sentence>
+    <Sentence ID="rev-7" Value="0">به دلیل استفاده از پردازنده گرافیکی Cortex A8 با کنتراست بالا در تبلت GSP-X7 تصویر در مقایسه با تبلت‌هایی با رزولوشن مشابه وضوح بیشتری دارد.</Sentence>
+    <Sentence ID="rev-8" Value="0">هماهنگ بودن مشخصات ذکر شده یکی از عوامل مهم به شمار می‌آید.</Sentence>
+    <Sentence ID="rev-9" Value="0">سیستم عامل سیستم عامل تبلت GSP-X7 اندروید است.</Sentence>
+    <Sentence ID="rev-10" Value="0">سیستم عامل اندروید با بیش از 700 هزار اپلیکیشن یکی از سیستم عامل‌های پر طرفدار می‌باشد.</Sentence>
+    <Sentence ID="rev-11" Value="+1">تبلت GSP-X7 با بهره‌گیری از سیستم عامل اندروید ورژن ICS 4.0.4 محیط کاربری آسان با زبان فارسی را در اختیار کاربر قرار می‌دهد.</Sentence>
+    <Sentence ID="rev-12" Value="0">تبلت مذکور از تمام فرمت‌های کتاب الکترونیکی پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-13" Value="+1">ابعاد و وزن تبلت GSP-X7 با ابعاد 190.5 × 115 × 10.5 میلی‌متر و وزن 330 گرم تبلت ایده‌آل و مناسب برای کاربران است.</Sentence>
+    <Sentence ID="rev-14" Value="+1">این تبلت به علت ابعاد و حجم کم و راحتی در حمل برای استفاده دانش‌آموزان و کاربرانی که به طور مداوم با تبلت کار می‌کنند،  توصیه می‌شود.</Sentence>
+    <Sentence ID="rev-15" Value="0">اتصالات خروجی ،  ورودی میکروفون،  پورت قابلیت اتصال صفحه کلید و ماوس USB-OTG و Mini USB و ورودی کارت حافظه Micro SDقابلیت اتصال به دستگاه تلفن همراه،  کامپیوتر،  هارد و..</Sentence>
+    <Sentence ID="rev-16" Value="+1">امکانات زیادی را در اختیار کاربر قرار می‌دهد.</Sentence>
+    <Sentence ID="rev-17" Value="+1">از جمله امکانات پرکاربرد می‌توان به موارد ذیل اشاره نمود :قابلیت پشتیبانی 3G و درنتیجه استفاده از اینترنت همراه،  مکالمه تلفنی،  GPS و GPRS حافظه حافظه داخلی 512 کیلوبایت و رم 8 گیگابایت با قابلیت ارتقا تا 32 گیگابایت،  فضای کاربردی بالایی را در اختیار کاربران تبلت GSP-X7 قرار می‌دهد.</Sentence>
+    <Sentence ID="rev-18" Value="0">باتری طول عمر باتری در شرایط مختلف متفاوت است.</Sentence>
+    <Sentence ID="rev-19" Value="0">بیشترین مصرف باتری در وب‌گردی،  پخش ویدیو و بازی‌های ویدیویی می‌باشد.</Sentence>
+    <Sentence ID="rev-20" Value="0">باتری موجود در این تبلت 3000 میلی‌آمپری بوده و قابلیت شارژدهی 7 الی 8 ساعت را دارد که متناسب با ساعت حضور دانش‌آموزان در کلاس درس می‌باشد.</Sentence>
+    <Sentence ID="rev-21" Value="+1">حسگر	تبلت GSP-X7 دارای تکنولوژی حسگر جاذبه (Gravity) می‌باشد که با قابلیت چرخش در چهار جهت هنگام چرخش دستگاه،  جذابیت بالایی هنگام کار با تبلت را ایجاد می‌کند.</Sentence>
+    <Sentence ID="rev-22" Value="0">دوربین جلو،  مودم WiFi،  اسپیکر،  میکروفون داخلی،  قابلیت تشخیص 5 نقطه لمس همزمان و اپلیکیشن‌های جذاب و کاربردی تبلت GSP-X7 را یکی از محبوب‌ترین تبلت‌های 7 اینچی موجود در بازار ساخته است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>کیفیت ساخت خوب</Advantage>
+    <Advantage>پشتیبانی از کارت حافظه جانبی تا 32 گیگابایت</Advantage>
+    <Advantage>صفحه نمایش 7 اینچی لمسی خازنی با عملکرد عالی</Advantage>
+    <Advantage>سیستم عامل اندروید 4 (نسخه‌ی بستنی یخی)</Advantage>
+    <Advantage>امکان اتصال مودم  3G</Advantage>
+    <Advantage>پشتیبانی از کارت حافظه‌ی microSD</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="فريد بهرامي " Value="0">
+      <Sentence ID="gr-1-1" Value="0">اين تبلت قابليت GPRS داره.</Sentence>
+      <Sentence ID="gr-1-2" Value="0">ميتوني گوشيتو که مودم داخلي داشته باشه رو بهش وصل کني و بعد با استفاده از اون به GPRS دست رسي داشته باشي.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="محمد عبدلي " Value="-1">
+      <Sentence ID="gr-2-1" Value="-1">GPRS نداره.</Sentence>
+      <Sentence ID="gr-2-2" Value="-1">اين آيتم يعني جي پي آر اس در شرايطي وجود داره که تبلت سيمکارت بخوره و تبلت GSPAD X7 قابليت نصب سيم کارت رو نداره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="احسان رمضاني " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">من تبلت 8 رو خريدم و 7 اينچ را هم دوستم براي پسرش خريده
+با توجه به قيمت و امکاناتش از تبلت راضيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="مرتضي معدني " Value="0">
+      <Sentence ID="gr-4-1" Value="0">اين تبلت را دست يکي از دوستانم ديدم.</Sentence>
+      <Sentence ID="gr-4-2" Value="+1">بسته بندي زيبايي داشت و يکعدد فلش مموري با آرم کمپاني با روکش فلزي هم بعنوان اشانتيون تو بسته بود .</Sentence>
+      <Sentence ID="gr-4-3" Value="0">3 ساعت باهاش کار کردم خوب جواب داد نسبت بقيه تبلتهاي هفت اينچي اينو بيشتر پسنديدم.</Sentence>
+      <Sentence ID="gr-4-4" Value="0">البته قابل مقايسه با جي اس پد ايکس 8 نيست اما با اينحال بنظر مي آيد کمپاني جي اس پد بيشتر به فکر کيفيت محصولاتشه تا ساير کمپاني هاي چيني.</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="51" />
+  <Performance Value="7.80" />
+  <Capability Value="7.70" />
+  <Production_Quality Value="8.00" />
+  <Ergonomics Value="7.60" />
+  <Purchase_Value Value="7.30" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="تصویر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1002" Root="صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="پردازنده" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="سیستم عامل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="اندروید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="محیط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="حجم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="باتری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="حسگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="اپلیکیشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="تبلت" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="GPRS" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="نصب سيم کارت" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="تبلت" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="بسته بندي" Relation="gr-4" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-6,78,84]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10040" Coordinate="[rev-6,85,89]" Relation="tagID10019" Value="+" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-6,92,97]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10020" Coordinate="[rev-7,77,82]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10042" Coordinate="[rev-7,123,134]" Relation="tagID10020" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-6,26,36]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10043" Coordinate="[rev-6,37,43]" Relation="tagID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[rev-6,46,69]" Relation="tagID10021" Value="" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-7,19,27]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10045" Coordinate="[rev-7,28,45]" Relation="tagID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID10046" Coordinate="[rev-7,49,61]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-9,11,21]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-9,34,41]" Relation="tagID10023" Value="" />
+    <Tag Type="Target(I)" ID="tagID10024" Coordinate="[rev-10,11,18]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID10048" Coordinate="[rev-10,69,78]" Relation="tagID10024" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-11,62,73]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-11,74,78]" Relation="tagID10025" Value="+" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[rev-11,82,92]" Relation="tagID10025" Value="" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-13,63,66]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[rev-13,67,74]" Relation="tagID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-13,80,87]" Relation="tagID10026" Value="+" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[rev-13,90,95]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10027" Coordinate="[rev-14,4,8]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[rev-14,24,30]" Relation="tagID10027" Value="+" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-14,33,45]" Relation="tagID10027" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[rev-22,145,153]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[rev-22,134,144]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-14,24,27]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-14,28,30]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10030" Coordinate="[rev-16,0,7]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10058" Coordinate="[rev-16,8,13]" Relation="tagID10030" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[rev-17,8,15]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[rev-17,65,76]" Relation="tagID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-17,98,111]" Relation="tagID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10061" Coordinate="[rev-17,16,24]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-20,0,5]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[rev-20,24,39]" Relation="tagID10032" Value="" />
+    <Tag Type="Target(I)" ID="tagID10033" Coordinate="[rev-21,0,4]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-21,32,42]" Relation="tagID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-21,67,78]" Relation="tagID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10065" Coordinate="[rev-21,111,124]" Relation="tagID10033" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[rev-22,84,96]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[rev-22,97,101]" Relation="tagID10034" Value="+" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[rev-22,104,111]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[gr-1-1,4,8]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[gr-1-1,9,20]" Relation="tagID10035" Value="" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[gr-2-1,0,4]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10069" Coordinate="[gr-2-1,5,10]" Relation="tagID10036" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[gr-2-2,91,103]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[gr-2-2,107,112]" Relation="tagID10037" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[gr-3-1,86,90]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[gr-3-1,91,96]" Relation="tagID10038" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[gr-4-2,0,9]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10072" Coordinate="[gr-4-2,10,16]" Relation="tagID10039" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-6,85,89]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-6,92,97]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-7,123,134]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-7,49,61]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-11,74,78]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-13,80,87]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-13,90,95]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-14,24,30]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-14,28,30]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-14,33,45]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-16,8,13]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-17,16,24]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-21,111,124]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-22,97,101]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-22,104,111]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-22,134,144]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[gr-2-1,5,10]" Value="-" />
+    <Keyword ID="keywordID10018" Coordinate="[gr-2-2,107,112]" Value="-" />
+    <Keyword ID="keywordID10019" Coordinate="[gr-3-1,91,96]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[gr-4-2,10,16]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="21" />
+    <Tag_Index Value="73" />
+  </Index>
+</Product>

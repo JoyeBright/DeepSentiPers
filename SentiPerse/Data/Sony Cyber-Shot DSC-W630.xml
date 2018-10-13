@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Sony Cyber-Shot DSC-W630" Type="DigitalCamera">
+  <Accessories>
+    <Accessory Name="کارت حافظه MicroSD Card Transcend 8GB Class 4" Price="30000" />
+    <Accessory Name="محافظ صفحه نمايش دوربين" Price="4500" />
+    <Accessory Name="اسپري تميز کننده Hama" Price="35000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="سه پايه انعطاف‌پذير Unomat FT-2" Price="9000" />
+    <Accessory Name="کيف ضربه گير مارک دار" Price="8500" />
+    <Accessory Name="کيف دوربين Vanguard Bahamas 6C-Blue" Price="19000" />
+    <Accessory Name="کارت حافظه MicroSD Card ADATA 8GB Class 4" Price="25000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="49000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="29000" />
+    <Accessory Name="کيف دوربين عکاسي Case Logic DCB-302 Black" Price="39000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/03/21</Feature>
+    <Feature Name="نوع ">فشرده و کوچک</Feature>
+    <Feature Name="ضد آب ">خیر</Feature>
+    <Feature Name="ابعاد ">91 × 52.2 × 19.1 mm</Feature>
+    <Feature Name="وزن ">بدون باتری و کارت حافظه 100 گرم و با باتری و کارت حافظه 116 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، نقره‌ای، طلایی، بنفش، صورتی</Feature>
+    <Feature Name="نوع حسگر ">Super HAD CCD</Feature>
+    <Feature Name="دقت حسگر ">16.1 مگاپیکسل</Feature>
+    <Feature Name="دقت موثر حسگر ">16.1 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1/2.3 اینچ - 4.55 × 6.17 میلی‌متر</Feature>
+    <Feature Name="رزولوشن عکس ">3456 × 4608 و 2592 × 4608 و 2736 × 3648 و 1944 × 2592 و 1080 × 1920 و 480 × 640</Feature>
+    <Feature Name="نسبت ابعاد عکس ">4:3, 16:9</Feature>
+    <Feature Name="فرمت عکس ">JPEG</Feature>
+    <Feature Name="فرمت غیر فشرده Raw ">خیر</Feature>
+    <Feature Name="پردازشگر تصویر ">Bionz</Feature>
+    <Feature Name="رزولوشن فیلم ">HD</Feature>
+    <Feature Name="فرمت فیلم ">MPEG-4</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت HD در ابعاد 720 × 1280 پیکسل و با سرعت‌ 30 فریم بر ثانیه</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="فاصله کانونی ">25-125 میلیمتر</Feature>
+    <Feature Name="محدوده دیافراگم ">F2.6 تا F6.3</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">5 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">20 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر ">لرزشگیر تصویر اپتیکال (Optical SteadyShot Image Stabilization)</Feature>
+    <Feature Name="فوکوس دستی ">خیر</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="حالت ماکرو ">بلی</Feature>
+    <Feature Name="فوکوس حالت ماکرو ">5 سانتیمتر</Feature>
+    <Feature Name="نورسنجی ">چند الگویی، مرکزی، نقطه‌ای</Feature>
+    <Feature Name="زوم اپتیکال در حین فیلمبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1/1600 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">2 ثانیه</Feature>
+    <Feature Name="زمانسنج خودکار ">2 یا 10 ثانیه و Portrait1 - Portrait2</Feature>
+    <Feature Name="حداقل حساسیت ">80</Feature>
+    <Feature Name="حداکثر حساسیت ">3200</Feature>
+    <Feature Name="ایزو ">اتوماتیک و 80 و 100 و 200 و 400 و 800 و 1600 و 3200</Feature>
+    <Feature Name="تراز سفیدی ">اتوماتیک، 1 حالت دستی و 6 حالت از پیش تنظیم شده</Feature>
+    <Feature Name="عکاسی پیاپی ">قابلیت عکاسی پی در پی با سرعت 1 فریم بر ثانیه</Feature>
+    <Feature Name="فلاش ">فلاش داخلی با برد 3.7 متر</Feature>
+    <Feature Name="تکنولوژی تشخیص چهره ">بلی</Feature>
+    <Feature Name="تکنولوژی تشخیص لبخند ">بلی</Feature>
+    <Feature Name="عکاسی سه بعدی ">خیر</Feature>
+    <Feature Name="صفحه نمایش لمسی ">خیر</Feature>
+    <Feature Name="نوع صفحه نمایش ">از نوع TFT</Feature>
+    <Feature Name="سایز صفحه نمایش ">2.7 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">230,400 پیکسل</Feature>
+    <Feature Name="صفحه نمایش جلو ">خیر</Feature>
+    <Feature Name="چشمی ">خیر</Feature>
+    <Feature Name="تصویر زنده Live View ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">خیر</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="Pict Bridge ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه ">SD, SDHC, SDXC, Memory Stick Duo</Feature>
+    <Feature Name="کارت حافظه همراه ">ندارد</Feature>
+    <Feature Name="حافظه داخلی ">27 مگابایت</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="اسپیکر داخلی ">بلی</Feature>
+    <Feature Name="موقعیت یاب GPS ">خیر</Feature>
+    <Feature Name="قطب نما ">خیر</Feature>
+    <Feature Name="تکنولوژی بی سیم ">خیر</Feature>
+    <Feature Name="نوع باتری ">یون لیتیوم استاندارد</Feature>
+    <Feature Name="مشخصات باتری ">باتری یون لیتیومی قابل شارژ مدل NP-BN</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری یون لیتیومی قابل شارژکابل USBبند دور دستدفترچه راهنماشارژر باتری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+2">
+    <Sentence ID="rev-1" Value="+2">همانطور که گفتیم،  W630 دوربینی کاملا کوچک،  سبک،  جیبی و خوش ساخت است که از امکاناتی بسیار خوب را ارائه می‌دهد.</Sentence>
+    <Sentence ID="rev-2" Value="0">این دوربین از نظر مشخصات فنی شباهت خیلی زیادی با دوربین W670 دارد،  با این تفاوت که W630 مجهز به لنزی با توانایی زوم کمتر ولی سریع تر است.</Sentence>
+    <Sentence ID="rev-3" Value="+1">این دو دوربین از نظر ظاهری نیز تفاوت هایی با یکدیگر دارند و در کل W630 کمی جمع و جورتر است.</Sentence>
+    <Sentence ID="rev-4" Value="+1">به هر صورت همانطور که گفتیم،  سنسور تصویر 16 مگاپیکسلی Super HAD CCD توانایی گرفتن عکس هایی بسیار با کیفیت را در شرایط نوری خوب دارد.</Sentence>
+    <Sentence ID="rev-5" Value="+2">به دلیل رزولوشن بالایی که این سنسور ارائه می‌دهد،  جزئیات می‌توانند با تفکیکی بسیار عالی ثبت شوند.</Sentence>
+    <Sentence ID="rev-6" Value="+1">برای عکاسی هم دیگر نیازی نیست که نگران تنظیمات دوربین باشید،  کافیست که آن را بر روی مود عکاسی Intelligent Auto یا اتوماتیک هوشمند قرار دهید،  دوربین را به سوی سوژه نشانه بروید،  دکمه‌ی شاتر را بفشارید تا سپس دوربین خود همه‌ی تنظیمات نوردهی و دیگر پارامترها را بر روی بهترین مقادیر تنظیم کند تا با کیفیت ترین عکس بدست آید.</Sentence>
+    <Sentence ID="rev-7" Value="+1">این دوربین در ضمن توانایی فیلم برداری HD با سرعت  30 فریم بر ثانیه را هم دارد که برای دوربینی در این سطح قیمت عالیست.</Sentence>
+    <Sentence ID="rev-8" Value="+1">بدین ترتیب شما علاوه بر دوربین عکاسی،  دارای یک دوربین فیلم برداری خیلی خوب و با کیفیت بالا نیز خواهید بود.</Sentence>
+    <Sentence ID="rev-9" Value="+2">اما همانطور که گفتیم،  تفاوت اصلی دوربین W630 با W670 در لنز بسیار عالی W630 است.</Sentence>
+    <Sentence ID="rev-10" Value="+1">با اینکه لنز آن به جای توانایی زوم 6 برابر،  توانایی زوم 5 برابر را دارد،  ولی کمینه‌ی نسبت کانونی لنز W630 در حالت واید فقط f/2.6 می‌باشد که برای عکاسی در شرایط نوری ضعیف عالیست.</Sentence>
+    <Sentence ID="rev-11" Value="+1">بدین ترتیب قابلیت‌های عکاسی در شب W630 بهتر از W670 است.</Sentence>
+    <Sentence ID="rev-12" Value="0">این در حالیست که این لنز فواصل کانونی 25-125 میلی متر را هم پوشش می‌دهد که مقداری وایدتر است و در یک کادر و یک عکس می‌توانید تصویر یک چشم انداز گسترده‌ی طبیعی را ثبت کنید.</Sentence>
+    <Sentence ID="rev-13" Value="0">همچنین همانطور که گفتیم این دوربین مجهز به لرزش گیر اپتیکال تصویر Steady Shot می‌باشد که باعث می‌شود دیگر نگران تار شدن عکس به دلیل لرزش دست خود نباشید.</Sentence>
+    <Sentence ID="rev-14" Value="+1">این دوربین مجهز به نمایشگر 2.7 اینچی با رزولوشن 230,000 پیکسل می‌باشد که هم سایز و هم رزولوشن کاملا استاندارد و خوب هستند.</Sentence>
+    <Sentence ID="rev-15" Value="0">همچنین امکانات دیگر چون باتری قابل شارژ لیتیوم-یونی،  پورت PictBridge،  پشتیبانی از کارت‌های حافظه‌ی SD/SDHC/Memory Stick و موجود بودن در رنگ‌های مختلف را نیز باید به آن افزود.</Sentence>
+    <Sentence ID="rev-16" Value="+2">به هر صورت همانطور که گفتیم،  W630 مدل دیگری از دوربین‌های کامپکت ارزان قیمت سونی می‌باشد که امکانات و کیفیتی بسیار عالی را ارائه می‌دهد و عملکرد لنز آن در شرایط نوری ضعیف نیز فوق العاده است.</Sentence>
+    <Sentence ID="rev-17" Value="+1">بنابراین اگر به دنبال دوربینی با این ویژگی‌ها هستید،  W630 گزینه‌ی مناسبی است.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>ابعاد بسیار کوچک، وزن سبک، طراحی زیبا و مستحکم</Advantage>
+    <Advantage>بهره گیری از سنسور تصویر با رزولوشن بسیار بالای 16 مگاپیکسل</Advantage>
+    <Advantage>توانایی ضبط ویدیویی 720p HD</Advantage>
+    <Advantage>بهره گیری از امکانات مختلف و پیشرفته برای عکاسی اتوماتیک</Advantage>
+    <Advantage>لنز واید 25 میلی متر با توانایی زوم 5 برابر و کمینه‌ی نسبت کانونی f/2.6 مناسب برای عکاسی در شب</Advantage>
+    <Advantage>بهره گیری از لرزش گیر اپتیکال تصویر Steady Shot</Advantage>
+  </Advantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="فرامرز داودپور " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">دوستموم آرمين چهار لنگ گفته لرزشگيره بقدري عالي که در حال دويدن هم عکس خوبي ميده
+ولي براي من اينگونه نيست و تصاوير تاري ميده
+فيلمبرداريش عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="فرامرز داودپور " Value="+1">
+      <Sentence ID="gr-2-1" Value="+1">دوربين مورد نظر را خريداري کرده ام فيلمبرداري با کيفيت فقط شارژ باتري اجازه فيلمبرداري با زمان بالاتر را نميده.</Sentence>
+      <Sentence ID="gr-2-2" Value="+1">لرزشگير اپتيکالش براي من زياد تاثير ندارد و برخلاف گفته آرمين چهارلنگ که گفتن در حين حرکت هم عکس بدون تاري ميده براي من اينطور نيست و تار است 
+ولي عکاسي ماکرو (نماي نزديک) با کيفيتي ميده
+در کل براي من به غير اون لرزشگير باقي مواردش عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="اسماعيل ضياالديني " Value="+1">
+      <Sentence ID="gr-3-1" Value="+1">تفاوتش با مدل 650 فقط صفحه نمايش کوچکترشه و تکنولوژي بي سيمه که نداره
+اينا هم در عکاسي تاثيري ندارن و فقط يه سري امکانات اضافين
+در کل دوربين خيلي خوبيه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="آرمين چهارلنگ " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">من اين دوربين  خريدم 
+کيفيت تصوير واقعا عاليه لرزشگير دست اش هم در حالت حرکت هم عکس هاي خوبي مي گيره
+با يک بار شارژ کامل 463 تا عکس با بالاترين کيفيت مي گيره  البته  فيلم برداريش هم مانند ديگر دوربين هاي کامپکت صداي زوم رو ضبط مي کنه 
+با رم 2 گيگ 281 عکس ميگيره
+</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="محمدحسين حامدي " Value="0">
+      <Sentence ID="gr-5-1" Value="0">اين دوربين ساخت چين هستش</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="متاجي نيمور" Score="18" Voters="30" Value="+2">
+      <Sentence ID="cr-1-1" Value="+2">بعنوان يه دوربين با قابليتهاي متفاوت بنظر من عاليه قيمتشم بنظرم خوبه داراي کيفيت عالي در عکاسيه لنز هاش خيلي پر قدرتن و 16 مگا پيکسلش واقعيه پيشنهادش مي کنم</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="440" />
+  <Performance Value="2.50" />
+  <Capability Value="2.60" />
+  <Production_Quality Value="2.50" />
+  <Ergonomics Value="2.40" />
+  <Purchase_Value Value="2.20" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="امکانات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="رزولوشن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="کیفیت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="لنز" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="فيلمبرداري" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="فيلمبرداري" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="عکاسي ماکرو" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="دوربين" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="صفحه نمايش" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="کيفيت تصوير" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="عکس" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10048" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10051" Root="کيفيت عکاسی" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10054" Root="لنز" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-1,24,31]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-1,32,42]" Relation="tagID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[rev-1,45,48]" Relation="tagID1001" Value="+" />
+    <Tag Type="Opinion" ID="tagID1004" Coordinate="[rev-1,51,55]" Relation="tagID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-1,58,66]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10015" Coordinate="[rev-8,48,54]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10016" Coordinate="[rev-8,67,75]" Relation="tagID10015" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[rev-1,77,85]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[rev-1,86,95]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10023" Coordinate="[rev-16,93,100]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-16,110,120]" Relation="tagID10023" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[rev-4,83,91]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[rev-4,92,106]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10013" Coordinate="[rev-5,8,15]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-5,16,22]" Relation="tagID10013" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10018" Coordinate="[rev-8,81,86]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10019" Coordinate="[rev-8,87,91]" Relation="tagID10018" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[rev-16,103,109]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[rev-16,110,120]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10021" Coordinate="[rev-9,57,60]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID10022" Coordinate="[rev-9,61,71]" Relation="tagID10021" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10028" Coordinate="[gr-1-1,125,136]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID10029" Coordinate="[gr-1-1,137,142]" Relation="tagID10028" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[gr-2-1,35,45]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[gr-2-1,46,54]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[gr-2-2,147,158]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[gr-2-2,172,181]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[gr-3-1,134,140]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[gr-3-1,141,151]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[gr-3-1,22,32]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[gr-3-1,33,41]" Relation="tagID10040" Value="" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[gr-4-1,22,33]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[gr-4-1,34,45]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[gr-4-1,80,87]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[gr-4-1,88,92]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[cr-1-1,51,57]" Relation="elementID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10050" Coordinate="[cr-1-1,64,68]" Relation="tagID10049" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[cr-1-1,75,80]" Relation="elementID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10053" Coordinate="[cr-1-1,81,85]" Relation="tagID10052" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[cr-1-1,96,103]" Relation="elementID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID10056" Coordinate="[cr-1-1,104,117]" Relation="tagID10055" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-1,32,42]" Value="" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-1,45,48]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-1,51,55]" Value="" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-1,58,66]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-1,86,95]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-2,126,133]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-2,117,121]" Value="-" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-2,122,125]" Value="" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-3,71,86]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-4,92,106]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-5,16,22]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-5,78,88]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-6,295,308]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-7,110,116]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-8,67,75]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-8,87,91]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-9,61,71]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-10,172,178]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-11,39,43]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-14,94,109]" Value="+" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-14,112,115]" Value="+" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-16,110,120]" Value="+" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-16,176,186]" Value="+" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-17,67,73]" Value="+" />
+    <Keyword ID="keywordID10024" Coordinate="[gr-1-1,43,47]" Value="+" />
+    <Keyword ID="keywordID10025" Coordinate="[gr-1-1,71,75]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[gr-1-1,137,142]" Value="+" />
+    <Keyword ID="keywordID10027" Coordinate="[gr-1-1,101,105]" Value="-" />
+    <Keyword ID="keywordID10028" Coordinate="[gr-1-1,115,119]" Value="-" />
+    <Keyword ID="keywordID10029" Coordinate="[gr-2-1,46,54]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[gr-2-1,55,58]" Value="" />
+    <Keyword ID="keywordID10031" Coordinate="[gr-2-2,36,41]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[gr-2-2,127,131]" Value="-" />
+    <Keyword ID="keywordID10033" Coordinate="[gr-2-2,134,137]" Value="-" />
+    <Keyword ID="keywordID10034" Coordinate="[gr-2-2,138,141]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[gr-2-2,172,181]" Value="+" />
+    <Keyword ID="keywordID10036" Coordinate="[gr-2-2,187,192]" Value="" />
+    <Keyword ID="keywordID10037" Coordinate="[gr-2-2,232,237]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[gr-3-1,128,133]" Value="" />
+    <Keyword ID="keywordID10039" Coordinate="[gr-3-1,141,151]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[gr-3-1,33,41]" Value="" />
+    <Keyword ID="keywordID10041" Coordinate="[gr-4-1,34,45]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[gr-4-1,88,92]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[gr-4-1,135,143]" Value="" />
+    <Keyword ID="keywordID10044" Coordinate="[cr-1-1,45,50]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[cr-1-1,64,68]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[cr-1-1,81,85]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[cr-1-1,104,117]" Value="+" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="48" />
+    <Tag_Index Value="57" />
+  </Index>
+</Product>

@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Sony HDR-XR550" Type="Camcorder">
+  <Accessories>
+    <Accessory Name="کيف دوربين Case Logic DCB-303" Price="29000" />
+    <Accessory Name="کيف دوربين Benro Beyond S10" Price="45000" />
+    <Accessory Name="فيلتر UV لنز دوربين" Price="8000" />
+    <Accessory Name="سه پايه قدي Velbon CX-200" Price="35000" />
+    <Accessory Name="کيف اولترازوم اورجينال فوجي فيلم FineFinePix HS20, FinePix S4000" Price="14000" />
+    <Accessory Name="فيلتر UV لنز (محافظ لنز)" Price="8000" />
+    <Accessory Name="دستگاه کارت خوان 24 کاره" Price="8000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 32GB Class 10" Price="58000" />
+    <Accessory Name="کيت تميز کننده Marshal Cleaning Fluid" Price="9500" />
+    <Accessory Name="کيف دوربين Case Logic TBC-305" Price="49000" />
+    <Accessory Name="کارت حافظه  SD Card ADATA 16GB Class 10" Price="29000" />
+    <Accessory Name="کارت حافظه SD Card ADATA 8GB Class 10" Price="16000" />
+  </Accessories>
+  <Features>
+    <Feature Name="تاریخ معرفی ">2011/04/01</Feature>
+    <Feature Name="نوع دوربین ">هارد دیسکی HDD</Feature>
+    <Feature Name="نوع ذخیره سازی ">ذخیره سازی بر روی هارد دیسک 240GB</Feature>
+    <Feature Name="ابعاد ">70 × 74 × 143 mm</Feature>
+    <Feature Name="وزن ">510 گرم</Feature>
+    <Feature Name="رنگ ">مشکی</Feature>
+    <Feature Name="جنس بدنه ">پلاستیک</Feature>
+    <Feature Name="نوع حسگر ">Exmor R CMOS</Feature>
+    <Feature Name="دقت حسگر ">12.0 مگاپیکسل</Feature>
+    <Feature Name="دقت مؤثر حسگر ">6.63 مگاپیکسل</Feature>
+    <Feature Name="ابعاد حسگر ">1 به 2.88 اینچ</Feature>
+    <Feature Name="تنظیم سفیدی ">اتوماتیک و Indoor و Outdoor و قابل تنظیم با فشار یک کلید ((One Push (Via Touch Panel)</Feature>
+    <Feature Name="کیفیت فیلم ">Full HD</Feature>
+    <Feature Name="نور فیلم برداری (پرژکتور) ">خیر</Feature>
+    <Feature Name="فرمت فیلم ">HD: MPEG4 AVC/H.264; SD: MPEG2</Feature>
+    <Feature Name="صدا ">دالبی دیجیتال 5.1 کاناله (Dolby® Digital 5.1)</Feature>
+    <Feature Name="فیلمبرداری سه بعدی ">خیر</Feature>
+    <Feature Name="قابلیت عکسبرداری ">بلی</Feature>
+    <Feature Name="حداکثر سرعت شاتر ">1 به 1000 ثانیه</Feature>
+    <Feature Name="حداقل سرعت شاتر ">1 به 8 ثانیه</Feature>
+    <Feature Name="حالت های تصویر برداری ">اتوماتیکسپیده دمطلوع آفتابغروب آفتابآتش بازیمنظرهپرترهنورافکنساحلبرفی</Feature>
+    <Feature Name="فاصله کانونی ">3.8 تا 38 میلیمتر</Feature>
+    <Feature Name="بزرگنمایی اپتیکال ">10 برابر</Feature>
+    <Feature Name="بزرگنمایی دیجیتال ">120 برابر</Feature>
+    <Feature Name="لرزشگیر تصویر ">بلی</Feature>
+    <Feature Name="توضیحات لرزشگیر تصویر ">اپتیکال (Optical SteadyShot™ Active Mode (Wide To Tele</Feature>
+    <Feature Name="سایز فیلتر ">37 میلیمتر</Feature>
+    <Feature Name="فوکوس دستی ">بلی</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">صفحه نمایش عریض لمسی چرخان (TFT Active Matrix Xtra Fine™ TruBlack LCD (Wide 16:9), Touch Panel With TruBlack)</Feature>
+    <Feature Name="سایز صفحه نمایش ">3.5 اینچ</Feature>
+    <Feature Name="دقت صفحه نمایش ">921,000 پیکسل</Feature>
+    <Feature Name="چشمی ">بلی</Feature>
+    <Feature Name="مشخصات چشمی ">(Wide (color 201k</Feature>
+    <Feature Name="ورودی میکروفون ">بلی</Feature>
+    <Feature Name="خروجی هدفون ">بلی</Feature>
+    <Feature Name="خروجی HDMI ">بلی</Feature>
+    <Feature Name="خروجی USB ">بلی</Feature>
+    <Feature Name="خروجی تلویزیون ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="فیلمبرداری در شب ">بلی</Feature>
+    <Feature Name="حداقل نور ">0 لوکس</Feature>
+    <Feature Name="GPS ">خیر</Feature>
+    <Feature Name="کارت حافظه ">Memory Stick Pro Duo</Feature>
+    <Feature Name="میکروفون داخلی ">بلی</Feature>
+    <Feature Name="بلندگوی داخلی ">بلی</Feature>
+    <Feature Name="باتری ">NP-FV50 باتری لیتیوم قابل شارژ مدل</Feature>
+    <Feature Name="ریموت کنترل ">خیر</Feature>
+    <Feature Name="سایر مشخصات ">علاوه بر پشتیبانی از کارت حافظه‌ی Memory Stick Pro Duo از کارت حافظه‌ی SD / SDHC Card هم پشتیبانی می‌نماید (Memory Stick Pro Duo, SD / SDHC Card)دارای جک هات‌شو Hot Shoe جهت اتصال پرژکتور، فلاش، میکروفون Dynamic Range Optimizerقابلیت پشتیبانی از سیستم‌عامل‌های (Windows 7, Windows Vista, Windows XP SP3)توانایی عکس گرفتن در هنگام فیلم‌برداریتشخیص چهرهتشخیص لبخندمیکروفن (Surround) سوراند با توانایی زوم صدامیکروفن با تکنولوژی (Electret Condenser)</Feature>
+    <Feature Name="اقلام همراه دوربین ">باتری لیتیوم قابل شارژ مدل  NP-FV50شارژر باتریکابل شارژرکابل تلویزیونکابل USBدفترچه راهنماسی دی نرم افزاری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="0">تاکنون نقدی برای اين محصول درج نشده است.</Sentence>
+  </Review>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">دوست عزيز در مورد حرکت اسلو در کامپيوتر شما بايد بگم که سرعت کامپيوتر شما ضعيف است بايد کامپيوتر خود را ارتقاء بديد دوربين عاليه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="ميهمان " Value="-1">
+      <Sentence ID="gr-2-1" Value="-1">دوست عزيز اسلوموشن بودن تصوير دلايل زيادي داره
+1-سرعت کم پردازش کارت گرافيک
+2-مقدار بازدهي فرکانس مانيتور
+3-نرم افزار پخش کننده فيلم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-3-1" Value="0">من نزديک 6 ماهه از اين دوربين دارم .</Sentence>
+      <Sentence ID="gr-3-2" Value="+1">اگر هدفتون فيلمبرداري با کيفيت هست روي اين دوربين ميشه حساب کرد .</Sentence>
+      <Sentence ID="gr-3-3" Value="+1">در ضمن شما ميتونيد فيلمهاي ضبط شدتون با اين دوربين رو به راحتي به يک هارد اکسترنال بدون نياز به کامپيوتر انتقال بدين .</Sentence>
+      <Sentence ID="gr-3-4" Value="-1">ولي اگه هدفتون فقط عکاسي هست به نظر من روي دوربين عکاسيش زياد حساب نکنيد .</Sentence>
+      <Sentence ID="gr-3-5" Value="+2">ولي فيلمبرداريش براي يک آماتور خيلي عاليه .</Sentence>
+      <Sentence ID="gr-3-6" Value="+2">لرزش دست رو به بهترين حالت ميگيره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">من يه xr550 خريدم باهاش فيلم گرفتم کارش بيسته ولي يه مشکل کوچولو داره بعد از اينکه فيلم گرفته شده رو روي کامپيوتر کپي ميکنم فيلم به صورت اسلوموشن حرکت ميکنه اگر کسي ميتونه کمک کنه ممنون ميشم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">من يه xr550 خريدم باهاش فيلم گرفتم کارش بيسته ولي يه مشکل کوچولو داره بعد از اينکه فيلم گرفته شده رو روي کامپيوتر کپي ميکنم فيلم به صورت اسلوموشن حرکت ميکنه اگر کسي ميتونه کمک کنه ممنون ميشم</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">من يه فيلمبردار هستم با دوربين هاي حرفه اي کار کردم اين دوربين بااين کوچيکيش ميتوونه با حرفه اي ها مقابله کنه حرف نداره اگه يه پايه حرفه اي داشته باشيد  واسه خودش غوليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-7-1" Value="+2">من XR500 دارم
+کيفيت فيلم و عکس فوق العادس، 
+کسي ميدونه روي اين مدل لنز ميشه نصب کرد يا نه؟</Sentence>
+      <Sentence ID="gr-7-2" Value="0">لنز وايد ،  از کجا ميشه تهيه کرد و قيمتش حدودا چقده؟</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-8-1" Value="+2">من يکيش رو دارم درحد دوربينهاي 2 ميليوني خيلي کارش خفنه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-9" Holder="ميهمان " Value="+1">
+      <Sentence ID="gr-9-1" Value="+1">دوست گرامي کيفيت فيلمبرداري سوني XR550 درحد دوربينهاي فيلمبرداري حرفه اي مي باشد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-10" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-10-1" Value="+2">من که 100% از اين کوچولوي شگفت انگيز راضي هستم.</Sentence>
+      <Sentence ID="gr-10-2" Value="+2">عاليه!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-11" Holder="ميهمان " Value="+2">
+      <Sentence ID="gr-11-1" Value="+2">کارش بيسته</Sentence>
+    </General_Review>
+    <General_Review ID="gr-12" Holder="ميهمان " Value="0">
+      <Sentence ID="gr-12-1" Value="0">ما اين دوربين رو داريم به نظر من کساني که اين دوربين رو ندارند نظر ندهند بهتره در عکس هاي اين دوربين هيچ گونه سايه اي وجود ندارد فکر مردم رو الکي مشغول نکنيد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-13" Holder="ميهمان " Value="0">
+      <Sentence ID="gr-13-1" Value="0">دوست عزيز اين دوربين با امکاناتي که دارد صرفا براي فيلمبرداري ساخته شده است .</Sentence>
+    </General_Review>
+    <General_Review ID="gr-14" Holder="ميهمان " Value="0">
+      <Sentence ID="gr-14-1" Value="0">دوست گرامي همه‌ي فلاش‌ها اگر مستقيم زده‌شوند سايه دارند</Sentence>
+    </General_Review>
+    <General_Review ID="gr-15" Holder="ميهمان " Value="-1">
+      <Sentence ID="gr-15-1" Value="-1">با توجه به جاي نصب فلاش عکسهايي که با فلاش گرفته ميشود  سايه دارند</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="سعيد احمدي" Score="53" Voters="73" Value="0">
+      <Sentence ID="cr-1-1" Value="+1">نقاط قوت : قابليت هاي تنظيم بالا براي ويديو .</Sentence>
+      <Sentence ID="cr-1-2" Value="+1">قابليت جيوتگ براي ويديو .</Sentence>
+      <Sentence ID="cr-1-3" Value="+2">فوکوس اتوماتيک بسيار عالي عمل ميکنيد.</Sentence>
+      <Sentence ID="cr-1-4" Value="-1">نقاط ضعف : سيستم منو هاي نامناسب .</Sentence>
+      <Sentence ID="cr-1-5" Value="-1">عدم وجود فيلتر هوا و کنترل مناسب براي ميکروفون .</Sentence>
+      <Sentence ID="cr-1-6" Value="-1">نسبتا سنگين و بزرگ .</Sentence>
+      <Sentence ID="cr-1-7" Value="-1">قيمت بالا .</Sentence>
+      <Sentence ID="cr-1-8" Value="0">پيش فرض ها تماما در حالت کيفيت و رزولوشن پايين قرار دارند .</Sentence>
+      <Sentence ID="cr-1-9" Value="-1">عدم وجود قابليت full HD .</Sentence>
+      <Sentence ID="cr-1-10" Value="-1">صفحه ي لمسي ضعيف .</Sentence>
+      <Sentence ID="cr-1-11" Value="+1">XR550 در ميان رقبا جايگاه مناسبي دارد اگرچه ويديو ها ميتوانست کمي شفاف تر و رابط کاربري بهتر باشد .</Sentence>
+      <Sentence ID="cr-1-12" Value="0">اگر به فضاي زيادي براي ذخيره کردن نياز داريد يا دستانتان آنقدر بزرگ است که از فضاي اضافي ايجاد شده به وسيله ي هار ديسک استفاده کنيد XR550 خوب است در غير اينصورت CX550V قيمت مناسبتري دارد.</Sentence>
+      <Sentence ID="cr-1-13" Value="0">قابليت هاي اين دوربين لنز سري G بزرگ .</Sentence>
+      <Sentence ID="cr-1-14" Value="0">۲۴۰ گيگابايت هارد ديسک .</Sentence>
+      <Sentence ID="cr-1-15" Value="0">۳.</Sentence>
+      <Sentence ID="cr-1-16" Value="0">۵ اينچ ال سي دي است.</Sentence>
+      <Sentence ID="cr-1-17" Value="0">پورت هاي ميکروفون و هدفون و کنترل هاي شاتر هم روي دستگاه موجودند.</Sentence>
+      <Sentence ID="cr-1-18" Value="+2">قيمت اين دوربين کمي بالاست ولي تعجبي ندارد چون XR550 از مدل هاي عالي و براي کاربران حرفه اي است.</Sentence>
+      <Sentence ID="cr-1-19" Value="0">اگر چه سوني کنترل ها را کمي تغيير داده ولي دوربين شبيه مدل هاي قبلي است .</Sentence>
+      <Sentence ID="cr-1-20" Value="+1">دوربين در دست محکم است البته اگر دنبال طراحي کوچکتر هستيد به CX550V نگاهي بياندازيد.</Sentence>
+      <Sentence ID="cr-1-21" Value="+1">بدنه ي دوربين محکم است .</Sentence>
+      <Sentence ID="cr-1-22" Value="0">دوربين دو کاور يکي در بالا براي پورت accessory و سمت راست براي هدفون و ميکروفون دارد.</Sentence>
+      <Sentence ID="cr-1-23" Value="0">دو کاور هم در بالا ي کليد ريکورد براي خروجي AV و برق و يکي هم روي ال سي دي براي mini HDMI و USB قرار دارند.</Sentence>
+      <Sentence ID="cr-1-24" Value="-1">جاي دو تاي آخري مناسب نيست چون ال سي دي که کابل ها به آن وصل شوند مناسب نيست و حرکت و فيلم گرفتن در موقع اتصال به تلويزيون را کمي سخت ميکند.</Sentence>
+      <Sentence ID="cr-1-25" Value="+1">که البته براي توليد کنندهاي دوربين جاي مناسبي است.</Sentence>
+      <Sentence ID="cr-1-26" Value="0">بالاي لنز ميکروفون ۵ تايي وجود دارد که اگر ميکروفون استريو با جايگيري مناسب وجود داشت و کنترل هاي بيشتري براي آن قرار داده ميشد کارايي بيشتري داشت.</Sentence>
+      <Sentence ID="cr-1-27" Value="+1">رزولوشن چشمي دوربين بيشتر از مدل هاي قبلي است ارچه اندازه اش کوچکتر شده.</Sentence>
+      <Sentence ID="cr-1-28" Value="+1">صفحه ي لمسي بزرگ XR550 با رزولوشن بالاست و کارايي خوبي دارد و نسبتا در نور خورشيد قابل ديدن است.</Sentence>
+      <Sentence ID="cr-1-29" Value="-1">ولي کنترل فوکوس دستي با آن کمي سخت است.</Sentence>
+      <Sentence ID="cr-1-30" Value="-1">قسمتي از مشکل اين است که کمکي براي فوکوس دستي وجود ندارد يعني به عنوان مثال اشيا براي کنترل بهتر فوکوس بزرگ نمي شوند.</Sentence>
+      <Sentence ID="cr-1-31" Value="0">زير ال سي دي کليد هاي ديد در شب و حالت اتوماتيک هوشمند و ضبط مستقيم روي دي وي دي وجود دارند.</Sentence>
+      <Sentence ID="cr-1-32" Value="0">کليد هاي GPS و روشن کردن دستي هم موجودند.</Sentence>
+      <Sentence ID="cr-1-33" Value="0">سوييچ زوم دقيقا زير انگشت حلقه ي دست راستتان قرار مي گيرد.</Sentence>
+      <Sentence ID="cr-1-34" Value="+1">دقت زوم مناسب است و ميتوان به نرمي زوم کرد.</Sentence>
+      <Sentence ID="cr-1-35" Value="-1">دوربين هاي سري V سوني قابليت Geotag هم دارند البته دقت کنيد هنوز استانداردي براي اين قابليت وجود ندارد و بايد از نرم افزار نه چندان قوي سوني استفاده کنيد.</Sentence>
+      <Sentence ID="cr-1-36" Value="+1">مشکلي در مورد کارايي اين دوربين وجود ندارد .</Sentence>
+      <Sentence ID="cr-1-37" Value="+1">سيستم فوکوس اتوماتيک سوني واقعا از ديگر دوربين ها بهتر است و حتي سوني آن را نسبت به مدل هاي قبلي بهتر کرده است.</Sentence>
+      <Sentence ID="cr-1-38" Value="+1">اگرچه به اندازه ي دوربين هاي Canon و Panasonic سريع نيست ولي دقت بيشتري دارد.</Sentence>
+      <Sentence ID="cr-1-39" Value="0">البته فوکوس از راه لمس اشيا در صفحه ي ال سي دي هم انجام ميشود ولي بعضي مواقع اشيا آنقدر کوچک هستند که قابل لمس با انگشت نيستند.</Sentence>
+      <Sentence ID="cr-1-40" Value="-1">مشکل اين دوربين ها باتري هاي آنهاست .</Sentence>
+      <Sentence ID="cr-1-41" Value="+1">باتري XR550 حدود يک ساعت کار ميکند که از بعضي رقبا بهتر است.</Sentence>
+      <Sentence ID="cr-1-42" Value="+1">کيفيت تصوير براي اين کلاس خوب است و در محيط هاي کم نور دوربين خوب عمل مي کند.</Sentence>
+      <Sentence ID="cr-1-43" Value="0">براي اين قيمت بايد انتظار دوربين بهتري داشت .</Sentence>
+      <Sentence ID="cr-1-44" Value="+1">ويديو شفاف تر و رابط کاربري بهتر ولي Sony Handycam HDR-XR550V در ميان رقبا جايگاه خوبي دارد.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="افشين نوابي" Score="7" Voters="11" Value="-1">
+      <Sentence ID="cr-2-1" Value="-1">اين محصول آخرين محصول توليد شرکت سوني در زمينه تکنولوژي دوربين هاي نيمه حرفه اي خانگي است دوستان درمورد مزاياي اين دوربين مطالب زيادي وجود دارد و من در اينجا به بررسي معايب مي پردازم: 1-متاسفانه عکس هاي گرفته شده با اين دوربين کمي به قرمزي مي زند 2-عکسها اگر با فلاش مستقيم گرفته شوند سايه سفيد دارد .</Sentence>
+      <Sentence ID="cr-2-2" Value="0">علی الخصوص در صورت.</Sentence>
+      <Sentence ID="cr-2-3" Value="-1">شايد به اين دليل که دراين مدل برخلاف مدل قبلي xr-520 فلاش اين دوربين در بالاي ان قرار دارد و فلاش آن کوچکتر از xr-520 شده است. 3-منوها در مقايسه با مدل قبلي کمي پيچيده به نظر مي رسد دوستان مطالب بالا فقط براي آگاهي بيان شد و اين اشکالات به نظر شخص ديگري شايد زياد هم به چشم نيايد.</Sentence>
+      <Sentence ID="cr-2-4" Value="+1">موفق باشيد</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-3" Holder="ميهمان" Score="3" Voters="3" Value="+1">
+      <Sentence ID="cr-3-1" Value="+1">از نظر کيفيت فيلمبرداري عاليه و حافظه داخلي خيلي زيادي هم داره اما کيفيت عکاسي اش خوب نيست که با توجه به وظيفه اش که فيلمبرداريست فکر مي کنم خيلي مهم نباشه .</Sentence>
+      <Sentence ID="cr-3-2" Value="-1">به نظر من تنها مشکلش وايد کم اونه که بايد يه لنز وايد بخريد اما يه کم گرونه .</Sentence>
+      <Sentence ID="cr-3-3" Value="+1">اگر اين دوربين رو با يه لنز وايد بخريد عاليه .</Sentence>
+      <Sentence ID="cr-3-4" Value="+2">در ضمن توي شب هم خيلي عالي فيلم مي گيره .</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-4" Holder="ميهمان" Score="1" Voters="1" Value="-1">
+      <Sentence ID="cr-4-1" Value="-1">من نصب لنز روي اين دوربين رو توصيه نمي کنم چون احتمال از بين رفتن حساسيت  فوکوس دوربين هست.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-5" Holder="ميهمان" Score="18" Voters="80" Value="-1">
+      <Sentence ID="cr-5-1" Value="-1">مدل هاي قبلي همين سري 12x اپتيکال زوم داشتند اما اين مدل که جاگزين XR-520 هست فقط 10X اپتيکال زوم داره که خودش يه مشخصه مهم تو انتخاب دوربينه</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="75" />
+  <Performance Value="7.00" />
+  <Capability Value="7.10" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="7.10" />
+  <Purchase_Value Value="6.90" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="دوربين" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="فيلمبرداري" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="کارکرد" Relation="gr-4" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="فيلم" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="عکس" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="کارکرد" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="کارکرد" Relation="gr-11" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="قابليت تنظيم" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="فوکوس" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10036" Root="سیستم منو" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="قيمت" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="صفحه ي لمسي" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="جايگاه" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10055" Root="بدنه" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10052" Root="مدل" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10060" Root="رزولوشن" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10064" Root="کنترل فوکوس" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10069" Root="دقت زوم" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10072" Root="زوم" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10080" Root="کيفيت تصوير" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10083" Root="ويديو" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10086" Root="رابط کاربري" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10089" Root="جايگاه_2" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10097" Root="فلاش" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100100" Root="منو" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID100103" Root="کيفيت فيلمبرداري" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100106" Root="حافظه داخلي" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100112" Root="فيلم" Relation="cr-3" />
+    <Tag Type="Target(M)" ID="elementID100115" Root="سرعت_2" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID100118" Root="کار" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100123" Root="اندازه چشمی" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100126" Root="کارايي صفحه" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID100129" Root="دقت" Relation="cr-1" />
+    <Tag Type="Target(I)" ID="tagID1002" Coordinate="[gr-1-1,116,122]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID1003" Coordinate="[gr-1-1,123,128]" Relation="tagID1002" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1005" Coordinate="[gr-3-2,11,21]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1006" Coordinate="[gr-3-2,22,30]" Relation="tagID1005" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1007" Coordinate="[gr-3-5,4,15]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID1008" Coordinate="[gr-3-5,31,41]" Relation="tagID1007" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10010" Coordinate="[gr-4-1,35,39]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10011" Coordinate="[gr-4-1,40,45]" Relation="tagID10010" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[gr-7-1,20,24]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[gr-7-1,31,41]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[gr-7-1,27,30]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[gr-7-1,31,41]" Relation="tagID10019" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[gr-8-1,46,50]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[gr-8-1,51,55]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10025" Coordinate="[gr-11-1,0,4]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID10026" Coordinate="[gr-11-1,5,10]" Relation="tagID10025" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10031" Coordinate="[cr-1-1,11,27]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID10032" Coordinate="[cr-1-1,28,32]" Relation="tagID10031" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10034" Coordinate="[cr-1-3,0,5]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10035" Coordinate="[cr-1-3,15,25]" Relation="tagID10034" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[cr-1-37,0,11]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[cr-1-37,50,54]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[cr-1-4,11,24]" Relation="elementID10036" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[cr-1-4,25,32]" Relation="tagID10037" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[cr-1-7,0,4]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[cr-1-7,5,9]" Relation="tagID10040" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[cr-1-18,0,4]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10051" Coordinate="[cr-1-18,16,26]" Relation="tagID10050" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[cr-1-10,0,11]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[cr-1-10,12,16]" Relation="tagID10043" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[cr-1-28,0,11]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10059" Coordinate="[cr-1-28,12,16]" Relation="tagID10058" Value="" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[cr-1-11,19,25]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[cr-1-11,26,32]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[cr-1-21,0,6]" Relation="elementID10055" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[cr-1-21,14,18]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[cr-1-18,56,63]" Relation="elementID10052" Value="" />
+    <Tag Type="Opinion" ID="tagID10054" Coordinate="[cr-1-18,64,68]" Relation="tagID10053" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[cr-1-28,26,33]" Relation="elementID10060" Value="" />
+    <Tag Type="Opinion" ID="tagID10062" Coordinate="[cr-1-28,34,40]" Relation="tagID10061" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[cr-1-27,0,7]" Relation="elementID10060" Value="" />
+    <Tag Type="Opinion" ID="tagID10068" Coordinate="[cr-1-27,20,25]" Relation="tagID10067" Value="" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[cr-1-29,4,15]" Relation="elementID10064" Value="" />
+    <Tag Type="Opinion" ID="tagID10066" Coordinate="[cr-1-29,27,34]" Relation="tagID10065" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[cr-1-34,0,7]" Relation="elementID10069" Value="" />
+    <Tag Type="Opinion" ID="tagID10071" Coordinate="[cr-1-34,8,13]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[cr-1-34,35,38]" Relation="elementID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[cr-1-34,27,34]" Relation="tagID10073" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10081" Coordinate="[cr-1-42,0,11]" Relation="elementID10080" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[cr-1-42,26,29]" Relation="tagID10081" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10084" Coordinate="[cr-1-44,0,5]" Relation="elementID10083" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[cr-1-44,6,13]" Relation="tagID10084" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10087" Coordinate="[cr-1-44,16,27]" Relation="elementID10086" Value="" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[cr-1-44,28,32]" Relation="tagID10087" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10090" Coordinate="[cr-1-44,75,81]" Relation="elementID10089" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[cr-1-44,82,86]" Relation="tagID10090" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10098" Coordinate="[cr-2-3,93,97]" Relation="elementID10097" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[cr-2-3,101,107]" Relation="tagID10098" Value="" />
+    <Tag Type="Target(I)" ID="tagID100101" Coordinate="[cr-2-3,129,134]" Relation="elementID100100" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[cr-2-3,157,167]" Relation="tagID100101" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100104" Coordinate="[cr-3-1,7,23]" Relation="elementID100103" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[cr-3-1,24,29]" Relation="tagID100104" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100107" Coordinate="[cr-3-1,32,43]" Relation="elementID100106" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[cr-3-1,44,54]" Relation="tagID100107" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100113" Coordinate="[cr-3-4,27,31]" Relation="elementID100112" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[cr-3-4,17,26]" Relation="tagID100113" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100116" Coordinate="[gr-2-1,49,53]" Relation="elementID100115" Value="" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[gr-2-1,54,56]" Relation="tagID100116" Value="-" />
+    <Tag Type="Target(I)" ID="tagID100119" Coordinate="[gr-5-1,35,39]" Relation="elementID100118" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[gr-5-1,40,45]" Relation="tagID100119" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100124" Coordinate="[cr-1-27,51,60]" Relation="elementID100123" Value="" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[cr-1-27,61,67]" Relation="tagID100124" Value="" />
+    <Tag Type="Target(I)" ID="tagID100127" Coordinate="[cr-1-28,43,49]" Relation="elementID100126" Value="" />
+    <Tag Type="Opinion" ID="tagID100128" Coordinate="[cr-1-28,50,54]" Relation="tagID100127" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100130" Coordinate="[cr-1-38,61,64]" Relation="elementID100129" Value="" />
+    <Tag Type="Opinion" ID="tagID100131" Coordinate="[cr-1-38,65,71]" Relation="tagID100130" Value="+" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[gr-1-1,123,128]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[gr-3-2,22,30]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-3-3,57,62]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-3-5,31,41]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-3-6,15,21]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-4-1,40,45]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-6-1,110,119]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-6-1,163,168]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[gr-7-1,31,41]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[gr-8-1,51,55]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[gr-10-1,26,36]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[gr-10-1,37,41]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[gr-10-2,0,5]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[gr-11-1,5,10]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[cr-1-1,28,32]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[cr-1-3,15,25]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[cr-1-4,25,32]" Value="-" />
+    <Keyword ID="keywordID10020" Coordinate="[cr-1-6,0,11]" Value="-" />
+    <Keyword ID="keywordID10021" Coordinate="[cr-1-6,14,18]" Value="-" />
+    <Keyword ID="keywordID10022" Coordinate="[cr-1-7,5,9]" Value="-" />
+    <Keyword ID="keywordID10023" Coordinate="[cr-1-9,0,3]" Value="-" />
+    <Keyword ID="keywordID10024" Coordinate="[cr-1-10,12,16]" Value="-" />
+    <Keyword ID="keywordID10025" Coordinate="[cr-1-11,26,32]" Value="+" />
+    <Keyword ID="keywordID10026" Coordinate="[cr-1-18,16,26]" Value="-" />
+    <Keyword ID="keywordID10027" Coordinate="[cr-1-18,64,68]" Value="+" />
+    <Keyword ID="keywordID10028" Coordinate="[cr-1-21,14,18]" Value="+" />
+    <Keyword ID="keywordID10029" Coordinate="[cr-1-24,126,133]" Value="-" />
+    <Keyword ID="keywordID10031" Coordinate="[cr-1-28,34,40]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[cr-1-29,27,34]" Value="-" />
+    <Keyword ID="keywordID10034" Coordinate="[cr-1-34,8,13]" Value="+" />
+    <Keyword ID="keywordID10035" Coordinate="[cr-1-34,27,34]" Value="+" />
+    <Keyword ID="keywordID10037" Coordinate="[cr-1-37,50,54]" Value="+" />
+    <Keyword ID="keywordID10038" Coordinate="[cr-1-40,0,4]" Value="-" />
+    <Keyword ID="keywordID10039" Coordinate="[cr-1-42,26,29]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[cr-1-42,62,65]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[cr-1-44,6,13]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[cr-1-44,28,32]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[cr-1-44,82,86]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[cr-2-1,285,289]" Value="-" />
+    <Keyword ID="keywordID10046" Coordinate="[cr-2-3,157,167]" Value="-" />
+    <Keyword ID="keywordID10047" Coordinate="[cr-3-1,24,29]" Value="+" />
+    <Keyword ID="keywordID10048" Coordinate="[cr-3-1,44,54]" Value="+" />
+    <Keyword ID="keywordID10050" Coordinate="[cr-3-2,70,75]" Value="-" />
+    <Keyword ID="keywordID10051" Coordinate="[cr-3-2,15,20]" Value="-" />
+    <Keyword ID="keywordID10052" Coordinate="[cr-3-3,39,44]" Value="+" />
+    <Keyword ID="keywordID10053" Coordinate="[cr-3-4,17,26]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[gr-1-1,74,78]" Value="-" />
+    <Keyword ID="keywordID10055" Coordinate="[gr-2-1,54,56]" Value="-" />
+    <Keyword ID="keywordID10056" Coordinate="[gr-2-1,10,18]" Value="-" />
+    <Keyword ID="keywordID10057" Coordinate="[gr-3-4,67,72]" Value="-" />
+    <Keyword ID="keywordID10058" Coordinate="[gr-4-1,137,145]" Value="-" />
+    <Keyword ID="keywordID10059" Coordinate="[gr-4-1,46,49]" Value="" />
+    <Keyword ID="keywordID10060" Coordinate="[gr-5-1,40,45]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[gr-5-1,46,49]" Value="" />
+    <Keyword ID="keywordID10062" Coordinate="[gr-5-1,53,57]" Value="-" />
+    <Keyword ID="keywordID10063" Coordinate="[gr-5-1,58,64]" Value="" />
+    <Keyword ID="keywordID10064" Coordinate="[gr-5-1,137,145]" Value="-" />
+    <Keyword ID="keywordID10065" Coordinate="[gr-4-1,53,57]" Value="-" />
+    <Keyword ID="keywordID10066" Coordinate="[gr-4-1,58,64]" Value="" />
+    <Keyword ID="keywordID10067" Coordinate="[gr-8-1,41,45]" Value="" />
+    <Keyword ID="keywordID10068" Coordinate="[gr-9-1,65,72]" Value="+" />
+    <Keyword ID="keywordID10069" Coordinate="[gr-15-1,56,60]" Value="-" />
+    <Keyword ID="keywordID10070" Coordinate="[gr-15-1,61,66]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[cr-1-1,5,8]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[cr-1-2,0,6]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[cr-1-4,5,8]" Value="-" />
+    <Keyword ID="keywordID10074" Coordinate="[cr-1-5,0,3]" Value="-" />
+    <Keyword ID="keywordID10075" Coordinate="[cr-1-18,27,30]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[cr-1-20,14,18]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[cr-1-24,16,21]" Value="+" />
+    <Keyword ID="keywordID10078" Coordinate="[cr-1-24,22,26]" Value="-" />
+    <Keyword ID="keywordID10079" Coordinate="[cr-1-24,66,71]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[cr-1-24,72,76]" Value="-" />
+    <Keyword ID="keywordID10081" Coordinate="[cr-1-25,39,45]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[cr-1-26,39,42]" Value="" />
+    <Keyword ID="keywordID10083" Coordinate="[cr-1-27,20,25]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[cr-1-28,50,54]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[cr-1-28,43,49]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[cr-1-29,0,3]" Value="" />
+    <Keyword ID="keywordID10087" Coordinate="[cr-1-30,9,13]" Value="-" />
+    <Keyword ID="keywordID10088" Coordinate="[cr-1-30,25,29]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[cr-1-30,51,56]" Value="-" />
+    <Keyword ID="keywordID10090" Coordinate="[cr-1-35,132,135]" Value="+" />
+    <Keyword ID="keywordID10091" Coordinate="[cr-1-35,123,125]" Value="-" />
+    <Keyword ID="keywordID10092" Coordinate="[cr-1-35,97,102]" Value="-" />
+    <Keyword ID="keywordID10093" Coordinate="[cr-1-36,0,5]" Value="-" />
+    <Keyword ID="keywordID10094" Coordinate="[cr-1-36,37,42]" Value="-" />
+    <Keyword ID="keywordID10095" Coordinate="[cr-1-37,97,101]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[cr-1-38,47,51]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[cr-1-38,52,56]" Value="-" />
+    <Keyword ID="keywordID10098" Coordinate="[cr-1-38,57,60]" Value="" />
+    <Keyword ID="keywordID10099" Coordinate="[cr-1-38,65,71]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[cr-1-41,51,55]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[cr-2-1,186,194]" Value="-" />
+    <Keyword ID="keywordID100102" Coordinate="[cr-2-4,0,4]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[cr-3-1,82,85]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[cr-3-1,86,90]" Value="-" />
+    <Keyword ID="keywordID100105" Coordinate="[cr-3-1,63,66]" Value="" />
+    <Keyword ID="keywordID100106" Coordinate="[cr-3-3,0,3]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[cr-4-1,35,42]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[cr-5-1,45,48]" Value="" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="109" />
+    <Tag_Index Value="132" />
+  </Index>
+</Product>

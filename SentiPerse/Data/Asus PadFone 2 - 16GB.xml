@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Asus PadFone 2 - 16GB" Type="Mobile">
+  <Features>
+    <Feature Name="تاریخ معرفی ">2012/09/27</Feature>
+    <Feature Name="فرم گوشی ">ساده</Feature>
+    <Feature Name="تعداد سیم کارت ">یک  سیم کارته</Feature>
+    <Feature Name="ابعاد ">گوشی 9 × 68.9 × 137.9 میلیمتر -  mm</Feature>
+    <Feature Name="وزن ">گوشی با باتری 135 گرم - داک گوشی 514 گرم گرم</Feature>
+    <Feature Name="رنگ ">مشکی ، سفید</Feature>
+    <Feature Name="مدل پردازنده ">Qualcomm S4 Chipset - Quad Core Cortex-A15 CPU</Feature>
+    <Feature Name="سرعت پردازنده ">1.5GHz</Feature>
+    <Feature Name="پردازنده گرافیکی ">Adreno 320</Feature>
+    <Feature Name="حافظه داخلی ">16384 مگابایت</Feature>
+    <Feature Name="حافظه RAM ">2048 مگابایت</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">خیر</Feature>
+    <Feature Name="کارت حافظه همراه گوشی ">-</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="3G ">بلی</Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1700 / 1900 / 2100 </Feature>
+    <Feature Name="توضیحات 3G ">HSPA+ UL:5.76 Mbps/DL:21 Mbps</Feature>
+    <Feature Name="4G ">بلی</Feature>
+    <Feature Name="باند شبکه 4G ">LTE 800 / 1800 / 2600 </Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="توضیحات GPRS ">Class 10 (4+1/3+2 slots), 32 - 48 kbps</Feature>
+    <Feature Name="WLAN ">بلی</Feature>
+    <Feature Name="توضیحات WLAN ">Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">همراه با پشتیبانی از A-GPS</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 10, 236.8 kbps</Feature>
+    <Feature Name="NFC ">بلی</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 4 همراه با A2DP </Feature>
+    <Feature Name="USB ">بلی</Feature>
+    <Feature Name="نسخه USB ">microUSB نسخه 2</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="صفحه نمایش رنگی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش اصلی ">خازنی از نوع Super IPS+ LCD</Feature>
+    <Feature Name="اندازه صفحه نمایش اصلی ">4.7 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش اصلی ">1280 × 720</Feature>
+    <Feature Name="تعداد رنگ صفحه نمایش اصلی ">16,777,216 رنگ</Feature>
+    <Feature Name="قابلیت های صفحه نمایش ">صفحه نمایش گوشی: مجهز به پوشش ضدخش Corning Gorilla Glass with HCLR Film، مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Capacitive Multi touch panel  Corning® Gorilla® Glass with HCLR Film)</Feature>
+    <Feature Name="صفحه نمایش دوم ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش دوم ">صفحه نمایش داک گوشی:صفحه نمایش 10.1 اینچی از نوع IPS و مجهز به پوشش ضدخش , مالتی تاچ با قابلیت دریافت چندین لمس همزمان </Feature>
+    <Feature Name="اندازه صفحه نمایش دوم ">10.1 اینچ</Feature>
+    <Feature Name="رزولوشن صفحه نمایش دوم ">1280 × 800</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="کیفیت دوربین ">13.0 مگاپیکسل</Feature>
+    <Feature Name="اندازه تصاویر ">3224 × 4032</Feature>
+    <Feature Name="دوربین مکالمه ویدئویی ">بلی</Feature>
+    <Feature Name="توضیحات دوربین مکالمه ویدئویی ">دوربین دوم با کیفیت 1.2 مگاپیکسل</Feature>
+    <Feature Name="قابلیت فیلمبرداری ">بلی</Feature>
+    <Feature Name="ابعاد فیلم ">720p HD</Feature>
+    <Feature Name="سرعت فیلمبرداری ">60 فریم بر ثانیه</Feature>
+    <Feature Name="توضیحات فیلم ">قابلیت فیلم‌برداری با کیفیت FullHD و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="فوکوس اتوماتیک ">بلی</Feature>
+    <Feature Name="فلاش ">بلی</Feature>
+    <Feature Name="نوع فلاش ">LED</Feature>
+    <Feature Name="سایر قابلیت های دوربین ">قابلیت ثبت موقعیت مکانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)تشخیض چهره(Face Detection)قابلیت فوکوس لمسی(Touch Focus)قابلیت عکاسی پانوراماf2.4</Feature>
+    <Feature Name="مشخصات بلندگوها ">Earpiece, Loudspeaker</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="نوع زنگ ">MP3</Feature>
+    <Feature Name="دفترچه تلفن ">بلی</Feature>
+    <Feature Name="توضیحات دفترچه تلفن ">تعداد بی‌نهایت ورودی و فیلد به همراه تصویر برای دفترچه تلفن</Feature>
+    <Feature Name="اطلاعات تماس ها ">بلی</Feature>
+    <Feature Name="مشخصات اطلاعات تماس ها ">تعداد بی‌نهایت رکورد برای اطلاعات تماس‌ها</Feature>
+    <Feature Name="سیستم عامل ">Android</Feature>
+    <Feature Name="ورژن سیستم عامل ">(v4.0 (Ice Cream Sandwich</Feature>
+    <Feature Name="جاوا ">بلی</Feature>
+    <Feature Name="مایکروسافت آفیس ">بلی</Feature>
+    <Feature Name="PDF ">بلی</Feature>
+    <Feature Name="sms ">بلی</Feature>
+    <Feature Name="mms ">بلی</Feature>
+    <Feature Name="ایمیل ">بلی</Feature>
+    <Feature Name="Push Email ">بلی</Feature>
+    <Feature Name="Instant Messaging ">بلی</Feature>
+    <Feature Name="مرورگر وب ">HTML5</Feature>
+    <Feature Name="پخش موسیقی ">بلی</Feature>
+    <Feature Name="فرمت موسیقی ">MP3, AAC+, WMV, 3GP, AAC</Feature>
+    <Feature Name="پخش ویدئو ">بلی</Feature>
+    <Feature Name="فرمت پخش ویدئو ">MP4, H.264, H.263</Feature>
+    <Feature Name="ضبط صدا ">بلی</Feature>
+    <Feature Name="رادیو ">بلی</Feature>
+    <Feature Name="هندزفری ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگرها ">حسگر نوری برای تنظیم نور صفحه نمایش مطابق با نور محیط (Light Sensor)حسگر Proximity برای خاموش شدن خودکار صفحه نمایش در هنگام مکالمه (Proximity Sensor)حسگر شتاب سنج برای چرخش خودکار رابط کاربری (Accelerometer Sensor)G-SensorGyroscope</Feature>
+    <Feature Name="فرمان صوتی ">بلی</Feature>
+    <Feature Name="نوع باتری ">باتری یون لیتیوم استاندارد</Feature>
+    <Feature Name="ظرفیت باتری ">گوشی: 2140 میلی‌آمپر - داک: 5000 میلی آمپر ساعت</Feature>
+    <Feature Name="زمان انتظار ">336 ساعت</Feature>
+    <Feature Name="زمان مکالمه ">16 ساعت</Feature>
+    <Feature Name="سایر قابلیت ها "> SNS integration Active noise cancellation with dedicated mic TV-out (via MHL A/V link)ASUS WebStorage (50 GB storage) Organizer Document viewer Photo viewer/editor Voice memo/dial Predictive text input (Swype)</Feature>
+    <Feature Name="اقلام همراه گوشی ">باتری یون لیتیوم استانداردشارژردفترچه راهنماهنذزفری</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="">
+    <Sentence ID="rev-1" Value="0">• طراحی و ساخت ابتدا از خود گوشی PadFone 2 شروع می‌کنیم.</Sentence>
+    <Sentence ID="rev-2" Value="0">PadFone 2 نزدیک به 140 میلی‌متر طول و 9 میلی‌متر ضخامت دارد که کمی بزرگ‌تر و ضخیم‌تر از Samsung Galaxy S III می‌باشد و آن را به یکی از بزرگ‌ترین گوشی‌های ساخته شده تا به امروز تبدیل کرده است.</Sentence>
+    <Sentence ID="rev-3" Value="0">این گوشی 135 گرم وزن دارد و تقریبا هم وزن گوشی‌های HTC One X و Samsung Galaxy S III می‌باشد.</Sentence>
+    <Sentence ID="rev-4" Value="0">از لحاظ ظاهری می‌توان گفت که گوشی PadFone 2 مدل بزرگ‌تر شده گوشی PadFone است.</Sentence>
+    <Sentence ID="rev-5" Value="0">قاب پشتی به همان بافت‌های حلقه ای مخصوص تبلت ها و نوت بوک های ایسوس به نام Zen مزین شده است که نه تنها از جذب اثر انگشت جلوگیری می‌کند،  بلکه از لیز خوردن گوشی در دست شما نیز جلوگیری می‌کند.</Sentence>
+    <Sentence ID="rev-6" Value="0">در کل همان‌طور که از یک محصول ساخت کمپانی ایسوس انتظار می‌رفت،  کیفیت ساخت گوشی بسیار خوب بوده و بدنه از استحکام بالایی برخوردار است.</Sentence>
+    <Sentence ID="rev-7" Value="0">در جلوی گوشی صفحه نمایش عریض 4.7 اینچی قرار دارد که در بالای آن دوربین دوم 1.2 مگاپیکسلی تعبیه شده است.</Sentence>
+    <Sentence ID="rev-8" Value="0">برخلاف مدل پیشین،  PadFone 2 از کلیدهای نرم افزاری برای کنترل قسمت‌های مختلف سیستم عامل استفاده نکرده و در پایین صفحه نمایش،  سه کلید سخت افزاری لمسی خازنی وجود دارند.</Sentence>
+    <Sentence ID="rev-9" Value="0">یکی از تغییرات اصلی ایجاد شده در PadFone 2 مربوط به پورت اتصال آن می‌باشد.</Sentence>
+    <Sentence ID="rev-10" Value="0">ایسوس در پایین این گوشی یک پورت ترکیبی قرار داده که آن را MHL می‌نامد.</Sentence>
+    <Sentence ID="rev-11" Value="0">این پورت نه تنها می‌تواند مانند یک درگاه micro-USB عمل کند،  بلکه وظیفه انتقال اطلاعات،  داده‌ها و انرژی بین داک تبلت و گوشی را بر عهده دارد.</Sentence>
+    <Sentence ID="rev-12" Value="0">در سمت راست گوشی به ترتیب،  کلید پاور و کلیدهای کم و زیاد کردن صدا قرار دارند.</Sentence>
+    <Sentence ID="rev-13" Value="0">در سمت چپ گوشی هیچ کلیدی وجود نداشته و نهایتا در بالای آن،  خروجی صوتی 3.5 میلی‌متری و شیار میکرو سیم کارت قرار گرفته‌اند.</Sentence>
+    <Sentence ID="rev-14" Value="0">لازم به ذکر است که برای خارج کردن شیار میکرو سیم کارت باید از یک پین یا سوزن استفاده کنید.</Sentence>
+    <Sentence ID="rev-15" Value="0">PadFone 2 در سه مدل 16،  32 و 64 گیگابایتی وجود دارد ولی متاسفانه این گوشی از کارت‌های حافظه microSD پشتیبانی نمی‌کند.</Sentence>
+    <Sentence ID="rev-16" Value="0">اما پس از خود گوشی نوبت به داک تبلت آن می‌رسد که همراه با گوشی عرضه می‌شود.</Sentence>
+    <Sentence ID="rev-17" Value="0">این داک دارای یک صفحه نمایش 10.1 اینچی بوده و داخل آن یک باتری 5000 میلی آمپر-ساعت قرار داده شده است.</Sentence>
+    <Sentence ID="rev-18" Value="0">در بالا-سمت چپ داک،  کلید های کم و زیاد کردن صدا و کلید پاور قرار داشته و در بالای صفحه نمایش،  دوربین دوم یک مگاپیکسلی تعبیه شده است.</Sentence>
+    <Sentence ID="rev-19" Value="0">در زیر تبلت نیز همانند خود گوشی،  پورت 13 پینی MHL قرار دارد.</Sentence>
+    <Sentence ID="rev-20" Value="0">متاسفانه بر خلاف مدل پیشین،  PadFone 2 دارای کیبورد جداگانه نبوده و نمی‌توان از آن به عنوان یک نت بوک استفاده کرد و این موضوع ممکن است باعث شود که تعدادی از دارندگان مدل پیشین،  تمایل خود را برای ارتقا به PadFone 2 از دست بدهند.</Sentence>
+    <Sentence ID="rev-21" Value="0">سیستم قرارگیری گوشی در داک تبلت در مدل جدید به طور کامل تغییر کرده است.</Sentence>
+    <Sentence ID="rev-22" Value="0">PadFone 2 دیگر دارای یک محفظه با درب جداگانه برای نگهداری گوشی نمی‌باشد.</Sentence>
+    <Sentence ID="rev-23" Value="0">در پشت PadFone 2 شکافی برای قرارگیری گوشی طراحی شده که گوشی در آن قرار می‌گیرد و هیچ دربی برای محافظت از آن وجود ندارد.</Sentence>
+    <Sentence ID="rev-24" Value="0">ممکن است این نگرانی برای خریداران PadFone 2 پیش آید که آیا احتمال این وجود دارد که بر اثر حرکت دادن داک،  گوشی از داخل آن به بیرون پرت شود؟</Sentence>
+    <Sentence ID="rev-25" Value="0">جواب این سوال منفیست.</Sentence>
+    <Sentence ID="rev-26" Value="0">شکافی که گوشی در آن قرار می‌گیرد دارای تعدادی دنده پلاستیکی بوده و همانند سیستم کمربند خودرو عمل می‌کند.</Sentence>
+    <Sentence ID="rev-27" Value="0">بدین صورت که اگر گوشی را به آرامی از این شکاف به بیرون بکشید،  می‌توانید آن را بدون هیچ‌گونه مشکلی از داک خارج کنید ولی اگر با حرکات سریع این کار را کرده و یا ضربه ای به بدنه داک وارد کنید،  گوشی در جای خود محکم باقی خواهد ماند.</Sentence>
+    <Sentence ID="rev-28" Value="0">اما بزرگ‌ترین نقطه ضعف مدل اول PadFone،  ضخامت و وزن بالای داک تبلت بود و هنگامی که گوشی را داخل داک تبلت قرار می‌دادید،  وزن کلی دستگاه به 850 گرم می‌رسید.</Sentence>
+    <Sentence ID="rev-29" Value="0">(یعنی تقریبا 200 گرم سنگین‌تر از iPad 4) اما ایسوس در مدل جدید،  با تغییر طراحی داک و سیستم قرارگیری گوشی داخل آن،  توانسته است وزن داک را بیش از 200 گرم کاهش داده و هنگامی که PadFone 2 را داخل داک آن قرار می‌دهید،  وزن کلی دستگاه تنها 649 گرم خواهد بود.</Sentence>
+    <Sentence ID="rev-30" Value="0">(یعنی 10 گرم سبک‌تر از iPad 4)• صفحه نمایش و بلندگوهاگوشی PadFone 2 دارای یک صفحه نمایش عریض 4.7 اینچی از نوع Super IPS+ LCD بوده و از تکنولوژی IGZO کمپانی شارپ نیز بهره می‌برد که طبق ادعای این کمپانی،  انرژی کمتری مصرف کرده و طول عمر بالاتری نسبت به صفحات LCD معمولی دارد.</Sentence>
+    <Sentence ID="rev-31" Value="0">دقت این صفحه نیز HD یعنی 720x1280 می‌باشد که تراکم پیکسلی بسیار بالای 312ppi را ارائه می‌دهد.</Sentence>
+    <Sentence ID="rev-32" Value="0">روشنایی این صفحه نمایش 550nit است.</Sentence>
+    <Sentence ID="rev-33" Value="0">چنین روشنایی بالایی به کاربران PadFone 2 امکان می‌دهد که به راحتی در فضاهای خارجی و یا در زیر تابش مستقیم نور آفتاب با گوشی خود کار کنند.</Sentence>
+    <Sentence ID="rev-34" Value="0">در مجموع می‌توان گفت که کیفیت صفحه نمایش این گوشی فوق‌العاده است و به راحتی می‌تواند با گوشی‌های رده بالای بازار مانند HTC One X و Samsung Galaxy S III رقابت کند.</Sentence>
+    <Sentence ID="rev-35" Value="0">داک تبلت نیز دارای صفحه نمایشی 10.1 اینچی با پنل IPS LCD و دقت 1280x800 است.</Sentence>
+    <Sentence ID="rev-36" Value="0">یعنی دقیقا همان صفحه نمایشی که در تبلت Transformer Pad 300 نیز استفاده شده است.</Sentence>
+    <Sentence ID="rev-37" Value="0">اما مهم‌ترین نکته در مورد این دو صفحه نمایش،  تکنولوژی DynamicDisplay این دستگاه است.</Sentence>
+    <Sentence ID="rev-38" Value="0">به لطف بهره گیری از این تکنولوژی،  به محض قرار دادن گوشی در داک تبلت،  هر آنچه را که بر روی گوشی خود مشاهده می‌کردید،  بر روی صفحه بزرگ تبلت نیز مشاهده خواهید کرد که در مورد این قابلیت در بخش نرم افزار،  توضیحات کامل‌تری خواهیم داد.</Sentence>
+    <Sentence ID="rev-39" Value="0">یکی از قسمت‌هایی که در محصولات دیجیتالی،  همواره از اهمیت ویژه ای برای ایسوس برخوردار بوده است،  کیفیت صوتی دستگاه است.</Sentence>
+    <Sentence ID="rev-40" Value="0">نوت بوک ها و تبلت های ایسوس به داشتن بلندگوهای با کیفیت و قدرتمند شهرت داشته‌اند و PadFone 2 نیز از این قاعده مستثنی نیست.</Sentence>
+    <Sentence ID="rev-41" Value="">تیم صوتی این کمپانی که Golden Ear نام دارد،  مسئولیت طراحی بلندگوهای این محصول را نیز بر عهده داشته‌اند.</Sentence>
+    <Sentence ID="rev-42" Value="">هم گوشی و هم داک تبلت،  از تکنولوژی انحصاری صوتی ایسوس یعنی SonicMaster بهره می‌برند و کیفیت صدای بسیار خوبی را ارائه می‌دهند.</Sentence>
+    <Sentence ID="rev-43" Value="">در سمت چپ قاب پشتی داک،  یک بلندگوی مونو قرار گرفته است.</Sentence>
+    <Sentence ID="rev-44" Value="">همانند داک مدل پیشین،  بلندگوی داک PadFone 2 نیز صدایی بسیار شفاف و قدرتمند تولید می‌کند و تنها کافیست که گوشی را در شکاف داک قرار داده و از گوش کردن به موسیقی و یا تماشای فیلم لذت ببرید.</Sentence>
+    <Sentence ID="rev-45" Value="">به علاوه برنامه ای به طور پیش فرض به نام AudioWizard بر روی گوشی نصب شده است که برای شما امکان انتخاب بین حالت‌های مختلف صوتی (موسیقی،  فیلم،  بازی و .</Sentence>
+    <Sentence ID="rev-46" Value="">) را برای بلندگوهای دستگاه فراهم می‌کند.</Sentence>
+    <Sentence ID="rev-47" Value="">• سخت افزار داخلی و باتریPadFone 2 از چیپ 28 نانومتری Snapdragon S4 Pro کمپانی Qualcomm بهره می‌برد.</Sentence>
+    <Sentence ID="rev-48" Value="">این چیپ دارای پردازنده چهار هسته ای Krait با فرکانس 1.5 گیگاهرتز و پردازشگر گرافیکی Adreno 320 می‌باشد که در حال حاضر قدرتمندترین سخت افزار موجود بر روی گوشی‌های اندرویدی است و بسیار سریع‌تر از پردازنده های قرار داده شده بر روی گوشی‌های رده بالای HTC One X و Samsung Galaxy S III می‌باشد.</Sentence>
+    <Sentence ID="rev-49" Value="">به علاوه این گوشی دارای دو گیگابایت حافظه RAM می‌باشد که تضمین کننده اجرای بی عیب و نقص چندین برنامه به صورت همزمان است.</Sentence>
+    <Sentence ID="rev-50" Value="">PadFone 2 دارای یک باتری قدرتمند لیتیوم-پلیمری 2140 میلی آمپر-ساعتی می‌باشد.</Sentence>
+    <Sentence ID="rev-51" Value="">با توجه به صفحه نمایش IGZO کم مصرف و پردازنده بهینه این گوشی،  مصرف باتری آن بسیار مناسب بوده و می‌تواند در مصارف روزمره بین یک تا دو روز کامل شارژدهی کند.</Sentence>
+    <Sentence ID="rev-52" Value="">اما داخل داک تبلت،  یک باتری 5000 میلی آمپر-ساعت تعبیه شده است.</Sentence>
+    <Sentence ID="rev-53" Value="">به دلیل کاهش ضخامت و وزن دستگاه،  به ناچار باتری ضعیف‌تری نسبت به مدل اولیه PadFone در داک تبلت قرار داده است (داک مدل پیشین دارای باتری 6600 میلی آمپر-ساعت بود).</Sentence>
+    <Sentence ID="rev-54" Value="">با این وجود،  هنگامی که گوشی را در شیار داک قرار می‌دهید،  باتری 5000 میلی آمپر-ساعتی فعال شده و می‌توانید به طور متوسط تا دو روز کامل از آن استفاده کنید که شارژدهی بالایست.</Sentence>
+    <Sentence ID="rev-55" Value="">بنابراین در کل کاربران PadFone 2 نگرانی خاصی بابت شارژدهی باتری نخواهند داشت.</Sentence>
+    <Sentence ID="rev-56" Value="">• نرم افزار و دوربینPadFone 2 به طور پیش فرض از نسخه 4.0 سیستم عامل اندروید با نام بستنی حصیری استفاده می‌کند ولی ایسوس وعده داده است که تا پایان سال جاری میلادی،  این گوشی به اندروید 4.1 نیز آپدیت خواهد شد.</Sentence>
+    <Sentence ID="rev-57" Value="">با توجه به اینکه مدل پیشین نیز از اندروید 4.0 استفاده می‌کرد،  تفاوت نرم افزاری خاصی بین PadFone و PadFone 2 وجود ندارد.</Sentence>
+    <Sentence ID="rev-58" Value="">همانند اکثر محصولات اندرویدی ایسوس،  PadFone 2 نیز از رابط استاندارد اندروید 4.0 استفاده می‌کند که کمی توسط ایسوس تغییر یافته است و از آنجایی که PadFone 2 از پردازنده و پردازشگر گرافیکی قوی‌تری نسبت به مدل پیشین استفاده می‌کند،  محیط سیستم عامل روان‌تر و سریع‌تر است.</Sentence>
+    <Sentence ID="rev-59" Value="">همانند تمام محصولات اندرویدی که از نسخه های 4.0 و جدیدتر این سیستم عامل استفاده می‌کنند،  PadFone 2 نیز به طور کامل از زبان فارسی پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-60" Value="">ایسوس تعدادی برنامه و ویجت خاص به طور پیش فرض بر روی این محصول قرار داده است که از مهم‌ترین آن‌ها می‌توان به برنامه SuperNote اشاره کرد که یک دفترچه یادداشت کامل بوده و از قابلیت تشخیص دست خط نیز بهره می‌برد.</Sentence>
+    <Sentence ID="rev-61" Value="">برنامه دیگری که لازم است به آن اشاره کنیم،  ASUS Gallery نام دارد که در حقیقت همان گالری استاندارد اندروید است ولی با ظاهری زیباتر و منظم‌تر.</Sentence>
+    <Sentence ID="rev-62" Value="">اما یکی از بهترین و کاربردی‌ترین امکاناتی که ایسوس به این گوشی اضافه کرده است دیکشنری Instant Dictionary است.</Sentence>
+    <Sentence ID="rev-63" Value="">با فعال کردن این دیکشنری می‌توانید در مرورگری اینترنتی و یا قسمت‌های مختلف دیگر،  در هر زمان با انتخاب آیکونی که سمت چپ تصویر قرار دارد،  لغات انتخاب شده را به زبان مورد نظر ترجمه کنید.</Sentence>
+    <Sentence ID="rev-64" Value="">لازم به ذکر است که این دیکشنری از زبان فارسی نیز پشتیبانی می‌کند.</Sentence>
+    <Sentence ID="rev-65" Value="">در ضمن ایسوس به تمام خریداران PadFone 2،  پنجاه گیگابایت فضای مجازی به صورت رایگان و برای دو سال هدیه می‌دهد.</Sentence>
+    <Sentence ID="rev-66" Value="">اما همانند مدل پیشین،  DynamicDisplay مهم‌ترین و جالب‌ترین قابلیت این محصول محسوب می‌شود.</Sentence>
+    <Sentence ID="rev-67" Value="">ایسوس ادعا کرده است که به کمک این قابلیت،  هنگامی که گوشی را داخل داک تبلت قرار می‌دهید،  هر کاری را که بر روی گوشی خود انجام می‌دهید،  می‌توانید بر روی تبلت ادامه دهید.</Sentence>
+    <Sentence ID="rev-68" Value="">اما در عمل این قابلیت تنها بر روی تعداد محدودی از برنامه های از پیش نصب شده کار می‌کند و مثلا نمی‌توان از این قابلیت در بازی‌ها و یا برنامه های جانبی پخش ویدئو استفاده کرد.</Sentence>
+    <Sentence ID="rev-69" Value="">PadFone 2 در زمینه دوربین پیشرفت چشمگیری نسبت به مدل پیشین داشته است.</Sentence>
+    <Sentence ID="rev-70" Value="">در پشت این گوشی یک دوربین 13 مگاپیکسلی با سنسور BSI قرار دارد که توسط کمپانی سونی طراحی شده است و توانایی فیلم‌برداری Full HD 1080p با سرعت 30 فریم بر ثانیه و HD 720p با سرعت 60 فریم بر ثانیه را دارد.</Sentence>
+    <Sentence ID="rev-71" Value="">در حقیقت می‌توان PadFone 2 را اولین گوشی دانست که می‌تواند با سرعت 60 فریم بر ثانیه و در کیفیت HD 720p فیلم‌برداری کند.</Sentence>
+    <Sentence ID="rev-72" Value="">رابط کاربری دوربین نیز تغییرات زیادی داشته و قابلیت‌ها و افکت‌های فراوانی به آن اضافه شده است.</Sentence>
+    <Sentence ID="rev-73" Value="">• جمع بندیPadFone 2 جهشی بزرگ نسبت به مدل پیشین و به طور کلی یکی از بهترین محصولات دیجیتال ساخته شده تا به این تاریخ است.</Sentence>
+    <Sentence ID="rev-74" Value="">حتی بدون در نظر گرفتن داک تبلت،  باید گفت که PadFone 2 یکی از بهترین و قدرتمندترین گوشی‌های اندرویدی موجود در بازار است و بسیار بهتر از رقبایی چون Samsung Galaxy S III،  HTC One X و LG Optimus 4X HD می‌باشد.</Sentence>
+    <Sentence ID="rev-75" Value="">شاید تنها نقطه ضعف این محصول را بتوان عدم استفاده آن از اندروید 4.1 به طور پیش فرض دانست ولی از آنجایی که ایسوس در ارائه آپدیت های نرم افزاری برای محصولات خود بسیار سریع بوده است،  انتظار می‌رود که تا پایان سال 2012،  آپدیت Jelly Bean برای این محصول نیز منتشر شود.</Sentence>
+    <Sentence ID="rev-76" Value="">در نهایت باید بگوییم که PadFone 2 یک محصول بی نظیر و یک ترکیب عالی از سخت افزار و نرم افزار است و ایسوس بار دیگر ثابت کرد که یکی از بهترین تولیدکنندگان قطعات دیجیتالی در جهان می‌باشد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>تبدیل گوشی به تبلت 10.1 اینچی در کسری از ثانیه به کمک تکنولوژی DynamicDisplay</Advantage>
+    <Advantage>طراحی بسیار زیبا با الگوی Zen در قاب پشتی</Advantage>
+    <Advantage>بدنه مستحکم و با کیفیت</Advantage>
+    <Advantage>داک تبلت بسیار باریک و سبک</Advantage>
+    <Advantage>صفحه نمایش عالی 4.7 اینچی از نوع Super IPS+ LCD با دقت HD و بهره گیری از تکنولوژی IGZO</Advantage>
+    <Advantage>کیفیت عالی بلندگوهای گوشی و تبلت</Advantage>
+    <Advantage>قدرتمندترین سخت افزار بر روی گوشی‌های اندرویدی تا تاریخ عرضه محصول</Advantage>
+    <Advantage>مجهز به چیپ Snapdragon S4 Pro با پردازنده چهار هسته ای Krait</Advantage>
+    <Advantage>2 گیگابایت حافظه RAM</Advantage>
+    <Advantage>باتری‌های قدرتمند 2140 میلی آمپر-ساعتی در گوشی و 5000 میلی آمپر-ساعتی در تبلت</Advantage>
+    <Advantage>برنامه های از پیش نصب شده کاربردی</Advantage>
+    <Advantage>دارای دیکشنری پویا با پشتیبانی از زبان فارسی</Advantage>
+    <Advantage>دوربین 13 مگاپیکسلی با سنسور BSI با قابلیت فیلم‌برداری Full HD</Advantage>
+    <Advantage>امکان فیلم‌برداری با کیفیت HD 720p و سرعت 60 فریم بر ثانیه</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>فقدان درگاه کارت حافظه microSD</Disadvantage>
+    <Disadvantage>عدم استفاده از اندروید 4.1 به طور پیش فرض</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="saeed " Value="+2">
+      <Sentence ID="gr-1-1" Value="+2">محشره.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="محمد مهدي بهروزفر " Value="+2">
+      <Sentence ID="gr-2-1" Value="0">اين گوشي واقعا به يکي از بهترين گوشي هايي که تا به اين تاريخ ساخته شده است  تبديل شده!</Sentence>
+      <Sentence ID="gr-2-2" Value="+2">حتي ميشه گفت از سامسونگ و اچ تي سي هم گذشته
+از همه لحاظ عالي ساخته شده
+هم ديزاينش و هم سخت افزارش!</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="احمد انصاري نيا " Value="0">
+      <Sentence ID="gr-3-1" Value="0">اگه تراکم صفحه تبلتش هم بالا بود تو خريدش شک نميکردم ولي حالا اگه گوشيش به صورت جدا فروخته بشه ميخرم، واقعا سخت افزارش غوله !</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="رضا احمدي " Value="+2">
+      <Sentence ID="gr-4-1" Value="0">محشره.</Sentence>
+      <Sentence ID="gr-4-2" Value="0">بي صبرانه منتظرم که به بازار بياد بگيرمش.</Sentence>
+      <Sentence ID="gr-4-3" Value="0">هميشه منتظر همچين چيزي بودم.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="فرشيد سلطاني " Value="+2">
+      <Sentence ID="gr-5-1" Value="0">همين که ايسوس خودش خيليه.</Sentence>
+      <Sentence ID="gr-5-2" Value="0">وگرنه که امکاناتش هم عاليه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="فرشيد احمدي آرا " Value="0">
+      <Sentence ID="gr-6-1" Value="0">عدم پشتيباني از حافظه جانبي مشکل چندان مهمي نيست و نسبت ساير قابليت ها زياد به چشم نمي ياد.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="daruosh " Value="0">
+      <Sentence ID="gr-7-1" Value="0">خيلي ازش خوشم اومد،  بايد ببينيم قيمتش چنده اين مهمه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="amirhoseinhajiabadi " Value="+1">
+      <Sentence ID="gr-8-1" Value="+1">پدفون 2 دوربين خوبي داره </Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Critical_Reviews>
+    <Critical_Review ID="cr-1" Holder="سينا مقصودلو" Score="29" Voters="35" Value="0">
+      <Sentence ID="cr-1-1" Value="0">سلام.</Sentence>
+      <Sentence ID="cr-1-2" Value="0">به نظر من اين گوشي يکي از بهترين پردازنده ها رو داره: چيب قبلي snapdragon که تونست بيشتر از 4 هسته اي ها رو شکست بده 2 هسته اي بود .</Sentence>
+      <Sentence ID="cr-1-3" Value="0">ولي چيپ snapdragon موجود روي اين گوشي از نوع 4  هسته اي snapdragon  e.</Sentence>
+      <Sentence ID="cr-1-4" Value="0">صفحه نمايش اين گوشي هم داراي يکي از بيشترين روشنايي هاست.</Sentence>
+      <Sentence ID="cr-1-5" Value="0">که اين روشنايي به دليل وجود پنل Super IPS + و تکنولوزي IGZO است.</Sentence>
+      <Sentence ID="cr-1-6" Value="0">پنل Super IPS + روي اين گوشي بر روي تبلت TF700T ايسوز هم وجود دارد.</Sentence>
+      <Sentence ID="cr-1-7" Value="0">من خودم اين تبلت رو دارم و واقعا از روشنايي صفحش راضيم.</Sentence>
+      <Sentence ID="cr-1-8" Value="+1">اگه در مورد Update شدنه گوشي به Android 4.1 شک دارين اصلا نگران نباشين چون Update  هاي ايسوز مرتب و سر وقته.</Sentence>
+      <Sentence ID="cr-1-9" Value="0">همينطور با يه Update به 4.1 Upgrade نميشه براي اينکه مشکلي پيش نياد توي 3 - 4 Update  Upgrade ميشه.2 گيگا بايت رم هم باعث ميشه شما بتونين به راحتي از قابليت Multi Tasking  استفاده کنين.</Sentence>
+      <Sentence ID="cr-1-10" Value="0">در آخر مي تونم بگم اگه PadFone 2  داک کيبورد رو هم پشتيباني مي کرد مي تونست به يک رويا تبديل بشه.</Sentence>
+    </Critical_Review>
+    <Critical_Review ID="cr-2" Holder="محمد فرخي" Score="20" Voters="48" Value="0">
+      <Sentence ID="cr-2-1" Value="0">محصولي بين يک موبايل و تبلت !</Sentence>
+      <Sentence ID="cr-2-2" Value="0">هر چند اکنون شاهد گوشي هايي با صفحه تصاوير بزرگ (حتي گاهي بزرگ تر از اين پدفون) هستيم داراي سايز مناسبي هست و حمل اون از ميني تبلت هاي 7 اينچي آسون تر هست و کارايي هاي يک گوشي هوشمند (تماس صوتي - ارسال پيامک و .</Sentence>
+      <Sentence ID="cr-2-3" Value="0">) رو هم داره از لحاظ سخت افزاري با LG Optimus G E973 تقريبا در يک سطح قرار داره بارزترين ويژگي اين گوشي داک اون هست که ميتونيد گوشي رو تبديل به يک تبلت بکنيد هر چند ممکنه احساس يکپارچگي خوبي در محصولتون نکنيد براي کساني که توانايي مالي تهيه يک تبلت قدرتمند و يک گوشي به روز رو ندارند انتخاب خوبي هست البته دردسر هاي اشتراک و سينک کردن اطلاعات رو بين تبلت و گوشي رو ديگر با اين محصول نخواهيد داشت که اين ويژگي ميتونه کمبود پورت يو اس بي اين محصول رو تا حدودي جبران بکنه ظاهر گوشي کمي شبيه گلگسي اس 3 هست خوب بود که از آندروييد 4.1 به طور پيشفرض استفاده کنه براي کساني که به برند ايسوس علاقه دارند ميتونه انتخاب خوبي باشه</Sentence>
+    </Critical_Review>
+  </Critical_Reviews>
+  <Voters Value="32" />
+  <Performance Value="8.30" />
+  <Capability Value="8.30" />
+  <Production_Quality Value="8.20" />
+  <Ergonomics Value="8.10" />
+  <Purchase_Value Value="7.70" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1001" Root="طول" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1002" Root="وزن" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="ضخامت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1004" Root="گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1005" Root="کیفیت ساخت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1006" Root="بدنه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1007" Root="صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1009" Root="کلید" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10010" Root="تغییرات" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="پورت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10012" Root="خروجی صوتی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10013" Root="سمت چپ گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10014" Root="بالای گوشی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="کارت حافظه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10016" Root="مدل" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10017" Root="داک" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="نقطه ضعف" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10019" Root="گوشي" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10020" Root="طراحی" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="سخت افزار" Relation="gr-2" />
+    <Tag Type="Target(M)" ID="elementID10022" Root="سخت افزار" Relation="gr-3" />
+    <Tag Type="Target(M)" ID="elementID10023" Root="امکانات" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID10024" Root="حافظه جانبي" Relation="gr-6" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="قیمت" Relation="gr-7" />
+    <Tag Type="Target(M)" ID="elementID10026" Root="دوربين" Relation="gr-8" />
+    <Tag Type="Target(M)" ID="elementID10027" Root="پردازنده" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="صفحه نمايش" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10029" Root="روشنایی صفحه" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10030" Root="به روز رسانی" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="رم" Relation="cr-1" />
+    <Tag Type="Target(M)" ID="elementID10032" Root="سايز" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10033" Root="حمل" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="گوشي" Relation="cr-2" />
+    <Tag Type="Target(M)" ID="elementID10035" Root="ظاهر" Relation="cr-2" />
+    <Tag Type="Target(I)" ID="tagID10036" Coordinate="[rev-2,32,35]" Relation="elementID1001" Value="" />
+    <Tag Type="Opinion" ID="tagID10074" Coordinate="[rev-2,19,31]" Relation="tagID10036" Value="" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-3,17,20]" Relation="elementID1002" Value="" />
+    <Tag Type="Opinion" ID="tagID10075" Coordinate="[rev-3,9,16]" Relation="tagID10037" Value="" />
+    <Tag Type="Target(I)" ID="tagID10038" Coordinate="[rev-2,49,54]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-2,38,48]" Relation="tagID10038" Value="" />
+    <Tag Type="Target(I)" ID="tagID10039" Coordinate="[rev-2,145,153]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10077" Coordinate="[rev-2,135,144]" Relation="tagID10039" Value="" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[rev-20,29,38]" Relation="elementID1004" Value="" />
+    <Tag Type="Opinion" ID="tagID10078" Coordinate="[rev-20,45,65]" Relation="tagID10040" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10041" Coordinate="[rev-6,64,74]" Relation="elementID1005" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[rev-6,80,89]" Relation="tagID10041" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10042" Coordinate="[rev-6,97,101]" Relation="elementID1006" Value="" />
+    <Tag Type="Opinion" ID="tagID10080" Coordinate="[rev-6,105,119]" Relation="tagID10042" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[rev-7,13,23]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-7,24,28]" Relation="tagID10043" Value="" />
+    <Tag Type="Opinion" ID="tagID10082" Coordinate="[rev-7,29,38]" Relation="tagID10043" Value="" />
+    <Tag Type="Target(I)" ID="tagID10044" Coordinate="[rev-30,77,87]" Relation="elementID1007" Value="" />
+    <Tag Type="Opinion" ID="tagID10083" Coordinate="[rev-30,88,92]" Relation="tagID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-30,93,102]" Relation="tagID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10085" Coordinate="[rev-30,110,124]" Relation="tagID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10086" Coordinate="[rev-30,135,148]" Relation="tagID10044" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-30,203,219]" Relation="tagID10044" Value="+" />
+    <Tag Type="Opinion" ID="tagID10088" Coordinate="[rev-30,227,242]" Relation="tagID10044" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10045" Coordinate="[rev-7,64,74]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10089" Coordinate="[rev-7,75,88]" Relation="tagID10045" Value="" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-8,129,133]" Relation="elementID1009" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[rev-8,145,155]" Relation="tagID10046" Value="" />
+    <Tag Type="Target(I)" ID="tagID10047" Coordinate="[rev-9,7,19]" Relation="elementID10010" Value="" />
+    <Tag Type="Opinion" ID="tagID10091" Coordinate="[rev-9,52,62]" Relation="tagID10047" Value="" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-11,4,8]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10092" Coordinate="[rev-11,35,50]" Relation="tagID10048" Value="" />
+    <Tag Type="Opinion" ID="tagID10093" Coordinate="[rev-11,72,86]" Relation="tagID10048" Value="" />
+    <Tag Type="Target(I)" ID="tagID10049" Coordinate="[rev-13,60,70]" Relation="elementID10012" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-13,71,84]" Relation="tagID10049" Value="" />
+    <Tag Type="Target(I)" ID="tagID10050" Coordinate="[rev-13,3,14]" Relation="elementID10013" Value="" />
+    <Tag Type="Opinion" ID="tagID10095" Coordinate="[rev-13,15,36]" Relation="tagID10050" Value="" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-13,49,57]" Relation="elementID10014" Value="" />
+    <Tag Type="Opinion" ID="tagID10096" Coordinate="[rev-13,60,70]" Relation="tagID10051" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[rev-13,87,106]" Relation="tagID10051" Value="" />
+    <Tag Type="Target(I)" ID="tagID10052" Coordinate="[rev-15,78,100]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10098" Coordinate="[rev-15,101,117]" Relation="tagID10052" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10053" Coordinate="[rev-15,16,19]" Relation="elementID10016" Value="" />
+    <Tag Type="Opinion" ID="tagID10099" Coordinate="[rev-15,20,22]" Relation="tagID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[rev-15,25,27]" Relation="tagID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID100101" Coordinate="[rev-15,30,42]" Relation="tagID10053" Value="" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-17,4,7]" Relation="elementID10017" Value="" />
+    <Tag Type="Opinion" ID="tagID100102" Coordinate="[rev-17,17,38]" Relation="tagID10054" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[rev-17,57,82]" Relation="tagID10054" Value="" />
+    <Tag Type="Target(I)" ID="tagID10055" Coordinate="[rev-28,14,22]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID100104" Coordinate="[rev-28,41,67]" Relation="tagID10055" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[gr-2-1,4,8]" Relation="elementID10019" Value="" />
+    <Tag Type="Opinion" ID="tagID100105" Coordinate="[gr-2-1,25,31]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10057" Coordinate="[gr-2-2,74,81]" Relation="elementID10020" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-2-2,56,60]" Relation="tagID10057" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10058" Coordinate="[gr-2-2,87,97]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID100107" Coordinate="[gr-2-2,56,60]" Relation="tagID10058" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[gr-3-1,108,118]" Relation="elementID10022" Value="" />
+    <Tag Type="Opinion" ID="tagID100108" Coordinate="[gr-3-1,119,123]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10060" Coordinate="[gr-5-2,9,17]" Relation="elementID10023" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[gr-5-2,21,26]" Relation="tagID10060" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10061" Coordinate="[gr-6-1,16,27]" Relation="elementID10024" Value="" />
+    <Tag Type="Opinion" ID="tagID100110" Coordinate="[gr-6-1,0,12]" Relation="tagID10061" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[gr-7-1,33,38]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID100111" Coordinate="[gr-7-1,48,52]" Relation="tagID10062" Value="" />
+    <Tag Type="Target(I)" ID="tagID10063" Coordinate="[gr-8-1,8,14]" Relation="elementID10026" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[gr-8-1,15,19]" Relation="tagID10063" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10064" Coordinate="[cr-1-2,33,41]" Relation="elementID10027" Value="" />
+    <Tag Type="Opinion" ID="tagID100113" Coordinate="[cr-1-2,26,32]" Relation="tagID10064" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10065" Coordinate="[cr-1-4,0,10]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID100114" Coordinate="[cr-1-4,36,51]" Relation="tagID10065" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[cr-1-7,36,48]" Relation="elementID10029" Value="" />
+    <Tag Type="Opinion" ID="tagID100115" Coordinate="[cr-1-7,49,54]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10067" Coordinate="[cr-1-8,75,81]" Relation="elementID10030" Value="" />
+    <Tag Type="Opinion" ID="tagID100116" Coordinate="[cr-1-8,93,97]" Relation="tagID10067" Value="+" />
+    <Tag Type="Opinion" ID="tagID100117" Coordinate="[cr-1-8,100,107]" Relation="tagID10067" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10068" Coordinate="[cr-1-9,111,113]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID100118" Coordinate="[cr-1-9,99,110]" Relation="tagID10068" Value="" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[cr-2-2,92,96]" Relation="elementID10032" Value="" />
+    <Tag Type="Opinion" ID="tagID100119" Coordinate="[cr-2-2,97,103]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10070" Coordinate="[cr-2-2,110,113]" Relation="elementID10033" Value="" />
+    <Tag Type="Opinion" ID="tagID100120" Coordinate="[cr-2-2,143,150]" Relation="tagID10070" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10071" Coordinate="[cr-2-2,171,175]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID100121" Coordinate="[cr-2-2,176,182]" Relation="tagID10071" Value="+" />
+    <Tag Type="Opinion" ID="tagID100122" Coordinate="[cr-2-2,157,167]" Relation="tagID10071" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[cr-2-3,99,103]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID100123" Coordinate="[cr-2-3,104,107]" Relation="tagID10072" Value="" />
+    <Tag Type="Opinion" ID="tagID100124" Coordinate="[cr-2-3,284,295]" Relation="tagID10072" Value="+" />
+    <Tag Type="Opinion" ID="tagID100125" Coordinate="[cr-2-3,416,435]" Relation="tagID10072" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10073" Coordinate="[cr-2-3,469,473]" Relation="elementID10035" Value="" />
+    <Tag Type="Opinion" ID="tagID100126" Coordinate="[cr-2-3,479,498]" Relation="tagID10073" Value="" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1001" Coordinate="[rev-6,80,89]" Value="+" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-6,105,119]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[gr-1-1,0,5]" Value="+" />
+    <Keyword ID="keywordID1004" Coordinate="[gr-2-1,25,31]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[gr-2-2,56,60]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[gr-4-1,0,5]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[gr-5-2,21,26]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[gr-8-1,15,19]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[cr-1-2,26,32]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[cr-1-4,36,51]" Value="+" />
+    <Keyword ID="keywordID10011" Coordinate="[cr-1-7,49,54]" Value="+" />
+    <Keyword ID="keywordID10012" Coordinate="[cr-1-8,93,97]" Value="+" />
+    <Keyword ID="keywordID10013" Coordinate="[cr-1-8,100,107]" Value="+" />
+    <Keyword ID="keywordID10014" Coordinate="[cr-2-2,97,103]" Value="+" />
+    <Keyword ID="keywordID10015" Coordinate="[cr-2-2,143,150]" Value="+" />
+    <Keyword ID="keywordID10016" Coordinate="[cr-2-2,176,182]" Value="+" />
+    <Keyword ID="keywordID10017" Coordinate="[cr-2-2,157,167]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[cr-2-3,284,295]" Value="+" />
+    <Keyword ID="keywordID10019" Coordinate="[cr-2-3,416,435]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="20" />
+    <Tag_Index Value="127" />
+  </Index>
+</Product>

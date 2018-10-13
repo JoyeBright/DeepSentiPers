@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product Title="Samsung Galaxy Note N5100 - 16GB" Type="Tablet">
+  <Features>
+    <Feature Name="ابعاد ">211 × 136 × 8 mm</Feature>
+    <Feature Name="وزن ">338 گرم</Feature>
+    <Feature Name="رنگ ">مشکی، سفید/نقره ای</Feature>
+    <Feature Name="سازنده پردازنده ">Exynos</Feature>
+    <Feature Name="مدل پردازنده "> Exynos 4412 Chipset, Quad-Core Cortex-A9 CPU </Feature>
+    <Feature Name="سرعت پردازنده ">1.6GHz</Feature>
+    <Feature Name="حافظه رم ">2.0 GB</Feature>
+    <Feature Name="نوع حافظه رم ">-</Feature>
+    <Feature Name="نوع دیسک درایو ">حافظه داخلی</Feature>
+    <Feature Name="ظرفیت دیسک درایو ">16 GB</Feature>
+    <Feature Name="مدل پردازنده گرافیک ">Mali-400MP</Feature>
+    <Feature Name="صفحه نمایش لمسی ">بلی</Feature>
+    <Feature Name="نوع صفحه نمایش ">LCD</Feature>
+    <Feature Name="نوع صفحه لمسی ">Capacitive</Feature>
+    <Feature Name="اندازه صفحه نمایش ">8 اینچ</Feature>
+    <Feature Name="توضیحات صفحه نمایش ">خازنی از نوع TFT، با تراکم پیکسلی 189ppi</Feature>
+    <Feature Name="رزولوشن صفحه نمایش ">WXGA 1280 × 800 پیکسل</Feature>
+    <Feature Name="قابلیت های صفحه نمایش لمسی ">صفحه نمایش مالتی تاچ با قابلیت دریافت چندین لمس همزمان (Multi-Touch Input Method)قابلیت کنترل لمسی (Touch-Sensitive Controls)قابلیت نمایش 16 میلیون رنگ</Feature>
+    <Feature Name="قابلیت نصب سیم کارت ">بلی</Feature>
+    <Feature Name="قابلیت مکالمه تلفنی با سیم کارت ">بلی</Feature>
+    <Feature Name="باند شبکه 2G ">GSM 850 / 900 / 1800 / 1900 </Feature>
+    <Feature Name="باند شبکه 3G ">HSDPA 850 / 900 / 1900 / 2100 </Feature>
+    <Feature Name="شبکه بی سیم Wifi ">بلی</Feature>
+    <Feature Name="توضیحات شبکه بی سیم Wifi ">Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direc, Wi-Fi hotspot</Feature>
+    <Feature Name="GPRS ">بلی</Feature>
+    <Feature Name="GPS ">بلی</Feature>
+    <Feature Name="توضیحات GPS ">A-GPS, Glonass Supported</Feature>
+    <Feature Name="Edge ">بلی</Feature>
+    <Feature Name="توضیحات Edge ">Class 12</Feature>
+    <Feature Name="بلوتوث ">بلی</Feature>
+    <Feature Name="نسخه بلوتوث ">نسخه‌ی 4 همراه با A2DP</Feature>
+    <Feature Name="NFC ">خیر</Feature>
+    <Feature Name="DLNA ">خیر</Feature>
+    <Feature Name="پیام رسانی ">SMS(threaded view), MMS, Email, Push Email, IM</Feature>
+    <Feature Name="کارت خوان ">بلی</Feature>
+    <Feature Name="نوع کارت حافظه قابل نصب ">کارت حافظه‌ی MicroSD با قابلیت افزایش تا 64 گیگابایت</Feature>
+    <Feature Name="دوربین ">بلی</Feature>
+    <Feature Name="توضیحات دوربین ">دوربین پشتی با کیفیت 5 مگاپیکسل با قابلیت زوم دیجیتال تا 4 برابر (x4 Digital Zoom) - فوکوس خودکار (Autofocus) - قابلیت ثبت موقعیتن مکانی و زمانی عکس‌ها و فیلم‌های گرفته شده بر روی آن‌ها (Geo-Tagging)</Feature>
+    <Feature Name="کیفیت عکاسی ">1944 × 2592</Feature>
+    <Feature Name="کیفیت فیلمبرداری ">قابلیت فیلم‌برداری با کیفیتHD 720P  و با سرعت 30 فریم بر ثانیه</Feature>
+    <Feature Name="وب کم ">بلی</Feature>
+    <Feature Name="توضیحات وب کم ">وب کم (دوربین جلویی) با کیفیت 1.3 مگاپیکسل برای مکالمه تصویری</Feature>
+    <Feature Name="حسگر اثر انگشت ">خیر</Feature>
+    <Feature Name="رادیو ">خیر</Feature>
+    <Feature Name="قطب نما ">بلی</Feature>
+    <Feature Name="حسگر شتاب سنج ">بلی</Feature>
+    <Feature Name="حسگر ژیروسکوپ ">بلی</Feature>
+    <Feature Name="مشخصات اسپیکر ">اسپیکرهای داخلی استریو</Feature>
+    <Feature Name="پخش موسیقی ">MP3, 3GP, AAC, AAC+, eAAC+, WAV, AMR, AMR-NB</Feature>
+    <Feature Name="پخش فیلم ">MP4, 3GPP, H.263, H.264, DivX, Xvid, FLV, MKV, WMV</Feature>
+    <Feature Name="پورت USB ">خیر</Feature>
+    <Feature Name="تعداد پورت USB ">1</Feature>
+    <Feature Name="نسخه USB ">نسخه‌ی 2.0</Feature>
+    <Feature Name="پورت microUSB ">بلی</Feature>
+    <Feature Name="پورت HDMI ">خیر</Feature>
+    <Feature Name="فیش 3.5 میلیمتری صدا ">بلی</Feature>
+    <Feature Name="سیستم عامل ">Google Android</Feature>
+    <Feature Name="نسخه سیستم عامل ">v4.1.2 - Jelly Bean</Feature>
+    <Feature Name="باتری ">یون لیتیوم استاندارد 4600 میلی‌آمپر ساعتی</Feature>
+    <Feature Name="برخی نرم افزارهای نصب شده ">مجهز به ویرایشگر عکس و فیلم (Image &amp; Video Editor)قابلیت نمایش و ویرایش مستندات (Document Editor &amp; Viewer)دارای سازمان دهنده (Organizer)پشتیبانی از DLNAGoogle Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa integration</Feature>
+    <Feature Name="امکانات دیگر ">SNS integrationVoice memo/dial(Predictive text input (Swype</Feature>
+  </Features>
+  <Review ID="ReviewBody" Value="+1">
+    <Sentence ID="rev-1" Value="0">تبلت جدید سامسونگ بیش از هر تبلت دیگری به اصل تبلت ها یعنی قابلیت نوت برداری و یا در واقع جایگزینی قلم و کاغذ  نزدیک شده است.</Sentence>
+    <Sentence ID="rev-2" Value="+1">به طوری که می‌توان گفت در این زمینه،  اکنون بی رقیب به نظر می‌رسد.</Sentence>
+    <Sentence ID="rev-3" Value="+1">وجود قلم در کنار این تبلت به شما این امکان را می‌دهد که استفاده از قلم و کاغذ را کنار گذاشته و تمامی نیاز های خود به نوت برداری را،  با همین تبلت بر طرف سازید.</Sentence>
+    <Sentence ID="rev-4" Value="0">سامسونگ در تولید تبلت های سری Note خود،  یک رویکرد آموزشی را هم در نظر داشته است .</Sentence>
+    <Sentence ID="rev-5" Value="+1">بدین ترتیب تبلتی تولید نموده که کاملا مناسب برای دانش آموزان و دانشجویان به شمار می‌رود.</Sentence>
+    <Sentence ID="rev-6" Value="0">تصور کنید که همه کتاب‌ها و جزوات درسیتان را یکجا در قالب یک دستگاه بتوانید جمع آوری کنید،  همیشه و در هر جا همراه داشته باشید و هر زمان که وقت و حوصله دارید به آن‌ها رسیدگی کنید.</Sentence>
+    <Sentence ID="rev-7" Value="0">و یا همزمان با مطالعه،  در اینترنت هم گشت و گذار و جستجو نمایید .</Sentence>
+    <Sentence ID="rev-8" Value="+2">همه این کارها در Galaxy Note 8  به لطف قلم تعبیه شده بسیار راحت‌تر و لذت بخش تر از گذشته مقدور می‌باشند.</Sentence>
+    <Sentence ID="rev-9" Value="0">• طراحی و ساخت انتظار می‌رفت در طراحی و ساخت این تبلت،  سامسونگ سنگ تمام بگذارد،   و یک تبلت با کیفیت ساخت متمایز از دیگر تبلت های سامسونگ را ارائه دهد.</Sentence>
+    <Sentence ID="rev-10" Value="-1">اما ساخت این تبلت تفاوت خاصی نکرده و جنس پلاستیکی بدنه در این تبلت هم تکرار گشته است.</Sentence>
+    <Sentence ID="rev-11" Value="0">در کل در طراحی مدل جدید سامسونگ،  شباهت‌های بسیاری را با دیگر تبلت های ساخت این کمپانی مشاهده می‌نماییم.</Sentence>
+    <Sentence ID="rev-12" Value="0">ابعاد آن 136×211 میلی‌متر و قطر آن نیز حدود 8 میلی متر می‌باشد.</Sentence>
+    <Sentence ID="rev-13" Value="-1">وزن آن نیز 338  گرم است که در مقایسه با بدنه پلاستیکی آن،  به نسبت دیگر تبلت های سری Galaxy مقداری سنگین نیز به نظر می‌رسد.</Sentence>
+    <Sentence ID="rev-14" Value="0">در ضمن،   قاب دور تبلت مقداری ضخیم است طوری که باعث گردیده این دستگاه از دستگاه های مشابه مقداری بزرگ‌تر باشد.</Sentence>
+    <Sentence ID="rev-15" Value="0">اما بر خلاف Note 10.1  که یک تبلت افقی است،  طراحی این تبلت به صورت عمودیست.</Sentence>
+    <Sentence ID="rev-16" Value="0">بر روی لبه بالایی دستگاه،  جک 3.5 میلی متری هدفون وجود دارد.</Sentence>
+    <Sentence ID="rev-17" Value="0">بر روی لبه سمت راست نیز،  کلید پاور،  کلید کنترل صدا،  شکاف قرار گیری قلم و سنسور  مادون قرمز تعبیه شده‌اند.</Sentence>
+    <Sentence ID="rev-18" Value="0">اما لبه زیرین محل قرار گیری بلندگوها و درگاه microUSB است.</Sentence>
+    <Sentence ID="rev-19" Value="0">در ضمن،  بر روی لبه راست دستگاه نیز،  شکاف سیم کارت و کارت حافظه قرار گرفته‌اند که توسط در پوشی پوشانده شده‌اند.</Sentence>
+    <Sentence ID="rev-20" Value="0">در نمای جلویی تبلت،  دوربین 1.3 مگاپیکسلی جهت مکالمات تصویری به همراه سنسورها و البته کلید فیزیکی Home و دو کلید خازنی در طرفین آن  به چشم می‌خورند و در آخر هم دوربین 5 مگاپیکسلی این تبلت که به همراه لوگوی سامسونگ در قسمت پشتی آن خودنمایی می‌کند.</Sentence>
+    <Sentence ID="rev-21" Value="-1">نکته منفی دیگری که در مورد طراحی این گوشی یافتیم،  دوربین خارج از بدنه آن است.</Sentence>
+    <Sentence ID="rev-22" Value="-1">این طراحی دو ایراد را برای دوربین به وجود می‌آورد.</Sentence>
+    <Sentence ID="rev-23" Value="-1">اول اینکه با قرار دادن گوشی بر روی سطوح مختلف،  احتمال خط افتادن بر روی شیشه روی لنز بسیار زیاد است.</Sentence>
+    <Sentence ID="rev-24" Value="-1">دوم اینکه در صورت به زمین خوردن دستگاه، احتمالا لنز دوربین آن خواهد شکست که این یک اشتباه غیر قابل جبران است.</Sentence>
+    <Sentence ID="rev-25" Value="-1">در نهایت می‌توان نقطه ضعف اصلی این تبلت را در طراحی و ساخت آن دانست،  جائیکه از یک تبلت با این امکانات و قدرت،  انتظار بیشتری می‌رفت ولی توسط سامسونگ برآورده نشد.</Sentence>
+    <Sentence ID="rev-26" Value="-1">منصفانه نیست اگر بگوییم ساخت Galaxy Note 8 بی کیفیت یا  نا امید کننده  است،  ولی برای قرار گرفتن در بین تبلت های برتر دنیا،  کمی ضعیف است.</Sentence>
+    <Sentence ID="rev-27" Value="-1">در مقابل رقبایی مانند iPad mini یا Nexus 7 و یا حتی FonePad،  از نظر کیفیت ساخت باید Note 8 را در آخرین رده قرار دهیم.</Sentence>
+    <Sentence ID="rev-28" Value="0">• صفحه نمایش صفحه نمایش 8 اینچی تبلت جدید سامسونگ از نوع TFT می‌باشد که تصاویر را با دقت 800×1280 پیکسل نمایش می‌دهد.</Sentence>
+    <Sentence ID="rev-29" Value="+1">این دقت برای اینکه از نگاه کردن و کار کردن با آن نهایت لذت را ببرید کافیست.</Sentence>
+    <Sentence ID="rev-30" Value="+2">شفافیت رنگ‌ها بسیار مناسب و رنگ‌ها بسیار عمیق و خوب نمایش داده می‌شوند.</Sentence>
+    <Sentence ID="rev-31" Value="+2">روشنایی صفحه نمایش نیز عالیست.</Sentence>
+    <Sentence ID="rev-32" Value="+1">همچنین دید در زوایای مختلف آن کاملا خوب به نظر می‌رسد.</Sentence>
+    <Sentence ID="rev-33" Value="-1">البته تراکم پیکسلی 189ppi آن در مقایسه با تبلت های برتر دنیا مقداری پایین‌تر است و جزو بهترین‌ها نیست.</Sentence>
+    <Sentence ID="rev-34" Value="+1">با اینکه صفحه نمایش Note 8 در مقایسه با بسیاری از رقبایش خیلی فوق‌العاده نیست و حتی از Note 10.1 نیز ضعیف‌تر است،  اما در کل عملکرد آن بسیار خوب و مناسب است که رضایت کاربر را جلب می‌نماید.</Sentence>
+    <Sentence ID="rev-35" Value="0">• قلم سامسونگ در طراحی قلم جدید خود تغییراتی ایجاد کرده و آن‌را بیشتر به قلم‌های واقعی شبیه نموده است.</Sentence>
+    <Sentence ID="rev-36" Value="+1">با چهار گوش کردن این قلم،  در دست گرفتن و کار کردن با آن بسیار راحت‌تر شده و خیلی دیرتر از کار کردن با آن احساس خستگی خواهید نمود.</Sentence>
+    <Sentence ID="rev-37" Value="+1">اولین نکته اعجاب انگیز قلم جدید،  قابلیت تشخیص میزان فشار بر آن می‌باشد.</Sentence>
+    <Sentence ID="rev-38" Value="+1">بدین ترتیب که میزان فشاری که شما با قلم بر روی صفحه نمایش ایجاد می‌نمایید کاملا توسط دستگاه درک می‌شود و در موارد مختلف مزیت‌های بسیاری را برایتان ایجاد می‌نماید.</Sentence>
+    <Sentence ID="rev-39" Value="0">اما شگفتی‌های این قلم به همین‌جا خلاصه نمی‌شود.</Sentence>
+    <Sentence ID="rev-40" Value="+1">کارکرد جالب‌تر آن،  جائیست که از قابلیت لمس شناور آن بهره می‌برید.</Sentence>
+    <Sentence ID="rev-41" Value="0">قبل‌تر و در نقد و بررسی برادر بزرگ‌تر این تبلت یعنی Note 10.1 در مورد قابلیت لمس شناور توضیح دادیم،  بر طبق این قابلیت،  شما برای اینکه به دستگاه بفهمانید که به کدام نقطه اشاره می‌کنید لازم نیست که حتما آن‌را لمس نمایید و با مقداری فاصله نیز دستورات را درک می‌نماید.</Sentence>
+    <Sentence ID="rev-42" Value="+1">تمامی این قابلیت‌ها در کنار طراحی مناسب و البته کاربرد های فراوان آن،  قلم Note 8  را به بزرگ‌ترین مزیت آن تبدیل نموده است که این محصول را در بازار نسبت به دیگر 7 یا 8 اینچی‌ها متمایز می‌کند.</Sentence>
+    <Sentence ID="rev-43" Value="+2">مسلما همکاری سامسونگ با کمپانی معتبر Wacom در زمینه ساخت قلم باعث گردیده که قلم‌های ساخت سامسونگ عملکرد فوق‌العاده خوبی داشته باشند که در مورد این قلم نیز این‌چنین است.</Sentence>
+    <Sentence ID="rev-44" Value="+1">• سخت افزار از نظر سخت افزاری این تبلت بی نقص به نظر می‌رسد.</Sentence>
+    <Sentence ID="rev-45" Value="+1">پردازنده 1.6 گیگاهرتزی 4 هسته ای به کار رفته در آن که مانند مدل‌های قبلیش از نوع Exynos می‌باشد و البته 200 مگاهرتز قوی‌تر است به همراه 2 گیگابایت حافظه رم به شما این قابلیت را می‌دهد که از تمامی امکانات نرم افزاری موجود برای سیستم عامل اندروید به راحتی استفاده نمایید.</Sentence>
+    <Sentence ID="rev-46" Value="+1">یک پردازشگر گرافیکی ARM Mali-400MP هم به این سخت افزار قدرتمند کمک می‌کند که حتی کارهای گرافیکی و سنگین‌ترین بازی‌ها را هم به راحتی پردازش کند.</Sentence>
+    <Sentence ID="rev-47" Value="+1">لازم به ذکر است که Note 8 در دو ظرفیت 16 و 32 گیگابایتی تولید گردیده که البته آن‌ها نیز قابلیت پشتیبانی از کارت حافظه microSD را دارند،  بنابراین هیچ نگرانی بابت حافظه جهت ذخیره اطلاعات نخواهید داشت.</Sentence>
+    <Sentence ID="rev-48" Value="+1">در ضمن،  با وجود پشتیبانی این تبلت از سیم کارت،  می‌توانید با آن مکالمه و ارسال SMS را نیز انجام دهید که مزیت بسیار بزرگیست.</Sentence>
+    <Sentence ID="rev-49" Value="0">• نرم افزار سیستم عامل منتخب سامسونگ برای این تبلت نسخه 4.1.2 از سیستم عامل اندروید است.</Sentence>
+    <Sentence ID="rev-50" Value="+1">این نسخه یکی از جدیدترین نسخ این سیستم عامل است که سامسونگ برای Note 8 انتخاب نموده.</Sentence>
+    <Sentence ID="rev-51" Value="+1">رابط کاربری دستگاه اما بسیار شبیه به رابط کاربری موجود بر روی گوشی‌ها و تبلت های سطح بالای سامسونگ است که یکی از بهترین رابط کاربری‌های موجود بر روی گجت هاست.</Sentence>
+    <Sentence ID="rev-52" Value="+2">در ضمن،  وجود سخت افزار بسیار قدرتمند نیز مزید بر علت است که همه چیز در این تبلت بسیار روان صورت پذیرد.</Sentence>
+    <Sentence ID="rev-53" Value="0">امکانات نرم افزاری مختلف سامسونگ مانند Pop Up Play و Smart Stay نیز بر روی این تبلت وجود دارد.</Sentence>
+    <Sentence ID="rev-54" Value="+1">اما قابلیت اجرای همزمان دو برنامه در این تبلت به بهترین شکل به اجرا در آمده است.</Sentence>
+    <Sentence ID="rev-55" Value="+1">این قابلیت که عملکردی بسیار قابل ستایش دارد بدین صورت است که می‌توانید صفحه نمایش را به 2 تکه تقسیم نمایید و از هر تکه جهت اجرای یک برنامه استفاده کنید.</Sentence>
+    <Sentence ID="rev-56" Value="-1">البته متاسفانه ابن قابلیت در مورد تمامی برنامه‌ها کاربرد ندارد و تعدادی از برنامه‌ها از جمله S-Note ،  مرورگر،  ویدئوپلیر و آفیس را شامل می‌شود که امیدواریم در نسخه های بعدی سیستم عامل،  سامسونگ این نقیصه را نیز برطرف نماید.</Sentence>
+    <Sentence ID="rev-57" Value="+1">سامسونگ همچنین برنامه های زیادی را به صورت پیش فرض بر روی تبلت خود قرار داده است،  برنامه‌هایی مانند S Note ،  S Planner ،  شبکه های اجتماعی،  شبکه های موزیک ،  آفیس ،  ویدیوپلیر ،  All Share و ..</Sentence>
+    <Sentence ID="rev-58" Value="+1">در توضیح تعدادی از برنامه های پیش فرض سامسونگ باید بگوییم که برنامه S Note برنامه ایست که به شما در طراحی کارت با تعدادی قالب پیش فرض کمک می‌کند که می‌توانید آن‌ها را در قالب فایل PDF ذخیره نمایید.</Sentence>
+    <Sentence ID="rev-59" Value="+2">همچنین یک برنامه بسیار کاربردی در جهت ارائه نیز می‌باشد.</Sentence>
+    <Sentence ID="rev-60" Value="+2">برنامه S Planner همان‌طور که از اسم آن می‌توان متوجه شد یک برنامه تقویم بسیار کارآمد است که به شما در برنامه ریزی‌هایتان کمک شایانی می‌نماید.</Sentence>
+    <Sentence ID="rev-61" Value="+1">نکته بسیار مفید این برنامه قابلیت به روز رسانی آن با تقویم فیسبوکتان است که خیلی از مواردی که خودتان هم یادتان نباشد را به شما یاد آوری می‌کند.</Sentence>
+    <Sentence ID="rev-62" Value="+1">مسلما وقتی همچین تبلتی می‌خرید یکی از لذت بخش ترین کارها با آن برای شما می‌تواند گشت و گذار در اینترنت باشد.</Sentence>
+    <Sentence ID="rev-63" Value="0">با پشتیبانی این تبلت از تمامی تکنولوژی‌های اتصال به اینترنت مانند 3G ،  Wi-Fi و .</Sentence>
+    <Sentence ID="rev-64" Value="+1">و وجود سخت افزار مناسب و سیستم عامل اندروید،  حداکثر سرعت مرورگری را با این تبلت تجربه خواهید نمود.</Sentence>
+    <Sentence ID="rev-65" Value="+1">ضمنا سامسونگ در Note 8 از سریع‌ترین مرورگر دنیا یعنی کروم استفاده نموده است.</Sentence>
+    <Sentence ID="rev-66" Value="+1">وجود فلش پلیر بر روی اندروید 4 باعث می‌شود که فیلم‌ها و بازی‌های فلش هم بدون هیچ مشکلی نمایش داده شوند.</Sentence>
+    <Sentence ID="rev-67" Value="+1">در سمت چپ رابط کاربری نیز یک منو وجود دارد که با استفاده از آن می‌توان به راحتی به تعدادی از برنامه‌ها دسترسی داشت.</Sentence>
+    <Sentence ID="rev-68" Value="+2">اما صفحه کلید مجازی این تبلت نیز بسیار راحت و کاربردیست که تایپ با آن به راحتی صورت می‌پذیرد.</Sentence>
+    <Sentence ID="rev-69" Value="-1">اما نکته منفی نرم افزار های این تبلت،  عدم وجود فوتوشاپ لمسی بر روی این دستگاه است که مشخص نیست چرا سامسونگ بر روی این مدل قرار نداده.</Sentence>
+    <Sentence ID="rev-70" Value="0">شاید خواسته با این کار کماکان Note 10.1 را خاص نگه دارد.</Sentence>
+    <Sentence ID="rev-71" Value="+1">در ضمن،  با وجود سنسور مادون قرمز و برنامه Smart Remote،  می‌توانید از Note 8 به عنوان یک ریموت کنترل نیز استفاده نمایید!</Sentence>
+    <Sentence ID="rev-72" Value="+1">موزیک پلیر و ویدئو پلیر این دستگاه نیز پلیر استاندارد سامسونگ است که کیفیت متوسطی را داراست و عملکرد قابل قبولی دارد.</Sentence>
+    <Sentence ID="rev-73" Value="0">• دوربین احتمالا  کمتر کسی را می‌بینید که تبلت 10.1 اینچی را در مقابل خود نگه داشته و دارد از طبیعت عکاسی می‌کند.</Sentence>
+    <Sentence ID="rev-74" Value="0">برای علاقه‌مندان به عکاسی دستگاه های به مراتب کوچکتر،  سبک‌تر و صد البته با کیفیت‌تری وجود دارد.</Sentence>
+    <Sentence ID="rev-75" Value="0">اما وجود دوربین بر روی تبلت بیشتر در جهت انجام مکالمات تصویری می‌باشد.</Sentence>
+    <Sentence ID="rev-76" Value="0">Note 8 هم دارای یک دوربین اصلی 5 مگاپیکسلی در پشت و یک دوربین 1.3 مگاپیکسلی در جلو می‌باشد که البته کیفیت فیلم برداری دوربین پشتی HD می‌باشد.</Sentence>
+    <Sentence ID="rev-77" Value="-1">دوربین جلویی که صرفا جهت مکالمات تصویری تعبیه شده و چندان مناسب عکاسی نمی‌باشد.</Sentence>
+    <Sentence ID="rev-78" Value="+1">اما در مورد دوربین اصلی دستگاه باید بگوییم که کیفیت عکس‌های قابل قبولی را ارائه می‌دهد و حتی در مقایسه با دیگر دوربین‌های 5 مگاپیکسلی به کار رفته در گوشی‌های هوشمند و تبلت ها نیز عملکرد مناسب‌تری را از آن شاهد بودیم که می‌توان آن‌را در بین برترین دوربین‌های قرار گرفته بر روی تبلت ها دانست.</Sentence>
+    <Sentence ID="rev-79" Value="+1">البته در مقایسه با iPad 3 چندان شانسی برای برتری دوربین Note 8 وجود ندارد اما در کل عملکرد دوربین بسیار خوب توصیف می‌شود.</Sentence>
+    <Sentence ID="rev-80" Value="+1">• باتری سامسونگ با قرار دادن یک باتری 4600 میلی آمپری بر روی تبلت جدید خود،  خیال کاربران را از جهت شارژ دهی آن تا حدودی راحت نموده است.</Sentence>
+    <Sentence ID="rev-81" Value="+1">با وجود این باتری شما می‌توانید با مصرف عادی برای بیشتر از 1 روز بدون نیاز به شارژ مجدد از تبلتتان استفاده نمایید.</Sentence>
+    <Sentence ID="rev-82" Value="+1">• جمع بندی در مجموع باید بگوییم که تعدادی از قابلیت‌های این تبلت تا به این لحظه بی نظیر است.</Sentence>
+    <Sentence ID="rev-83" Value="+2">رم بسیار بالای آن،  قابلیت Multi-tasking ،  قدرت بالا در اجرای سنگین‌ترین برنامه های گرافیکی و البته قلم بسیار کاربردی آن.</Sentence>
+    <Sentence ID="rev-84" Value="+1">این‌ها مواردیست که باعث می‌گردد Note 8 نیز همانند مدل بزرگ‌تر خود یعنی Note 10.1  به یکی از بهترین انتخاب‌ها برای طراحان تبدیل گردد.</Sentence>
+    <Sentence ID="rev-85" Value="0">البته عدم وجود فتوشاپ بر روی این تبلت یک ایراد برای آن محسوب می‌گردد،  اما برنامه های دیگر آن‌را تا حدودی جبران می‌نمایند.</Sentence>
+    <Sentence ID="rev-86" Value="0">مسلما همین امکانات باعث شده که شاهد قیمت بالای این تبلت باشیم،  چرا که تبلت هایی مانند Apple iPad mini و یا Asus Nexus 7  قیمتی پایین‌تر از این تبلت را دارند.</Sentence>
+    <Sentence ID="rev-87" Value="+1">اگر مکالمه با تبلت 8 اینچی برای شما یک مزیت محسوب می‌گردد،  و یا اگر به دنبال تبلتی برای انجام کارهای گرافیکی می‌گردید،  Samsung Galaxy Note 8 یک انتخاب بسیار خوب برای شماست که مسلما از خرید آن پشیمان نخواهید شد.</Sentence>
+  </Review>
+  <Advantages>
+    <Advantage>پردازنده چهار هسته ای با فرکانس 1.6 گیگاهرتز</Advantage>
+    <Advantage>قابلیت پشتیبانی از سیم کارت و مکالمه تلفنی</Advantage>
+    <Advantage>2 گیگا بایت حافظه رم</Advantage>
+    <Advantage>پشتیبانی از 3G ، Wi-Fi، GPRS و Edge</Advantage>
+    <Advantage>وجود قلم کاربردی با قابلیت‌های فراوان</Advantage>
+    <Advantage>سیستم عامل اندروید 4.1</Advantage>
+    <Advantage>پشتیبانی از کارت حافظه microSD تا 64 گیگابایت</Advantage>
+    <Advantage>دوربین 5 مگاپیکسلی با کیفیت و دوربین مکالمه تصویری</Advantage>
+    <Advantage>عملکرد مناسب باتری</Advantage>
+  </Advantages>
+  <Disadvantages>
+    <Disadvantage>طراحی و کیفیت متوسط بدنه</Disadvantage>
+    <Disadvantage>عدم وجود فتوشاپ لمسی</Disadvantage>
+  </Disadvantages>
+  <General_Reviews>
+    <General_Review ID="gr-1" Holder="رضا رستمي " Value="+1">
+      <Sentence ID="gr-1-1" Value="+1">تبلت خوبيه ولي سامسونگ از لحاظ نرم افزاري براي اين تبلت نسبت به تبلت 10 اينچي 8000 کم گذاشته ولي از نظر سخت افزاري کيفيت خوبي داره و سرعت پردازش بسيار بالايي داره و حتي اگر تعداد زيادي برنامه سنگين نصب بشه برنامه ها راحت باز ميشه.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-2" Holder="داود نعيمي " Value="0">
+      <Sentence ID="gr-2-1" Value="0"> اين تبلت که پردازنده چهار هسته اي 1.6 گيگاهرتزي داره با تبلت 7.7 اصلا قابل مقايسه نيست.</Sentence>
+      <Sentence ID="gr-2-2" Value="0">مرسي از ديجي کالاي عزيز</Sentence>
+    </General_Review>
+    <General_Review ID="gr-3" Holder="محمود وطن پور " Value="-1">
+      <Sentence ID="gr-3-1" Value="-1">به نظرم تفاوت خاصي با Note 10.1  نداره فقط قدرت پردازش اين 1.6 هست مال Note 10.1 قدرت پردازشش 1.4؛ تازه Note 10.1 فلش دوربين داره که اين نداره.</Sentence>
+      <Sentence ID="gr-3-2" Value="0">و با توجه به قيمت هم ارزش خريد Note 10.1 خيلي بيشتر از اين است.</Sentence>
+    </General_Review>
+    <General_Review ID="gr-4" Holder="Classical Art " Value="+1">
+      <Sentence ID="gr-4-1" Value="+1">من 2روزه خريدمش واقعا حرف نداره</Sentence>
+    </General_Review>
+    <General_Review ID="gr-5" Holder="رضا چناراني " Value="+1">
+      <Sentence ID="gr-5-1" Value="+1">خيلي تبلت خوبيه و پردازندش از 2 مدل قبلي يکم بهتره اما بازم قيمتش نسبت به نوت  10.1 يکم بالاست.</Sentence>
+      <Sentence ID="gr-5-2" Value="+1">در کل به قيمتش مي ارزه</Sentence>
+    </General_Review>
+    <General_Review ID="gr-6" Holder="متين مهين دهقان " Value="+2">
+      <Sentence ID="gr-6-1" Value="+2">خيلي عاليه.</Sentence>
+      <Sentence ID="gr-6-2" Value="+1">فقط اسمش و نميشه بذاري تبلت ولي ميشه گفت يه گوشي بزرگ
+حرف نداره..</Sentence>
+    </General_Review>
+    <General_Review ID="gr-7" Holder="علي اصغر حسيني " Value="+1">
+      <Sentence ID="gr-7-1" Value="+1">عاليه ولي به نظرم يه گوشي بزرگ هست تا يه تبلت</Sentence>
+    </General_Review>
+    <General_Review ID="gr-8" Holder="حميدرضا دهقان " Value="-1">
+      <Sentence ID="gr-8-1" Value="-1">با سلام
+به غير از اندرويد جديدش و رم دو گيگي چيز قابل توجهي نداره مدل 7.7 اينچي که مال دوسال پيشه از اين خيلي سرتره سامسونگ داره پس رفت ميکنه</Sentence>
+    </General_Review>
+  </General_Reviews>
+  <Voters Value="1" />
+  <Performance Value="7.00" />
+  <Capability Value="7.00" />
+  <Production_Quality Value="7.00" />
+  <Ergonomics Value="7.00" />
+  <Purchase_Value Value="7.00" />
+  <Tags>
+    <Tag Type="Target(M)" ID="elementID1000" Root="تبلت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1003" Root="قاب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID1008" Root="شفافیت رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10011" Root="رنگ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10015" Root="روشنایی صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10018" Root="تراکم پیکسلی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10021" Root="عملکرد صفحه نمایش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10025" Root="کار کردن با قلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10028" Root="طراحی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10031" Root="کاربرد" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10034" Root="عملکرد قلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10039" Root="سخت افزار" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10042" Root="پردازش" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10045" Root="رابط کاربری" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10050" Root="برنامه" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10053" Root="برنامه تقویم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10058" Root="مرورگر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10061" Root="صفحه کلید مجازی" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10065" Root="تایپ" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10068" Root="عملکرد پلیر" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10071" Root="کیفیت عکس" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10074" Root="عملکرد دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10077" Root="دوربین" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10082" Root="رم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10085" Root="قلم" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10088" Root="قیمت" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10095" Root="تبلت" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID10092" Root="انتخاب" Relation="review" />
+    <Tag Type="Target(M)" ID="elementID10098" Root="سخت افزار" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100101" Root="سرعت پردازش" Relation="gr-1" />
+    <Tag Type="Target(M)" ID="elementID100104" Root="تبلت" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100107" Root="پردازنده" Relation="gr-5" />
+    <Tag Type="Target(M)" ID="elementID100110" Root="قيمت" Relation="gr-5" />
+    <Tag Type="Target(I)" ID="tagID1001" Coordinate="[rev-5,11,16]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1002" Coordinate="[rev-5,32,43]" Relation="tagID1001" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1006" Coordinate="[rev-14,63,69]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID1007" Coordinate="[rev-14,90,104]" Relation="tagID1006" Value="" />
+    <Tag Type="Target(I)" ID="tagID10037" Coordinate="[rev-44,34,38]" Relation="elementID1000" Value="" />
+    <Tag Type="Opinion" ID="tagID10038" Coordinate="[rev-44,39,45]" Relation="tagID10037" Value="+" />
+    <Tag Type="Target(I)" ID="tagID1004" Coordinate="[rev-14,10,13]" Relation="elementID1003" Value="" />
+    <Tag Type="Opinion" ID="tagID1005" Coordinate="[rev-14,23,34]" Relation="tagID1004" Value="-" />
+    <Tag Type="Target(I)" ID="tagID1009" Coordinate="[rev-30,0,13]" Relation="elementID1008" Value="" />
+    <Tag Type="Opinion" ID="tagID10010" Coordinate="[rev-30,14,25]" Relation="tagID1009" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10012" Coordinate="[rev-30,28,34]" Relation="elementID10011" Value="" />
+    <Tag Type="Opinion" ID="tagID10013" Coordinate="[rev-30,35,45]" Relation="tagID10012" Value="+" />
+    <Tag Type="Opinion" ID="tagID10014" Coordinate="[rev-30,48,51]" Relation="tagID10012" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10016" Coordinate="[rev-31,0,18]" Relation="elementID10015" Value="" />
+    <Tag Type="Opinion" ID="tagID10017" Coordinate="[rev-31,23,29]" Relation="tagID10016" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10019" Coordinate="[rev-33,6,18]" Relation="elementID10018" Value="" />
+    <Tag Type="Opinion" ID="tagID10020" Coordinate="[rev-33,61,76]" Relation="tagID10019" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10022" Coordinate="[rev-34,125,131]" Relation="elementID10021" Value="" />
+    <Tag Type="Opinion" ID="tagID10023" Coordinate="[rev-34,135,144]" Relation="tagID10022" Value="+" />
+    <Tag Type="Opinion" ID="tagID10024" Coordinate="[rev-34,147,152]" Relation="tagID10022" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10026" Coordinate="[rev-36,42,50]" Relation="elementID10025" Value="" />
+    <Tag Type="Opinion" ID="tagID10027" Coordinate="[rev-36,57,70]" Relation="tagID10026" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10029" Coordinate="[rev-42,28,33]" Relation="elementID10028" Value="" />
+    <Tag Type="Opinion" ID="tagID10030" Coordinate="[rev-42,34,39]" Relation="tagID10029" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10032" Coordinate="[rev-42,48,58]" Relation="elementID10031" Value="" />
+    <Tag Type="Opinion" ID="tagID10033" Coordinate="[rev-42,59,65]" Relation="tagID10032" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10035" Coordinate="[rev-43,97,103]" Relation="elementID10034" Value="" />
+    <Tag Type="Opinion" ID="tagID10036" Coordinate="[rev-43,104,119]" Relation="tagID10035" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10040" Coordinate="[rev-46,45,54]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10041" Coordinate="[rev-46,55,62]" Relation="tagID10040" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10048" Coordinate="[rev-52,14,23]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10049" Coordinate="[rev-52,24,37]" Relation="tagID10048" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10056" Coordinate="[rev-64,7,16]" Relation="elementID10039" Value="" />
+    <Tag Type="Opinion" ID="tagID10057" Coordinate="[rev-64,17,22]" Relation="tagID10056" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10043" Coordinate="[rev-46,132,138]" Relation="elementID10042" Value="" />
+    <Tag Type="Opinion" ID="tagID10044" Coordinate="[rev-46,126,131]" Relation="tagID10043" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10046" Coordinate="[rev-51,120,135]" Relation="elementID10045" Value="" />
+    <Tag Type="Opinion" ID="tagID10047" Coordinate="[rev-51,113,119]" Relation="tagID10046" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10051" Coordinate="[rev-57,15,25]" Relation="elementID10050" Value="" />
+    <Tag Type="Opinion" ID="tagID10052" Coordinate="[rev-57,26,31]" Relation="tagID10051" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10054" Coordinate="[rev-60,59,71]" Relation="elementID10053" Value="" />
+    <Tag Type="Opinion" ID="tagID10055" Coordinate="[rev-60,72,84]" Relation="tagID10054" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10059" Coordinate="[rev-65,36,42]" Relation="elementID10058" Value="" />
+    <Tag Type="Opinion" ID="tagID10060" Coordinate="[rev-65,26,35]" Relation="tagID10059" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10062" Coordinate="[rev-68,4,19]" Relation="elementID10061" Value="" />
+    <Tag Type="Opinion" ID="tagID10063" Coordinate="[rev-68,33,43]" Relation="tagID10062" Value="+" />
+    <Tag Type="Opinion" ID="tagID10064" Coordinate="[rev-68,46,55]" Relation="tagID10062" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10066" Coordinate="[rev-68,59,63]" Relation="elementID10065" Value="" />
+    <Tag Type="Opinion" ID="tagID10067" Coordinate="[rev-68,73,78]" Relation="tagID10066" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10069" Coordinate="[rev-72,94,100]" Relation="elementID10068" Value="" />
+    <Tag Type="Opinion" ID="tagID10070" Coordinate="[rev-72,101,111]" Relation="tagID10069" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10072" Coordinate="[rev-78,46,59]" Relation="elementID10071" Value="" />
+    <Tag Type="Opinion" ID="tagID10073" Coordinate="[rev-78,60,70]" Relation="tagID10072" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10075" Coordinate="[rev-78,179,185]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10076" Coordinate="[rev-78,186,195]" Relation="tagID10075" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10080" Coordinate="[rev-79,84,97]" Relation="elementID10074" Value="" />
+    <Tag Type="Opinion" ID="tagID10081" Coordinate="[rev-79,98,107]" Relation="tagID10080" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10078" Coordinate="[rev-78,247,257]" Relation="elementID10077" Value="" />
+    <Tag Type="Opinion" ID="tagID10079" Coordinate="[rev-78,240,246]" Relation="tagID10078" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10083" Coordinate="[rev-83,0,2]" Relation="elementID10082" Value="" />
+    <Tag Type="Opinion" ID="tagID10084" Coordinate="[rev-83,3,14]" Relation="tagID10083" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10086" Coordinate="[rev-83,101,104]" Relation="elementID10085" Value="" />
+    <Tag Type="Opinion" ID="tagID10087" Coordinate="[rev-83,105,118]" Relation="tagID10086" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10089" Coordinate="[rev-86,36,40]" Relation="elementID10088" Value="" />
+    <Tag Type="Opinion" ID="tagID10090" Coordinate="[rev-86,41,46]" Relation="tagID10089" Value="-" />
+    <Tag Type="Target(I)" ID="tagID10096" Coordinate="[gr-1-1,0,4]" Relation="elementID10095" Value="" />
+    <Tag Type="Opinion" ID="tagID10097" Coordinate="[gr-1-1,5,10]" Relation="tagID10096" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10093" Coordinate="[rev-87,146,152]" Relation="elementID10092" Value="" />
+    <Tag Type="Opinion" ID="tagID10094" Coordinate="[rev-87,153,162]" Relation="tagID10093" Value="+" />
+    <Tag Type="Target(I)" ID="tagID10099" Coordinate="[gr-1-1,104,114]" Relation="elementID10098" Value="" />
+    <Tag Type="Opinion" ID="tagID100100" Coordinate="[gr-1-1,115,125]" Relation="tagID10099" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100102" Coordinate="[gr-1-1,133,144]" Relation="elementID100101" Value="" />
+    <Tag Type="Opinion" ID="tagID100103" Coordinate="[gr-1-1,145,157]" Relation="tagID100102" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100105" Coordinate="[gr-5-1,5,9]" Relation="elementID100104" Value="" />
+    <Tag Type="Opinion" ID="tagID100106" Coordinate="[gr-5-1,10,15]" Relation="tagID100105" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100108" Coordinate="[gr-5-1,18,26]" Relation="elementID100107" Value="" />
+    <Tag Type="Opinion" ID="tagID100109" Coordinate="[gr-5-1,45,50]" Relation="tagID100108" Value="+" />
+    <Tag Type="Target(I)" ID="tagID100111" Coordinate="[gr-5-1,60,65]" Relation="elementID100110" Value="" />
+    <Tag Type="Opinion" ID="tagID100112" Coordinate="[gr-5-1,88,94]" Relation="tagID100111" Value="-" />
+  </Tags>
+  <Keywords>
+    <Keyword ID="keywordID1000" Coordinate="[rev-2,44,51]" Value="+" />
+    <Keyword ID="keywordID1001" Coordinate="[rev-3,37,42]" Value="" />
+    <Keyword ID="keywordID1002" Coordinate="[rev-3,46,52]" Value="+" />
+    <Keyword ID="keywordID1003" Coordinate="[rev-3,146,152]" Value="" />
+    <Keyword ID="keywordID1004" Coordinate="[rev-5,32,43]" Value="+" />
+    <Keyword ID="keywordID1005" Coordinate="[rev-5,81,87]" Value="+" />
+    <Keyword ID="keywordID1006" Coordinate="[rev-8,53,66]" Value="+" />
+    <Keyword ID="keywordID1007" Coordinate="[rev-8,69,79]" Value="+" />
+    <Keyword ID="keywordID1008" Coordinate="[rev-8,89,94]" Value="+" />
+    <Keyword ID="keywordID1009" Coordinate="[rev-8,95,103]" Value="+" />
+    <Keyword ID="keywordID10010" Coordinate="[rev-10,29,34]" Value="-" />
+    <Keyword ID="keywordID10011" Coordinate="[rev-10,0,3]" Value="" />
+    <Keyword ID="keywordID10012" Coordinate="[rev-10,70,75]" Value="" />
+    <Keyword ID="keywordID10013" Coordinate="[rev-10,41,49]" Value="-" />
+    <Keyword ID="keywordID10014" Coordinate="[rev-11,0,5]" Value="" />
+    <Keyword ID="keywordID10015" Coordinate="[rev-13,92,104]" Value="-" />
+    <Keyword ID="keywordID10016" Coordinate="[rev-14,23,34]" Value="-" />
+    <Keyword ID="keywordID10017" Coordinate="[rev-14,35,38]" Value="+" />
+    <Keyword ID="keywordID10018" Coordinate="[rev-14,90,104]" Value="" />
+    <Keyword ID="keywordID10019" Coordinate="[rev-21,5,9]" Value="-" />
+    <Keyword ID="keywordID10020" Coordinate="[rev-22,13,18]" Value="-" />
+    <Keyword ID="keywordID10021" Coordinate="[rev-23,85,95]" Value="" />
+    <Keyword ID="keywordID10022" Coordinate="[rev-23,55,64]" Value="-" />
+    <Keyword ID="keywordID10023" Coordinate="[rev-24,40,47]" Value="" />
+    <Keyword ID="keywordID10024" Coordinate="[rev-24,83,89]" Value="-" />
+    <Keyword ID="keywordID10025" Coordinate="[rev-24,90,104]" Value="-" />
+    <Keyword ID="keywordID10026" Coordinate="[rev-25,22,25]" Value="-" />
+    <Keyword ID="keywordID10027" Coordinate="[rev-25,26,30]" Value="" />
+    <Keyword ID="keywordID10028" Coordinate="[rev-25,133,136]" Value="" />
+    <Keyword ID="keywordID10029" Coordinate="[rev-25,150,157]" Value="+" />
+    <Keyword ID="keywordID10030" Coordinate="[rev-25,158,161]" Value="-" />
+    <Keyword ID="keywordID10031" Coordinate="[rev-26,125,133]" Value="-" />
+    <Keyword ID="keywordID10032" Coordinate="[rev-26,134,137]" Value="+" />
+    <Keyword ID="keywordID10033" Coordinate="[rev-26,0,7]" Value="+" />
+    <Keyword ID="keywordID10034" Coordinate="[rev-26,8,12]" Value="-" />
+    <Keyword ID="keywordID10035" Coordinate="[rev-26,77,80]" Value="" />
+    <Keyword ID="keywordID10036" Coordinate="[rev-27,98,103]" Value="" />
+    <Keyword ID="keywordID10037" Coordinate="[rev-29,55,58]" Value="" />
+    <Keyword ID="keywordID10038" Coordinate="[rev-29,49,54]" Value="" />
+    <Keyword ID="keywordID10039" Coordinate="[rev-29,68,74]" Value="+" />
+    <Keyword ID="keywordID10040" Coordinate="[rev-30,14,25]" Value="+" />
+    <Keyword ID="keywordID10041" Coordinate="[rev-30,35,45]" Value="+" />
+    <Keyword ID="keywordID10042" Coordinate="[rev-30,48,51]" Value="+" />
+    <Keyword ID="keywordID10043" Coordinate="[rev-30,63,70]" Value="+" />
+    <Keyword ID="keywordID10044" Coordinate="[rev-31,23,29]" Value="+" />
+    <Keyword ID="keywordID10045" Coordinate="[rev-32,30,39]" Value="+" />
+    <Keyword ID="keywordID10046" Coordinate="[rev-33,87,96]" Value="+" />
+    <Keyword ID="keywordID10047" Coordinate="[rev-33,97,101]" Value="-" />
+    <Keyword ID="keywordID10048" Coordinate="[rev-33,0,5]" Value="" />
+    <Keyword ID="keywordID10049" Coordinate="[rev-33,61,76]" Value="-" />
+    <Keyword ID="keywordID10050" Coordinate="[rev-34,57,72]" Value="+" />
+    <Keyword ID="keywordID10051" Coordinate="[rev-34,73,77]" Value="-" />
+    <Keyword ID="keywordID10052" Coordinate="[rev-34,101,108]" Value="-" />
+    <Keyword ID="keywordID10053" Coordinate="[rev-34,109,112]" Value="+" />
+    <Keyword ID="keywordID10054" Coordinate="[rev-34,115,118]" Value="" />
+    <Keyword ID="keywordID10055" Coordinate="[rev-34,119,124]" Value="" />
+    <Keyword ID="keywordID10056" Coordinate="[rev-34,135,144]" Value="+" />
+    <Keyword ID="keywordID10057" Coordinate="[rev-34,147,152]" Value="+" />
+    <Keyword ID="keywordID10058" Coordinate="[rev-34,153,156]" Value="" />
+    <Keyword ID="keywordID10059" Coordinate="[rev-34,160,165]" Value="+" />
+    <Keyword ID="keywordID10060" Coordinate="[rev-34,179,187]" Value="+" />
+    <Keyword ID="keywordID10061" Coordinate="[rev-36,57,70]" Value="+" />
+    <Keyword ID="keywordID10062" Coordinate="[rev-37,11,22]" Value="+" />
+    <Keyword ID="keywordID10063" Coordinate="[rev-37,34,40]" Value="+" />
+    <Keyword ID="keywordID10064" Coordinate="[rev-37,64,71]" Value="+" />
+    <Keyword ID="keywordID10065" Coordinate="[rev-38,74,79]" Value="" />
+    <Keyword ID="keywordID10066" Coordinate="[rev-38,96,102]" Value="+" />
+    <Keyword ID="keywordID10067" Coordinate="[rev-38,120,128]" Value="+" />
+    <Keyword ID="keywordID10068" Coordinate="[rev-38,129,135]" Value="" />
+    <Keyword ID="keywordID10069" Coordinate="[rev-38,153,161]" Value="+" />
+    <Keyword ID="keywordID10070" Coordinate="[rev-40,7,14]" Value="+" />
+    <Keyword ID="keywordID10071" Coordinate="[rev-40,53,57]" Value="+" />
+    <Keyword ID="keywordID10072" Coordinate="[rev-40,58,65]" Value="+" />
+    <Keyword ID="keywordID10073" Coordinate="[rev-42,34,39]" Value="+" />
+    <Keyword ID="keywordID10074" Coordinate="[rev-42,59,65]" Value="+" />
+    <Keyword ID="keywordID10075" Coordinate="[rev-42,89,98]" Value="" />
+    <Keyword ID="keywordID10076" Coordinate="[rev-42,99,103]" Value="+" />
+    <Keyword ID="keywordID10077" Coordinate="[rev-43,0,5]" Value="" />
+    <Keyword ID="keywordID10078" Coordinate="[rev-43,104,119]" Value="+" />
+    <Keyword ID="keywordID10079" Coordinate="[rev-43,164,167]" Value="+" />
+    <Keyword ID="keywordID10080" Coordinate="[rev-44,39,45]" Value="+" />
+    <Keyword ID="keywordID10081" Coordinate="[rev-45,116,122]" Value="+" />
+    <Keyword ID="keywordID10082" Coordinate="[rev-45,123,126]" Value="+" />
+    <Keyword ID="keywordID10083" Coordinate="[rev-45,248,253]" Value="+" />
+    <Keyword ID="keywordID10084" Coordinate="[rev-46,55,62]" Value="+" />
+    <Keyword ID="keywordID10085" Coordinate="[rev-46,126,131]" Value="+" />
+    <Keyword ID="keywordID10086" Coordinate="[rev-47,95,103]" Value="+" />
+    <Keyword ID="keywordID10087" Coordinate="[rev-47,88,94]" Value="" />
+    <Keyword ID="keywordID10088" Coordinate="[rev-47,129,134]" Value="+" />
+    <Keyword ID="keywordID10089" Coordinate="[rev-47,146,149]" Value="-" />
+    <Keyword ID="keywordID10090" Coordinate="[rev-47,150,156]" Value="-" />
+    <Keyword ID="keywordID10091" Coordinate="[rev-48,17,25]" Value="+" />
+    <Keyword ID="keywordID10092" Coordinate="[rev-48,49,58]" Value="+" />
+    <Keyword ID="keywordID10093" Coordinate="[rev-48,105,109]" Value="+" />
+    <Keyword ID="keywordID10094" Coordinate="[rev-48,110,123]" Value="" />
+    <Keyword ID="keywordID10095" Coordinate="[rev-50,16,24]" Value="+" />
+    <Keyword ID="keywordID10096" Coordinate="[rev-51,113,119]" Value="+" />
+    <Keyword ID="keywordID10097" Coordinate="[rev-52,24,37]" Value="+" />
+    <Keyword ID="keywordID10098" Coordinate="[rev-52,81,91]" Value="+" />
+    <Keyword ID="keywordID10099" Coordinate="[rev-54,49,55]" Value="+" />
+    <Keyword ID="keywordID100100" Coordinate="[rev-54,76,79]" Value="+" />
+    <Keyword ID="keywordID100101" Coordinate="[rev-54,4,10]" Value="+" />
+    <Keyword ID="keywordID100102" Coordinate="[rev-55,33,38]" Value="+" />
+    <Keyword ID="keywordID100103" Coordinate="[rev-55,61,70]" Value="+" />
+    <Keyword ID="keywordID100104" Coordinate="[rev-55,4,10]" Value="+" />
+    <Keyword ID="keywordID100105" Coordinate="[rev-56,6,14]" Value="-" />
+    <Keyword ID="keywordID100106" Coordinate="[rev-56,0,5]" Value="" />
+    <Keyword ID="keywordID100107" Coordinate="[rev-56,57,62]" Value="-" />
+    <Keyword ID="keywordID100108" Coordinate="[rev-56,199,204]" Value="-" />
+    <Keyword ID="keywordID100109" Coordinate="[rev-57,26,31]" Value="" />
+    <Keyword ID="keywordID100110" Coordinate="[rev-57,77,80]" Value="+" />
+    <Keyword ID="keywordID100111" Coordinate="[rev-58,134,137]" Value="+" />
+    <Keyword ID="keywordID100112" Coordinate="[rev-58,138,144]" Value="+" />
+    <Keyword ID="keywordID100113" Coordinate="[rev-58,148,157]" Value="+" />
+    <Keyword ID="keywordID100114" Coordinate="[rev-59,17,30]" Value="+" />
+    <Keyword ID="keywordID100115" Coordinate="[rev-59,48,55]" Value="+" />
+    <Keyword ID="keywordID100116" Coordinate="[rev-60,72,84]" Value="+" />
+    <Keyword ID="keywordID100117" Coordinate="[rev-60,85,88]" Value="" />
+    <Keyword ID="keywordID100118" Coordinate="[rev-60,121,124]" Value="+" />
+    <Keyword ID="keywordID100119" Coordinate="[rev-60,125,131]" Value="" />
+    <Keyword ID="keywordID100120" Coordinate="[rev-60,132,140]" Value="+" />
+    <Keyword ID="keywordID100121" Coordinate="[rev-61,5,15]" Value="+" />
+    <Keyword ID="keywordID100122" Coordinate="[rev-61,27,33]" Value="+" />
+    <Keyword ID="keywordID100123" Coordinate="[rev-61,136,142]" Value="+" />
+    <Keyword ID="keywordID100124" Coordinate="[rev-62,0,5]" Value="" />
+    <Keyword ID="keywordID100125" Coordinate="[rev-62,38,50]" Value="+" />
+    <Keyword ID="keywordID100126" Coordinate="[rev-63,3,11]" Value="+" />
+    <Keyword ID="keywordID100127" Coordinate="[rev-64,17,22]" Value="+" />
+    <Keyword ID="keywordID100128" Coordinate="[rev-64,46,52]" Value="" />
+    <Keyword ID="keywordID100129" Coordinate="[rev-65,26,35]" Value="+" />
+    <Keyword ID="keywordID100130" Coordinate="[rev-66,72,76]" Value="-" />
+    <Keyword ID="keywordID100131" Coordinate="[rev-66,81,86]" Value="-" />
+    <Keyword ID="keywordID100132" Coordinate="[rev-67,63,70]" Value="+" />
+    <Keyword ID="keywordID100133" Coordinate="[rev-67,74,79]" Value="+" />
+    <Keyword ID="keywordID100134" Coordinate="[rev-68,33,43]" Value="+" />
+    <Keyword ID="keywordID100135" Coordinate="[rev-68,46,55]" Value="+" />
+    <Keyword ID="keywordID100136" Coordinate="[rev-68,73,78]" Value="+" />
+    <Keyword ID="keywordID100137" Coordinate="[rev-68,84,92]" Value="+" />
+    <Keyword ID="keywordID100138" Coordinate="[rev-69,9,13]" Value="-" />
+    <Keyword ID="keywordID100139" Coordinate="[rev-69,0,3]" Value="" />
+    <Keyword ID="keywordID100140" Coordinate="[rev-69,39,42]" Value="-" />
+    <Keyword ID="keywordID100141" Coordinate="[rev-69,91,95]" Value="-" />
+    <Keyword ID="keywordID100142" Coordinate="[rev-71,58,67]" Value="+" />
+    <Keyword ID="keywordID100143" Coordinate="[rev-71,114,120]" Value="+" />
+    <Keyword ID="keywordID100144" Coordinate="[rev-72,101,111]" Value="+" />
+    <Keyword ID="keywordID100145" Coordinate="[rev-72,112,116]" Value="+" />
+    <Keyword ID="keywordID100146" Coordinate="[rev-77,58,63]" Value="+" />
+    <Keyword ID="keywordID100147" Coordinate="[rev-77,70,78]" Value="-" />
+    <Keyword ID="keywordID100148" Coordinate="[rev-78,60,70]" Value="+" />
+    <Keyword ID="keywordID100149" Coordinate="[rev-78,186,195]" Value="+" />
+    <Keyword ID="keywordID100150" Coordinate="[rev-78,240,246]" Value="+" />
+    <Keyword ID="keywordID100151" Coordinate="[rev-78,0,3]" Value="" />
+    <Keyword ID="keywordID100152" Coordinate="[rev-79,68,73]" Value="-" />
+    <Keyword ID="keywordID100153" Coordinate="[rev-79,74,77]" Value="" />
+    <Keyword ID="keywordID100154" Coordinate="[rev-79,78,83]" Value="" />
+    <Keyword ID="keywordID100155" Coordinate="[rev-79,98,107]" Value="+" />
+    <Keyword ID="keywordID100156" Coordinate="[rev-79,114,120]" Value="+" />
+    <Keyword ID="keywordID100157" Coordinate="[rev-80,121,125]" Value="+" />
+    <Keyword ID="keywordID100158" Coordinate="[rev-81,22,31]" Value="+" />
+    <Keyword ID="keywordID100159" Coordinate="[rev-82,80,87]" Value="+" />
+    <Keyword ID="keywordID100160" Coordinate="[rev-82,88,91]" Value="+" />
+    <Keyword ID="keywordID100161" Coordinate="[rev-83,3,14]" Value="+" />
+    <Keyword ID="keywordID100162" Coordinate="[rev-83,44,48]" Value="+" />
+    <Keyword ID="keywordID100163" Coordinate="[rev-83,49,53]" Value="" />
+    <Keyword ID="keywordID100164" Coordinate="[rev-83,105,118]" Value="+" />
+    <Keyword ID="keywordID100165" Coordinate="[rev-84,92,98]" Value="+" />
+    <Keyword ID="keywordID100166" Coordinate="[rev-85,6,9]" Value="-" />
+    <Keyword ID="keywordID100167" Coordinate="[rev-85,0,5]" Value="" />
+    <Keyword ID="keywordID100168" Coordinate="[rev-85,41,46]" Value="-" />
+    <Keyword ID="keywordID100169" Coordinate="[rev-85,106,111]" Value="+" />
+    <Keyword ID="keywordID100170" Coordinate="[rev-85,112,121]" Value="+" />
+    <Keyword ID="keywordID100171" Coordinate="[rev-85,97,105]" Value="" />
+    <Keyword ID="keywordID100172" Coordinate="[rev-85,71,74]" Value="" />
+    <Keyword ID="keywordID100173" Coordinate="[rev-86,41,46]" Value="" />
+    <Keyword ID="keywordID100174" Coordinate="[rev-86,0,5]" Value="" />
+    <Keyword ID="keywordID100175" Coordinate="[rev-87,153,162]" Value="+" />
+    <Keyword ID="keywordID100176" Coordinate="[rev-87,177,182]" Value="" />
+    <Keyword ID="keywordID100177" Coordinate="[rev-87,194,200]" Value="-" />
+    <Keyword ID="keywordID100178" Coordinate="[rev-87,201,208]" Value="-" />
+    <Keyword ID="keywordID100179" Coordinate="[gr-1-1,5,10]" Value="+" />
+    <Keyword ID="keywordID100180" Coordinate="[gr-1-1,11,14]" Value="" />
+    <Keyword ID="keywordID100181" Coordinate="[gr-1-1,83,85]" Value="-" />
+    <Keyword ID="keywordID100182" Coordinate="[gr-1-1,121,125]" Value="+" />
+    <Keyword ID="keywordID100183" Coordinate="[gr-1-1,145,157]" Value="+" />
+    <Keyword ID="keywordID100184" Coordinate="[gr-1-1,216,220]" Value="+" />
+    <Keyword ID="keywordID100185" Coordinate="[gr-1-1,225,229]" Value="+" />
+    <Keyword ID="keywordID100186" Coordinate="[gr-3-1,137,142]" Value="-" />
+    <Keyword ID="keywordID100187" Coordinate="[gr-3-1,33,38]" Value="" />
+    <Keyword ID="keywordID100188" Coordinate="[gr-4-1,22,31]" Value="-" />
+    <Keyword ID="keywordID100189" Coordinate="[gr-4-1,16,21]" Value="" />
+    <Keyword ID="keywordID100190" Coordinate="[gr-5-1,10,15]" Value="+" />
+    <Keyword ID="keywordID100191" Coordinate="[gr-5-1,0,4]" Value="" />
+    <Keyword ID="keywordID100192" Coordinate="[gr-5-1,45,50]" Value="+" />
+    <Keyword ID="keywordID100193" Coordinate="[gr-5-1,51,54]" Value="" />
+    <Keyword ID="keywordID100194" Coordinate="[gr-5-1,88,94]" Value="-" />
+    <Keyword ID="keywordID100195" Coordinate="[gr-5-2,0,5]" Value="" />
+    <Keyword ID="keywordID100196" Coordinate="[gr-5-2,15,22]" Value="+" />
+    <Keyword ID="keywordID100197" Coordinate="[gr-6-1,0,10]" Value="+" />
+    <Keyword ID="keywordID100198" Coordinate="[gr-6-2,54,63]" Value="+" />
+    <Keyword ID="keywordID100199" Coordinate="[gr-6-2,11,16]" Value="-" />
+    <Keyword ID="keywordID100200" Coordinate="[gr-7-1,0,5]" Value="+" />
+    <Keyword ID="keywordID100201" Coordinate="[gr-7-1,6,9]" Value="" />
+    <Keyword ID="keywordID100202" Coordinate="[gr-8-1,60,65]" Value="-" />
+    <Keyword ID="keywordID100203" Coordinate="[gr-8-1,26,31]" Value="+" />
+    <Keyword ID="keywordID100204" Coordinate="[gr-8-1,129,135]" Value="-" />
+  </Keywords>
+  <Index>
+    <Keyword_Index Value="205" />
+    <Tag_Index Value="113" />
+  </Index>
+</Product>
