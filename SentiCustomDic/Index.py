@@ -1,5 +1,5 @@
 import nltk
-import InputTxt
+from SentiWordNet import InputTxt
 import yaml
 
 

@@ -1,8 +1,8 @@
 import nltk
 from nltk.corpus import sentiwordnet as swn
-import InputTxt
+from SentiWordNet import InputTxt
 
-sentences = nltk.sent_tokenize(InputTxt.joye)
+sentences = nltk.sent_tokenize(InputTxt.text1)
 print(sentences)
 sentences_tokens = [nltk.word_tokenize(s) for s in sentences]
 print(sentences_tokens)
