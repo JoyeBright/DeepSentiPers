@@ -1,5 +1,5 @@
 
-##### Note1: To familiar with better SA systems it is needed to deal with different corpora and apply diverse classification methods hence the following SA resources have been added to the repo: <br>
+##### Note1: To familiar with better SA systems apart of creating a customized opinion mining framework, it is needed to deal with different corpora and apply diverse classification methods hence the following SA resources have been added to the repo: <br>
 * SentiWordNet
 * SentiPers
 
