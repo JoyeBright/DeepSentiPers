@@ -8,7 +8,7 @@
 * SentiPers
 
 #### Note3: For detecting the polarity of the sentences, a dictionary has been used. A dictionary is no more than a list of words that share a category. But sth that should be considered is, the design of the dictionaries depends on the domain where you want to do the opinion mining.
-
+<hr>
 ### Text Structure:
 *   Each input text is a list of sentences, each sentence is a list of tokens and each token is a row/tuple consists of <i>three</i> features:
    *   First Feature: Exact word
