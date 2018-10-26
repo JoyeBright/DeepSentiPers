@@ -3,6 +3,10 @@
 
 #### Note2: I focus on detecting the overall polarity (Document Level Sentiment Classification) instead of Aspect level Sentiment Classification.
 
+#### Note3: To develope a better SA system it is needed to use different corpora and apply diverse classification methods hence the following corpora have been added to the repo: <br>
+* SentiWordNet
+* SentiPers
+
 #### Note3: For detecting the polarity of the sentences, a dictionary has been used. A dictionary is no more than a list of words that share a category. But sth that should be considered is, the design of the dictionaries depends on the domain where you want to do the opinion mining.
 
 ### Text Structure:
@@ -44,7 +48,5 @@ As described before, the dictionary is no more than a list of word that indicate
 
 
 :rocket: Tip: For more accurate SA system, it is needed to add more dictionaries which support wide lexicon.<br>
-:rocket: Tip: To put it in a nutshell, the main challenge for opinion mining is to find an optimal way of combining the word scores to an overall score for whole documents.<br>
-Note: To develope a better SA system it is needed to use different corpora and apply diverse classification methods hence the following corpora have been added to the repo: <br>
-* SentiWordNet
-* SentiPers
+:rocket: Tip: To put it in a nutshell, the main challenge for opinion mining is to find an optimal way of combining the word scores to an overall score for whole documents.
+
