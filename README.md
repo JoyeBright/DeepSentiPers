@@ -1,5 +1,5 @@
 
-##### Note1: To develope a better SA system it is needed to use different corpora and apply diverse classification methods hence the following corpora have been added to the repo: <br>
+##### Note1: To familiar with better SA systems it is needed to deal with different corpora and apply diverse classification methods hence the following Sentiment Analysis resources have been added to the repo: <br>
 * SentiWordNet
 * SentiPers
 
