@@ -44,7 +44,7 @@ As described before, the dictionary is no more than a list of word that indicate
 
 
 :rocket: Tip: For more accurate SA system, it is needed to add more dictionaries which support wide lexicon.<br>
-:rocket: Tip: To put it in a nutshell, the main challenge for opinion mining is to find an optimal way of combining the word scores to an overall score for whole documents.
+:rocket: Tip: To put it in a nutshell, the main challenge for opinion mining is to find an optimal way of combining the word scores to an overall score for whole documents.<br>
 :rocket: Further: To develope a better SA system it is needed to use different corpora and apply diverse classification methods hence the following corpora have been added to the repo: <br>
 * SentiWordNet
 * SentiPers
