@@ -1,5 +1,6 @@
 from xml.etree import ElementTree
 import os
+import pandas as pd
 
 main_review_sentences = {}  # A dictionary that contains sentences of main review
 all_general_review = {}     # A dictionary that contains all general reviews and their sentences
@@ -264,3 +265,16 @@ print("Text of third sentence : ", all_sentences[2]['Text'])
 print("Targets of third sentence : ", all_sentences[2]['Targets'])
 print("Opinions of first target of third sentence : ", all_sentences[2]['Targets'][0]['Opinions'])
 print("Keywords of third sentence : ", all_sentences[2]['Keywords'])
+
+dataframe = pd.DataFrame.from_dict(all_sentences)
+print("------------------ Data Frame ------------------")
+print(dataframe.head())
+print(dataframe.columns.values)
+
+# Save dataframe as csv file
+dataframe.to_csv('data.csv', sep='\t', encoding='utf-8', index=False)
+
+# Read dataframe from csv file
+print("------------------ Loading from CSV file ------------------")
+df = pd.read_csv('data.csv', sep='\t', encoding='utf-8')
+print(df.head())
