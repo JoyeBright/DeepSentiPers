@@ -1,9 +1,15 @@
-# Basic-Sentiment-Analysis with Python
-#### Note1: Don't expect complicated and tremendous strategies to achieve opinion mining, this is only a practical instance of using some basic rules to elicit the polarity of an input text.
 
-#### Note2: I focus on detecting the overall polarity (Document Level Sentiment Classification) instead of Aspect level Sentiment Classification.
+##### Note1: To familiar with better SA systems apart of creating a customized opinion mining framework, it is needed to deal with different corpora and apply diverse classification methods hence the following SA resources have been added to the repo: <br>
+* SentiWordNet
+* SentiPers (in Persian)
 
-#### Note3: For detecting the polarity of the sentences, a dictionary has been used. A dictionary is no more than a list of words that share a category. But sth that should be considered is, the design of the dictionaries depends on the domain where you want to do the opinion mining.
+##### Note2: Don't expect complicated and tremendous strategies to achieve opinion mining, this is only a practical instance of using some basic rules to elicit the polarity of an input text.
+
+##### Note3: I focus on detecting the overall polarity (Document Level Sentiment Classification) instead of Aspect level Sentiment Classification.
+
+##### Note4: For detecting the polarity of the sentences, a dictionary has been used. A dictionary is no more than a list of words that share a category. But sth that should be considered is, the design of the dictionaries depends on the domain where you want to do the opinion mining.
+
+# Process of Creating a Basic Sentiment Analysis
 
 ### Text Structure:
 *   Each input text is a list of sentences, each sentence is a list of tokens and each token is a row/tuple consists of <i>three</i> features:
@@ -45,3 +51,4 @@ As described before, the dictionary is no more than a list of word that indicate
 
 :rocket: Tip: For more accurate SA system, it is needed to add more dictionaries which support wide lexicon.<br>
 :rocket: Tip: To put it in a nutshell, the main challenge for opinion mining is to find an optimal way of combining the word scores to an overall score for whole documents.
+
