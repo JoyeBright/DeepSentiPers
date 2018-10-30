@@ -1,6 +1,11 @@
 from xml.etree import ElementTree
 import os
 
+main_review_sentences = {}  # A dictionary that contains sentences of main review
+all_general_review = {}     # A dictionary that contains all general reviews and their sentences
+all_critical_review = {}   # A dictionary that contains all critical reviews and their sentences
+post_counter = 1
+last_target = None
 display = {'vmr': 0,  # Total Value of Main Review
            'mrs': 0,   # Main Review Sentences
            'agr': 0,   # All General Review
@@ -8,15 +13,7 @@ display = {'vmr': 0,  # Total Value of Main Review
            }
 
 
-main_review_sentences = {}  # A dictionary that contains sentences of main review
-all_general_review = {}     # A dictionary that contains all general reviews and their sentences
-all_critical_review = {}   # A dictionary that contains all critical reviews and their sentences
-post_counter = 1
-last_target = None
-
-
 def parser(file_name):
-
     full_path = os.path.abspath(os.path.join('Data', file_name))
     tree = ElementTree.parse(full_path)
 
@@ -53,8 +50,7 @@ def parser(file_name):
         all_general_review[str(post_counter) + review.attrib.get('ID')] = \
             {'Post': file_name, 'Value': review.attrib.get('Value'),
              'Sentences': sentences}
-    if display['agr']:
-        print_dictionary(all_general_review)
+    # print_dictionary(all_general_review)
 
     # Find all critical review and remember their sentences in a dictionary
     critical_reviews = tree.findall('Critical_Reviews/Critical_Review')
@@ -71,8 +67,7 @@ def parser(file_name):
         # Add this review and it's sentences to our dictionary
             all_critical_review[str(post_counter) + review.attrib.get('ID')] = \
                 {'Post': file_name, 'Value': review.attrib.get('Value'), 'Sentences': sentences}
-    if display['acr']:
-        print_dictionary(all_critical_review)
+    # print_dictionary(all_critical_review)
 
     # Find keywords and set them to sentences
     add_keywords(tree)
@@ -151,15 +146,12 @@ def set_tags(tree):
                 if tag.attrib.get('Type') == 'Target(I)':
                     last_target = index
                     related_target_m = main_targets[tag.attrib.get('Relation')]
-                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word, 'Opinions': [],
-                              'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_m}
+                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
+                              'RelationText': related_target_m, 'Opinions': []}
                     main_review_sentences.get(index).get('Targets').update({tag.attrib.get('ID'): target})
                 elif tag.attrib.get('Type') == 'Opinion':
                     target_i_id = tag.attrib.get('Relation')
-                    related_target_i = main_review_sentences.get(last_target).get('Targets')\
-                        .get(target_i_id).get('Text')
-                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
-                               'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_i}
+                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word}
                     if index == last_target:
                         opinions = main_review_sentences.get(index).get('Targets').get(target_i_id).get('Opinions')
                         opinions.append(opinion)
@@ -180,16 +172,13 @@ def set_tags(tree):
                 if tag.attrib.get('Type') == 'Target(I)':
                     last_target = sentence_index
                     related_target_m = main_targets[tag.attrib.get('Relation')]
-                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word, 'Opinions': [],
-                              'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_m}
+                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
+                              'RelationText': related_target_m, 'Opinions': []}
                     all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Targets')\
                         .update({tag.attrib.get('ID'): target})
                 elif tag.attrib.get('Type') == 'Opinion':
                     target_i_id = tag.attrib.get('Relation')
-                    related_target_i = all_general_review.get(review_index).get('Sentences').get(last_target)\
-                        .get('Targets').get(target_i_id).get('Text')
-                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
-                               'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_i}
+                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word}
                     if sentence_index == last_target:
                         opinions = all_general_review.get(review_index).get('Sentences').get(sentence_index)\
                             .get('Targets').get(target_i_id).get('Opinions')
@@ -217,16 +206,13 @@ def set_tags(tree):
                 if tag.attrib.get('Type') == 'Target(I)':
                     last_target = sentence_index
                     related_target_m = main_targets[tag.attrib.get('Relation')]
-                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word, 'Opinions': [],
-                              'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_m}
+                    target = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
+                              'RelationText': related_target_m, 'Opinions': []}
                     all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Targets') \
                         .update({tag.attrib.get('ID'): target})
                 elif tag.attrib.get('Type') == 'Opinion':
                     target_i_id = tag.attrib.get('Relation')
-                    related_target_i = all_critical_review.get(review_index).get('Sentences').get(last_target) \
-                        .get('Targets').get(target_i_id).get('Text')
-                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word,
-                               'RelationID': tag.attrib.get('Relation'), 'RelationText': related_target_i}
+                    opinion = {'Position': pos, 'Value': tag.attrib.get('Value'), 'Text': word}
                     if sentence_index == last_target:
                         opinions = all_critical_review.get(review_index).get('Sentences').get(sentence_index) \
                             .get('Targets').get(target_i_id).get('Opinions')
@@ -260,22 +246,12 @@ def main():
         post_counter += 1
 
 
-def print_results():
-    print("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*")
-    print("Main review sentences: ", len(main_review_sentences))
-    print("Total general review number: ", len(all_general_review))
-    total_g_reviews = 0
-    for r in all_general_review:
-        total_g_reviews += len(all_general_review.get(r).get('Sentences'))
-    print("General review sentences: ", total_g_reviews)
-    print("Total critical review number: ", len(all_critical_review))
-    total_c_reviews = 0
-    for r in all_critical_review:
-        total_c_reviews += len(all_critical_review.get(r).get('Sentences'))
-    print("Critical review sentences: ", total_c_reviews)
-    print("Total number of sentences: ", (len(main_review_sentences)+total_c_reviews+total_g_reviews))
-    print("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*")
+def get_main_review_sents():
+    return main_review_sentences
 
 
-main()
-print_results()
+def get_general_reviews():
+    return all_general_review
+
+def get_critical_reviews():
+    return all_critical_review
