@@ -1,6 +1,13 @@
 from xml.etree import ElementTree
 import os
 
+display = {'vmr': 0,  # Total Value of Main Review
+           'mrs': 0,   # Main Review Sentences
+           'agr': 0,   # All General Review
+           'acr': 0    # All Critical Review
+           }
+
+
 main_review_sentences = {}  # A dictionary that contains sentences of main review
 all_general_review = {}     # A dictionary that contains all general reviews and their sentences
 all_critical_review = {}   # A dictionary that contains all critical reviews and their sentences
@@ -9,15 +16,16 @@ last_target = None
 
 
 def parser(file_name):
-    # print(file_name)
+
     full_path = os.path.abspath(os.path.join('Data', file_name))
     tree = ElementTree.parse(full_path)
 
     # Find the total value of main review
-    # review = tree.findall('Review')
-    # review_attributes = review[0].attrib
-    # review_total_value = review_attributes["Value"]
-    # print(review_total_value)
+    if display['vmr']:
+        review = tree.findall('Review')
+        review_attributes = review[0].attrib
+        review_total_value = review_attributes["Value"]
+        print("\n", review_total_value, "****")
 
     # Find main review and remember it's sentences in a dictionary
     review_sentences = tree.findall('Review/Sentence')
@@ -26,42 +34,45 @@ def parser(file_name):
             {'Post': file_name, 'Value': sentence.attrib.get('Value'),
              'Text': sentence.text, 'Targets': {}, 'Keywords': []}
         # print(sentence.attrib, sentence.text)
-    # print_dictionary(main_review_sentences)
+    if display['mrs']:
+        print_dictionary(main_review_sentences)
 
     # Find all general review and remember their sentences in a dictionary
     general_reviews = tree.findall('General_Reviews/General_Review')
     for review in general_reviews:
-        # Find every senteces in this review
+        # Find every sentences in this review
         sentences_in_review = review.findall('Sentence')
         inner_counter = 1
-        senteces = {}
+        sentences = {}
         for sentence in sentences_in_review:
-            senteces[str(post_counter) + sentence.attrib.get('ID')] = \
+            sentences[str(post_counter) + sentence.attrib.get('ID')] = \
                 {'Value': sentence.attrib.get('Value'),
                  'Text': sentence.text, 'Targets': {}, 'Keywords': []}
             inner_counter += 1
-        # Add this review and it's senteces to our dictionary
+        # Add this review and it's sentences to our dictionary
         all_general_review[str(post_counter) + review.attrib.get('ID')] = \
             {'Post': file_name, 'Value': review.attrib.get('Value'),
-             'Sentences': senteces}
-    # print_dictionary(all_general_review)
+             'Sentences': sentences}
+    if display['agr']:
+        print_dictionary(all_general_review)
 
     # Find all critical review and remember their sentences in a dictionary
     critical_reviews = tree.findall('Critical_Reviews/Critical_Review')
     for review in critical_reviews:
-        # Find every senteces in this review
+        # Find every sentences in this review
         sentences_in_review = review.findall('Sentence')
         inner_counter = 1
-        senteces = {}
+        sentences = {}
         for sentence in sentences_in_review:
-            senteces[str(post_counter) + sentence.attrib.get('ID')] = \
+            sentences[str(post_counter) + sentence.attrib.get('ID')] = \
                 {'Value': sentence.attrib.get('Value'),
                  'Text': sentence.text, 'Targets': {}, 'Keywords': []}
             inner_counter += 1
-        # Add this review and it's senteces to our dictionary
+        # Add this review and it's sentences to our dictionary
             all_critical_review[str(post_counter) + review.attrib.get('ID')] = \
-                {'Post': file_name, 'Value': review.attrib.get('Value'), 'Sentences': senteces}
-    # print_dictionary(all_critical_review)
+                {'Post': file_name, 'Value': review.attrib.get('Value'), 'Sentences': sentences}
+    if display['acr']:
+        print_dictionary(all_critical_review)
 
     # Find keywords and set them to sentences
     add_keywords(tree)
