@@ -28,9 +28,8 @@ def parser(file_name):
     review_sentences = tree.findall('Review/Sentence')
     for sentence in review_sentences:
         main_review_sentences[str(post_counter) + sentence.attrib.get('ID')] = \
-            {'Post': file_name, 'Value': sentence.attrib.get('Value'),
-             'Text': sentence.text, 'Targets': {}, 'Keywords': []}
-        # print(sentence.attrib, sentence.text)
+            {'Value': sentence.attrib.get('Value'), 'Text': sentence.text, 'Targets': {}, 'Negative-Keywords': [],
+             'Neutral-Keywords': [], 'Positive-Keywords': []}
     if display['mrs']:
         print_dictionary(main_review_sentences)
 
@@ -43,14 +42,13 @@ def parser(file_name):
         sentences = {}
         for sentence in sentences_in_review:
             sentences[str(post_counter) + sentence.attrib.get('ID')] = \
-                {'Value': sentence.attrib.get('Value'),
-                 'Text': sentence.text, 'Targets': {}, 'Keywords': []}
+                {'Value': sentence.attrib.get('Value'),  'Text': sentence.text, 'Targets': {},
+                 'Negative-Keywords': [], 'Neutral-Keywords': [], 'Positive-Keywords': []}
             inner_counter += 1
         # Add this review and it's sentences to our dictionary
         all_general_review[str(post_counter) + review.attrib.get('ID')] = \
             {'Post': file_name, 'Value': review.attrib.get('Value'),
              'Sentences': sentences}
-    # print_dictionary(all_general_review)
 
     # Find all critical review and remember their sentences in a dictionary
     critical_reviews = tree.findall('Critical_Reviews/Critical_Review')
@@ -61,20 +59,34 @@ def parser(file_name):
         sentences = {}
         for sentence in sentences_in_review:
             sentences[str(post_counter) + sentence.attrib.get('ID')] = \
-                {'Value': sentence.attrib.get('Value'),
-                 'Text': sentence.text, 'Targets': {}, 'Keywords': []}
+                {'Value': sentence.attrib.get('Value'), 'Text': sentence.text, 'Targets': {},
+                 'Negative-Keywords': [], 'Neutral-Keywords': [], 'Positive-Keywords': []}
             inner_counter += 1
         # Add this review and it's sentences to our dictionary
             all_critical_review[str(post_counter) + review.attrib.get('ID')] = \
                 {'Post': file_name, 'Value': review.attrib.get('Value'), 'Sentences': sentences}
-    # print_dictionary(all_critical_review)
 
     # Find keywords and set them to sentences
-    add_keywords(tree)
+    set_keywords(tree)
     set_tags(tree)
 
 
-def add_keywords(tree):
+def add_keyword(dictionary, index, text, value):
+    if value == '+':    # Check keyword type
+        k_list = dictionary.get(index).get('Positive-Keywords')     # Get current list
+        k_list.append(text)     # Add new keyword
+        dictionary.get(index).update({'Positive-Keywords': k_list})     # Update
+    elif value == '-':
+        k_list = dictionary.get(index).get('Negative-Keywords')
+        k_list.append(text)
+        dictionary.get(index).update({'Negative-Keywords': k_list})
+    else:
+        k_list = dictionary.get(index).get('Neutral-Keywords')
+        k_list.append(text)
+        dictionary.get(index).update({'Neutral-Keywords': k_list})
+
+
+def set_keywords(tree):
     keywords = tree.findall('Keywords/Keyword')
     for keyword in keywords:
         coordinate = keyword.attrib.get('Coordinate')
@@ -88,12 +100,8 @@ def add_keywords(tree):
             index = str(post_counter) + sentence_id
             keyword_str = main_review_sentences.get(index).get('Text')
             keyword_str = keyword_str[int(pos[0]):int(pos[1])]
-            k = {'Position': pos, 'Value': keyword.attrib.get('Value'), 'Text': keyword_str}
-            k_list = main_review_sentences.get(index).get('Keywords')    # Load keywords list for this sentence
-            k_list.append(k)     # Add new keyword
-            main_review_sentences.get(index).update({'Keywords': k_list})     # Update senetence dictionary
-            # print(keyword_str)
-            # print(main_review_sentences.get(index))
+            value = keyword.attrib.get('Value')
+            add_keyword(main_review_sentences, index, keyword_str, value)
 
         # If it relates to a sentence of general review
         elif sentence_id[0] == 'g':
@@ -103,12 +111,8 @@ def add_keywords(tree):
             sentence_index = str(post_counter) + sentence_id
             keyword_str = all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
             keyword_str = keyword_str[int(pos[0]):int(pos[1])]
-            k = {'Position': pos, 'Value': keyword.attrib.get('Value'), 'Text': keyword_str}
-            k_list = all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Keywords')
-            k_list.append(k)  # Add new keyword
-            all_general_review.get(review_index).get('Sentences').get(sentence_index).update({'Keywords': k_list})
-            # print(keyword_str)
-            # print(all_general_review.get(review_index).get('Sentences').get(sentence_index))
+            value = keyword.attrib.get('Value')
+            add_keyword(all_general_review.get(review_index).get('Sentences'), sentence_index, keyword_str, value)
 
         # If it relates to a sentence of critical review
         elif sentence_id[0] == 'c':
@@ -118,12 +122,8 @@ def add_keywords(tree):
             sentence_index = str(post_counter) + sentence_id
             keyword_str = all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
             keyword_str = keyword_str[int(pos[0]):int(pos[1])]
-            k = {'Position': pos, 'Value': keyword.attrib.get('Value'), 'Text': keyword_str}
-            k_list = all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Keywords')
-            k_list.append(k)  # Add new keyword
-            all_critical_review.get(review_index).get('Sentences').get(sentence_index).update({'Keywords': k_list})
-            # print(keyword_str)
-            # print(all_critical_review.get(review_index).get('Sentences').get(sentence_index))
+            value = keyword.attrib.get('Value')
+            add_keyword(all_critical_review.get(review_index).get('Sentences'), sentence_index, keyword_str, value)
 
 
 def set_tags(tree):
@@ -160,8 +160,6 @@ def set_tags(tree):
                         target = main_review_sentences.get(last_target).get('Targets').get(target_i_id)
                         target.update({'Opinions': [].append(opinion)})
                         main_review_sentences.get(index).update({'Targets': target})
-
-                    # print(main_review_sentences.get(index).get('Targets'))
             elif sentence_id[0] == 'g':
                 splitted_id = sentence_id.split('-')
                 review_id = splitted_id[0] + "-" + splitted_id[1]
@@ -185,7 +183,6 @@ def set_tags(tree):
                         opinions.append(opinion)
                         all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Targets')\
                             .get(target_i_id).update({'Opinions': opinions})
-                        # print(all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Targets'))
                     else:
                         target = all_general_review.get(review_index).get('Sentences').get(last_target)\
                             .get('Targets').get(target_i_id)
@@ -219,8 +216,6 @@ def set_tags(tree):
                         opinions.append(opinion)
                         all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Targets') \
                             .get(target_i_id).update({'Opinions': opinions})
-                        # print(all_general_review.get(review_index).get('Sentences').get(sentence_index)
-                        # .get('Targets'))
                     else:
                         target = all_critical_review.get(review_index).get('Sentences').get(last_target).get(
                             'Targets').get(target_i_id)
@@ -246,12 +241,13 @@ def main():
         post_counter += 1
 
 
-def get_main_review_sents():
+def get_main_review_sentences():
     return main_review_sentences
 
 
 def get_general_reviews():
     return all_general_review
+
 
 def get_critical_reviews():
     return all_critical_review
