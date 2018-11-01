@@ -5,7 +5,7 @@ all_sentences = []
 
 
 def collect_all_sentences():
-    main_review_sentences = Parser.get_main_review_sents()  # Get all main review senteces
+    main_review_sentences = Parser.get_main_review_sentences()  # Get all main review sentences
     for sen in main_review_sentences:   # Add all of them
         all_sentences.append(main_review_sentences.get(sen))
 
@@ -39,17 +39,17 @@ for i in all_sentences[0:10]:
 print("Text of third sentence : ", all_sentences[2]['Text'])
 print("Targets of third sentence : ", all_sentences[2]['Targets'])
 print("Opinions of first target of third sentence : ", all_sentences[2]['Targets'][0]['Opinions'])
-print("Keywords of third sentence : ", all_sentences[2]['Keywords'])
+print("Positive keywords of third sentence : ", all_sentences[2]['Positive-Keywords'])
 
-dataframe = pd.DataFrame.from_dict(all_sentences)
+data_frame = pd.DataFrame.from_dict(all_sentences)
 print("------------------ Data Frame ------------------")
-print(dataframe.head())
-print(dataframe.columns.values)
+print(data_frame.head())
+print(data_frame.columns.values)
 
-# Save dataframe as csv file
-dataframe.to_csv('data.csv', sep='\t', encoding='utf-8', index=False)
+# Save data frame as csv file
+data_frame.to_csv('data.csv', sep='\t', encoding='utf-8', index=False)
 
-# Read dataframe from csv file
+# Read data frame from csv file
 print("------------------ Loading from CSV file ------------------")
 df = pd.read_csv('data.csv', sep='\t', encoding='utf-8')
 print(df.head())
