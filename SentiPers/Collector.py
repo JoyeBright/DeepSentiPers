@@ -27,32 +27,11 @@ def collect_all_sentences():
 Parser.main()               # Run parser
 collect_all_sentences()     # Collect sentences from parser
 
-# Print the number of sentences
-print("The number of all sentences : ", len(all_sentences))
-
-# Print some sentences as example
-print("Example: ")
-for i in all_sentences[0:10]:
-    print(i)
-
-# This is how you can access to each detail
-print("Text of third sentence : ", all_sentences[2]['Text'])
-print("Targets of third sentence : ", all_sentences[2]['Targets'])
-print("Opinions of first target of third sentence : ", all_sentences[2]['Targets'][0]['Opinions'])
-print("Positive keywords of third sentence : ", all_sentences[2]['Positive-Keywords'])
 
 data_frame = pd.DataFrame.from_dict(all_sentences)
-print("------------------ Data Frame ------------------")
-print(data_frame.head())
-print(data_frame.columns.values)
 
 # Save data frame as csv file
-data_frame.to_csv('data.csv', sep='\t', encoding='utf-8', index=False)
+data_frame.to_csv('Data.csv', sep='\t', encoding='utf-8', index=False)
 
-# Read data frame from csv file
-print("------------------ Loading from CSV file ------------------")
-df = pd.read_csv('data.csv', sep='\t', encoding='utf-8')
-print(df.head())
-print(df.loc[2])
 
 

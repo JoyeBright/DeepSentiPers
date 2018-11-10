@@ -91,9 +91,9 @@ def set_keywords(tree):
     for keyword in keywords:
         coordinate = keyword.attrib.get('Coordinate')
         coordinate = coordinate[1:-1]
-        splitted = coordinate.split(',')
-        sentence_id = splitted[0]
-        pos = splitted[1:3]
+        split = coordinate.split(',')
+        sentence_id = split[0]
+        pos = split[1:3]
 
         # If it relates to a sentence of main review
         if sentence_id[0] == 'r':
@@ -105,8 +105,8 @@ def set_keywords(tree):
 
         # If it relates to a sentence of general review
         elif sentence_id[0] == 'g':
-            splitted_id = sentence_id.split('-')
-            review_id = splitted_id[0] + "-" + splitted_id[1]
+            split_id = sentence_id.split('-')
+            review_id = split_id[0] + "-" + split_id[1]
             review_index = str(post_counter) + review_id
             sentence_index = str(post_counter) + sentence_id
             keyword_str = all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
@@ -116,8 +116,8 @@ def set_keywords(tree):
 
         # If it relates to a sentence of critical review
         elif sentence_id[0] == 'c':
-            splitted_id = sentence_id.split('-')
-            review_id = splitted_id[0] + "-" + splitted_id[1]
+            split_id = sentence_id.split('-')
+            review_id = split_id[0] + "-" + split_id[1]
             review_index = str(post_counter) + review_id
             sentence_index = str(post_counter) + sentence_id
             keyword_str = all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
@@ -135,9 +135,9 @@ def set_tags(tree):
         else:
             coordinate = tag.attrib.get('Coordinate')
             coordinate = coordinate[1:-1]
-            splitted = coordinate.split(',')
-            sentence_id = splitted[0]
-            pos = splitted[1:3]
+            split = coordinate.split(',')
+            sentence_id = split[0]
+            pos = split[1:3]
             global last_target
             if sentence_id[0] == 'r':
                 index = str(post_counter) + sentence_id
@@ -161,8 +161,8 @@ def set_tags(tree):
                         target.update({'Opinions': [].append(opinion)})
                         main_review_sentences.get(index).update({'Targets': target})
             elif sentence_id[0] == 'g':
-                splitted_id = sentence_id.split('-')
-                review_id = splitted_id[0] + "-" + splitted_id[1]
+                split_id = sentence_id.split('-')
+                review_id = split_id[0] + "-" + split_id[1]
                 review_index = str(post_counter) + review_id
                 sentence_index = str(post_counter) + sentence_id
                 word = all_general_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
@@ -194,8 +194,8 @@ def set_tags(tree):
                         all_general_review.get(review_index).get('Sentences').get(sentence_index)\
                             .update({'Targets': target})
             elif sentence_id[0] == 'c':
-                splitted_id = sentence_id.split('-')
-                review_id = splitted_id[0] + "-" + splitted_id[1]
+                split_id = sentence_id.split('-')
+                review_id = split_id[0] + "-" + split_id[1]
                 review_index = str(post_counter) + review_id
                 sentence_index = str(post_counter) + sentence_id
                 word = all_critical_review.get(review_index).get('Sentences').get(sentence_index).get('Text')
