@@ -12,7 +12,7 @@ pd.options.mode.chained_assignment = None
 LabeledSentence = gensim.models.doc2vec.LabeledSentence
 
 
-n = 2000
+n = 3000
 n_dim = 200
 
 
@@ -32,6 +32,7 @@ ingest = ingest()
 # print(ingest['Text'].iloc[0])
 
 
+# Persian Tokenizer: Hazm
 # noinspection PyBroadException
 def tokenize(s):
     try:
@@ -80,6 +81,7 @@ sentipers_w2v = Word2Vec(size=n_dim, min_count=10)
 sentipers_w2v.build_vocab([x.words for x in tqdm(x_train)])
 sentipers_w2v.train([x.words for x in tqdm(x_train)], total_examples=1, epochs=1)
 
+
 # print(sentipers_w2v['خوب'])
 # Word2Vec has a great feature which provides a cool method named most_similar, this method
 # returns the top n similar ones.
@@ -119,6 +121,7 @@ def buildWordVector(tokens, size):
 # now convert x_train and x_test into list of vectors using the top function
 train_vecs_w2v = np.concatenate([buildWordVector(z, n_dim) for z in
                                  tqdm(map(lambda x: x.words, x_train))])
+
 
 # Standardize a dataset along any axis
 train_vecs_w2v = scale(train_vecs_w2v)
