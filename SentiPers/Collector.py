@@ -24,9 +24,18 @@ def collect_all_sentences():
         sentence['Targets'] = target_list
 
 
+def pre_process():
+    temp = []
+    global all_sentences
+    for index, sentence in enumerate(all_sentences):
+        if len(sentence.get('Text')) > 4:
+            temp.append(sentence)
+    all_sentences = temp.copy()
+
+
 Parser.main()               # Run parser
 collect_all_sentences()     # Collect sentences from parser
-
+pre_process()
 
 data_frame = pd.DataFrame.from_dict(all_sentences)
 
