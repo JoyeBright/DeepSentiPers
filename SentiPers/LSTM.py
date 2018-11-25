@@ -21,8 +21,8 @@ print("After reshape -> x_test and y_test shape is : ", x_test.shape, y_test.sha
 
 model = Sequential()
 model.add(LSTM(8, input_shape=(200, 1), return_sequences=False))#True = many to many
-model.add(Dense(2, kernel_initializer='normal', activation='linear'))
-model.add(Dense(1, kernel_initializer='normal', activation='linear'))
+model.add(Dense(2, kernel_initializer='normal', activation='relu'))
+model.add(Dense(1, kernel_initializer='normal', activation='sigmoid'))
 
 model.compile(optimizer='rmsprop',
               loss='mse',
