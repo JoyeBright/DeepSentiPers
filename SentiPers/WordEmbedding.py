@@ -56,7 +56,7 @@ def postprocess(data):
 
 postprocess = postprocess(ingest)
 # print(d['Tokens'].iloc[0])
-# print(d.head())
+# print(postprocess.head())
 
 # Define Training and Test set
 x_train, x_test, y_train, y_test = train_test_split(np.array(postprocess.head(n).Tokens),
