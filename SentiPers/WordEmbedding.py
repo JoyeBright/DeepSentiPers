@@ -4,6 +4,8 @@ from sklearn.model_selection import train_test_split
 from hazm import *
 from tqdm import tqdm
 import gensim
+# https://pypi.org/project/stopwords-guilannlp/
+from stopwords_guilannlp import stopwords_output
 from gensim.models.word2vec import Word2Vec
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import scale
@@ -37,7 +39,13 @@ ingest = ingest()
 def tokenize(s):
     try:
         tokens = word_tokenize(s)
-        return tokens
+        filtered_tokens = []
+        stopwords = stopwords_output("Persian", "nar")
+        print(stopwords)
+        for w in tokens:
+            if w not in stopwords:
+                filtered_tokens.append(w)
+        return filtered_tokens
     except:
         return 'NC'
 
