@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -13,15 +14,20 @@ tqdm.pandas(desc="progress-bar")
 pd.options.mode.chained_assignment = None
 LabeledSentence = gensim.models.doc2vec.LabeledSentence
 
-
-n = 3000
-n_dim = 200
+# Root of the project
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+# Number of rows in data.csv
+n = 7415
+# Dimensionality of the word vectors
+n_dim = 100
 
 
 def ingest():
-    data = pd.read_csv('Data.csv', sep='\t')
+    CONFIG_PATH = os.path.join(ROOT_DIR, 'data.csv')
+    data = pd.read_csv(CONFIG_PATH, sep='\t')
     data.drop(['Negative-Keywords', 'Neutral-Keywords', 'Positive-Keywords', 'Targets'], axis=1, inplace=True)
     data = data[data.Value.isnull() == False]
+    # map applies a function on each cell of Value then if it null, it will set it with 0s
     data['Value'] = data['Value'].map(int)
     data = data[data['Text'].isnull() == False]
     data.reset_index(inplace=True)
@@ -41,7 +47,6 @@ def tokenize(s):
         tokens = word_tokenize(s)
         filtered_tokens = []
         stopwords = stopwords_output("Persian", "nar")
-        print(stopwords)
         for w in tokens:
             if w not in stopwords:
                 filtered_tokens.append(w)
@@ -59,6 +64,10 @@ def postprocess(data):
     data = data[data.Tokens != 'NC']
     data.reset_index(inplace=True)
     data.drop('index', inplace=True, axis=1)
+    # Monitor the final structure of data
+    CONFIG_PATH = os.path.join(ROOT_DIR, 'Outputs/postprocess_data.csv')
+    data.to_csv(CONFIG_PATH, sep="\t")
+    print("\nAfter Postprocessing, shape of data is equal:", data.shape)
     return data
 
 
@@ -67,9 +76,15 @@ postprocess = postprocess(ingest)
 # print(postprocess.head())
 
 # Define Training and Test set
-x_train, x_test, y_train, y_test = train_test_split(np.array(postprocess.head(n).Tokens),
-                                                    np.array(postprocess.head(n).Value),
-                                                    test_size=0.2)
+x_train, x_test, y_train, y_test = train_test_split(postprocess.head(n).Tokens,
+                                                    postprocess.head(n).Value)
+# We'd like to save the X_train and X_test
+x_train_csv = x_train.to_frame()
+x_test_csv = x_test.to_frame()
+CONFIG_PATH1 = os.path.join(ROOT_DIR, 'Outputs/x_train.csv')
+CONFIG_PATH2 = os.path.join(ROOT_DIR, 'Outputs/x_test.csv')
+x_train_csv.to_csv(CONFIG_PATH1, sep="\t")
+x_test_csv.to_csv(CONFIG_PATH2, sep="\t")
 
 
 def labelizeSent(data, label_type):
@@ -83,18 +98,19 @@ def labelizeSent(data, label_type):
 x_train = labelizeSent(x_train, 'TRAIN')
 x_test = labelizeSent(x_test, 'TEST')
 
+# print(x_train[0].words)
 # print(x_train[0])
 # Build Word2Vec Model from x-train
-sentipers_w2v = Word2Vec(size=n_dim, min_count=10)
+sentipers_w2v = Word2Vec(size=n_dim, min_count=10, window=5)
 sentipers_w2v.build_vocab([x.words for x in tqdm(x_train)])
-sentipers_w2v.train([x.words for x in tqdm(x_train)], total_examples=1, epochs=1)
+sentipers_w2v.train([x.words for x in tqdm(x_train)], total_examples=n, epochs=5)
 
-
-# print(sentipers_w2v['خوب'])
+# print(sentipers_w2v)
+# print(sentipers_w2v['گوشی'])
 # Word2Vec has a great feature which provides a cool method named most_similar, this method
 # returns the top n similar ones.
 # print(sentipers_w2v.most_similar('خوب'))
-# print(sentipers_w2v.most_similar('عالی'))
+print(sentipers_w2v.most_similar('گوشی'))
 
 
 print("Building tf-idf matrix ...")
