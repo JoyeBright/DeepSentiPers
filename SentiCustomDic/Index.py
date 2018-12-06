@@ -3,14 +3,13 @@ from SentiWordNet import InputTxt
 import yaml
 
 
-
 class PreProcess(object):
     def __init__(self):
         self.sentence_splitter = nltk.data.load('tokenizers/punkt/english.pickle')
         self.tokenizer = nltk.tokenize.TreebankWordTokenizer()
 
     def split(self, txt):
-        # Spliting and finding sentences
+        # Splitting and finding sentences
         sentences = self.sentence_splitter.tokenize(txt)
         # The following line says: tokenize each of the sentences
         # Deeply it means iterate each sentence and make its words into tokens

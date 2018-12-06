@@ -20,14 +20,14 @@ print("After reshape -> x_test and y_test shape is : ", x_test.shape, y_test.sha
 
 
 model = Sequential()
-model.add(LSTM(8, input_shape=(200, 1), return_sequences=False))#True = many to many
+model.add(LSTM(8, input_shape=(200, 1), return_sequences=False))  # True = many to many
 model.add(Dense(2, kernel_initializer='normal', activation='relu'))
-model.add(Dense(1, kernel_initializer='normal', activation='sigmoid'))
+model.add(Dense(5, kernel_initializer='normal', activation='sigmoid'))
 
 model.compile(optimizer='rmsprop',
               loss='mse',
               metrics=['accuracy'])
 
-model.fit(x_train, y_train, epochs=2000, batch_size=5, verbose=2, validation_split=0.05)
+model.fit(x_train, y_train, epochs=3, batch_size=5, verbose=2, validation_split=0.05)
 score = model.evaluate(x_test, y_test)
-print("Accurracy: ", score[1])
+print("Accuracy: ", score[1])

@@ -7,7 +7,7 @@ normalizer = Normalizer()
 
 # Save Text column from data.csv into a typical text file
 # Delimiter for defining the rows is \n
-with open('Data.csv') as csvfile:
+with open('data.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter='\t')
     text = []
     for row in readCSV:

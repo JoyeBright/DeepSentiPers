@@ -40,7 +40,7 @@ pre_process()
 data_frame = pd.DataFrame.from_dict(all_sentences)
 
 # Save data frame as csv file
-data_frame.to_csv('Data.csv', sep='\t', encoding='utf-8', index=False)
+data_frame.to_csv('data.csv', sep='\t', encoding='utf-8', index=False)
 
 
 
