@@ -18,7 +18,7 @@
    *   Third Feature: A list of associated tags
    
 ## Steps:
-### 1. Preprocessing the input text
+### 1. Pre-processing the input text
 *   Sentence Splitting
 *   Sentence Tokenization
 *   POS-Tagging
