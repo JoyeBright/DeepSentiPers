@@ -32,7 +32,7 @@ ingest = ingest()
 x_train, x_test, y_train, y_test = train_test_split(ingest.head(n).Text,
                                                     ingest.head(n).Value)
 
-# Make stopword set
+# Make stop word set
 stop_words = stopwords_output("Persian", "nar")
 stop_list = []
 for s in stop_words:
