@@ -15,7 +15,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def ingest():
-    CONFIG_PATH = os.path.join(ROOT_DIR.replace('Classifier', ''), 'data.csv')
+    CONFIG_PATH = os.path.join(ROOT_DIR.replace('Classifier/BaseLine', ''), 'data.csv')
     data = pd.read_csv(CONFIG_PATH, sep='\t')
     data.drop(['Negative-Keywords', 'Neutral-Keywords', 'Positive-Keywords', 'Targets'], axis=1, inplace=True)
     data = data[data.Value.isnull() == False]
