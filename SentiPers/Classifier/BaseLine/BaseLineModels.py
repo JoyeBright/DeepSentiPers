@@ -67,9 +67,12 @@ print('SGD Model: ', sgd_score)
 
 # Linear Support Vector Machine Model
 text_clf_linear_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
-                                                  analyzer='word', ngram_range=(1, 2), min_df=5)),
-                         ('tfidf', TfidfTransformer(sublinear_tf=True)),
-                         ('clf-svm', LinearSVC(loss='hinge', penalty='l2', max_iter=5))])
+                                                         analyzer='word', ngram_range=(1, 2),
+                                                         min_df=5)),
+                                ('tfidf', TfidfTransformer(sublinear_tf=True)),
+                                ('clf-svm', LinearSVC(loss='hinge', penalty='l2',
+                                                      max_iter=5))])
+
 text_clf_linear_svc = text_clf_linear_svc.fit(x_train, y_train)
 linear_svc_score = text_clf_linear_svc.score(x_test, y_test)
 print('Linear SVC Model: ', linear_svc_score)

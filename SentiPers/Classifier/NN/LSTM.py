@@ -1,33 +1,66 @@
 # Now It's time to feed vectors into NN classifier
 # Using Keras
 from keras.models import Sequential
-from keras.layers import Dense
-from SentiPers import WordEmbedding
-from keras.layers import LSTM
-from keras.layers import Activation
+from keras.layers import Dense, LSTM, SpatialDropout1D
+from SentiPers.WordEmbedding import CustomizedWE
+from keras.utils.np_utils import to_categorical
+from keras.utils import plot_model
+from keras.metrics import categorical_accuracy
 
-print("x_train and y_train shape is : ", WordEmbedding.train_vecs_w2v.shape, WordEmbedding.y_train.shape)
-print("x_test and y_test shape is : ", WordEmbedding.test_vesc_w2v.shape, WordEmbedding.y_test.shape)
+print("Shape of X_Train:", CustomizedWE.train_vecs_w2v.shape)
+print("Shape of X_Test:", CustomizedWE.test_vesc_w2v.shape)
+# print(WordEmbedding.train_vecs_w2v[0])
+categorical_y_train = to_categorical(CustomizedWE.y_train, 5)
+categorical_y_test = to_categorical(CustomizedWE.y_test, 5)
+# print(categorical_y_train[0])
 
-x_train = WordEmbedding.train_vecs_w2v.reshape((2400, 200, 1))
-y_train = WordEmbedding.y_train.reshape((2400, 1))
+dropout_probability = 0.25
+num_features = CustomizedWE.train_vecs_w2v.shape
 
-x_test = WordEmbedding.test_vesc_w2v.reshape((600, 200, 1))
-y_test = WordEmbedding.y_test.reshape((600, 1))
+# The input to every LSTM layer must be three dimensional.
+# Samples. One sample is one sequence.
+# Time Steps
+# Features
+x_train = CustomizedWE.train_vecs_w2v.reshape((5561, 100, 1))
+x_test = CustomizedWE.test_vesc_w2v.reshape((1854, 100, 1))
 
-print("After reshape -> x_train and y_train shape is : ", x_train.shape, y_train.shape)
-print("After reshape -> x_test and y_test shape is : ", x_test.shape, y_test.shape)
-
-
+# input_shape(time steps, features)
 model = Sequential()
-model.add(LSTM(8, input_shape=(200, 1), return_sequences=False))  # True = many to many
-model.add(Dense(2, kernel_initializer='normal', activation='relu'))
-model.add(Dense(5, kernel_initializer='normal', activation='sigmoid'))
+model.add(LSTM(100, return_sequences=True, activation="sigmoid",
+               input_shape=(100, 1)))
+print("Layer0 input shape:", model.layers[0].input_shape)
+print("Layer0 output shape:", model.layers[0].output_shape)
 
-model.compile(optimizer='rmsprop',
-              loss='mse',
-              metrics=['accuracy'])
+model.add(LSTM(100, return_sequences=True, activation="sigmoid",
+               input_shape=(100, 1)))
+print("Layer1 input shape:", model.layers[1].input_shape)
+print("Layer1 output shape:", model.layers[1].output_shape)
 
-model.fit(x_train, y_train, epochs=3, batch_size=5, verbose=2, validation_split=0.05)
-score = model.evaluate(x_test, y_test)
+model.add(SpatialDropout1D(dropout_probability))
+
+model.add(LSTM(100, return_sequences=False, activation="sigmoid"))
+print("Layer2 input shape:", model.layers[2].input_shape)
+print("Layer2 output shape:", model.layers[2].output_shape)
+
+model.add(Dense(100, activation='softmax'))
+print("Layer3 input shape:", model.layers[3].input_shape)
+print("Layer3 output shape:", model.layers[3].output_shape)
+
+model.add(Dense(5, activation="softmax"))
+
+model.compile(optimizer='adam',
+              loss='categorical_crossentropy',
+              metrics=[categorical_accuracy])
+
+print(model.summary())
+print("Training ....")
+model.fit(x_train, categorical_y_train,
+          validation_data=(x_test, categorical_y_test),
+          batch_size=64, epochs=2, verbose=2)
+score = model.evaluate(x_test, categorical_y_test)
+plot_model(model, show_shapes=True, to_file=CustomizedWE.ROOT_DIR + '/Outputs/LSTM-Model.png')
+
 print("Accuracy: ", score[1])
+
+
+
