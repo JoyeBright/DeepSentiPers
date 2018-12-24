@@ -15,7 +15,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def ingest():
-    CONFIG_PATH = os.path.join(ROOT_DIR.replace('Classifier', ''), 'data.csv')
+    CONFIG_PATH = os.path.join(ROOT_DIR.replace('Classifier/BaseLine', ''), 'data.csv')
     data = pd.read_csv(CONFIG_PATH, sep='\t')
     data.drop(['Negative-Keywords', 'Neutral-Keywords', 'Positive-Keywords', 'Targets'], axis=1, inplace=True)
     data = data[data.Value.isnull() == False]
@@ -32,7 +32,7 @@ ingest = ingest()
 x_train, x_test, y_train, y_test = train_test_split(ingest.head(n).Text,
                                                     ingest.head(n).Value)
 
-# Make stopword set
+# Make stop word set
 stop_words = stopwords_output("Persian", "nar")
 stop_list = []
 for s in stop_words:
@@ -67,9 +67,12 @@ print('SGD Model: ', sgd_score)
 
 # Linear Support Vector Machine Model
 text_clf_linear_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
-                                                  analyzer='word', ngram_range=(1, 2), min_df=5)),
-                         ('tfidf', TfidfTransformer(sublinear_tf=True)),
-                         ('clf-svm', LinearSVC(loss='hinge', penalty='l2', max_iter=5))])
+                                                         analyzer='word', ngram_range=(1, 2),
+                                                         min_df=5)),
+                                ('tfidf', TfidfTransformer(sublinear_tf=True)),
+                                ('clf-svm', LinearSVC(loss='hinge', penalty='l2',
+                                                      max_iter=5))])
+
 text_clf_linear_svc = text_clf_linear_svc.fit(x_train, y_train)
 linear_svc_score = text_clf_linear_svc.score(x_test, y_test)
 print('Linear SVC Model: ', linear_svc_score)

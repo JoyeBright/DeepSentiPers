@@ -10,12 +10,11 @@ from stopwords_guilannlp import stopwords_output
 from gensim.models.word2vec import Word2Vec
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import scale
+from SentiPers.Router import ROOT_DIR
 tqdm.pandas(desc="progress-bar")
 pd.options.mode.chained_assignment = None
 LabeledSentence = gensim.models.doc2vec.LabeledSentence
 
-# Root of the project
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Number of rows in data.csv
 n = 7415
 # Dimensionality of the word vectors
@@ -104,19 +103,21 @@ x_test = labelizeSent(x_test, 'TEST')
 sentipers_w2v = Word2Vec(size=n_dim, min_count=10, window=5)
 sentipers_w2v.build_vocab([x.words for x in tqdm(x_train)])
 sentipers_w2v.train([x.words for x in tqdm(x_train)], total_examples=n, epochs=5)
+sentipers_w2v.wv.save_word2vec_format(fname=ROOT_DIR+"/Outputs/vectors.txt", fvocab=None, binary=False)
 
-# print(sentipers_w2v)
-# print(sentipers_w2v['گوشی'])
+np.set_printoptions(threshold=np.nan)
+# print(sentipers_w2v.wv.vocab)
+# print(sentipers_w2v['فکس'])
 # Word2Vec has a great feature which provides a cool method named most_similar, this method
 # returns the top n similar ones.
-# print(sentipers_w2v.most_similar('خوب'))
-print(sentipers_w2v.most_similar('گوشی'))
+# print(sentipers_w2v.most_similar('فکس'))
+# print(sentipers_w2v.most_similar('گوشی'))
 
 
 print("Building tf-idf matrix ...")
 # TfidfVectorizer convert a collection of raw documents to a matrix of TF-IDF features
 # min_df ignore terms that have a document frequency strictly higher than the given threshold
-vectorizer = TfidfVectorizer(analyzer=lambda x: x, min_df=10)
+vectorizer = TfidfVectorizer(analyzer=lambda x: x, min_df=6)
 # fit_transform learn vocabulary and idf, return term-document matrix
 matrix = vectorizer.fit_transform([x.words for x in x_train])
 # get_feature_names Array mapping from feature integer indices to feature name
