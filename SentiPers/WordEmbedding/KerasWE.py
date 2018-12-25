@@ -4,6 +4,11 @@ from SentiPers import Loader, StopWords
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from SentiPers.Router import ROOT_DIR
+from SentiPers import VocabularyMaker
+
+
+# Make vocabulary
+VocabularyMaker.make_list()
 
 
 # Load vocabulary
@@ -19,7 +24,7 @@ vocab_filename = os.path.join(ROOT_DIR, 'outputs/vocab.txt')
 vocab = load_doc(vocab_filename)
 vocab = vocab.split()
 vocab = set(vocab)
-
+print('vocab size:', len(vocab))
 x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Get stop words
@@ -43,7 +48,7 @@ for document in x_train:
 
 
 # create the tokenizer
-tokenizer = Tokenizer()
+tokenizer = Tokenizer(num_words=2000)
 # fit the tokenizer on the documents
 tokenizer.fit_on_texts(train_docs)
 # sequence encode

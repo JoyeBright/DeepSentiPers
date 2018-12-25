@@ -22,7 +22,6 @@ def ingest():
         string = string.replace('سیستم عامل', 'سیستم\u200cعامل')
         string = string.replace('نرم افزار', 'نرم\u200cافزار')
         string = string.replace('سخت افزار', 'سخت\u200cافزار')
-        string = string.replace('دیجی کالا', 'دیجی\u200cکالا')
         data.set_value(i, 'Text', string)
     data.reset_index(inplace=True)
     data.drop('index', axis=1, inplace=True)

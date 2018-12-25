@@ -2,6 +2,8 @@ from collections import Counter
 from hazm import *
 import codecs
 from SentiPers import Loader, StopWords
+import os
+from SentiPers.Router import ROOT_DIR
 
 # Get data
 x_train, x_test, y_train, y_test = Loader.get_data()
@@ -27,13 +29,13 @@ for text in x_train:
     add_to_vocab(text)
 
 # print the size of the vocab
-print(len(vocab))
+# print(len(vocab))
 # print the top words in the vocab
-print(vocab.most_common(100))
+# print(vocab.most_common(100))
 
 min_occurance = 5
 tokens = [k for k, c in vocab.items() if c >= min_occurance]
-print(len(tokens))
+# print(len(tokens))
 
 
 # save list to file
@@ -44,4 +46,5 @@ def save_list(lines, filename):
     file.close()
 
 
-save_list(tokens, 'Outputs/vocab.txt')
+def make_list():
+    save_list(tokens, os.path.join(ROOT_DIR, 'outputs/vocab.txt'))
