@@ -4,6 +4,11 @@ from SentiPers import Loader, StopWords
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from SentiPers.Router import ROOT_DIR
+from SentiPers import VocabularyMaker
+
+
+# Make vocabulary
+VocabularyMaker.make_list()
 
 
 # Load vocabulary
