@@ -33,8 +33,8 @@ for text in x_train:
 # print the top words in the vocab
 # print(vocab.most_common(100))
 
-min_occurance = 5
-tokens = [k for k, c in vocab.items() if c >= min_occurance]
+min_occurrence = 4
+tokens = [k for k, c in vocab.items() if c >= min_occurrence]
 # print(len(tokens))
 
 
