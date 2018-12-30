@@ -12,16 +12,16 @@ x_train, x_test, y_train, y_test = Loader.get_data()
 stop_set = StopWords.get_stop_set()
 
 
-def add_to_vocab(text):
-    tokenized = tokenize(text)  # Tokenize text
-    tokens = [w for w in tokenized if not w in stop_set]    # Remove stop words
-    tokens = [w for w in tokens if not len(w) <= 1]
-    tokens = [w for w in tokens if not w.isdigit()]
-    vocab.update(tokens)    # Add tokens to vocabulary
+def add_to_vocab(t):
+    tokenized = tokenize(t)  # Tokenize text
+    tokenized_temp = [w for w in tokenized if not w in stop_set]    # Remove stop words
+    tokenized_temp = [w for w in tokenized_temp if not len(w) <= 1]
+    tokenized_temp = [w for w in tokenized_temp if not w.isdigit()]
+    vocab.update(tokenized_temp)    # Add tokens to vocabulary
 
 
-def tokenize(text):
-    return word_tokenize(text)
+def tokenize(t):
+    return word_tokenize(t)
 
 
 vocab = Counter()   # Make vocabulary
@@ -33,8 +33,8 @@ for text in x_train:
 # print the top words in the vocab
 # print(vocab.most_common(100))
 
-min_occurance = 5
-tokens = [k for k, c in vocab.items() if c >= min_occurance]
+min_occurrence = 4
+tokens = [k for k, c in vocab.items() if c >= min_occurrence]
 # print(len(tokens))
 
 

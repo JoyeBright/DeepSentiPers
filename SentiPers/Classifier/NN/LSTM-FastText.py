@@ -1,14 +1,14 @@
 from SentiPers.WordEmbedding import FastTextWE
-from SentiPers.WordEmbedding import KerasWE
-from keras.layers import Dense, Input, LSTM, Embedding, Dropout, Activation
-from keras.layers import Bidirectional, GlobalMaxPool1D,Bidirectional
+from SentiPers.WordEmbedding import PreprocessWE
+from keras.layers import Dense, Input, LSTM, Embedding, Dropout
+from keras.layers import Bidirectional, GlobalMaxPool1D
 from keras.models import Model
 from keras.utils.np_utils import to_categorical
 from keras.metrics import categorical_accuracy
 
-maxlen = KerasWE.max_length
-tokenizer = KerasWE.tokenizer
-x_train, x_test, y_train, y_test = KerasWE.get_data()
+maxlen = PreprocessWE.max_length
+tokenizer = PreprocessWE.tokenizer
+x_train, x_test, y_train, y_test = PreprocessWE.get_data()
 embedding_matrix = FastTextWE.embedding_matrix
 
 categorical_y_train = to_categorical(y_train, 5)
@@ -16,7 +16,7 @@ categorical_y_test = to_categorical(y_test, 5)
 
 inp = Input(shape=(maxlen, ))
 x = Embedding(len(tokenizer.word_index), embedding_matrix.shape[1], weights=[embedding_matrix], trainable=False)(inp)
-x = Bidirectional(LSTM(60, return_sequences=True, name='lstm_layer', dropout=0.1, recurrent_dropout=0.1))(x)
+x = Bidirectional(LSTM(50, return_sequences=True, name='lstm_layer', dropout=0.1, recurrent_dropout=0.1))(x)
 x = GlobalMaxPool1D()(x)
 x = Dropout(0.1)(x)
 x = Dense(50, activation="relu")(x)

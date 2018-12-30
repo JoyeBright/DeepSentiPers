@@ -6,6 +6,8 @@ from keras.preprocessing.sequence import pad_sequences
 from SentiPers.Router import ROOT_DIR
 from SentiPers import VocabularyMaker
 
+# Number of words used in Tokenizer
+num_words = 2500
 
 # Make vocabulary
 VocabularyMaker.make_list()
@@ -48,7 +50,7 @@ for document in x_train:
 
 
 # create the tokenizer
-tokenizer = Tokenizer(num_words=2000)
+tokenizer = Tokenizer(num_words=num_words)
 # fit the tokenizer on the documents
 tokenizer.fit_on_texts(train_docs)
 # sequence encode
@@ -56,14 +58,14 @@ encoded_docs = tokenizer.texts_to_sequences(train_docs)
 
 # pad sequences
 max_length = max([len(s.split()) for s in train_docs])
-Xtrain = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
+x_train_reshaped = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
 
 test_docs = list()
 for document in x_test:
     test_docs.append(clean_doc(document, vocab))
 
 encoded_docs = tokenizer.texts_to_sequences(test_docs)
-Xtest = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
+x_test_reshaped = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
 
 
 # define vocabulary size (largest integer value)
@@ -71,7 +73,7 @@ vocab_size = len(tokenizer.word_index) + 1
 
 
 def get_data():
-    return Xtrain, Xtest, y_train, y_test
+    return x_train_reshaped, x_test_reshaped, y_train, y_test
 
 
 def get_sizes():

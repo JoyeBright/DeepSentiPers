@@ -1,43 +1,19 @@
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.linear_model import SGDClassifier
-from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC, SVC
 from sklearn.pipeline import Pipeline
-import os
-import pandas as pd
-from stopwords_guilannlp import stopwords_output
 from hazm import *
+from SentiPers import Loader, StopWords
 
-# total number = 7415
-n = 7415
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-
-
-def ingest():
-    CONFIG_PATH = os.path.join(ROOT_DIR.replace('Classifier/BaseLine', ''), 'data.csv')
-    data = pd.read_csv(CONFIG_PATH, sep='\t')
-    data.drop(['Negative-Keywords', 'Neutral-Keywords', 'Positive-Keywords', 'Targets'], axis=1, inplace=True)
-    data = data[data.Value.isnull() == False]
-    # map applies a function on each cell of Value then if it null, it will set it with 0s
-    data['Value'] = data['Value'].map(int)
-    data = data[data['Text'].isnull() == False]
-    data.reset_index(inplace=True)
-    data.drop('index', axis=1, inplace=True)
-    print('Dataset Loaded with shape', data.shape)
-    return data
-
-
-ingest = ingest()
-x_train, x_test, y_train, y_test = train_test_split(ingest.head(n).Text,
-                                                    ingest.head(n).Value)
+x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Make stop word set
-stop_words = stopwords_output("Persian", "nar")
-stop_list = []
-for s in stop_words:
-    stop_list.append(s[0])
-stop_set = set(stop_list)
+stop_set = StopWords.get_stop_set()
+
+# When building the vocabulary ignore terms that have a document frequency strictly lower than
+# the given threshold. This value is also called cut-off in the literature.
+min_df = 5
 
 
 # Tokenize function used in Vectorizer
@@ -46,8 +22,8 @@ def tokenize(text):
 
 
 # (Multinomial) Naive Bayes Model
-text_clf = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
-                                              analyzer='word', ngram_range=(1, 2), min_df=5)),
+text_clf = Pipeline([('vect', CountVectorizer(tokenizer=tokenize,
+                                              analyzer='word', ngram_range=(1, 2), min_df=min_df, lowercase=False)),
                      ('tfidf', TfidfTransformer(sublinear_tf=True)),
                      ('clf', MultinomialNB())])
 text_clf = text_clf.fit(x_train, y_train)
@@ -56,8 +32,8 @@ print('Naive Bayes Model: ', naive_score)
 predict = text_clf.predict(x_test)
 
 # SGD (Stochastic Gradient Descent) Model
-text_clf_sgd = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
-                                                  analyzer='word', ngram_range=(1, 2), min_df=5)),
+text_clf_sgd = Pipeline([('vect', CountVectorizer(tokenizer=tokenize,
+                                                  analyzer='word', ngram_range=(1, 2), min_df=min_df, lowercase=False)),
                          ('tfidf', TfidfTransformer(sublinear_tf=True)),
                          ('clf-svm', SGDClassifier(loss='hinge', penalty='l2',
                                                    alpha=1e-3, max_iter=5))])
@@ -66,9 +42,9 @@ sgd_score = text_clf_sgd.score(x_test, y_test)
 print('SGD Model: ', sgd_score)
 
 # Linear Support Vector Machine Model
-text_clf_linear_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
+text_clf_linear_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize,
                                                          analyzer='word', ngram_range=(1, 2),
-                                                         min_df=5)),
+                                                         min_df=min_df, lowercase=False)),
                                 ('tfidf', TfidfTransformer(sublinear_tf=True)),
                                 ('clf-svm', LinearSVC(loss='hinge', penalty='l2',
                                                       max_iter=5))])
@@ -79,8 +55,8 @@ print('Linear SVC Model: ', linear_svc_score)
 
 
 # Multi-class Support Vector Classification Model
-text_clf_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize, stop_words=stop_set,
-                                                  analyzer='word', ngram_range=(1, 2), min_df=5)),
+text_clf_svc = Pipeline([('vect', CountVectorizer(tokenizer=tokenize,
+                                                  analyzer='word', ngram_range=(1, 2), min_df=min_df, lowercase=False)),
                          ('tfidf', TfidfTransformer(sublinear_tf=True)),
                          ('clf-svm', SVC(kernel='rbf'))])
 text_clf_svc = text_clf_svc.fit(x_train, y_train)
