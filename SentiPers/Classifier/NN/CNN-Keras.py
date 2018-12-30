@@ -7,6 +7,8 @@ from keras.layers.convolutional import MaxPooling1D
 from SentiPers.WordEmbedding import PreprocessWE
 from keras.utils.np_utils import to_categorical
 from keras.metrics import categorical_accuracy
+from keras.utils import plot_model
+from SentiPers.Router import ROOT_DIR
 
 # Get data and sizes from Keras Word Embedding
 x_train, x_test, y_train, y_test = PreprocessWE.get_data()
@@ -28,6 +30,8 @@ print(model.summary())
 
 # compile network
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=[categorical_accuracy])
+# Save model image
+plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/CNN-Keras.png')
 # fit network
 model.fit(x_train, categorical_y_train, epochs=10, verbose=2)
 
