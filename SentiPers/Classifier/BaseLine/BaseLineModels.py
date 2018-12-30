@@ -4,12 +4,13 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC, SVC
 from sklearn.pipeline import Pipeline
 from hazm import *
-from SentiPers import Loader, StopWords
+from SentiPers import Loader
+from stopwords_guilannlp import stopwords_output
 
 x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Make stop word set
-stop_set = StopWords.get_stop_set()
+stop_set = stopwords_output("Persian", "set")
 
 # When building the vocabulary ignore terms that have a document frequency strictly lower than
 # the given threshold. This value is also called cut-off in the literature.

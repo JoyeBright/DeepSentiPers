@@ -1,10 +1,11 @@
 import codecs, os
 from hazm import *
-from SentiPers import Loader, StopWords
+from SentiPers import Loader
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from SentiPers.Router import ROOT_DIR
 from SentiPers import VocabularyMaker
+from stopwords_guilannlp import stopwords_output
 
 # Number of words used in Tokenizer
 num_words = 2500
@@ -30,7 +31,7 @@ print('vocab size:', len(vocab))
 x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Get stop words
-stop_set = StopWords.get_stop_set()
+stop_set = stopwords_output("Persian", "set")
 
 
 # turn a doc into clean tokens
