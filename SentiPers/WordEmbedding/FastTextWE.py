@@ -11,13 +11,13 @@ embed_size = 300
 # We can also use a gensim model called KeyedVectors
 def gensim_model_based(file_address):
     # Creating the model
-    en_model = KeyedVectors.load_word2vec_format(file_address)
+    ft_model = KeyedVectors.load_word2vec_format(file_address)
     # Getting the tokens
-    words = []
-    for word in en_model.vocab:
-        words.append(word)
+    ft_words = []
+    for ft_word in ft_model.vocab:
+        ft_words.append(ft_word)
 
-    return en_model, words
+    return ft_model, ft_words
 
 
 model, words = gensim_model_based(EMBEDDING_FILE)
@@ -27,8 +27,9 @@ model, words = gensim_model_based(EMBEDDING_FILE)
 embedding_list = list()
 for w in words:
     embedding_list.append(model[w])
-all_embs = np.stack(embedding_list)
-emb_mean, emb_std = all_embs.mean(), all_embs.std()
+
+all_embedding = np.stack(embedding_list)
+emb_mean, emb_std = all_embedding.mean(), all_embedding.std()
 tokenizer = PreprocessWE.tokenizer
 # We are going to set the embedding size to the pretrained dimension as we are replicating it
 nb_words = len(tokenizer.word_index)
@@ -53,4 +54,3 @@ for word, i in tokenizer.word_index.items():
 
 print('total embedded:', embeddedCount, 'common words')
 print('Embedding matrix shape:', embedding_matrix.shape)
-
