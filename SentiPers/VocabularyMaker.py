@@ -1,15 +1,16 @@
 from collections import Counter
 from hazm import *
 import codecs
-from SentiPers import Loader, StopWords
+from SentiPers import Loader
 import os
 from SentiPers.Router import ROOT_DIR
+from stopwords_guilannlp import stopwords_output
 
 # Get data
 x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Get stop words
-stop_set = StopWords.get_stop_set()
+stop_set = stopwords_output("Persian", "set")
 
 
 def add_to_vocab(t):

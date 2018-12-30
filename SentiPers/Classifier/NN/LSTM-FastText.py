@@ -5,6 +5,8 @@ from keras.layers import Bidirectional, GlobalMaxPool1D
 from keras.models import Model
 from keras.utils.np_utils import to_categorical
 from keras.metrics import categorical_accuracy
+from SentiPers.Router import ROOT_DIR
+from keras.utils import plot_model
 
 maxlen = PreprocessWE.max_length
 tokenizer = PreprocessWE.tokenizer
@@ -29,6 +31,8 @@ model.compile(loss='categorical_crossentropy',
               metrics=[categorical_accuracy])
 
 model.summary()
+# Save model image
+plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/LSTM-FastText.png')
 
 batch_size = 32
 epochs = 4
