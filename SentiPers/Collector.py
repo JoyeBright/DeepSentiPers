@@ -5,7 +5,11 @@ all_sentences = []
 
 
 def collect_all_sentences():
+<<<<<<< Updated upstream
     main_review_sentences = Parser.get_main_review_sentences()  # Get all main review sentences
+=======
+    main_review_sentences = Parser.get_main_review_sents()  # Get all main review sentences
+>>>>>>> Stashed changes
     for sen in main_review_sentences:   # Add all of them
         all_sentences.append(main_review_sentences.get(sen))
 
@@ -33,9 +37,24 @@ def pre_process():
     all_sentences = temp.copy()
 
 
+<<<<<<< Updated upstream
 Parser.main()               # Run parser
 collect_all_sentences()     # Collect sentences from parser
 pre_process()
+=======
+# This is how you can access to each detail
+<<<<<<< Updated upstream
+print("Text of third sentence : ", all_sentences[2]['Text'])
+print("Targets of third sentence : ", all_sentences[2]['Targets'])
+print("Opinions of first target of third sentence : ", all_sentences[2]['Targets'][0]['Opinions'])
+print("Positive keywords of third sentence : ", all_sentences[2]['Positive-Keywords'])
+=======
+print("Text of third sentence : ", all_sentences[4]['Text'])
+print("Targets of third sentence : ", all_sentences[4]['Targets'])
+print("Opinions of first target of third sentence : ", all_sentences[4]['Targets'][0]['Opinions'])
+print("Keywords of third sentence : ", all_sentences[4]['Keywords'])
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 data_frame = pd.DataFrame.from_dict(all_sentences)
 

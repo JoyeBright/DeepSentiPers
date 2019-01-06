@@ -26,23 +26,23 @@ x_test = CustomizedWE.test_vesc_w2v.reshape((1854, 100, 1))
 
 # input_shape(time steps, features)
 model = Sequential()
-model.add(LSTM(100, return_sequences=True, activation="sigmoid",
+model.add(LSTM(200, return_sequences=True, activation="sigmoid",
                input_shape=(100, 1)))
 print("Layer0 input shape:", model.layers[0].input_shape)
 print("Layer0 output shape:", model.layers[0].output_shape)
 
-model.add(LSTM(100, return_sequences=True, activation="sigmoid",
+model.add(LSTM(200, return_sequences=True, activation="sigmoid",
                input_shape=(100, 1)))
 print("Layer1 input shape:", model.layers[1].input_shape)
 print("Layer1 output shape:", model.layers[1].output_shape)
 
 model.add(SpatialDropout1D(dropout_probability))
 
-model.add(LSTM(100, return_sequences=False, activation="sigmoid"))
+model.add(LSTM(200, return_sequences=False, activation="sigmoid"))
 print("Layer2 input shape:", model.layers[2].input_shape)
 print("Layer2 output shape:", model.layers[2].output_shape)
 
-model.add(Dense(100, activation='softmax'))
+model.add(Dense(200, activation='softmax'))
 print("Layer3 input shape:", model.layers[3].input_shape)
 print("Layer3 output shape:", model.layers[3].output_shape)
 
