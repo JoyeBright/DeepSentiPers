@@ -58,7 +58,7 @@ model.fit(x_train, categorical_y_train,
           validation_data=(x_test, categorical_y_test),
           batch_size=64, epochs=2, verbose=2)
 score = model.evaluate(x_test, categorical_y_test)
-plot_model(model, show_shapes=True, to_file=CustomizedWE.ROOT_DIR + '/Outputs/LSTM-Model.png')
+plot_model(model, show_shapes=True, to_file=CustomizedWE.ROOT_DIR + '/Outputs/LSTM-CustomizedEmb.png')
 
 print("Accuracy: ", score[1])
 

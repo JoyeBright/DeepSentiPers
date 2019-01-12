@@ -32,7 +32,7 @@ model.compile(loss='categorical_crossentropy',
 
 model.summary()
 # Save model image
-plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/LSTM-FastText.png')
+plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/LSTM-FastTextEmb.png')
 
 batch_size = 32
 epochs = 4

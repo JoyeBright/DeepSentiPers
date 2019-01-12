@@ -32,7 +32,7 @@ print(model.summary())
 # compile network
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=[categorical_accuracy])
 # Save model image
-plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/CNN-Keras.png')
+plot_model(model, show_shapes=True, to_file=ROOT_DIR + '/Outputs/CNN-KerasEmd.png')
 # fit network
 model.fit(x_train, categorical_y_train, epochs=15, verbose=2)
 
