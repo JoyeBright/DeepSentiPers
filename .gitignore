@@ -111,10 +111,4 @@ SentiPers/\.DS_Store
 
 SentiPers/wiki\.fa\.vec
 
-SentiPers/Outputs/vectors\.txt
-
-SentiPers/Outputs/x_test\.csv
-
-SentiPers/Outputs/x_train\.csv
-
 SentiPers/Outputs/
