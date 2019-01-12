@@ -31,12 +31,12 @@ for w in words:
 all_embedding = np.stack(embedding_list)
 emb_mean, emb_std = all_embedding.mean(), all_embedding.std()
 tokenizer = PreprocessWE.tokenizer
-# We are going to set the embedding size to the pretrained dimension as we are replicating it
+# We are going to set the embedding size to the pre-trained dimension as we are replicating it
 nb_words = len(tokenizer.word_index)
 # the size will be Number of Words in Vocab X Embedding Size
 embedding_matrix = np.random.normal(emb_mean, emb_std, (nb_words, embed_size))
 # With the newly created embedding matrix, we'll fill it up with the words that we have in both
-# our own dictionary and loaded pretrained embedding.
+# our own dictionary and loaded pre-trained embedding.
 embeddedCount = 0
 for word, i in tokenizer.word_index.items():
     i -= 1

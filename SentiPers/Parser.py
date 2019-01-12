@@ -251,3 +251,8 @@ def get_general_reviews():
 
 def get_critical_reviews():
     return all_critical_review
+<<<<<<< Updated upstream
+=======
+
+main()
+>>>>>>> Stashed changes

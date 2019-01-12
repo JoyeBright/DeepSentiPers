@@ -77,6 +77,8 @@ postprocess = postprocess(ingest)
 # Define Training and Test set
 x_train, x_test, y_train, y_test = train_test_split(postprocess.head(n).Tokens,
                                                     postprocess.head(n).Value)
+print("Shape of x_train ", x_train.shape)
+print("Shape of y_train ", y_train.shape)
 # We'd like to save the X_train and X_test
 x_train_csv = x_train.to_frame()
 x_test_csv = x_test.to_frame()

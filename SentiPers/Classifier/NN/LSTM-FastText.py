@@ -18,10 +18,10 @@ categorical_y_test = to_categorical(y_test, 5)
 
 inp = Input(shape=(maxlen, ))
 x = Embedding(len(tokenizer.word_index), embedding_matrix.shape[1], weights=[embedding_matrix], trainable=False)(inp)
-x = Bidirectional(LSTM(50, return_sequences=True, name='lstm_layer', dropout=0.1, recurrent_dropout=0.1))(x)
+x = Bidirectional(LSTM(300, return_sequences=True, name='lstm_layer', dropout=0.1, recurrent_dropout=0.1))(x)
 x = GlobalMaxPool1D()(x)
 x = Dropout(0.1)(x)
-x = Dense(50, activation="relu")(x)
+x = Dense(300, activation="relu")(x)
 x = Dropout(0.1)(x)
 x = Dense(5, activation="sigmoid")(x)
 
