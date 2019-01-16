@@ -82,10 +82,17 @@ print("Shape of y_train ", y_train.shape)
 # We'd like to save the X_train and X_test
 x_train_csv = x_train.to_frame()
 x_test_csv = x_test.to_frame()
+y_train_csv = y_train.to_frame()
+y_test_csv = y_test.to_frame()
+
 CONFIG_PATH1 = os.path.join(ROOT_DIR, 'Outputs/x_train.csv')
 CONFIG_PATH2 = os.path.join(ROOT_DIR, 'Outputs/x_test.csv')
+CONFIG_PATH3 = os.path.join(ROOT_DIR, 'Outputs/y_train.csv')
+CONFIG_PATH4 = os.path.join(ROOT_DIR, 'Outputs/y_test.csv')
 x_train_csv.to_csv(CONFIG_PATH1, sep="\t")
 x_test_csv.to_csv(CONFIG_PATH2, sep="\t")
+y_train_csv.to_csv(CONFIG_PATH3, sep="\t")
+y_test_csv.to_csv(CONFIG_PATH4, sep="\t")
 
 
 def labelizeSent(data, label_type):
@@ -159,3 +166,10 @@ test_vesc_w2v = scale(test_vesc_w2v)
 
 # print(train_vecs_w2v)
 # print(test_vecs_w2v)
+train_vecs_w2v_csv = pd.DataFrame(train_vecs_w2v)
+CONFIG_PATH5 = os.path.join(ROOT_DIR, 'Outputs/train_vecs_w2v.csv')
+train_vecs_w2v_csv.to_csv(CONFIG_PATH5, sep="\t")
+
+test_vecs_w2v_csv = pd.DataFrame(test_vesc_w2v)
+CONFIG_PATH6 = os.path.join(ROOT_DIR, 'Outputs/test_vecs_w2v.csv')
+test_vecs_w2v_csv.to_csv(CONFIG_PATH6, sep="\t")
