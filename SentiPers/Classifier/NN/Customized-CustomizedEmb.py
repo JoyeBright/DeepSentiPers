@@ -4,6 +4,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from SentiPers.WordEmbedding import CustomizedWE
 from keras.utils.np_utils import to_categorical
+from keras.utils import plot_model
 
 
 # Corpus has categorical value as its output so making categorical output is necessary
@@ -24,4 +25,5 @@ model.fit(CustomizedWE.train_vecs_w2v, categorical_y_train,
           validation_data=(CustomizedWE.test_vesc_w2v, categorical_y_test),
           epochs=15, batch_size=32, verbose=2)
 score = model.evaluate(CustomizedWE.test_vesc_w2v, categorical_y_test)
+plot_model(model, show_shapes=True, to_file=CustomizedWE.ROOT_DIR + '/Outputs/CustomizedNN-CustomizedEmb.png')
 print(score[1])

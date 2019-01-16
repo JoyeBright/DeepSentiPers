@@ -108,3 +108,6 @@ venv.bak/
 SentiPers/\.DS_Store
 
 \.DS_Store
+
+SentiPers/wiki\.fa\.vec
+

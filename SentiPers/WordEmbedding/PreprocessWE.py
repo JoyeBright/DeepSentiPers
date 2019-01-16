@@ -1,4 +1,5 @@
-import codecs, os
+import codecs
+import os
 from hazm import *
 from SentiPers import Loader
 from keras.preprocessing.text import Tokenizer
@@ -27,7 +28,7 @@ vocab_filename = os.path.join(ROOT_DIR, 'outputs/vocab.txt')
 vocab = load_doc(vocab_filename)
 vocab = vocab.split()
 vocab = set(vocab)
-print('vocab size:', len(vocab))
+print('The size of vocab made by VocabularyMaker.py ', len(vocab))
 x_train, x_test, y_train, y_test = Loader.get_data()
 
 # Get stop words
@@ -71,6 +72,10 @@ x_test_reshaped = pad_sequences(encoded_docs, maxlen=max_length, padding='post')
 
 # define vocabulary size (largest integer value)
 vocab_size = len(tokenizer.word_index) + 1
+
+# print("The size of vocab made by Keras tokenizer", vocab_size)
+# print(x_train_reshaped.shape)
+# print(x_test_reshaped.shape)
 
 
 def get_data():
