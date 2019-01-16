@@ -51,6 +51,23 @@ for document in x_train:
     train_docs.append(clean_doc(document, vocab))
 
 
+def save_files():
+    # Save files to using in google colab
+    x_train_csv = x_train.to_frame()
+    x_test_csv = x_test.to_frame()
+    y_train_csv = y_train.to_frame()
+    y_test_csv = y_test.to_frame()
+    CONFIG_PATH1 = os.path.join(ROOT_DIR, 'Outputs/x_train.csv')
+    CONFIG_PATH2 = os.path.join(ROOT_DIR, 'Outputs/x_test.csv')
+    CONFIG_PATH3 = os.path.join(ROOT_DIR, 'Outputs/y_train.csv')
+    CONFIG_PATH4 = os.path.join(ROOT_DIR, 'Outputs/y_test.csv')
+    x_train_csv.to_csv(CONFIG_PATH1, sep="\t")
+    x_test_csv.to_csv(CONFIG_PATH2, sep="\t")
+    y_train_csv.to_csv(CONFIG_PATH3, sep="\t")
+    y_test_csv.to_csv(CONFIG_PATH4, sep="\t")
+    # Make vocab.txt file
+    VocabularyMaker.make_list()
+
 # create the tokenizer
 tokenizer = Tokenizer(num_words=num_words)
 # fit the tokenizer on the documents
