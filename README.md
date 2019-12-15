@@ -10,7 +10,7 @@ All the things you need to work on this project is an Ipython environment like t
 
 ## Dataset
 
-The dataset used in this project was collected from *[SentiPers](https://arxiv.org/abs/1801.07737)* corpus. It contains 7419 Persian sentences and their relative polarity.
+The dataset is used in this project was collected from *[SentiPers](https://arxiv.org/abs/1801.07737)* corpus. It contains 7419 Persian sentences and their relative polarity.
 The original and augmented dataset files are accessible in the "*Dataset*" folder.
 
 ## Authors
