@@ -4,7 +4,14 @@
 
 A Sentiment Analysis System Using Deep Learning Models On Persian Texts
 
+## Getting started
 
+All the things you need to work on this project is an Ipython environment like the *Google Colab* or *Jupyter* and the dataset files.
+
+## Dataset
+
+The dataset used in this project was collected from *[SentiPers](https://arxiv.org/abs/1801.07737)* corpus. It contains 7419 Persian sentences and their relative polarity.
+The original and augmented dataset files are accessible in the "*Dataset*" folder.
 
 ## Authors
 
