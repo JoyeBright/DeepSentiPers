@@ -3,6 +3,28 @@
 * SentiWordNet
 * SentiPers (in Persian)
 
+Citation
+--------
+```
+@inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
+  author       = {Javad PourMostafa Roshan Sharami and
+                  Parsa Abbasi Sarabestani and
+                  Seyed Abolghasem Mirroshandel},
+  title        = {{Presenting A Sentiment Analysis System Using Deep 
+                   Learning Models On Persian Texts (In Persian)}},
+  booktitle    = {{The 5th National Conference on Computational 
+                   Linguistic of Iran}},
+  year         = 2019,
+  pages        = 129,
+  publisher    = {Neveeseh Parsi Publication},
+  address      = {Tehran},
+  month        = nov,
+  venue        = {Tehran, Iran},
+  doi          = {10.5281/zenodo.3551273},
+  url          = {https://doi.org/10.5281/zenodo.3551273}
+}
+```
+
 ##### Note2: Don't expect complicated and tremendous strategies to achieve opinion mining, this is only a practical instance of using some basic rules to elicit the polarity of an input text.
 
 ##### Note3: I focus on detecting the overall polarity (Document Level Sentiment Classification) instead of Aspect level Sentiment Classification.
