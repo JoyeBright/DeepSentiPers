@@ -3,7 +3,7 @@
 * SentiWordNet
 * SentiPers (in Persian)
 
-Citation
+Citation connected to the Persian Paper
 --------
 ```
 @inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
