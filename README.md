@@ -1,7 +1,11 @@
 # Persian Sentiment Analysis
+A Sentiment Analysis system using Deep Learning models on Persian texts
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 
+Citation
+--------
+```
 @inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
   author       = {Javad PourMostafa Roshan Sharami and
                   Parsa Abbasi Sarabestani and
@@ -19,8 +23,7 @@
   doi          = {10.5281/zenodo.3551273},
   url          = {https://doi.org/10.5281/zenodo.3551273}
 }
-
-A Sentiment Analysis system using Deep Learning models on Persian texts
+```
 
 ## Getting started
 
