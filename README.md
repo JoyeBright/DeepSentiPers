@@ -2,6 +2,24 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 
+@inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
+  author       = {Javad PourMostafa Roshan Sharami and
+                  Parsa Abbasi Sarabestani and
+                  Seyed Abolghasem Mirroshandel},
+  title        = {{Presenting A Sentiment Analysis System Using Deep 
+                   Learning Models On Persian Texts (In Persian)}},
+  booktitle    = {{The 5th National Conference on Computational 
+                   Linguistic of Iran}},
+  year         = 2019,
+  pages        = 129,
+  publisher    = {Neveeseh Parsi Publication},
+  address      = {Tehran},
+  month        = nov,
+  venue        = {Tehran, Iran},
+  doi          = {10.5281/zenodo.3551273},
+  url          = {https://doi.org/10.5281/zenodo.3551273}
+}
+
 A Sentiment Analysis system using Deep Learning models on Persian texts
 
 ## Getting started
@@ -19,3 +37,4 @@ The original and augmented dataset files are accessible in the "*Dataset*" folde
 - **Parsa Abbasi** - [GitHub](https://github.com/parsa-abbasi), [LinkedIn](https://www.linkedin.com/in/parsa-abbasi/), [ResearchGate](https://www.researchgate.net/profile/Parsa_Abbasi_Sarabestani), [Website](http://parsa-abbasi.ir)
 
 See also the list of [contributors](https://github.com/parsa-abbasi/Sentiment-Analysis/contributors) who participated in this project.
+
