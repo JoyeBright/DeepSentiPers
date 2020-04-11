@@ -1,5 +1,6 @@
-# Persian Sentiment Analysis
-A Sentiment Analysis system using Deep Learning models on Persian texts
+# DeepSentiPers: Persian Sentiment Detection Models
+
+Binary and Multiclass Sentiment Detection using Deep Learning models on Persian texts
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 
