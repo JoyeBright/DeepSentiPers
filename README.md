@@ -1,6 +1,6 @@
 # DeepSentiPers: Persian Sentiment Detection
 
-Binary and Multiclass Sentiment Detection using Deep Learning models on Persian texts
+Binary and multiclass sentiment detection using deep neural architectures on Persian texts
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 
