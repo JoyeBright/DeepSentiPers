@@ -1,1 +1,2 @@
-*.ipynb linguist-language=Jupyter-Notebook
+* linguist-vendored
+*.ipynb linguist-vendored=false
