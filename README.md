@@ -1,4 +1,4 @@
-# DeepSentiPers: Persian Sentiment Detection Models
+# DeepSentiPers: Persian Sentiment Detection
 
 Binary and Multiclass Sentiment Detection using Deep Learning models on Persian texts
 
