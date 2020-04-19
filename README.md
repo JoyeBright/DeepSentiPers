@@ -3,8 +3,6 @@
 Binary and multiclass sentiment detection using deep neural architectures on Persian augmented texts
 
 https://arxiv.org/pdf/2004.05328.pdf<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
-<br>
 
 ## Citation
 ```
