@@ -6,6 +6,18 @@ https://arxiv.org/pdf/2004.05328.pdf<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 <br>
 
+##Citation
+```
+@misc{sharami2020deepsentipers,
+    title={DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus},
+    author={Javad PourMostafa Roshan Sharami and Parsa Abbasi Sarabestani and Seyed Abolghasem Mirroshandel},
+    year={2020},
+    eprint={2004.05328},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
 ## Getting started
 
 All the things you need to work on this project is an Ipython environment like the *Google Colab* or *Jupyter* and the dataset files.
