@@ -5,46 +5,6 @@ Binary and multiclass sentiment detection using deep neural architectures on Per
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
 <br>
 https://arxiv.org/pdf/2004.05328.pdf
-
-
-Citation
---------
-```
-@ARTICLE{2020arXiv200405328R,
-       author = {{Roshan PourMostafa Sharami}, Javad and {Abbasi Sarabestani}, Parsa and
-         {Abolghasem Mirroshandel}, Seyed},
-        title = "{DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computation and Language, Computer Science - Machine Learning, Computer Science - Neural and Evolutionary Computing},
-         year = 2020,
-        month = apr,
-          eid = {arXiv:2004.05328},
-        pages = {arXiv:2004.05328},
-archivePrefix = {arXiv},
-       eprint = {2004.05328},
- primaryClass = {cs.CL},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv200405328R},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-```
-```
-@inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
-  author       = {Javad PourMostafa Roshan Sharami and
-                  Parsa Abbasi Sarabestani and
-                  Seyed Abolghasem Mirroshandel},
-  title        = {{Presenting A Sentiment Analysis System Using Deep 
-                   Learning Models On Persian Texts (In Persian)}},
-  booktitle    = {{The 5th National Conference on Computational 
-                   Linguistic of Iran}},
-  year         = 2019,
-  pages        = 129,
-  publisher    = {Neveeseh Parsi Publication},
-  address      = {Tehran},
-  month        = nov,
-  venue        = {Tehran, Iran},
-  doi          = {10.5281/zenodo.3551273},
-  url          = {https://doi.org/10.5281/zenodo.3551273}
-}
 ```
 
 ## Getting started
