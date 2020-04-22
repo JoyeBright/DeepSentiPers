@@ -2,9 +2,6 @@
 
 Binary and multiclass sentiment detection using deep neural architectures on Persian augmented texts
 <br>
-
-![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
-
 <p align="center"> 
 <img src="https://javad.pourmostafa.com/assets/images/DeepSentiPers.png">
 </p>
