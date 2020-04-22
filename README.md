@@ -5,7 +5,6 @@ Binary and multiclass sentiment detection using deep neural architectures on Per
 [https://arxiv.org/pdf/2004.05328.pdf](https://arxiv.org/pdf/2004.05328.pdf)
 
 ![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
-![DeepSentiPersModel](https://javad.pourmostafa.com/assets/images/DeepSentiPers2.png)
 
 ## Citation
 ```
