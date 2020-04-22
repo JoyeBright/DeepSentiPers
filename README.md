@@ -6,7 +6,6 @@ https://arxiv.org/pdf/2004.05328.pdf<br>
 <p align="center"> 
 <img src="https://javad.pourmostafa.com/assets/images/DeepSentiPers.png">
 </p>
-<br>
 
 ## Citation
 ```
