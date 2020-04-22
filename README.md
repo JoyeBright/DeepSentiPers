@@ -1,13 +1,12 @@
 # DeepSentiPers: Persian Sentiment Detection
 
 Binary and multiclass sentiment detection using deep neural architectures on Persian augmented texts
-<br>
+https://arxiv.org/pdf/2004.05328.pdf<br>
+
 <p align="center"> 
 <img src="https://javad.pourmostafa.com/assets/images/DeepSentiPers.png">
 </p>
-
-https://arxiv.org/pdf/2004.05328.pdf<br>
-
+<br>
 ## Citation
 ```
 @misc{sharami2020deepsentipers,
