@@ -1,26 +1,22 @@
-# Persian Sentiment Analysis
+# DeepSentiPers: Persian Sentiment Detection
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3551273.svg)](https://doi.org/10.5281/zenodo.3551273)
+Binary and multiclass sentiment detection using deep neural architectures on Persian augmented texts
+<br>
+[https://arxiv.org/pdf/2004.05328.pdf](https://arxiv.org/pdf/2004.05328.pdf)
 
-@inproceedings{javad_pourmostafa_roshan_sharami_2019_3551273,
-  author       = {Javad PourMostafa Roshan Sharami and
-                  Parsa Abbasi Sarabestani and
-                  Seyed Abolghasem Mirroshandel},
-  title        = {{Presenting A Sentiment Analysis System Using Deep 
-                   Learning Models On Persian Texts (In Persian)}},
-  booktitle    = {{The 5th National Conference on Computational 
-                   Linguistic of Iran}},
-  year         = 2019,
-  pages        = 129,
-  publisher    = {Neveeseh Parsi Publication},
-  address      = {Tehran},
-  month        = nov,
-  venue        = {Tehran, Iran},
-  doi          = {10.5281/zenodo.3551273},
-  url          = {https://doi.org/10.5281/zenodo.3551273}
+![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
+
+## Citation
+```
+@misc{sharami2020deepsentipers,
+    title={DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus},
+    author={Javad PourMostafa Roshan Sharami and Parsa Abbasi Sarabestani and Seyed Abolghasem Mirroshandel},
+    year={2020},
+    eprint={2004.05328},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
-
-A Sentiment Analysis system using Deep Learning models on Persian texts
+```
 
 ## Getting started
 
