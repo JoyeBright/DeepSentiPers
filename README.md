@@ -9,6 +9,7 @@ This paper focuses on how to extract opinions over each Persian sentence-level t
 ![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
 
 ## Citation
+Please cite the [arXiv](https://arxiv.org/pdf/2004.05328.pdf) paper if you use DeepSentiPers in your work:
 ```
 @misc{sharami2020deepsentipers,
     title={DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus},
