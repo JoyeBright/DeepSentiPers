@@ -9,6 +9,12 @@ This paper focuses on how to extract opinions over each Persian sentence-level t
 
 ![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
 
+## Results
+| Classification-Type | BLSTM F1-Score | Word-Embedding | Data-Augmentation |
+|:-------------------:|:--------------:|:--------------:|:-----------------:|
+|        Binary       |      91.98     |      Keras     |   Translation *   |
+|     Multi-Class     |      69.33     |    FastText    |   Translation *   |
+
 ## Citation
 Please cite the [arXiv](https://arxiv.org/pdf/2004.05328.pdf) paper if you use DeepSentiPers in your work:
 ```
