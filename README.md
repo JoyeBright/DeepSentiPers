@@ -43,7 +43,6 @@ The original and augmented dataset files are accessible in the "*Dataset*" folde
 
 - **Javad PourMostafa** - [GitHub](https://github.com/JoyeBright), [LinkedIn](https://www.linkedin.com/in/javadpourmostafa), [ResearchGate](https://www.researchgate.net/profile/Javad_Pourmostafa_Roshan_Sharami), [Website](https://javad.pourmostafa.com)
 - **Parsa Abbasi** - [GitHub](https://github.com/parsa-abbasi), [LinkedIn](https://www.linkedin.com/in/parsa-abbasi/), [ResearchGate](https://www.researchgate.net/profile/Parsa_Abbasi_Sarabestani), [Website](http://parsa-abbasi.ir)
-
 - **Seyed Abolghasem Mirroshandel** [LinkedIn](https://ir.linkedin.com/in/seyed-abolghasem-mirroshandel-1a3a5950), [ResearchGate](https://www.researchgate.net/profile/Seyedabolghasem_Mirroshandel), [Website](https://nlp.guilan.ac.ir/mirroshandel)
 
 See also the list of [contributors](https://github.com/parsa-abbasi/Sentiment-Analysis/contributors) who participated in this project.
