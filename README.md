@@ -10,7 +10,7 @@ This paper focuses on how to extract opinions over each Persian sentence-level t
 ![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
 
 ## Results
-Overall the DeepSentiPers achieved the following results in the Persian sentiment analysis task.
+Overall the DeepSentiPers achieved the following results in the Persian sentiment analysis task. H/E, read the paper to find more about the results.
 
 | Classification-Type | BLSTM F1-Score | Word-Embedding | Data-Augmentation |
 |:-------------------:|:--------------:|:--------------:|:-----------------:|
