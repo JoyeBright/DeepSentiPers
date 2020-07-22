@@ -45,7 +45,9 @@ The original and augmented dataset files are accessible in the "*Dataset*" folde
 - **Parsa Abbasi** - [GitHub](https://github.com/parsa-abbasi), [LinkedIn](https://www.linkedin.com/in/parsa-abbasi/), [ResearchGate](https://www.researchgate.net/profile/Parsa_Abbasi_Sarabestani), [Website](http://parsa-abbasi.ir)
 - **Seyed Abolghasem Mirroshandel** [LinkedIn](https://ir.linkedin.com/in/seyed-abolghasem-mirroshandel-1a3a5950), [ResearchGate](https://www.researchgate.net/profile/Seyedabolghasem_Mirroshandel), [Website](https://nlp.guilan.ac.ir/mirroshandel)
 
+## Miscellaneous
+
 See also the list of [contributors](https://github.com/parsa-abbasi/Sentiment-Analysis/contributors) who participated in this project.
 
-:information_source: We're glad to inform you that DeepSentiPers has also a Persian paper that is accessible at (https://zenodo.org/record/3551273)
+:information_source: We're glad to inform you that DeepSentiPers has also a Persian paper that is accessible at https://zenodo.org/record/3551273
 
