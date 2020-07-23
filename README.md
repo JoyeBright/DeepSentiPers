@@ -49,4 +49,4 @@ The original and augmented dataset files are accessible in the "*Dataset*" folde
 
 See also the list of [contributors](https://github.com/parsa-abbasi/Sentiment-Analysis/contributors) who participated in this project.
 
-We're glad to announce that DeepSentiPers has been drafted in Persian as well. Check it out at https://zenodo.org/record/3551273. Please note that the intended version has slightly different from the English one. 
+We're glad to announce that the DeepSentiPers has been drafted in Persian as well. Find it at https://zenodo.org/record/3551273. Please note that the intended version has slightly different from the English one. 
