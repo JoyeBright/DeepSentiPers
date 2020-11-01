@@ -1,4 +1,4 @@
-## DeepSentiPers: Deep Learning Models Plus Data Augmentation Methods in Persian Sentiment Analysis
+## DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus
 ## Sentiment Analysis in Persian Using Deep Neural Networks
 Binary and multiclass sentiment detection using deep neural architectures (BLSTM and CNN) on Persian augmented texts
 <br>
