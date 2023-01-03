@@ -1,11 +1,11 @@
 ## DeepSentiPers: Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus
 ## Sentiment Analysis in Persian Using Deep Neural Networks
 ## Binary and multiclass sentiment detection using deep neural architectures (BLSTM and CNN) on Persian augmented texts
-NB: DeepSentiPers is a modified version of our paper presented in the fifth conference of CL in Iran
+NB: DeepSentiPers is a modified version of our paper presented at the fifth computational linguistics conference in Iran.
 <br>
 [https://arxiv.org/pdf/2004.05328.pdf](https://arxiv.org/pdf/2004.05328.pdf)
 
-This paper focuses on how to extract opinions over each Persian sentence-level text. Deep learning models provided a new way to boost the quality of the output. However, these architectures need to feed on big annotated data as well as an accurate design. To best of our knowledge, we do not merely suffer from lack of well-annotated Persian sentiment corpus, but also a novel model to classify the Persian opinions in terms of both multiple and binary classification. So in this work, first we propose two novel deep learning architectures comprises of bidirectional LSTM and CNN. They are a part of a deep hierarchy designed precisely and also able to classify sentences in both cases. Second, we suggested three data augmentation techniques for the low-resources Persian sentiment corpus. Our comprehensive experiments on three baselines and two different neural word embedding methods show that our data augmentation methods and intended models successfully address the aims of the research.
+This study uses deep neural networks to extract opinions over each Persian sentence-level text. Deep learning models provided a new way to boost the quality of the output. However, these architectures need to feed on big annotated data and be made from an accurate design. To the best of our knowledge, we do not merely suffer from a lack of well-annotated Persian sentiment corpus but also a novel model to classify Persian opinions for multiple and binary classification. Thus, our study first proposes two novel deep learning architectures comprised of bidirectional LSTM and CNN. These architectures are a part of a deep neural hierarchy designed precisely and can classify sentences for both tasks. Second, we suggest three data augmentation techniques for the low-resources Persian sentiment corpus. Our comprehensive experiments on three baselines and two different neural word embedding methods show that our data augmentation methods and intended models successfully address the research aims.
 
 ![DeepSentiPers](https://javad.pourmostafa.com/assets/images/DeepSentiPers.png)
 
@@ -49,6 +49,6 @@ The original and augmented dataset files are accessible in the "*Dataset*" folde
 
 See also the list of [contributors](https://github.com/parsa-abbasi/Sentiment-Analysis/contributors) who participated in this project.
 
-We're glad to announce that the DeepSentiPers has been drafted in Persian as well. Find it at https://zenodo.org/record/3551273. Note that the intended version is slightly different from the English one. 
+We're glad to announce that the DeepSentiPers has also been written in Persian. You can find it here: https://zenodo.org/record/3551273. Please note that the intended version is slightly different from the English version. 
 
 **Persian Title:** ارائه یک سیستم تحلیل احساس در زبان فارسی با استفاده از مدل های یادگیری عمیق
